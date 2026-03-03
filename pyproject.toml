@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "document-intelligence-refinery"
+version = "0.1.0"
+description = "Production-grade, multi-stage agentic pipeline for document intelligence extraction"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+dependencies = [
+    "pdfplumber>=0.10.0",
+    "docling>=2.0.0",
+    "pydantic>=2.0.0",
+    "chromadb>=0.4.0",
+    "langgraph>=0.2.0",
+    "langchain>=0.3.0",
+    "langchain-openai>=0.2.0",
+    "langchain-google-genai>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "Pillow>=10.0.0",
+    "pyyaml>=6.0",
+    "sqlite-utils>=3.35",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+    "ruff>=0.1.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
