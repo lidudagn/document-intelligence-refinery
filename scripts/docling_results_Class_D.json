@@ -1,0 +1,110 @@
+{
+  "analysis_tool": "docling",
+  "converter_init_time_seconds": 0.11,
+  "document_results": {
+    "Class_D": {
+      "document_class": "Class_D",
+      "document_name": "Tax Expenditure Report 2021-22",
+      "file": "tax_expenditure_ethiopia_2021_22.pdf",
+      "expected_origin": "native_digital",
+      "processing_time_seconds": 38.36,
+      "memory_delta_mb": 1365.8,
+      "peak_memory_mb": 2138.3,
+      "total_chars": 15092,
+      "tables_found": 1,
+      "figures_found": 2,
+      "sections_found": 4,
+      "sample_table": {
+        "headers": [
+          0,
+          1,
+          2
+        ],
+        "rows": [
+          [
+            "Executive summary...................................................................................................................... 4",
+            "Executive summary...................................................................................................................... 4",
+            "Executive summary...................................................................................................................... 4"
+          ],
+          [
+            "1.",
+            "Introduction .......................................................................................................................... 6",
+            "Introduction .......................................................................................................................... 6"
+          ],
+          [
+            "2.",
+            "Policy rationale for and issues with tax expenditures ....................................................... 7",
+            "Policy rationale for and issues with tax expenditures ....................................................... 7"
+          ],
+          [
+            "3.",
+            "Definitions and data ............................................................................................................. 9",
+            "Definitions and data ............................................................................................................. 9"
+          ],
+          [
+            "",
+            "3.1",
+            "Defining the benchmark tax system............................................................................. 9"
+          ]
+        ],
+        "total_rows": 22
+      },
+      "char_density": {
+        "min": 1.65e-05,
+        "max": 0.00538679,
+        "mean": 0.00199132
+      },
+      "bbox_coverage": {
+        "min": 0.057651,
+        "max": 0.424498,
+        "mean": 0.243535
+      },
+      "whitespace_ratio": {
+        "min": 0.575502,
+        "max": 0.942349,
+        "mean": 0.756465
+      },
+      "failure_modes": [],
+      "markdown_length": 15092
+    }
+  },
+  "page_level_data": {
+    "Class_D": [
+      {
+        "page_number": 1,
+        "total_chars": 118,
+        "char_density": 0.00024345,
+        "bbox_coverage": 0.057651,
+        "whitespace_ratio": 0.942349
+      },
+      {
+        "page_number": 2,
+        "total_chars": 623,
+        "char_density": 0.00128532,
+        "bbox_coverage": 0.1017,
+        "whitespace_ratio": 0.8983
+      },
+      {
+        "page_number": 3,
+        "total_chars": 8,
+        "char_density": 1.65e-05,
+        "bbox_coverage": 0.387187,
+        "whitespace_ratio": 0.612813
+      },
+      {
+        "page_number": 4,
+        "total_chars": 2611,
+        "char_density": 0.00538679,
+        "bbox_coverage": 0.424498,
+        "whitespace_ratio": 0.575502
+      },
+      {
+        "page_number": 5,
+        "total_chars": 1466,
+        "char_density": 0.00302453,
+        "bbox_coverage": 0.246638,
+        "whitespace_ratio": 0.753362
+      }
+    ]
+  }
+}

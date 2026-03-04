@@ -1,0 +1,67 @@
+============================================================
+  Docling Corpus Analysis — Phase 0
+============================================================
+
+  Initializing DocumentConverter...
+  ✓ Converter initialized in 0.0s
+
+============================================================
+  Class_A: CBE Annual Report 2023-24
+  File: CBE ANNUAL REPORT 2023-24.pdf
+============================================================
+[32m[INFO] 2026-03-04 12:26:22,081 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-03-04 12:26:22,085 [RapidOCR] device_config.py:50: Using CPU device[0m
+[32m[INFO] 2026-03-04 12:26:22,103 [RapidOCR] download_file.py:60: File exists and is valid: /home/lidya/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_det_infer.pth[0m
+[32m[INFO] 2026-03-04 12:26:22,104 [RapidOCR] main.py:50: Using /home/lidya/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_det_infer.pth[0m
+[32m[INFO] 2026-03-04 12:26:22,442 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-03-04 12:26:22,443 [RapidOCR] device_config.py:50: Using CPU device[0m
+[32m[INFO] 2026-03-04 12:26:22,444 [RapidOCR] download_file.py:60: File exists and is valid: /home/lidya/.local/lib/python3.10/site-packages/rapidocr/models/ch_ptocr_mobile_v2.0_cls_infer.pth[0m
+[32m[INFO] 2026-03-04 12:26:22,445 [RapidOCR] main.py:50: Using /home/lidya/.local/lib/python3.10/site-packages/rapidocr/models/ch_ptocr_mobile_v2.0_cls_infer.pth[0m
+[32m[INFO] 2026-03-04 12:26:22,536 [RapidOCR] base.py:22: Using engine_name: torch[0m
+[32m[INFO] 2026-03-04 12:26:22,536 [RapidOCR] device_config.py:50: Using CPU device[0m
+[32m[INFO] 2026-03-04 12:26:22,571 [RapidOCR] download_file.py:60: File exists and is valid: /home/lidya/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_rec_infer.pth[0m
+[32m[INFO] 2026-03-04 12:26:22,571 [RapidOCR] main.py:50: Using /home/lidya/.local/lib/python3.10/site-packages/rapidocr/models/ch_PP-OCRv4_rec_infer.pth[0m
+[33m[WARNING] 2026-03-04 12:28:39,868 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+RapidOCR returned empty result!
+[33m[WARNING] 2026-03-04 12:28:44,509 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+RapidOCR returned empty result!
+RapidOCR returned empty result!
+RapidOCR returned empty result!
+[33m[WARNING] 2026-03-04 12:28:51,656 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+RapidOCR returned empty result!
+RapidOCR returned empty result!
+RapidOCR returned empty result!
+RapidOCR returned empty result!
+RapidOCR returned empty result!
+[33m[WARNING] 2026-03-04 12:29:07,956 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+RapidOCR returned empty result!
+[33m[WARNING] 2026-03-04 12:29:12,167 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+[33m[WARNING] 2026-03-04 12:29:13,215 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+[33m[WARNING] 2026-03-04 12:29:14,251 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+[33m[WARNING] 2026-03-04 12:29:15,364 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+[33m[WARNING] 2026-03-04 12:29:16,472 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+RapidOCR returned empty result!
+[33m[WARNING] 2026-03-04 12:29:19,672 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+RapidOCR returned empty result!
+[33m[WARNING] 2026-03-04 12:29:24,240 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+[33m[WARNING] 2026-03-04 12:29:25,255 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+RapidOCR returned empty result!
+[33m[WARNING] 2026-03-04 12:29:27,748 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+[33m[WARNING] 2026-03-04 12:29:28,776 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+[33m[WARNING] 2026-03-04 12:29:29,674 [RapidOCR] main.py:125: The text detection result is empty[0m
+RapidOCR returned empty result!
+RapidOCR returned empty result!

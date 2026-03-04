@@ -1,0 +1,98 @@
+{
+  "analysis_tool": "docling",
+  "converter_init_time_seconds": 0.06,
+  "document_results": {
+    "Class_C": {
+      "document_class": "Class_C",
+      "document_name": "FTA Performance Survey 2022",
+      "file": "fta_performance_survey_final_report_2022.pdf",
+      "expected_origin": "native_digital",
+      "processing_time_seconds": 62.81,
+      "memory_delta_mb": 1532.8,
+      "peak_memory_mb": 2305.9,
+      "total_chars": 27549,
+      "tables_found": 4,
+      "figures_found": 1,
+      "sections_found": 6,
+      "sample_table": {
+        "headers": [
+          0
+        ],
+        "rows": [
+          [
+            "List of Figures........................................................................................................................................iii"
+          ],
+          [
+            "List of Tables ..........................................................................................................................................v"
+          ],
+          [
+            "Acknowledgements................................................................................................................................vi"
+          ],
+          [
+            "Acronyms..............................................................................................................................................vii"
+          ],
+          [
+            "Executive Summary.................................................................................................................................i"
+          ]
+        ],
+        "total_rows": 35
+      },
+      "char_density": {
+        "min": 0.0,
+        "max": 0.00061893,
+        "mean": 0.00013328
+      },
+      "bbox_coverage": {
+        "min": 0.155359,
+        "max": 0.648104,
+        "mean": 0.504544
+      },
+      "whitespace_ratio": {
+        "min": 0.351896,
+        "max": 0.844641,
+        "mean": 0.495456
+      },
+      "failure_modes": [],
+      "markdown_length": 27549
+    }
+  },
+  "page_level_data": {
+    "Class_C": [
+      {
+        "page_number": 1,
+        "total_chars": 300,
+        "char_density": 0.00061893,
+        "bbox_coverage": 0.155359,
+        "whitespace_ratio": 0.844641
+      },
+      {
+        "page_number": 2,
+        "total_chars": 8,
+        "char_density": 1.65e-05,
+        "bbox_coverage": 0.616608,
+        "whitespace_ratio": 0.383392
+      },
+      {
+        "page_number": 3,
+        "total_chars": 0,
+        "char_density": 0.0,
+        "bbox_coverage": 0.479795,
+        "whitespace_ratio": 0.520205
+      },
+      {
+        "page_number": 4,
+        "total_chars": 15,
+        "char_density": 3.095e-05,
+        "bbox_coverage": 0.622855,
+        "whitespace_ratio": 0.377145
+      },
+      {
+        "page_number": 5,
+        "total_chars": 0,
+        "char_density": 0.0,
+        "bbox_coverage": 0.648104,
+        "whitespace_ratio": 0.351896
+      }
+    ]
+  }
+}

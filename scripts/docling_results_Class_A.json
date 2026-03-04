@@ -1,0 +1,104 @@
+{
+  "analysis_tool": "docling",
+  "converter_init_time_seconds": 0.03,
+  "document_results": {
+    "Class_A": {
+      "document_class": "Class_A",
+      "document_name": "CBE Annual Report 2023-24",
+      "file": "CBE ANNUAL REPORT 2023-24.pdf",
+      "expected_origin": "native_digital",
+      "processing_time_seconds": 46.48,
+      "memory_delta_mb": 2026.7,
+      "peak_memory_mb": 2797.4,
+      "total_chars": 7121,
+      "tables_found": 1,
+      "figures_found": 2,
+      "sections_found": 15,
+      "sample_table": {
+        "headers": [
+          0,
+          1
+        ],
+        "rows": [
+          [
+            "CONTENTS",
+            ""
+          ],
+          [
+            "PROFILE",
+            "ii"
+          ],
+          [
+            "VISION",
+            "ii"
+          ],
+          [
+            "MISSION",
+            "ii"
+          ],
+          [
+            "MOTTO",
+            "ii"
+          ]
+        ],
+        "total_rows": 30
+      },
+      "char_density": {
+        "min": 0.0,
+        "max": 0.00404371,
+        "mean": 0.00164595
+      },
+      "bbox_coverage": {
+        "min": 0.072659,
+        "max": 0.657846,
+        "mean": 0.290781
+      },
+      "whitespace_ratio": {
+        "min": 0.342154,
+        "max": 0.927341,
+        "mean": 0.709219
+      },
+      "failure_modes": [],
+      "markdown_length": 7121
+    }
+  },
+  "page_level_data": {
+    "Class_A": [
+      {
+        "page_number": 1,
+        "total_chars": 47,
+        "char_density": 9.697e-05,
+        "bbox_coverage": 0.120901,
+        "whitespace_ratio": 0.879099
+      },
+      {
+        "page_number": 2,
+        "total_chars": 112,
+        "char_density": 0.00023107,
+        "bbox_coverage": 0.072659,
+        "whitespace_ratio": 0.927341
+      },
+      {
+        "page_number": 3,
+        "total_chars": 0,
+        "char_density": 0.0,
+        "bbox_coverage": 0.657846,
+        "whitespace_ratio": 0.342154
+      },
+      {
+        "page_number": 4,
+        "total_chars": 1960,
+        "char_density": 0.00404371,
+        "bbox_coverage": 0.270691,
+        "whitespace_ratio": 0.729309
+      },
+      {
+        "page_number": 5,
+        "total_chars": 1870,
+        "char_density": 0.00385802,
+        "bbox_coverage": 0.331806,
+        "whitespace_ratio": 0.668194
+      }
+    ]
+  }
+}

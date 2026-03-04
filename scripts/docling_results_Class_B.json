@@ -1,0 +1,104 @@
+{
+  "analysis_tool": "docling",
+  "converter_init_time_seconds": 0.03,
+  "document_results": {
+    "Class_B": {
+      "document_class": "Class_B",
+      "document_name": "DBE Audit Report 2023",
+      "file": "Audit Report - 2023.pdf",
+      "expected_origin": "scanned_image",
+      "processing_time_seconds": 211.03,
+      "memory_delta_mb": 3515.7,
+      "peak_memory_mb": 4285.6,
+      "total_chars": 6248,
+      "tables_found": 1,
+      "figures_found": 14,
+      "sections_found": 15,
+      "sample_table": {
+        "headers": [
+          "Tableofcontents",
+          "Page"
+        ],
+        "rows": [
+          [
+            "Independentauditor'sreport",
+            "1-"
+          ],
+          [
+            "Boardofmanagement,professionaladvisersandregisteredoffice",
+            "5"
+          ],
+          [
+            "Reportof theboardofmanagement",
+            ""
+          ],
+          [
+            "Statementofboardofmanagement'sresponsibilities",
+            ""
+          ],
+          [
+            "Consolidatedandseparatestatementofprofitorlossandothercomprehensiveincome",
+            "8"
+          ]
+        ],
+        "total_rows": 9
+      },
+      "char_density": {
+        "min": 0.0001341,
+        "max": 0.00592939,
+        "mean": 0.00204785
+      },
+      "bbox_coverage": {
+        "min": 0.082952,
+        "max": 0.564656,
+        "mean": 0.328899
+      },
+      "whitespace_ratio": {
+        "min": 0.435344,
+        "max": 0.917048,
+        "mean": 0.671101
+      },
+      "failure_modes": [],
+      "markdown_length": 6248
+    }
+  },
+  "page_level_data": {
+    "Class_B": [
+      {
+        "page_number": 1,
+        "total_chars": 65,
+        "char_density": 0.0001341,
+        "bbox_coverage": 0.213405,
+        "whitespace_ratio": 0.786595
+      },
+      {
+        "page_number": 2,
+        "total_chars": 94,
+        "char_density": 0.00019393,
+        "bbox_coverage": 0.082952,
+        "whitespace_ratio": 0.917048
+      },
+      {
+        "page_number": 3,
+        "total_chars": 103,
+        "char_density": 0.0002125,
+        "bbox_coverage": 0.352177,
+        "whitespace_ratio": 0.647823
+      },
+      {
+        "page_number": 4,
+        "total_chars": 1827,
+        "char_density": 0.00376931,
+        "bbox_coverage": 0.431305,
+        "whitespace_ratio": 0.568695
+      },
+      {
+        "page_number": 5,
+        "total_chars": 2874,
+        "char_density": 0.00592939,
+        "bbox_coverage": 0.564656,
+        "whitespace_ratio": 0.435344
+      }
+    ]
+  }
+}
