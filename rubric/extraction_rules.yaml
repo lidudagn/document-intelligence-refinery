@@ -14,3 +14,12 @@ triage:
     routing_origin_threshold: 0.60
     routing_layout_threshold: 0.70
     domain_activation_threshold: 10
+
+extraction:
+  fast_text:
+    min_page_confidence_score: 0.65
+  vision:
+    max_usd_per_document: 0.10
+    budget_warning_threshold: 0.08
+  routing:
+    escalate_on_confidence_below: 0.65
