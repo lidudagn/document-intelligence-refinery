@@ -1,0 +1,14 @@
+triage:
+  page_sampling:
+    first_n: 5
+    mid_n: 5
+    last_n: 5
+  thresholds:
+    char_density_native_threshold: 0.001
+    scanned_page_ratio_threshold: 0.70
+    native_page_ratio_threshold: 0.70
+    mixed_lower_bound: 0.30
+    table_heavy_page_ratio: 0.40
+    column_gap_tolerance_pts: 100
+    routing_origin_threshold: 0.60
+    routing_layout_threshold: 0.70
