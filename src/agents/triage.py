@@ -31,10 +31,10 @@ class TriageAgent:
         hasher = hashlib.sha256()
         hasher.update(path.name.encode('utf-8'))
         
-        # Hash the first 1MB of the file to be efficient but unique enough
+        # Hash the entire file in safe streaming chunks to prevent collision on templated forms
         with open(path, 'rb') as f:
-            chunk = f.read(1024 * 1024)
-            hasher.update(chunk)
+            for chunk in iter(lambda: f.read(4096), b""):
+                hasher.update(chunk)
             
         return hasher.hexdigest()
 
@@ -179,9 +179,10 @@ class TriageAgent:
             return LayoutComplexity.TABLE_HEAVY, table_ratio
             
         # 2. Figure heavy (Simplified proxy via image ratio mapping on native pages)
+        figure_heavy_limit = self.config["thresholds"]["figure_heavy_page_ratio"]
         pages_with_figures = sum(1 for p in page_metrics if p.image_area_ratio > 0.3 and p.char_density >= 0.001)
         figure_ratio = pages_with_figures / total
-        if figure_ratio >= 0.4:
+        if figure_ratio >= figure_heavy_limit:
             return LayoutComplexity.FIGURE_HEAVY, figure_ratio
             
         # 3. Multi Column
@@ -238,7 +239,8 @@ class TriageAgent:
         winning_domain = max(scores, key=scores.get)
         max_score = scores[winning_domain]
         
-        if max_score < 10: # Minimum activation threshold
+        activation_thresh = self.config["thresholds"]["domain_activation_threshold"]
+        if max_score < activation_thresh: # Minimum activation threshold
             return DomainHint.GENERAL, 0.0
             
         confidence = min(1.0, max_score / (total_hits * 5.0))
