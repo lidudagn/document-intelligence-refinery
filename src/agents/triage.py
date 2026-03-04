@@ -289,9 +289,6 @@ class TriageAgent:
                 # Memory management: flush cache for this page
                 page.flush_cache()
                 
-            # Document-level cache flush
-            pdf.flush()
-                
         # 1. Aggregation and Variance
         densities = [m.char_density for m in page_metrics_list]
         columns = [m.column_count for m in page_metrics_list]
