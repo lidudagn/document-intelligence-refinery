@@ -1,0 +1,29 @@
+{
+  "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+  "file": "CBE ANNUAL REPORT 2023-24.pdf",
+  "num_pages": 161,
+  "origin_type": "native_digital",
+  "layout_complexity": "table_heavy",
+  "language": "en",
+  "domain_hint": "technical",
+  "extraction_cost": "fast_text_sufficient",
+  "confidence_scores": {
+    "origin_conf": 0.8,
+    "layout_conf": 0.4666666666666667,
+    "lang_conf": 0.9999967519258965,
+    "domain_conf": 0.5846153846153846
+  },
+  "profiling_warnings": [
+    "Weak layout classification confidence."
+  ],
+  "raw_metrics": {
+    "avg_char_density": 0.002575906474299331,
+    "std_dev_char_density": 0.001632370404044996,
+    "min_char_density": 0.0,
+    "avg_column_count": 1.0,
+    "std_dev_column_count": 0.0,
+    "avg_image_ratio": 0.19998158715791878,
+    "max_image_ratio": 0.9999079813319606,
+    "total_tables_detected": 11
+  }
+}

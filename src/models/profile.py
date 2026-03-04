@@ -1,6 +1,6 @@
 from enum import Enum
 from pydantic import BaseModel, Field
-from typing import Optional, Dict
+from typing import Optional, Dict, List
 
 class OriginType(str, Enum):
     NATIVE_DIGITAL = "native_digital"
@@ -29,6 +29,7 @@ class ExtractionCost(str, Enum):
     
 class DocumentProfile(BaseModel):
     document_id: str
+    file: str = Field(..., description="Source PDF filename")
     num_pages: int
     origin_type: OriginType
     layout_complexity: LayoutComplexity

@@ -1,0 +1,29 @@
+{
+  "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+  "file": "Audit Report - 2023.pdf",
+  "num_pages": 95,
+  "origin_type": "scanned_image",
+  "layout_complexity": "single_column",
+  "language": "unknown",
+  "domain_hint": "general",
+  "extraction_cost": "needs_vision_model",
+  "confidence_scores": {
+    "origin_conf": 0.9333333333333333,
+    "layout_conf": 1.0,
+    "lang_conf": 0.0,
+    "domain_conf": 0.0
+  },
+  "profiling_warnings": [
+    "Failed to detect language; insufficient textual stream."
+  ],
+  "raw_metrics": {
+    "avg_char_density": 0.000015191754728554148,
+    "std_dev_char_density": 0.00005684234129815256,
+    "min_char_density": 0.0,
+    "avg_column_count": 1.0,
+    "std_dev_column_count": 0.0,
+    "avg_image_ratio": 0.9344138615291178,
+    "max_image_ratio": 1.0000000326534433,
+    "total_tables_detected": 0
+  }
+}

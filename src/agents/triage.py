@@ -323,6 +323,7 @@ class TriageAgent:
             
         profile = DocumentProfile(
             document_id=doc_id,
+            file=Path(pdf_path).name,
             num_pages=num_pages,
             origin_type=origin_type,
             layout_complexity=layout_complexity,

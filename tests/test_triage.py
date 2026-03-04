@@ -79,3 +79,42 @@ def test_cost_routing_escalation(triage_agent):
     # A single column native doc, but poor confidence -> escalate to LAYOUT_MODEL
     cost = triage_agent._route_extraction(OriginType.NATIVE_DIGITAL, o_conf=0.4, layout=LayoutComplexity.SINGLE_COLUMN, l_conf=1.0)
     assert cost == ExtractionCost.NEEDS_LAYOUT_MODEL
+
+def test_layout_single_page_edge(triage_agent):
+    """Assert empty document arrays safely return Native/Single Column defaults."""
+    metrics = []
+    origin, o_conf = triage_agent._classify_origin(metrics, is_acroform=False)
+    layout, l_conf = triage_agent._classify_layout(metrics)
+    
+    assert origin == OriginType.NATIVE_DIGITAL
+    assert o_conf == 0.0
+    assert layout == LayoutComplexity.SINGLE_COLUMN
+    assert l_conf == 0.0
+
+def test_layout_figure_heavy(triage_agent):
+    """Assert FIGURE_HEAVY overrides SINGLE_COLUMN when images dominate dense text pages."""
+    metrics = [
+        PageMetrics(page_number=1, char_density=0.02, image_area_ratio=0.8, table_count=0, column_count=1, whitespace_ratio=0.1, has_text_layer=True, text_sample="Chart caption"),
+    ]
+    layout, conf = triage_agent._classify_layout(metrics)
+    assert layout == LayoutComplexity.FIGURE_HEAVY
+    assert conf == 1.0
+
+def test_layout_multi_column(triage_agent):
+    """Assert MULTI_COLUMN classification on clustered X coordinates."""
+    metrics = [
+        PageMetrics(page_number=1, char_density=0.03, image_area_ratio=0.0, table_count=0, column_count=3, whitespace_ratio=0.5, has_text_layer=True, text_sample="Column 1\tColumn 2\tColumn 3"),
+    ]
+    layout, conf = triage_agent._classify_layout(metrics)
+    assert layout == LayoutComplexity.MULTI_COLUMN
+    assert conf == 1.0
+
+def test_domain_activation_fallback(triage_agent):
+    """Assert domain falls back to GENERAL if keywords don't hit the minimum 10 threshold."""
+    metrics = [
+        # Only one hit for 'revenue' (weight 5)
+        PageMetrics(page_number=1, char_density=0.02, image_area_ratio=0.0, table_count=0, column_count=1, whitespace_ratio=0.5, has_text_layer=True, text_sample="Just a small revenue mention."),
+    ]
+    domain, conf = triage_agent._detect_domain(metrics)
+    assert domain == DomainHint.GENERAL
+    assert conf == 0.0

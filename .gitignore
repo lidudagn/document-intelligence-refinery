@@ -29,7 +29,7 @@ env/
 .DS_Store
 Thumbs.db
 
-# Refinery outputs (generated at runtime)
-.refinery/vectorstore/
-.refinery/extraction_ledger.jsonl
-.refinery/pageindex/
+# # Refinery outputs (generated at runtime)
+# .refinery/vectorstore/
+# .refinery/extraction_ledger.jsonl
+# .refinery/pageindex/
