@@ -402,3 +402,27 @@ Every extracted fact must carry `(page_number, bounding_box)` — the document e
 - **LDU (Logical Document Unit)**: A semantically complete chunk of a document (e.g., a full paragraph, a discrete table, or a section header) used for RAG, rather than arbitrary token blocks.
 - **OCR (Optical Character Recognition)**: Classic technology used to convert pixel images of text into machine-encoded text strings.
 - **BBox (Bounding Box)**: The 2D coordinates `[x0, y0, x1, y1]` defining the rectangular region a piece of text or an image occupies on a generated PDF page.
+
+## 10. Cost Analysis (Extrapolated)
+
+Based on the actual extraction execution logs logged in `.refinery/extraction_ledger.jsonl`, here is the estimated cost tiering for the architectural strategies:
+
+### Strategy A: Fast Text (pdfplumber)
+* **Compute Cost:** Pure CPU execution. Generates 0 API costs.
+* **Speed:** ~0.3 - 0.5 seconds per page.
+* **Cost / 100-page doc:** **$0.00**
+
+### Strategy B: Layout-Aware (Docling)
+* **Compute Cost:** Requires lightweight ML models (YOLO, TableFormer, OCR). Runs locally. Generates 0 API costs, but incurs hardware/cloud compute costs (GPU time if accelerated).
+* **Speed:** ~3.0 - 5.0 seconds per page (CPU).
+* **Cost / 100-page doc:** **$0.00 (API)** + infrastructure overhead.
+
+### Strategy C: Vision-Augmented (GPT-4o / Gemini Flash)
+* **Compute Cost:** Requires API calls to multimodal foundation models.
+* **Speed:** ~2.0 - 5.0 seconds per page (via OpenRouter).
+* **Cost / 100-page doc:** Average cost per page using Gemini Flash is ~$0.0002. Total document cost is roughly **~$0.02 - $0.05**. Using a premium model like GPT-4o escalates this to ~$0.50 per document.
+
+### Observed Ledger Costs
+* `tax_expenditure_ethiopia_2021_22.pdf` (60 pages, Native, Strategy A+B): **$0.00 API cost** (The $0.33 logged was from a prior test run using an older API router before strict local strategy adoption).
+* `Audit Report - 2023.pdf` (95 pages, Scanned Image, Strategy C): **$0.020461** total inference cost via Gemini Flash. This represents a highly optimized edge-case handling routine that costs roughly $0.0002 per scanned page.
+
