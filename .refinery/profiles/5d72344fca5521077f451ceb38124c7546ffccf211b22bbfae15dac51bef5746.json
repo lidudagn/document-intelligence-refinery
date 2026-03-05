@@ -1,0 +1,29 @@
+{
+  "document_id": "5d72344fca5521077f451ceb38124c7546ffccf211b22bbfae15dac51bef5746",
+  "file": "Security_Vulnerability_Disclosure_Standard_Procedure_1.pdf",
+  "num_pages": 15,
+  "origin_type": "scanned_image",
+  "layout_complexity": "single_column",
+  "language": "unknown",
+  "domain_hint": "general",
+  "extraction_cost": "needs_vision_model",
+  "confidence_scores": {
+    "origin_conf": 1.0,
+    "layout_conf": 1.0,
+    "lang_conf": 0.0,
+    "domain_conf": 0.0
+  },
+  "profiling_warnings": [
+    "Failed to detect language; insufficient textual stream."
+  ],
+  "raw_metrics": {
+    "avg_char_density": 0.0,
+    "std_dev_char_density": 0.0,
+    "min_char_density": 0.0,
+    "avg_column_count": 1.0,
+    "std_dev_column_count": 0.0,
+    "avg_image_ratio": 1.0,
+    "max_image_ratio": 1.0,
+    "total_tables_detected": 0
+  }
+}

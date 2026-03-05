@@ -1,0 +1,5212 @@
+{
+  "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+  "source_path": "data/data/Consumer Price Index September 2025.pdf",
+  "pages": [
+    {
+      "page_number": 0,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 185.3,
+            "top": 42.89999999999998,
+            "x1": 430.738,
+            "bottom": 60.89999999999998
+          },
+          "content_hash": "f47fcf3292fc5a2f11d25c996912a7a758ed2c244e1d3f65ce86ba8747e9fa79",
+          "text": "ETHIOPIAN STATISTICAL SERVICE"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 239.09,
+            "top": 64.98000000000002,
+            "x1": 376.978,
+            "bottom": 82.98000000000002
+          },
+          "content_hash": "11b4743bcb34160c38933cea076394135ea1060e9a8ff1b7bcdf1170549ed84d",
+          "text": "Statistical Bulletin"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 216.89,
+            "top": 100.00999999999999,
+            "x1": 391.39696000000004,
+            "bottom": 115.97000000000003
+          },
+          "content_hash": "300c294e2b6faf00b455d008e1dfe3fa55d2c8160b4857f3a37f469e5725b2ec",
+          "text": "MONTHLY NEWS RELEASE"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 149.3,
+            "top": 129.40999999999997,
+            "x1": 462.79696,
+            "bottom": 145.37
+          },
+          "content_hash": "a7bb1734d5ab1e836dd0bbfff2859fcd055a91785cd63e4786c8a5450c027cc1",
+          "text": "INFLATION REPORT ON SEPTEMBER, EFY 2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 215.21,
+            "top": 157.42999999999995,
+            "x1": 561.58888,
+            "bottom": 169.31000000000006
+          },
+          "content_hash": "22b257af4da645c302cf2f63a1912d43619310fa21609a5a98a84a44ec284b9b",
+          "text": "Issue No. 27/2018   September EFY2018  Page 1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 166.34,
+            "top": 179.81000000000006,
+            "x1": 246.22304,
+            "bottom": 193.85000000000002
+          },
+          "content_hash": "58568689577657f79f94599b723b245df37e2273ed6ec7152c99aa931552c025",
+          "text": "1.  Summary"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 39.6,
+            "top": 206.51,
+            "x1": 574.4749999999997,
+            "bottom": 227.48000000000002
+          },
+          "content_hash": "e4714673b8b0a2b6c13ff2606c850e3c9827e87662cf366535463379cf5c7a70",
+          "text": "The Consumer Price Index (CPI), a key economic statistics, is surveyed, analyzed, and made available  Content"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 162.38,
+            "top": 224.75,
+            "x1": 302.90096,
+            "bottom": 234.71000000000004
+          },
+          "content_hash": "6af681711b4e6e0bfbbb185f7a7ec50507dd3f45646319702d1126ad99ecbe7a",
+          "text": "to data users on a monthly basis."
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 162.38,
+            "top": 243.11,
+            "x1": 575.1101199999999,
+            "bottom": 253.07000000000005
+          },
+          "content_hash": "989c1f84fe418d4076121777ec28f9afd31e9f3c074b184bd569ed2871e20737",
+          "text": "The year-on-year, general inflation rate (annual percentage change) in the country stood at 13.2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 162.38,
+            "top": 261.5,
+            "x1": 574.76764,
+            "bottom": 271.46000000000004
+          },
+          "content_hash": "1f66ae6cdd849e41ca290863fded30353a8cb27d013befdc8214dce14f79cce0",
+          "text": "percent for the month of September EFY2018. A year earlier (in September EFY2016), the rate was"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 38.88,
+            "top": 270.32000000000005,
+            "x1": 114.19304,
+            "bottom": 284.36
+          },
+          "content_hash": "bbf463414ea4514204f4120617f1a04d19d6c9ef08bfc693e705612165e673c7",
+          "text": "Summary  \uf0b7"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 162.38,
+            "top": 279.74,
+            "x1": 574.9677999999999,
+            "bottom": 289.7
+          },
+          "content_hash": "563ee13e29fbb21f26671b9f58b2663e2aeba1fad9e9a71da18681897373e83b",
+          "text": "17.5 percent. The month-on-month general inflation rate increased by 2.0 percent for the month of"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 38.88,
+            "top": 296.69,
+            "x1": 422.20096,
+            "bottom": 308.69
+          },
+          "content_hash": "7705343743c91feae46a908517f324e3ebfc393cf6c130255785f67126143d23",
+          "text": "Year-on-Year Gen- \uf0b7  September-EFY2018. It was 2.4 percent in September EFY2017."
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 56.88,
+            "top": 311.33,
+            "x1": 143.37199999999999,
+            "bottom": 323.33
+          },
+          "content_hash": "62443e644fad104632ef0e2a7254f347d694c43405b22e70145b87fa28905bab",
+          "text": "eral, Food & Non-"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 162.38,
+            "top": 316.34,
+            "x1": 574.8442000000001,
+            "bottom": 326.3
+          },
+          "content_hash": "a757360694b8019b1902e25802ac47253527101497938f7c294ed10c0e6cfd17",
+          "text": "General inflation encompasses of two main divisions and twenty-one groups of expenditures. These"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 56.88,
+            "top": 325.97,
+            "x1": 128.37199999999999,
+            "bottom": 337.97
+          },
+          "content_hash": "6edf020061486bc1828076e7dfae0e11bd98822ba997016755131a760f733fec",
+          "text": "food Inflation"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 162.38,
+            "top": 334.7,
+            "x1": 575.03692,
+            "bottom": 344.66
+          },
+          "content_hash": "21f252c7b02574bc13da8380b552d5232550e8b0486133ced6f2f6ba1f3a3c7b",
+          "text": "divisions registered the following price changes during the month of September EFY2018 compared"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 38.88,
+            "top": 350.93,
+            "x1": 257.924,
+            "bottom": 362.93
+          },
+          "content_hash": "d922fe73d745684c12abb82d642da056d33ffc341117e74e1ddc5dc845dc47af",
+          "text": "\uf0b7  Month-on-Month  with September EFY2017."
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 56.88,
+            "top": 365.57,
+            "x1": 139.224,
+            "bottom": 377.57
+          },
+          "content_hash": "5fe947afaa744e9572d89d0b42e494f78987fc19099ae5d077193549b47edff8",
+          "text": "General, Food &"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 56.88,
+            "top": 378.17,
+            "x1": 495.43504,
+            "bottom": 392.21
+          },
+          "content_hash": "3ef2370144067cda47ede3ada90371a251f1e8e15fd862d783abae6cb0fbb6f2",
+          "text": "Non-food Inflation   2. Food & Non-alcoholic Beverages and Non-Food Inflation (Year-on-Year)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 159.98,
+            "top": 405.14,
+            "x1": 572.9449600000002,
+            "bottom": 415.1
+          },
+          "content_hash": "92ca6d339bbff6f18a010b246fab09485114b6998e8d142637518f02e4bd86b6",
+          "text": "The year-on-year inflation and the month-to-month inflation rates helps to gauge the current infla-"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 38.88,
+            "top": 414.41,
+            "x1": 140.61167999999998,
+            "bottom": 425.45
+          },
+          "content_hash": "693ad1ab12ddfdc0b9086f721f4852f828f3053f1e031cae8c24719e1579c21d",
+          "text": "\uf0b7  12-Month Moving"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 159.98,
+            "top": 423.38,
+            "x1": 575.14868,
+            "bottom": 433.34000000000003
+          },
+          "content_hash": "c7db926fb6782f69374f4206bb4fcbea31aaa255eeb2a497f086ad12f73355d3",
+          "text": "tion trajectory, as they capture short-term fluctuations in prices and provides an immediate indicator"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 56.88,
+            "top": 427.85,
+            "x1": 136.51152000000002,
+            "bottom": 438.89
+          },
+          "content_hash": "87e51be5ac87e223f49d1930e30c8ba4c514ba7082eefc4bf0c9c028fefea7c7",
+          "text": "Average General,"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 56.88,
+            "top": 441.31,
+            "x1": 575.1826,
+            "bottom": 452.34999999999997
+          },
+          "content_hash": "035de5d3fd4724e04e89ce593be66bad5187fff1c3fdd92a5e8a1c98d01d88da",
+          "text": "Food and Non-food  of inflationary pressures. Particularly, the month-to-month is also crucial for monitoring changes in"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 56.88,
+            "top": 454.75,
+            "x1": 96.71904,
+            "bottom": 465.78999999999996
+          },
+          "content_hash": "2aeb34d951a9a13af2fab2131fe3d982984e4b4268233c2eeca67c1e0280f469",
+          "text": "Inflation"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 159.98,
+            "top": 460.11999999999995,
+            "x1": 465.28096,
+            "bottom": 470.08
+          },
+          "content_hash": "1c962788352d15f21d068cab6da8bfd634e5776a519be7ca0260203690d401f7",
+          "text": "consumer prices and identifying any sudden spikes or declines in inflation."
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 38.88,
+            "top": 478.78000000000003,
+            "x1": 129.10176,
+            "bottom": 492.82
+          },
+          "content_hash": "ca558662686f0af81f9455d09d2c4907f7e68e6162ed7795738bed149c0efd7e",
+          "text": "\uf0b7  Annual Infla-"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 56.88,
+            "top": 495.94000000000005,
+            "x1": 311.79247999999995,
+            "bottom": 509.98
+          },
+          "content_hash": "150628638ef7d40c5c208336646d3eb4043bfef50c80f5883092d5de900a572d",
+          "text": "tion trend   Food & Non-alcoholic Beverages index"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 158.18,
+            "top": 515.92,
+            "x1": 574.973,
+            "bottom": 525.4
+          },
+          "content_hash": "d0a2e348e7936adf31819bd494c28712280e73d25a5b43d4bd8a21e58d913410",
+          "text": "The year-on-year inflation rate, also known as the annual inflation rate, measures the percentage change"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 56.88,
+            "top": 536.62,
+            "x1": 111.67304,
+            "bottom": 550.66
+          },
+          "content_hash": "7a26f62aa1de18e467f1570a9b49406b270f3c18645b5a1467b9b2850a8a2171",
+          "text": "Glossary"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 158.18,
+            "top": 533.3199999999999,
+            "x1": 575.3548,
+            "bottom": 542.8
+          },
+          "content_hash": "b07126debb47837b452bb7165cd9d7a4f4b23337f2f76fe15863aa1b31ad8196",
+          "text": "in overall price levels from one year to the same month in the previous year. Accordingly, the year-on-year"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 38.88,
+            "top": 539.34136,
+            "x1": 45.93,
+            "bottom": 549.30136
+          },
+          "content_hash": "74de5c72301b741787aa04286d618d0de0558a48c090cd4cf49aecaa21553145",
+          "text": "\uf0b7"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 158.18,
+            "top": 550.72,
+            "x1": 575.32312,
+            "bottom": 560.2
+          },
+          "content_hash": "b85735e4ca66e9e4dd33bd68187c7b0958eba073947809110b604d2b9b755e98",
+          "text": "inflation rate of the Food and Non-alcoholic component of the CPI, for the month of September 2018 EFY"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 158.18,
+            "top": 568.12,
+            "x1": 575.155,
+            "bottom": 577.6
+          },
+          "content_hash": "d68679ee44d94d93b47c09c18cebcc9f8eaa0dcec4996d2e40be4a022990f8af",
+          "text": "stood at 12.1%. This implies that the CPI of Food and Non-Alcoholic Beverages has, on average, increased"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 158.18,
+            "top": 585.52,
+            "x1": 575.03468,
+            "bottom": 595.0
+          },
+          "content_hash": "45788e57befc4e0c77c8774a2109265ae1758ccff89e694661f727c89a7b026f",
+          "text": "by 12.1% compared to September EFY2016. The major contributing factors for the rise of food inflation for"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 158.18,
+            "top": 602.95,
+            "x1": 574.83548,
+            "bottom": 612.4300000000001
+          },
+          "content_hash": "6e861b139ea95b01d2ce0b7b249ddc1371b6f3ff7d511d55638a8157f5eeafed",
+          "text": "September EFY2018 was the observed increase in the average prices of major food commodities such as"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 158.18,
+            "top": 620.23,
+            "x1": 573.1427199999999,
+            "bottom": 629.71
+          },
+          "content_hash": "7f15e855f973feb6d8006b8a12c26b0c3c685c199de780adc9181cb0e152a7f6",
+          "text": "bread and cereals decreased by (-2.0%), vegetables increased by (15.3%), meat increased by (16.1%), Sug-"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 158.18,
+            "top": 637.63,
+            "x1": 575.3489199999999,
+            "bottom": 647.11
+          },
+          "content_hash": "1061676fe1cd6b5b02f7b56b282257fe0984f72768380719b3c49a844f85e741",
+          "text": "ar, jam, honey & chocolate increased by (20.5%),  Milk, Cheese and Eggs  increased by (14.5%), Oils and"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 158.18,
+            "top": 655.03,
+            "x1": 549.92248,
+            "bottom": 664.51
+          },
+          "content_hash": "720f1045c4174491da4fa6a1f0b93cec0e0ef29a613bca5c1295e4c72e98ce33",
+          "text": "Fats increased by (19.5%), Fruit increased by (17.8%),  and Food products n.e.c increased by (21.9%)."
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 46.32,
+            "top": 726.096,
+            "x1": 569.272,
+            "bottom": 741.3
+          },
+          "content_hash": "52576ba6b3fb73d42327ac6b58486dad65ab2767bbbbfc08d8ee793f9c1ae601",
+          "text": "Tele: +251 111 568464  YOUR RELIABLE DATA SOURCE          Website: www.ess.gov.et"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 46.32,
+            "top": 739.5360000000001,
+            "x1": 149.27504,
+            "bottom": 750.576
+          },
+          "content_hash": "acdc645a183615a30d61afa27b8d7b2cf8d4a32ce0072facce0b1bea06c0921b",
+          "text": "+251 111 564226"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 207.41,
+            "top": 744.876,
+            "x1": 543.436,
+            "bottom": 762.876
+          },
+          "content_hash": "721d7d084899b0f30eed397104bdd9c345a56fb7007d91c3556beecfdd818e95",
+          "text": "\u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303                P.O.Box\u1361 1143"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 46.32,
+            "top": 752.976,
+            "x1": 149.27504,
+            "bottom": 764.016
+          },
+          "content_hash": "5486ff8a9ed165f445d03bae1b04e8bb05b3e958f2b768cb7b62678919341582",
+          "text": "+251 111 115131"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": {
+            "x0": 46.32,
+            "top": 766.416,
+            "x1": 149.0022936512,
+            "bottom": 777.456
+          },
+          "content_hash": "7a54bdda60ae35756973f3e29ddf28f298ca139f6a9c2fe6ee7f1c8bec880064",
+          "text": "Fax:  +251 111 115470"
+        }
+      ],
+      "page_confidence": 0.6997757946086685,
+      "strategy_used": "fast_text"
+    },
+    {
+      "page_number": 1,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 46.32,
+            "top": 25.583999999999946,
+            "x1": 149.0022936512,
+            "bottom": 14.543999999999983
+          },
+          "content_hash": "734e425c1827f3e81547f35b1fbb12c05dd821e585f807423f455176874cd7a6",
+          "text": "Fax:  +251 111 115470"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 46.32,
+            "top": 39.024,
+            "x1": 149.27504,
+            "bottom": 27.984000000000037
+          },
+          "content_hash": "573f3737ab3cb0d930d0760ff61dc041119426fabba7cc776c3be7d4aa01fcc1",
+          "text": "+251 111 115131"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 383.11,
+            "top": 46.05600000000004,
+            "x1": 539.99420395,
+            "bottom": 34.8371908396947
+          },
+          "content_hash": "1a55d8d4f09963ac326b7b8de4bb08c25964a072c70d988849acfcc87377eaed",
+          "text": "P.O.Box\u1361 1143"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 46.32,
+            "top": 52.46399999999994,
+            "x1": 149.27504,
+            "bottom": 41.42399999999998
+          },
+          "content_hash": "06a486fe504f78aac7a51260929db48d8433c628108f9a870db295dfd817bb95",
+          "text": "+251 111 564226"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 383.11,
+            "top": 62.039999999999964,
+            "x1": 476.38300000000004,
+            "bottom": 51.60375903614454
+          },
+          "content_hash": "c08f6cb9a66df5a56fa2447592f9986310f7a620bc971d754f114e17ef980295",
+          "text": "Website"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 476.5,
+            "top": 62.375999999999976,
+            "x1": 569.272,
+            "bottom": 51.157190839694636
+          },
+          "content_hash": "97f0bbb699126bfe646b45aac63a5cf0f9d82a4c954a42711e4884cf0fdd8b7b",
+          "text": ": www.ess.gov.et"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 46.32,
+            "top": 65.904,
+            "x1": 149.27504,
+            "bottom": 54.86400000000003
+          },
+          "content_hash": "3f6e4bdaa56d2beca40c61edd72c27db8cc3c3d1235c56157945d7ef95f99415",
+          "text": "Tele: +251 111 568464"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 183.02,
+            "top": 63.45024000000001,
+            "x1": 373.67416000000003,
+            "bottom": 30.3536385542169
+          },
+          "content_hash": "4217c9a06f968b0ce9711bf982bce9faf2bcda4d8b25d93b40df213905de1045",
+          "text": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303"
+        },
+        {
+          "block_type": "table",
+          "page_number": 1,
+          "bbox": {
+            "x0": 46.5073356628418,
+            "top": 589.3709411621094,
+            "x1": 570.560302734375,
+            "bottom": 82.0450439453125
+          },
+          "content_hash": "35eb9ed75aa5ca87b25be2c2b3f564549f9e4b608224fbd6c566df02f8983d23",
+          "headers": [
+            "Month/Year",
+            "General",
+            "Food",
+            "Non-Food"
+          ],
+          "rows": [
+            [
+              "July EFY2009 - June EFY2010",
+              "14.4",
+              "13.4",
+              "15.9"
+            ],
+            [
+              "July EFY 2010 - JuneEFY2011",
+              "12.6",
+              "13.1",
+              "11.9"
+            ],
+            [
+              "Table 1: General, Food and Non-Food July EFY2011 - June EFY2012",
+              "Rate (%, Year-on-Year) 19.9",
+              "September 23.3",
+              "September EFY201 15.9"
+            ],
+            [
+              "July EFY2012 - June EFY2013",
+              "20.2",
+              "23.2",
+              "16.4"
+            ],
+            [
+              "July EFY2013 - June EFY2014",
+              "33.8",
+              "40.3",
+              "25.2"
+            ],
+            [
+              "July EFY2014 - June EFY2015",
+              "32.5",
+              "31.7",
+              "33.9"
+            ],
+            [
+              "July EFY2015 - June EFY2016",
+              "26.6",
+              "28.1",
+              "24.3"
+            ],
+            [
+              "July EFY2016 - June EFY2017",
+              "16.0",
+              "16.2",
+              "15.8"
+            ],
+            [
+              "September- EFY 2017",
+              "17.5",
+              "19.6",
+              "14.4"
+            ],
+            [
+              "October",
+              "16.1",
+              "19.2",
+              "11.6"
+            ],
+            [
+              "November",
+              "16.9",
+              "18.5",
+              "14.5"
+            ],
+            [
+              "December",
+              "17.0",
+              "18.7",
+              "14.4"
+            ],
+            [
+              "January",
+              "15.5",
+              "15.8",
+              "15.0"
+            ],
+            [
+              "February",
+              "15.0",
+              "14.6",
+              "15.6"
+            ],
+            [
+              "March",
+              "13.5",
+              "11.7",
+              "16.2"
+            ],
+            [
+              "April",
+              "14.4",
+              "12.2",
+              "17.9"
+            ],
+            [
+              "May",
+              "14.4",
+              "12.1",
+              "17.8"
+            ],
+            [
+              "June",
+              "13.9",
+              "11.7",
+              "17.3"
+            ],
+            [
+              "July",
+              "13.7",
+              "12.1",
+              "16.1"
+            ],
+            [
+              "August",
+              "13.6",
+              "12.7",
+              "15.1"
+            ],
+            [
+              "September-EFY 2018",
+              "13.2",
+              "12.1",
+              "14.8"
+            ]
+          ],
+          "html_representation": ""
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 39.0,
+            "top": 630.8199999999999,
+            "x1": 568.9750400000004,
+            "bottom": 599.62
+          },
+          "content_hash": "ffc0fbe4d0a00ca5ef7085d28e2be526a62c3faea76829ca868f7788ddea2c21",
+          "text": "Beginning from September-EFY 2016 the magnitude of the inflation rate steadily declined overtime. In September EFY-2018 General inflation was 13.2% as compared to the one observed in September- EFY2017."
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 64.2,
+            "top": 652.69,
+            "x1": 155.75096,
+            "bottom": 642.73
+          },
+          "content_hash": "90cb78683b18ed1e36f1b638b2e0404a77ce03a3e1d4d39d7d90a348c76ec4de",
+          "text": "Issue No. 27/2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 513.46,
+            "top": 662.0623599999999,
+            "x1": 550.90888,
+            "bottom": 653.4760787944025
+          },
+          "content_hash": "f5e563e49907bd1f7407b7693735f20dda2bd03d02b098bf8c5b9ac0c1530ee4",
+          "text": "Page 2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 185.3,
+            "top": 749.1,
+            "x1": 430.738,
+            "bottom": 709.02
+          },
+          "content_hash": "5aa1fc65d1ce5f389dcb17c736eb1a11a80aa369e8657cdb4c4314b662f014c1",
+          "text": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 1,
+          "bbox": {
+            "x0": 38.38044738769531,
+            "top": 782.0257587432861,
+            "x1": 160.7179718017578,
+            "bottom": 666.9126968383789
+          },
+          "content_hash": "b19a0df819ea7d173a2364b69e8e17af55ac7bf9edf0c9fa372d2d470a8d7fcf",
+          "caption": null,
+          "image_base64": null
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "layout_docling"
+    },
+    {
+      "page_number": 2,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 46.32,
+            "top": 25.583999999999946,
+            "x1": 149.0022936512,
+            "bottom": 14.543999999999983
+          },
+          "content_hash": "c9bf27ef35cd767aeda6abafd25a044237f1b1e7aad1db6e889099c6bc904a82",
+          "text": "Fax:  +251 111 115470"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 46.32,
+            "top": 39.024,
+            "x1": 149.27504,
+            "bottom": 27.984000000000037
+          },
+          "content_hash": "1a0b896b0924359aa898d73922838431d7e10cfb72a0053eb0f1b35e67c4789c",
+          "text": "+251 111 115131"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 383.11,
+            "top": 46.05600000000004,
+            "x1": 539.99420395,
+            "bottom": 34.8371908396947
+          },
+          "content_hash": "6c8ee99994fe7d77b7e0489681c90f44575ec97eb9a21972227ac2260d8224ca",
+          "text": "P.O.Box\u1361 1143"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 46.32,
+            "top": 52.46399999999994,
+            "x1": 149.27504,
+            "bottom": 41.42399999999998
+          },
+          "content_hash": "30b3abf7beb180b17377bcbeb38cc452ec2924912ca78feae7bded22629de4bc",
+          "text": "+251 111 564226"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 383.11,
+            "top": 62.039999999999964,
+            "x1": 476.38300000000004,
+            "bottom": 51.60375903614454
+          },
+          "content_hash": "164e3c1889d81393fcd970c5810756470a450377e54cd2364a02bd065c00f72d",
+          "text": "Website"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 476.5,
+            "top": 62.375999999999976,
+            "x1": 569.272,
+            "bottom": 51.157190839694636
+          },
+          "content_hash": "8188fcefaf99a50c4670046a7def350c2de54688337bc5ac0568889fc649c5df",
+          "text": ": www.ess.gov.et"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 46.32,
+            "top": 65.904,
+            "x1": 149.27504,
+            "bottom": 54.86400000000003
+          },
+          "content_hash": "35cc6aa19ac49ddfa912571b6c2b3a8cfae15d409eb5366e9c63316c315c3e04",
+          "text": "Tele: +251 111 568464"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 183.02,
+            "top": 63.45024000000001,
+            "x1": 373.67416000000003,
+            "bottom": 30.3536385542169
+          },
+          "content_hash": "ce03098cf409db1ef9ed67ffe33df359132d96ba2529c05df2164f709adafc2a",
+          "text": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 39.48,
+            "top": 239.69000000000005,
+            "x1": 548.3509600000003,
+            "bottom": 135.98000000000002
+          },
+          "content_hash": "f708de2a0901bb8e7fb6d61cd2be29d879de4f0c63a8a686a39b9a5965ed0920",
+          "text": "As can be seen from the above figure, both the non-food year-on-year inflation rate and Food inflation rate increased in September-ETY2018. The Non-Food inflation increased by 14.8 percent during the same period. Particularly, Alcoholic Beverages and Tobacco increased by (18.4%); Housing, water, electricity & other fuel component increased by (12.9%); Furnishings, household equipment & routine maintenance of the House increased by (13.5%); Health decreased by ( -0.6%); Transport increased by ( 40.3%); Communication increased by ( 7.8%); Education increased by ( 5.8%); Restaurants and hotels increased by (11.1%) and Miscellaneous goods and services increased by (20.9%) have contributed for the rise in non-food inflation rate in September EFY2018."
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 44.52,
+            "top": 267.40999999999997,
+            "x1": 320.66504000000003,
+            "bottom": 256.37
+          },
+          "content_hash": "6ec380344c79df45d3c66238f6ea310e6b97bf0111496e021ed955b4e2c5df25",
+          "text": "Non-Food Inflation and  Alcoholic Beverages (Year-on-Year)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 251.66666666666666,
+            "top": 341.0,
+            "x1": 288.66666666666663,
+            "bottom": 331.6666666666667
+          },
+          "content_hash": "f2746080ebc43890a6029d8165009398570dc9622d3ba31815aa0a7678dbe4ce",
+          "text": "OFood"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 296.33333333333337,
+            "top": 341.0,
+            "x1": 359.6666666666667,
+            "bottom": 331.6666666666667
+          },
+          "content_hash": "0b991081fc9ba3c44348d65c38172d0e79b0b081b53a98dcf91fc5cf7de2e9eb",
+          "text": "=Non-Food"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 104.33333333333334,
+            "top": 362.0,
+            "x1": 153.33333333333331,
+            "bottom": 330.0
+          },
+          "content_hash": "366e58c3d23dc1a6559c15cb38e1336997d3d0b6bef4fd2089d6fb487d1ad788",
+          "text": "Sept-EFY2017"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 195.0,
+            "top": 360.33333333333337,
+            "x1": 209.33333333333334,
+            "bottom": 360.0
+          },
+          "content_hash": "f76c567dde9432afd2e4ab605466cd93b0b5be5ecf6e4d9faa14fff77441a509",
+          "text": "Nov"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 253.0,
+            "top": 360.33333333333337,
+            "x1": 270.66666666666663,
+            "bottom": 360.33333333333337
+          },
+          "content_hash": "b23b97fc8c4cd766245b945483175b6feb2f19281b48062926a18445a01b8614",
+          "text": "Jan"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 279.66666666666663,
+            "top": 361.33333333333337,
+            "x1": 300.0,
+            "bottom": 358.66666666666663
+          },
+          "content_hash": "cd612ca0e0fef7cb9b533d0d54b724b4d3024d31baffdfbee899f0beb2607cda",
+          "text": "Feb"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 368.6666666666667,
+            "top": 360.0,
+            "x1": 388.0,
+            "bottom": 358.33333333333337
+          },
+          "content_hash": "412bad38cc690971ef988df1c6c89b0a8857cba5027eeaa3516cce7b47664e17",
+          "text": "May"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 395.6666666666667,
+            "top": 360.0,
+            "x1": 420.0,
+            "bottom": 358.0
+          },
+          "content_hash": "9c5de8bf53152d8c725d96a49dd90d99e3f481198e162f8e33e41c261fd3424b",
+          "text": "June"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 428.6666666666667,
+            "top": 360.66666666666663,
+            "x1": 447.6666666666667,
+            "bottom": 359.0
+          },
+          "content_hash": "b6eee819300618f928b8a529d9c941262a4a13bb9cbbe470568469cb4d8423c8",
+          "text": "July"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 457.0,
+            "top": 360.0,
+            "x1": 478.6666666666667,
+            "bottom": 359.0
+          },
+          "content_hash": "8edfcad7b3da3b82fdc5bcaa1dfa4e517f0b8eaf512b9af36c6e5c682bcb8bde",
+          "text": "Aug"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 459.6666666666667,
+            "top": 362.33333333333337,
+            "x1": 508.6666666666667,
+            "bottom": 330.6666666666667
+          },
+          "content_hash": "2380cba06ceed7cb3f1eda46f379f4b6eb98cc207ff49e57edd532068d01deed",
+          "text": "Sept-EFY2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 107.66666666666666,
+            "top": 421.66666666666663,
+            "x1": 124.33333333333334,
+            "bottom": 409.66666666666663
+          },
+          "content_hash": "9d1ad772ed50ecf5b94c2828c76fb1c60ba46d1979f0b75b258d9f489e635706",
+          "text": "5.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 103.0,
+            "top": 464.33333333333337,
+            "x1": 124.0,
+            "bottom": 452.66666666666663
+          },
+          "content_hash": "e9ede3d56aad86e724b0205dfc105bd92bfe4ee47aba2e13268b963c706cb5a1",
+          "text": "10.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 315.33333333333337,
+            "top": 466.66666666666663,
+            "x1": 338.0,
+            "bottom": 455.66666666666663
+          },
+          "content_hash": "caed7c78fa51f085b8401c23fbea033261ec6ebbbb0c623b7070ce947aeb9161",
+          "text": "11.9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 401.6666666666667,
+            "top": 466.66666666666663,
+            "x1": 456.3333333333333,
+            "bottom": 457.0
+          },
+          "content_hash": "eb5f6c632bc70977fc4d1552a6732abbdd4f0d75ad3fc88c072183a42d015daf",
+          "text": "11.712.1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 344.0,
+            "top": 470.33333333333337,
+            "x1": 407.3333333333333,
+            "bottom": 456.33333333333337
+          },
+          "content_hash": "11e9605a3e66cbdd0befcb6ef1d7f463eecdb4339b020f11a6c4fc50469ff3cc",
+          "text": "12.212.11"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 492.0,
+            "top": 470.33333333333337,
+            "x1": 514.6666666666667,
+            "bottom": 456.66666666666663
+          },
+          "content_hash": "c6e564aec990cefba38f7c56194d33f7a2573dd397bc33cca2d50c750e9e1e9f",
+          "text": "12.1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 463.0,
+            "top": 474.33333333333337,
+            "x1": 486.6666666666667,
+            "bottom": 460.66666666666663
+          },
+          "content_hash": "bfa0d43d3cc1ea9c6e3c7431e484d40ae95302a946275aa87f9770a85d587b83",
+          "text": "12.7"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 167.33333333333331,
+            "top": 490.3333333333333,
+            "x1": 190.0,
+            "bottom": 479.33333333333337
+          },
+          "content_hash": "ace0b57b9980ec518ba51993f4a4fb5550966f52b092cd33bcabbec9f4044f43",
+          "text": "11.6"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 285.0,
+            "top": 490.3333333333333,
+            "x1": 308.66666666666663,
+            "bottom": 478.33333333333337
+          },
+          "content_hash": "490c32a2e1622cc86ebab59fa8c59a4e90821ef226dfa79e8a20c90636c0e36f",
+          "text": "14.6"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 255.66666666666666,
+            "top": 501.0,
+            "x1": 278.66666666666663,
+            "bottom": 489.0
+          },
+          "content_hash": "0257582e1de4e0760c32aeff76cefa762487b052c5308a2600180f5d04483c82",
+          "text": "15.8"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 103.0,
+            "top": 507.0,
+            "x1": 124.33333333333334,
+            "bottom": 495.6666666666667
+          },
+          "content_hash": "3582c3537413b8918c565ae4f2d9111268c93cfc73b3a4b49f77ed10ab61cd97",
+          "text": "15.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 136.66666666666669,
+            "top": 513.3333333333333,
+            "x1": 160.33333333333331,
+            "bottom": 501.0
+          },
+          "content_hash": "bb5aff017166ee8b933c593ae011a79886cd14257e165d96a9f3a0cebf592874",
+          "text": "14.3"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 196.66666666666669,
+            "top": 514.3333333333333,
+            "x1": 219.66666666666666,
+            "bottom": 502.3333333333333
+          },
+          "content_hash": "3efe977cbc7a482724afb82355966c644f368e7e078d18e605947bc0dbbb838a",
+          "text": "14.4"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 226.0,
+            "top": 514.0,
+            "x1": 249.0,
+            "bottom": 502.6666666666667
+          },
+          "content_hash": "3efe977cbc7a482724afb82355966c644f368e7e078d18e605947bc0dbbb838a",
+          "text": "14.4"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 256.0,
+            "top": 519.0,
+            "x1": 279.33333333333337,
+            "bottom": 507.0
+          },
+          "content_hash": "3582c3537413b8918c565ae4f2d9111268c93cfc73b3a4b49f77ed10ab61cd97",
+          "text": "15.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 463.3333333333333,
+            "top": 520.0,
+            "x1": 494.3333333333333,
+            "bottom": 509.3333333333333
+          },
+          "content_hash": "b952f80821511f4d9e6eedc9184b4de1df0a2ea7f85f9f975cf06c5a56833947",
+          "text": "15.1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 491.3333333333333,
+            "top": 518.3333333333333,
+            "x1": 514.6666666666667,
+            "bottom": 506.3333333333333
+          },
+          "content_hash": "685038cfaade4590ae586b8fb3f90c61f1aadb2601c1d99e7b46cc93bc523254",
+          "text": "14.8"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 196.0,
+            "top": 524.6666666666667,
+            "x1": 219.33333333333334,
+            "bottom": 511.6666666666667
+          },
+          "content_hash": "efa221666062ea32257186498f8f376e32205881acbc418e7979c8c9ba7bf863",
+          "text": "18.5"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 225.66666666666666,
+            "top": 525.0,
+            "x1": 248.66666666666666,
+            "bottom": 514.0
+          },
+          "content_hash": "3d7fd5843b4183520017fcc8445c2db742d9932469341543929ba997a70dedef",
+          "text": "18.7"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 284.33333333333337,
+            "top": 523.6666666666667,
+            "x1": 309.33333333333337,
+            "bottom": 514.0
+          },
+          "content_hash": "cc03dfba57cbcc6c2ccd02a5479ec5ac35f8adabcd15774d202797f1c2329081",
+          "text": "15.6"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 166.33333333333331,
+            "top": 530.3333333333333,
+            "x1": 190.0,
+            "bottom": 516.3333333333333
+          },
+          "content_hash": "826190199497ec8bd0408c2cad913b1310220b32dee487495b556e4e41fcae38",
+          "text": "19.2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 313.66666666666663,
+            "top": 529.3333333333333,
+            "x1": 338.3333333333333,
+            "bottom": 518.0
+          },
+          "content_hash": "2c86a12e5f3bc9fe0eef9e1752265380324face94750ad4d015a197df49898f0",
+          "text": "16.2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 432.6666666666667,
+            "top": 529.3333333333333,
+            "x1": 456.3333333333333,
+            "bottom": 517.3333333333333
+          },
+          "content_hash": "bcc4a7c612df8ae92ae0640fe4bc232b2c6dcfec00f6b6a3394e8daa8d81fda0",
+          "text": "16.1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 137.0,
+            "top": 533.3333333333333,
+            "x1": 160.66666666666669,
+            "bottom": 521.3333333333333
+          },
+          "content_hash": "d094f156970f5834eac8e42a58b222943b9c0e69e7b27112e70508b37cfa5b9f",
+          "text": "19.6"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 403.6666666666667,
+            "top": 539.0,
+            "x1": 427.0,
+            "bottom": 527.0
+          },
+          "content_hash": "b2b7bf126dcc43fb6f60302ff9588a2276ff767cfd70d95c17cf11eb9c8e202b",
+          "text": "17.3"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 344.6666666666667,
+            "top": 544.0,
+            "x1": 367.6666666666667,
+            "bottom": 533.0
+          },
+          "content_hash": "9d564f2cfb430b5dee7fabfe58dd26a0f853eee15ec08aaa664112e8fc3aec0f",
+          "text": "17.9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 373.3333333333333,
+            "top": 544.0,
+            "x1": 396.6666666666667,
+            "bottom": 530.3333333333333
+          },
+          "content_hash": "2235a57e4484ae88b05bc16dedaaf08d4f2db3da0c86122ba61bab0c11226afb",
+          "text": "17.8"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 102.66666666666667,
+            "top": 550.0,
+            "x1": 124.33333333333334,
+            "bottom": 538.6666666666667
+          },
+          "content_hash": "2316fe23239b0cefcbddaf7494d0ac98d0e0e1557f3a6d2231233a4bbb507cfe",
+          "text": "20.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 102.33333333333333,
+            "top": 593.3333333333334,
+            "x1": 124.66666666666666,
+            "bottom": 580.6666666666666
+          },
+          "content_hash": "fe5ace63408c9b893eea5d7dbea290a29e0a5b00076b69a327e729768c1cf362",
+          "text": "25.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 211.66666666666666,
+            "top": 595.6666666666666,
+            "x1": 359.6666666666667,
+            "bottom": 582.3333333333334
+          },
+          "content_hash": "4dd849b2428f8aa262090758efe29390b54e917180c78b59ce9e8173820909c7",
+          "text": "Year-on-Year CPl Inflation"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 2,
+          "bbox": {
+            "x0": 81.1003189086914,
+            "top": 605.3036651611328,
+            "x1": 518.113525390625,
+            "bottom": 322.11187744140625
+          },
+          "content_hash": "cbaff5538c317526fb622f65f6ab6f7b3591f9d9f00771ec6d15128ae2928d26",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 81.744,
+            "top": 620.98,
+            "x1": 520.75504,
+            "bottom": 609.94
+          },
+          "content_hash": "78f8c29d7997682934ad844e1b12a6cabf6a63e4a480b2ff75009f266babbbb2",
+          "text": "Fig 1: Food and Non-Food Inflation (%, Year-on-Year), September EFY2017 - September EFY2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 82.344,
+            "top": 652.10236,
+            "x1": 180.14888,
+            "bottom": 643.5160787944026
+          },
+          "content_hash": "bb21fe6d3eae848c4518d67a5ed39a92259e1a90327fe727b404fde0a0a647d3",
+          "text": "Issue No. 27/2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 513.46,
+            "top": 654.50236,
+            "x1": 550.90888,
+            "bottom": 645.9160787944026
+          },
+          "content_hash": "702a4a243eedc83ba35aeaeb0a883ca264244ae750eedcb0e5f0515fc59b02a5",
+          "text": "Page 3"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 185.3,
+            "top": 749.1,
+            "x1": 430.738,
+            "bottom": 709.02
+          },
+          "content_hash": "b1920d5a116ef64cc28aade613438759229d3c86dd0b21082a332ebbccbbcf25",
+          "text": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 2,
+          "bbox": {
+            "x0": 38.14378356933594,
+            "top": 782.1139059066772,
+            "x1": 160.740966796875,
+            "bottom": 661.6651763916016
+          },
+          "content_hash": "cbaff5538c317526fb622f65f6ab6f7b3591f9d9f00771ec6d15128ae2928d26",
+          "caption": null,
+          "image_base64": null
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "layout_docling"
+    },
+    {
+      "page_number": 3,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 185.3,
+            "top": 42.89999999999998,
+            "x1": 430.738,
+            "bottom": 60.89999999999998
+          },
+          "content_hash": "ab6fb46d2d0bae62db799c71c2de30911bf3920a9e7e36f388f2b06aad72318b",
+          "text": "ETHIOPIAN STATISTICAL SERVICE"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 239.09,
+            "top": 64.98000000000002,
+            "x1": 376.978,
+            "bottom": 82.98000000000002
+          },
+          "content_hash": "7a8dca4db37ad5e374e17f214039ddc7c51ece7815c8583784d20714058970fa",
+          "text": "Statistical Bulletin"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 55.2,
+            "top": 143.07079999999996,
+            "x1": 550.90888,
+            "bottom": 153.75080000000003
+          },
+          "content_hash": "d35cf55c514f559da28aabdbeb4971457a15f350227766cc164f7c9c56b51d4d",
+          "text": "Issue No. 27/2018   Page 4"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 48.96,
+            "top": 168.14,
+            "x1": 421.462,
+            "bottom": 180.14
+          },
+          "content_hash": "06ed0340b328fcafb93aafc6273a6d9159b15b99be951933a9f582399d8446cc",
+          "text": "Major sub divisions in the food and non-food commodities (year-on-Year)."
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 48.96,
+            "top": 189.58999999999992,
+            "x1": 543.59024,
+            "bottom": 199.54999999999995
+          },
+          "content_hash": "51e55eff58df84cfb5f4f87b55320dfb9cc92ae4709c52eda766c16d85904c24",
+          "text": "When we look at major division of food and non-food commodities, which holds large share in the commodity basket,"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 48.96,
+            "top": 207.94999999999993,
+            "x1": 543.9757599999999,
+            "bottom": 217.90999999999997
+          },
+          "content_hash": "81b0d6fc0d7e4e78d209c9a4a2d5ddf743c6882462f8d726efdd211fee23fc7f",
+          "text": "the magnitude of Food and Non-alcoholic beverages inflation rate at September EFY2018 showed 12.1% as compared to"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 48.96,
+            "top": 226.30999999999995,
+            "x1": 543.6916400000001,
+            "bottom": 236.26999999999998
+          },
+          "content_hash": "da1a76f300a2a8bccdcf358b8fe447ef306565a2409d20ee6bd9533d14f86333",
+          "text": "the same month in the previous year.  From Food and Non-Alcoholic Beverage aspect, the highest weight is hoed by"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 48.96,
+            "top": 244.54999999999995,
+            "x1": 544.0309599999999,
+            "bottom": 254.51
+          },
+          "content_hash": "4e9f3afd457116ed29dfe2485d747ea261148b7097dbcce2a55b1c0e7e6b85bc",
+          "text": "Bread and Cereals, Vegetables, Other-Food products, Non-Alcoholic Beverage, and Meat; whose inflation at September"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 48.96,
+            "top": 262.93999999999994,
+            "x1": 543.9621999999999,
+            "bottom": 272.9
+          },
+          "content_hash": "ca095751abab32d41ed394b35d877e5c241cf4f2515e31581efcc78b1c82fa79",
+          "text": "EFY2018 has recorded  a decrease for Bread & Cereals (-2.0%); Vegetables increased by (15.3%); Other-Food products"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 48.96,
+            "top": 281.17999999999995,
+            "x1": 543.9136,
+            "bottom": 291.14
+          },
+          "content_hash": "7c33854f1daa1f896b24084d744c6af17ab6a9ed597aa07a81ab1ae6e22f055e",
+          "text": "(Food products not elsewhere classified) increased by (21.9%); Meat increased by (16.1%) and Non-Alcoholic Beverages"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 48.96,
+            "top": 299.53999999999996,
+            "x1": 177.59096,
+            "bottom": 309.5
+          },
+          "content_hash": "94a30ffbc906b1a8e2c3ad2e944fab0ffa95bafca2bb54d5a33e5d7b25441f06",
+          "text": "& coffee increased by (56.5%)."
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 48.96,
+            "top": 317.9,
+            "x1": 543.8308000000001,
+            "bottom": 327.86
+          },
+          "content_hash": "06f81586abe3e4da841db5b2e9b1f48b6c03a19f4975926a89b6a9a6731138a0",
+          "text": "Similarly, during September 2018 EFY the year-on-year inflation rate of the major Non- Food items of Housing, Water,"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 48.96,
+            "top": 335.71172,
+            "x1": 541.6696000000001,
+            "bottom": 346.1
+          },
+          "content_hash": "ffb4332955a96d9105698e7e72003db048212a18b2916f2beb98d31309483d78",
+          "text": "Electricity, Gas, & Other Fuels increased by (12.9%);  Restaurants and Hotels increased by (11.1%); Alcoholic Bev-"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 48.96,
+            "top": 354.77000000000004,
+            "x1": 543.5894000000001,
+            "bottom": 365.81
+          },
+          "content_hash": "da4581f910308e06a371032c1f85ba71436f7bbb6326c12e399d3caea827c6f8",
+          "text": "erages & Tobacco increased by (18.4%); Furnishings, Household Equipment & Routine Household Maintenance of"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 48.96,
+            "top": 374.93,
+            "x1": 420.54748,
+            "bottom": 385.96999999999997
+          },
+          "content_hash": "ae1940903dce1000be00ef36e11409bf3400cc54c5d8fd61cda9dd42216e20a1",
+          "text": "the House increased by (13.5%) and Clothing and Footwear increased by (16.0%)."
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 106.58,
+            "top": 412.85,
+            "x1": 486.67504,
+            "bottom": 423.89
+          },
+          "content_hash": "4dcb7b86e7b73cf7163cdb50810af697aa388ee5820d3c4953e4d83766f6adf9",
+          "text": "Table 2. Major sub divisions in the food and non-food commodities (year-on-Year)."
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 44.64,
+            "top": 433.71999999999997,
+            "x1": 532.70776,
+            "bottom": 443.68
+          },
+          "content_hash": "10c1c907e62f40e6dba3df823a8d273df06022b66dab338160c4da62099d43e2",
+          "text": "CPI Items  Items Wight in CPI  % change on Year-on-Year Infla- % change in Month-to-"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 223.61,
+            "top": 445.96,
+            "x1": 535.99096,
+            "bottom": 455.92
+          },
+          "content_hash": "78716f3442be686bea06f458a728068b7877719857b57bc7f82e17696e3d45f3",
+          "text": "(%)  tion September EFY2017 com- Month inflation August"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 304.01,
+            "top": 458.08,
+            "x1": 548.5421200000001,
+            "bottom": 468.04
+          },
+          "content_hash": "fae1678f8eb6008197193567a9398a38f661222d14c226c06b117c66ce1872c5",
+          "text": "pared with September EFY2018  EFY2017 compared to Sep-"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 439.51,
+            "top": 470.32,
+            "x1": 508.75096,
+            "bottom": 480.28000000000003
+          },
+          "content_hash": "909379621d4d4bdce34037aebb2041a58234b5c8d0289b25b488bdd73acaafb8",
+          "text": "tember EFY2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 44.64,
+            "top": 489.64,
+            "x1": 225.23372,
+            "bottom": 499.6
+          },
+          "content_hash": "aaf916f5fec11af76fc3b5a70bfc840961e3a3d80290ae64cf03f742ff88895a",
+          "text": "Major Food and Non-Alcoholic Beverage"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 252.77,
+            "top": 495.07,
+            "x1": 507.892,
+            "bottom": 507.07
+          },
+          "content_hash": "491c9a0b59c981b858788803eeaced70529f8ede2c2ef71e31bd1a5a732b4287",
+          "text": "53.5  12.1  1.9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 44.64,
+            "top": 501.88,
+            "x1": 98.63496,
+            "bottom": 511.84000000000003
+          },
+          "content_hash": "5a8d6883ffafe6b3a3100a2fcebab9718ef303344ebd55e936db5f06a7278258",
+          "text": "components"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 44.64,
+            "top": 521.4015999999999,
+            "x1": 506.11096000000003,
+            "bottom": 532.0
+          },
+          "content_hash": "b0acabf5bbae1687646891adc68af91ecf26f5fc017816a298875dec7692dff7",
+          "text": "17.1  -2.0  1.1  Bread and Cereals"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 44.64,
+            "top": 535.6816,
+            "x1": 507.22888,
+            "bottom": 546.28
+          },
+          "content_hash": "85795df346b638eda47fc57598936dc3e75725849ebed827562c20ba279b23d0",
+          "text": "Vegetables  12.3  15.3  2.1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 44.64,
+            "top": 550.3216,
+            "x1": 506.11096000000003,
+            "bottom": 561.04
+          },
+          "content_hash": "a6bac9464b82c1efc6a4ca6795329608314c6ec0ae2d5931cc864ae823fa0cac",
+          "text": "Other-Food products  5.6  21.9  2.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 44.64,
+            "top": 565.0816,
+            "x1": 507.22888,
+            "bottom": 575.8
+          },
+          "content_hash": "213bab997c51b9e7e9d517089f76f2f7315b8325c21183589287ca17119ab0b0",
+          "text": "Non-Alcoholic Beverage  5.1  56.5  3.3"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 44.64,
+            "top": 581.4016,
+            "x1": 506.11096000000003,
+            "bottom": 592.12
+          },
+          "content_hash": "8e322d9dd734e41c7c6fcc600a392a4e3b3c7087aabe6cdb99aaba5e97fb55eb",
+          "text": "4.1  16.1  4.2  Meat"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 44.64,
+            "top": 600.8199999999999,
+            "x1": 507.772,
+            "bottom": 612.8199999999999
+          },
+          "content_hash": "2973beaac589048e59288c811b9ed1bfc2420faf0d3ece8d75d0cdfc5d3ad6df",
+          "text": "Major Non-Food   Components  46.5  14.8  2.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 44.64,
+            "top": 621.8716,
+            "x1": 506.11096000000003,
+            "bottom": 632.47
+          },
+          "content_hash": "a2eadbf07ca273bbe22ca15461994f85b2277f0f81e4ec76476b29d93236d6eb",
+          "text": "12.9  Housing, Water, Electricity, Gas and Other Fuels  16.8  2.7"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 44.64,
+            "top": 641.1916,
+            "x1": 506.11096000000003,
+            "bottom": 651.91
+          },
+          "content_hash": "a278cd9b752370944785fc21a492eba9889a659f8dde4866c097a70e90c8db6d",
+          "text": "Clothing and Footwear  5.7  16.0  1.1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 44.64,
+            "top": 659.4316,
+            "x1": 506.11096000000003,
+            "bottom": 670.03
+          },
+          "content_hash": "d170eb2695c7d807b88f3fc5b257c6ab5824bb8d484db5a06d34a65690d5e7f0",
+          "text": "Restaurants and Hotels  5.3  11.1  3.6"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 44.64,
+            "top": 679.2316,
+            "x1": 506.11096000000003,
+            "bottom": 689.83
+          },
+          "content_hash": "b99f07d5c9c1852b36b61056fdc8723e451079eb0092aa380eb7c542af15d0aa",
+          "text": "Alcoholic Beverages and Tobacco  4.9  18.4  1.3"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 44.64,
+            "top": 694.7076,
+            "x1": 506.11096000000003,
+            "bottom": 706.026
+          },
+          "content_hash": "447aa75caf36bee1bcd41ccbdf72f5ab36a7142ac473b8a2bcbf0f4469388e04",
+          "text": "Furnishings, Household Equipment and Routine  4.7  13.5  0.8"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 46.32,
+            "top": 726.096,
+            "x1": 569.272,
+            "bottom": 741.3
+          },
+          "content_hash": "3eee091a116fb9cadbfb365ede7d6832b8687f6a8bf56447908c2a3fc6473a1d",
+          "text": "Tele: +251 111 568464  YOUR RELIABLE DATA SOURCE          Website: www.ess.gov.et"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 46.32,
+            "top": 739.5360000000001,
+            "x1": 149.27504,
+            "bottom": 750.576
+          },
+          "content_hash": "3e96f098159dcbec2f97c84b20ce1b57b829156c12c65dd96645c91e4570d8a6",
+          "text": "+251 111 564226"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 207.41,
+            "top": 744.876,
+            "x1": 543.436,
+            "bottom": 762.876
+          },
+          "content_hash": "b76ad7df8912e123418d0281ca42b47a645df4181644742c0c0d5832de5ae82a",
+          "text": "\u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303                P.O.Box\u1361 1143"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 46.32,
+            "top": 752.976,
+            "x1": 149.27504,
+            "bottom": 764.016
+          },
+          "content_hash": "498a9600dfa8591f968220bd382997b3584bf25dafec2e023ab497d827d11cc4",
+          "text": "+251 111 115131"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 46.32,
+            "top": 766.416,
+            "x1": 149.0022936512,
+            "bottom": 777.456
+          },
+          "content_hash": "d77748afc65864ac7a6ba26d6043a46cd4ccc12aa517b21b20961dd43a583c1a",
+          "text": "Fax:  +251 111 115470"
+        }
+      ],
+      "page_confidence": 0.6807126137807817,
+      "strategy_used": "fast_text"
+    },
+    {
+      "page_number": 4,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 46.32,
+            "top": 25.583999999999946,
+            "x1": 149.0022936512,
+            "bottom": 14.543999999999983
+          },
+          "content_hash": "91ce8764df83fea7433ca613f2e6781065de311ba222407b6bfd642981ecbae1",
+          "text": "Fax:  +251 111 115470"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 46.32,
+            "top": 39.024,
+            "x1": 149.27504,
+            "bottom": 27.984000000000037
+          },
+          "content_hash": "ca4b619f7c7f04495933daa197784db0df0715cff6514d5afb7f37ad19b432bc",
+          "text": "+251 111 115131"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 383.11,
+            "top": 46.05600000000004,
+            "x1": 539.99420395,
+            "bottom": 34.8371908396947
+          },
+          "content_hash": "9f6ca8a03c50665c54d71ab819655f7b3f3da962af434b6c0541fd0524f47e13",
+          "text": "P.O.Box\u1361 1143"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 46.32,
+            "top": 52.46399999999994,
+            "x1": 149.27504,
+            "bottom": 41.42399999999998
+          },
+          "content_hash": "c654e8cc65eb0f80f4888c06164cc2b28139bfe55e68829ab0f6e970eb978d04",
+          "text": "+251 111 564226"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 383.11,
+            "top": 62.039999999999964,
+            "x1": 476.38300000000004,
+            "bottom": 51.60375903614454
+          },
+          "content_hash": "6b96613a0a2092f768253d1753dddeb84e4515764021a5ed009f2418f8a3ea9c",
+          "text": "Website"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 476.5,
+            "top": 62.375999999999976,
+            "x1": 569.272,
+            "bottom": 51.157190839694636
+          },
+          "content_hash": "016522e5ed9dbceeb3e2cb081dbf793e0dcc7c624b08e596f7a897e05b070dd1",
+          "text": ": www.ess.gov.et"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 46.32,
+            "top": 65.904,
+            "x1": 149.27504,
+            "bottom": 54.86400000000003
+          },
+          "content_hash": "5287745a80070dec0e245d68f5b1a6e9025fee63770e56bd173a0ecc850d9511",
+          "text": "Tele: +251 111 568464"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 183.02,
+            "top": 63.45024000000001,
+            "x1": 373.67416000000003,
+            "bottom": 30.3536385542169
+          },
+          "content_hash": "6e708708ab3ea10897ffc57c4206ac3d542d1ba7268d04dacc96c736909cb010",
+          "text": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 46.92,
+            "top": 276.55999999999995,
+            "x1": 567.9269200000003,
+            "bottom": 228.64999999999998
+          },
+          "content_hash": "288a89443f05d6a1e44fb30337ed38fa45e119ccfd6d6fa0807a7592a93e976a",
+          "text": "In  September EFY2018, among the food components of the CPI, Meat increased by (4.2%), Fish  and  sea  food  increased  by (0.8%), Milk, Cheese and Eggs increased by (2.3%), Oils and Fats increased by (1.8%), Food products n.e.c increased by (2.0%) and Non-Alcoholic beverages and coffee increased by (3.0%) on the month to month basis."
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 46.92,
+            "top": 296.45,
+            "x1": 333.57703999999995,
+            "bottom": 285.41
+          },
+          "content_hash": "ccaa796b8d910e7cfd719cc9190bbbab9e5c847641d77ef76a5dc1a89bf82108",
+          "text": "Month-to-Month Inflation of Food and Non-alcoholic Beverages :"
+        },
+        {
+          "block_type": "table",
+          "page_number": 4,
+          "bbox": {
+            "x0": 86.69905853271484,
+            "top": 527.7420349121094,
+            "x1": 488.17193603515625,
+            "bottom": 318.4698791503906
+          },
+          "content_hash": "3bc5f82733f31a8ad74643bad5e2f466f48844ace353f671a389adb6d7f2b170",
+          "headers": [
+            "Month",
+            "General month-to-month inflation"
+          ],
+          "rows": [
+            [
+              "September- EFY 2017",
+              "2.4"
+            ],
+            [
+              "October",
+              "0.9"
+            ],
+            [
+              "November",
+              "-0.8"
+            ],
+            [
+              "December",
+              "0.8"
+            ],
+            [
+              "January",
+              "0.6"
+            ],
+            [
+              "February",
+              "0.5"
+            ],
+            [
+              "March",
+              "2.7"
+            ],
+            [
+              "April",
+              "0.1"
+            ],
+            [
+              "May",
+              "0.2"
+            ],
+            [
+              "June",
+              "0.5"
+            ],
+            [
+              "July",
+              "1.3"
+            ],
+            [
+              "August",
+              "1.1"
+            ],
+            [
+              "September-EFY 2018",
+              "2.0"
+            ]
+          ],
+          "html_representation": ""
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 75.624,
+            "top": 547.06,
+            "x1": 496.51504,
+            "bottom": 536.02
+          },
+          "content_hash": "02b59a97e7ef3b55f6ebf82ae13a382c9d99566edeffe16e5a63d4576d96a253",
+          "text": "Table 3: General Inflation Rate (%, Month-to-Month), August EFY2017 - September EFY2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 43.8,
+            "top": 617.74,
+            "x1": 555.2994399999999,
+            "bottom": 568.3
+          },
+          "content_hash": "b534f4f0f136b6f43847490fb1d5f0e8a3e0232ff7ef765cda23920be8dd7fbe",
+          "text": "The month-to-month general inflation rate for September EFY2018 has increased by 2.0 percent compared to what was observed last month. During the same month, the food  and  non-alcoholic component of the inflation increased by at 1.9 percent whereas the non-food component for its part increased by 2.0 percent ."
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 43.8,
+            "top": 647.95,
+            "x1": 249.89695999999998,
+            "bottom": 631.99
+          },
+          "content_hash": "d2f980f4f02f51fe9afab672ec718bc51c1a38ad0534c06d4ec248d259ebb0f9",
+          "text": "Month-to-Month Inflation Rate"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 45.0,
+            "top": 672.26236,
+            "x1": 142.82888,
+            "bottom": 663.6760787944025
+          },
+          "content_hash": "c92e0c6a4625ad50c305e3e4810302a538f1712f47bfdcf359157bace1652c07",
+          "text": "Issue No. 27/2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 531.7,
+            "top": 672.86236,
+            "x1": 569.14888,
+            "bottom": 664.2760787944026
+          },
+          "content_hash": "a636fef84fb30849d1966971e61da0ce9168d78042174cf7284dd7cc1f4fc8f7",
+          "text": "Page 5"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 185.3,
+            "top": 749.1,
+            "x1": 430.738,
+            "bottom": 709.02
+          },
+          "content_hash": "7cb7c75a4e245c887e33ba75cb14aeaf4e6dce89e25555ff1c2f80223b80ddd5",
+          "text": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 4,
+          "bbox": {
+            "x0": 37.98646926879883,
+            "top": 782.2130880355835,
+            "x1": 160.80770874023438,
+            "bottom": 676.4837799072266
+          },
+          "content_hash": "cf266be952a0003547a4660aaa4a6bda87b2d054677ac90abed3a9ca59b2f5ac",
+          "caption": null,
+          "image_base64": null
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "layout_docling"
+    },
+    {
+      "page_number": 5,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 46.32,
+            "top": 25.583999999999946,
+            "x1": 149.0022936512,
+            "bottom": 14.543999999999983
+          },
+          "content_hash": "b2015683670169996dc62823811309c17d7d2974730cc33891e7f051b66d0b97",
+          "text": "Fax:  +251 111 115470"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 46.32,
+            "top": 39.024,
+            "x1": 149.27504,
+            "bottom": 27.984000000000037
+          },
+          "content_hash": "ada56067b243f649f0354a99d8a92bd0af599845d25ca63583e8ea8fe91a5c68",
+          "text": "+251 111 115131"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 383.11,
+            "top": 46.05600000000004,
+            "x1": 539.99420395,
+            "bottom": 34.8371908396947
+          },
+          "content_hash": "3c65c52b27372c066632e01fd52c34c721f7fdac55c9d0a3690802087198b9a4",
+          "text": "P.O.Box\u1361 1143"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 46.32,
+            "top": 52.46399999999994,
+            "x1": 149.27504,
+            "bottom": 41.42399999999998
+          },
+          "content_hash": "406b69409edbab552887f39553c78408f847950dd9dc861d778c16edc6bef544",
+          "text": "+251 111 564226"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 383.11,
+            "top": 62.039999999999964,
+            "x1": 476.38300000000004,
+            "bottom": 51.60375903614454
+          },
+          "content_hash": "a49df1eab5505050affa3ab8c4fbb8b7633cb28936dbae1124640ae1727d89eb",
+          "text": "Website"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 476.5,
+            "top": 62.375999999999976,
+            "x1": 569.272,
+            "bottom": 51.157190839694636
+          },
+          "content_hash": "f4b3168bb9d68f13ea4f87f684233a48918e3d619848bfcc4919f2a89febd071",
+          "text": ": www.ess.gov.et"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 46.32,
+            "top": 65.904,
+            "x1": 149.27504,
+            "bottom": 54.86400000000003
+          },
+          "content_hash": "5b6d810144be472390e053d0cfb0101aada77a3a5a71408357583e039a1283af",
+          "text": "Tele: +251 111 568464"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 183.02,
+            "top": 63.45024000000001,
+            "x1": 373.67416000000003,
+            "bottom": 30.3536385542169
+          },
+          "content_hash": "bdba0c6c4f389f9262e2ef13481fd2f4fb628607c59113858a7df193d953619c",
+          "text": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 78.66666666666667,
+            "top": 166.33333333333337,
+            "x1": 99.33333333333334,
+            "bottom": 155.33333333333337
+          },
+          "content_hash": "593ab22c68e63ff228763ab412990988753a1952c9ade0f755b35b10de269015",
+          "text": "(2.0)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 272.33333333333337,
+            "top": 173.66666666666663,
+            "x1": 299.33333333333337,
+            "bottom": 164.33333333333337
+          },
+          "content_hash": "e00f793ca929341762fc552ffdd95cb18cb72b96ba7861105a3b13c0045af6f2",
+          "text": "Food"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 341.3333333333333,
+            "top": 173.66666666666663,
+            "x1": 390.3333333333333,
+            "bottom": 164.66666666666663
+          },
+          "content_hash": "daa36e2acb5022e166057f5f319e391f37067008503c8e5c78168850ebe781c5",
+          "text": "Non-Food"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 140.33333333333331,
+            "top": 186.33333333333337,
+            "x1": 164.0,
+            "bottom": 174.0
+          },
+          "content_hash": "6dcf081e71e249c1849de18893c4593b5f17c5c9b8da7e4812699c5906d87109",
+          "text": "(1.1)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 171.33333333333331,
+            "top": 193.33333333333337,
+            "x1": 193.33333333333334,
+            "bottom": 183.0
+          },
+          "content_hash": "3ab3acdaab65f1d90af42b5ca0da2358fde1860799e9c3aa94b194fe217060ca",
+          "text": "(.6)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 195.66666666666666,
+            "top": 221.0,
+            "x1": 218.0,
+            "bottom": 219.33333333333337
+          },
+          "content_hash": "d8f032c535576bea933f7524d93572362188aecfabb29ff5523cdccf7139b2bb",
+          "text": "Dec"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 255.33333333333334,
+            "top": 222.0,
+            "x1": 277.33333333333337,
+            "bottom": 218.33333333333337
+          },
+          "content_hash": "7d2e604a9322a610d389f3c93dfaec4b51f8baab5bfa7d95e19f9ad9f0207057",
+          "text": "Feb"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 284.66666666666663,
+            "top": 221.33333333333337,
+            "x1": 308.0,
+            "bottom": 217.33333333333337
+          },
+          "content_hash": "8216b066070d160746dbb8eb68f30380ea0e6a7fc131f2ac83ce13a02a71d219",
+          "text": "Mar"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 405.6666666666667,
+            "top": 222.33333333333337,
+            "x1": 427.6666666666667,
+            "bottom": 217.66666666666663
+          },
+          "content_hash": "eeb684f289df0b4ee0e2757a86662106ebdc0f025ad75304edcd826f97848377",
+          "text": "July"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 435.3333333333333,
+            "top": 221.0,
+            "x1": 458.6666666666667,
+            "bottom": 218.33333333333337
+          },
+          "content_hash": "c694d25c213997ae06a8f24bc7a304139633f58f15b37e5dbb18b9be23666739",
+          "text": "Aug"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 165.66666666666669,
+            "top": 222.66666666666663,
+            "x1": 187.33333333333334,
+            "bottom": 217.66666666666663
+          },
+          "content_hash": "588d268d0146048020cba2dafa557f6f28816a36c295b0017258f2443cf18d2f",
+          "text": "Nov"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 229.0,
+            "top": 223.33333333333337,
+            "x1": 246.33333333333334,
+            "bottom": 216.66666666666663
+          },
+          "content_hash": "b8d54048d22ddccf3d3d18648481769fc7d01cb435888d10ddebd9fa82f2a21a",
+          "text": "Jan"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 438.6666666666667,
+            "top": 223.33333333333337,
+            "x1": 489.3333333333333,
+            "bottom": 191.33333333333337
+          },
+          "content_hash": "f3bbb77ae23fd0d458d2a46b463efb2269fd179630a28950d4b74b8dce4c3105",
+          "text": "Sept-EFY2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 173.33333333333331,
+            "top": 244.66666666666663,
+            "x1": 190.33333333333334,
+            "bottom": 234.66666666666663
+          },
+          "content_hash": "3444d4e3ce1116921a6fcf848fe8998b5f4c21767f6ea9abc45d8d2ad11483b2",
+          "text": "6.5"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 444.0,
+            "top": 243.66666666666663,
+            "x1": 460.3333333333333,
+            "bottom": 233.66666666666663
+          },
+          "content_hash": "8a99e4f963a3f5e3b804960c71bfe9a02f4e4883f6e3c9436d5d1f716689f8e3",
+          "text": "0.5"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 261.0,
+            "top": 249.66666666666663,
+            "x1": 284.0,
+            "bottom": 237.33333333333337
+          },
+          "content_hash": "0dd8a69c5f68d638792b40aced6fbbe0c29ff6f4cf4634d0fb14b497081f8658",
+          "text": "(0.1)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 414.0,
+            "top": 250.66666666666663,
+            "x1": 430.3333333333333,
+            "bottom": 240.66666666666663
+          },
+          "content_hash": "d6071ca531b4b73417f7807f7d9de0f4542300202682b1124f612604eac49490",
+          "text": "0.7"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 330.6666666666667,
+            "top": 255.0,
+            "x1": 339.3333333333333,
+            "bottom": 247.66666666666663
+          },
+          "content_hash": "90a71b68ba1467d16b3fa19332a87fb4c71103f0282095c6434869ee49689bb3",
+          "text": ".1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 203.33333333333334,
+            "top": 260.66666666666663,
+            "x1": 220.33333333333334,
+            "bottom": 249.33333333333337
+          },
+          "content_hash": "d4bc439b6edcb0d7fbaa6663f87fe91d29f08372e9ea1aecd8ec87acb633df56",
+          "text": "0.2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 232.33333333333334,
+            "top": 266.66666666666663,
+            "x1": 251.66666666666666,
+            "bottom": 250.33333333333337
+          },
+          "content_hash": "b29f3d5102f3b7d695d8fce2ad5ed4df49c4fbf7569ae09103ff6cbde79bd5e0",
+          "text": "3:2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 354.0,
+            "top": 269.33333333333337,
+            "x1": 370.3333333333333,
+            "bottom": 259.0
+          },
+          "content_hash": "2c2796819837eaaa9c1c6987d47df72a458deee91d5e7ec1de0130d392fb56d5",
+          "text": "0.4"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 82.66666666666666,
+            "top": 277.0,
+            "x1": 98.0,
+            "bottom": 267.0
+          },
+          "content_hash": "35f344fd85acb30fe18860e64372f9c3d943077a149e4b9ab64fd560a2d7eb0c",
+          "text": "1.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 263.66666666666663,
+            "top": 278.66666666666663,
+            "x1": 281.66666666666663,
+            "bottom": 267.66666666666663
+          },
+          "content_hash": "dfad19c8e439fbf482fbd10c3d7c39b89c49080af3a178cdf306984d1a0dc9d9",
+          "text": "1.4"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 383.6666666666667,
+            "top": 281.0,
+            "x1": 401.6666666666667,
+            "bottom": 271.66666666666663
+          },
+          "content_hash": "35628e0c919579e0f5305a662381b2ebc048f3068e6feb19eaf85615ebdf4ca9",
+          "text": "0.8"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 474.3333333333333,
+            "top": 300.6666666666667,
+            "x1": 490.3333333333333,
+            "bottom": 292.3333333333333
+          },
+          "content_hash": "57773ec6d3b360957a1cc65090f3a4eebb8c1c15140cb3b0a2e14e11913e352e",
+          "text": "2.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 113.66666666666667,
+            "top": 310.0,
+            "x1": 130.33333333333331,
+            "bottom": 298.6666666666667
+          },
+          "content_hash": "577381f43a4c9062c718859732912f316c4c16ec6a74284f6021dcdf0ea6dccd",
+          "text": "2.2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 444.0,
+            "top": 310.0,
+            "x1": 460.3333333333333,
+            "bottom": 300.0
+          },
+          "content_hash": "5fa50dc55494a602667d9347913371034c3c47f483892267298c0ecafd03b42b",
+          "text": "1.5"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 82.66666666666666,
+            "top": 314.0,
+            "x1": 98.0,
+            "bottom": 303.6666666666667
+          },
+          "content_hash": "57773ec6d3b360957a1cc65090f3a4eebb8c1c15140cb3b0a2e14e11913e352e",
+          "text": "2.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 414.0,
+            "top": 314.3333333333333,
+            "x1": 430.3333333333333,
+            "bottom": 304.0
+          },
+          "content_hash": "a86ee8463cbbb7bd870fb80650a7ce3050036b18f4f14af77e40b0ce53cd0f1e",
+          "text": "1.7"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 474.3333333333333,
+            "top": 324.6666666666667,
+            "x1": 490.6666666666667,
+            "bottom": 314.6666666666667
+          },
+          "content_hash": "09812e8c55ca8164d1bf4c1c93a6dd612a6b0b62c92623fbfda9d8eddc4095aa",
+          "text": "1.9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 143.66666666666669,
+            "top": 335.6666666666667,
+            "x1": 159.66666666666669,
+            "bottom": 324.3333333333333
+          },
+          "content_hash": "577381f43a4c9062c718859732912f316c4c16ec6a74284f6021dcdf0ea6dccd",
+          "text": "2.2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 113.66666666666667,
+            "top": 345.0,
+            "x1": 130.66666666666669,
+            "bottom": 333.3333333333333
+          },
+          "content_hash": "1aa4597261b15e37f429ff1db410f959438b7b8cd9b19fdbfae2f2a430e2def3",
+          "text": "2.5"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 295.0,
+            "top": 343.6666666666667,
+            "x1": 308.6666666666667,
+            "bottom": 336.3333333333333
+          },
+          "content_hash": "9b68bcc9bf247d5ac8c496e3e1e2346a6f3098b704ff6a989ea697ff1b6adc73",
+          "text": "3.2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 82.66666666666666,
+            "top": 351.3333333333333,
+            "x1": 98.0,
+            "bottom": 341.0
+          },
+          "content_hash": "7b9e77ff58107e3d5d26b4db8180ea1b2d574cbc7fec57c02072e742f61753d0",
+          "text": "3.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 187.0,
+            "top": 383.3333333333333,
+            "x1": 363.3333333333333,
+            "bottom": 370.3333333333333
+          },
+          "content_hash": "d78ce11c1387177217a90c4e6bfee4efdb31337d5a9e01aa1d236cbafb410399",
+          "text": "Month-to-Month CPl Inflation"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 5,
+          "bbox": {
+            "x0": 57.8096923828125,
+            "top": 389.85736083984375,
+            "x1": 497.87115478515625,
+            "bottom": 154.77178955078125
+          },
+          "content_hash": "7d9082e013d908efc62134296cc5c025a7929b14978125102e6b34f21ceafbf7",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 82.66666666666666,
+            "top": 389.0,
+            "x1": 97.66666666666666,
+            "bottom": 377.6666666666667
+          },
+          "content_hash": "daa5c74765ee524e8fd8f634b6e88032c825d80e6f878e4000fe58da00e19859",
+          "text": "4.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 77.424,
+            "top": 437.95,
+            "x1": 516.91504,
+            "bottom": 426.91
+          },
+          "content_hash": "428452887033b9a85e24bcb7ce0f8388530ed495ef5a451d7ac834537455736f",
+          "text": "Fig 2: Food and Non-Food Inflation (%, Month-to-Month), August EFY2017 - September EFY2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 46.8,
+            "top": 595.42,
+            "x1": 545.0944,
+            "bottom": 483.67
+          },
+          "content_hash": "9a47829c4773d0da1b9eaac2e31a2b5f4ca04ee23f94ed6ffa9247eb1c2f3257",
+          "text": "Looking at non-food items, the month-to-month comparison was observed for Alcoholic beverages and tobacco increased by (1.3%), Clothing and Footwear increased by (1.1%) ,  Furniture, Furnishing, household equipment and routine maintenance of the house  increased by (0.8%), Housing, water, Electricity, gas and other fuels increased by (2.7%) , Transport increased by (1.1%), Recreation and culture increased by (1.6%) , and Hotel and Restaurants increased by (3.6%), Health increased by (3.0%), Communication increased by (1.1%) , and Miscellaneous Goods and Services increased by (0.9%) during the month."
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 46.8,
+            "top": 623.5,
+            "x1": 237.14504,
+            "bottom": 612.46
+          },
+          "content_hash": "76a52d10b228f2496b30ca520353af12986093552ab2fbb23b3986716ce75782",
+          "text": "Non-Food Inflation (%, Month-to-Month)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 55.2,
+            "top": 648.38236,
+            "x1": 153.02888,
+            "bottom": 639.7960787944025
+          },
+          "content_hash": "e9ef8a95e0f6f0942d5c2d423496d26226a32177fadbdcd9eb5d57960785d529",
+          "text": "Issue No. 27/2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 513.46,
+            "top": 652.9423599999999,
+            "x1": 550.90888,
+            "bottom": 644.3560787944025
+          },
+          "content_hash": "1d65e00626783cf13fce14418381a108ed7b4e0c4d69ab198850322c45ee7fd9",
+          "text": "Page 6"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 185.3,
+            "top": 749.1,
+            "x1": 430.738,
+            "bottom": 709.02
+          },
+          "content_hash": "0481e319a9c675d6589c99008854f41e843e5f76d09d0c2311d8586298ea8e37",
+          "text": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 5,
+          "bbox": {
+            "x0": 37.953346252441406,
+            "top": 782.0572462081909,
+            "x1": 160.66700744628906,
+            "bottom": 661.1341247558594
+          },
+          "content_hash": "7d9082e013d908efc62134296cc5c025a7929b14978125102e6b34f21ceafbf7",
+          "caption": null,
+          "image_base64": null
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "layout_docling"
+    },
+    {
+      "page_number": 6,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 46.32,
+            "top": 25.583999999999946,
+            "x1": 149.0022936512,
+            "bottom": 14.543999999999983
+          },
+          "content_hash": "b70ef35ba17e5971cb6d87868b392c7f8a1dedc796c279a60ad954de35689d01",
+          "text": "Fax:  +251 111 115470"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 46.32,
+            "top": 39.024,
+            "x1": 149.27504,
+            "bottom": 27.984000000000037
+          },
+          "content_hash": "7efa7722cb208df8190bb3ed3ebd6704109ca18e46b44f1dd2bc945ca6390efc",
+          "text": "+251 111 115131"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 383.11,
+            "top": 46.05600000000004,
+            "x1": 539.99420395,
+            "bottom": 34.8371908396947
+          },
+          "content_hash": "54241c2b5833fcb3ffe3b29e6ee55ab5f784759d8bf2ac994911f5093128c34b",
+          "text": "P.O.Box\u1361 1143"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 46.32,
+            "top": 52.46399999999994,
+            "x1": 149.27504,
+            "bottom": 41.42399999999998
+          },
+          "content_hash": "15612c8793833cd59e58ed32f2ae2f0dcc33645ee49df952f9344d951b22d804",
+          "text": "+251 111 564226"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 383.11,
+            "top": 62.039999999999964,
+            "x1": 476.38300000000004,
+            "bottom": 51.60375903614454
+          },
+          "content_hash": "e29d2bb51517a7082269f8b5e410714f6a9b94ebbbbd70a978d6171dfe232606",
+          "text": "Website"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 476.5,
+            "top": 62.375999999999976,
+            "x1": 569.272,
+            "bottom": 51.157190839694636
+          },
+          "content_hash": "29b76ebf280ac707962b76ffb2b25cfa8a88c060d03eb2f820873f523fc9018a",
+          "text": ": www.ess.gov.et"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 46.32,
+            "top": 65.904,
+            "x1": 149.27504,
+            "bottom": 54.86400000000003
+          },
+          "content_hash": "eeafb3339d0387e403c2a59c7af74f00c540ca0b256d0e92b5e94c71c4fb8dac",
+          "text": "Tele: +251 111 568464"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 183.02,
+            "top": 63.45024000000001,
+            "x1": 373.67416000000003,
+            "bottom": 30.3536385542169
+          },
+          "content_hash": "982cacc1eaf90f7fe84430977ee92b53f06bbaa5ed7b4efc837b345a5c655f22",
+          "text": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303"
+        },
+        {
+          "block_type": "table",
+          "page_number": 6,
+          "bbox": {
+            "x0": 69.39173889160156,
+            "top": 457.80206298828125,
+            "x1": 548.8726196289062,
+            "bottom": 120.99847412109375
+          },
+          "content_hash": "05908df06256fdfa418d56b89fa3aae4225a5ca038e12394e9d2ed5d47c44dec",
+          "headers": [
+            "Month",
+            "12 Months moving Average Overall CPI",
+            "12-Month Moving Average overall Inflation"
+          ],
+          "rows": [
+            [
+              "September -EFY2017",
+              "444.9",
+              "23.8"
+            ],
+            [
+              "October",
+              "451.5",
+              "22.9"
+            ],
+            [
+              "November",
+              "457.5",
+              "22.0"
+            ],
+            [
+              "December",
+              "463.4",
+              "21.0"
+            ],
+            [
+              "January",
+              "469.0",
+              "19.9"
+            ],
+            [
+              "February",
+              "474.4",
+              "18.9"
+            ],
+            [
+              "March",
+              "479.5",
+              "17.9"
+            ],
+            [
+              "April",
+              "484.9",
+              "17.1"
+            ],
+            [
+              "May",
+              "490.3",
+              "16.5"
+            ],
+            [
+              "June",
+              "495.6",
+              "16.0"
+            ],
+            [
+              "July",
+              "500.9",
+              "15.6"
+            ],
+            [
+              "August",
+              "506.2",
+              "15.3"
+            ],
+            [
+              "September-EFY2018",
+              "511.4",
+              "15.0"
+            ]
+          ],
+          "html_representation": ""
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 50.88,
+            "top": 488.22999999999996,
+            "x1": 483.67504,
+            "bottom": 477.19
+          },
+          "content_hash": "27546afe13c83499c918e531d7ccad40ea1d46eb1d1d067097d1052e21a28998",
+          "text": "Table 4. Overall CPI and 12-month moving average Overall Inflation rate September  EEFY2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 56.52,
+            "top": 578.0500000000001,
+            "x1": 559.14184,
+            "bottom": 513.1
+          },
+          "content_hash": "743b321beb1918c0ee22649bb0f462661fde661d33fb9b9b327086339566ed81",
+          "text": "The 12-month moving average figures provides a broader perspective on inflation trends over a longer period. As it is indicated in Table below the country level overall inflation rate (annual change based on 12  months  Moving  Average )  was 15.0 percent in September EFY2018 as compared to the one observed in a similar period a year ago. Since EFY2016 inflation has been relatively eased in the country."
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 62.28,
+            "top": 620.8299999999999,
+            "x1": 456.72304,
+            "bottom": 606.79
+          },
+          "content_hash": "3de8817d0697324a25a77b2320268586a5b17f29fe55048c7ed5df9df3417a41",
+          "text": "3:  12-Month Moving Average General, Food and Non-food Inflation"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 522.22,
+            "top": 654.50236,
+            "x1": 559.66888,
+            "bottom": 645.9160787944026
+          },
+          "content_hash": "ba4a1963f174d68d972ece3b4036611c64821f28d0e823a66a8c40faead4fff8",
+          "text": "Page 7"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 185.3,
+            "top": 749.1,
+            "x1": 430.738,
+            "bottom": 709.02
+          },
+          "content_hash": "c2d2e5ec313f461da109744f34d6791e965b7889b61ee266da7686fcded5d1d9",
+          "text": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 6,
+          "bbox": {
+            "x0": 38.196250915527344,
+            "top": 781.9756603240967,
+            "x1": 160.6891632080078,
+            "bottom": 663.2866668701172
+          },
+          "content_hash": "e764918eff0a24efce1d28afcbf2c989bba52f8298fcdcf59f7fbf0a56a4ef1b",
+          "caption": null,
+          "image_base64": null
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "layout_docling"
+    },
+    {
+      "page_number": 7,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 46.32,
+            "top": 25.583999999999946,
+            "x1": 149.0022936512,
+            "bottom": 14.543999999999983
+          },
+          "content_hash": "1f5a8ef9d5479604b83828042ff6e792bc5ec689e2d83d2c888aba3447ce3c68",
+          "text": "Fax:  +251 111 115470"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 46.32,
+            "top": 39.024,
+            "x1": 149.27504,
+            "bottom": 27.984000000000037
+          },
+          "content_hash": "ed7fc9498bd1ad6de783d6ef049376caf2cd39bae9b62701c0559caac0474ca0",
+          "text": "+251 111 115131"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 383.11,
+            "top": 46.05600000000004,
+            "x1": 539.99420395,
+            "bottom": 34.8371908396947
+          },
+          "content_hash": "cc559d937d1055f572da5d4d6ff9a9cbe4d4e6bde18867b4a9db871d4a0e232f",
+          "text": "P.O.Box\u1361 1143"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 46.32,
+            "top": 52.46399999999994,
+            "x1": 149.27504,
+            "bottom": 41.42399999999998
+          },
+          "content_hash": "69529259a15f509de90d59b72fdec646812ccb8d8ae71dd28a823c06ba2c524b",
+          "text": "+251 111 564226"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 383.11,
+            "top": 62.039999999999964,
+            "x1": 476.38300000000004,
+            "bottom": 51.60375903614454
+          },
+          "content_hash": "76e47aac9df69c5242090b1da1b3236463c38d8ddb420d1bd7d63128af7219e7",
+          "text": "Website"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 476.5,
+            "top": 62.375999999999976,
+            "x1": 569.272,
+            "bottom": 51.157190839694636
+          },
+          "content_hash": "c05691f6181d35c4177fc0f7dbb7c89ad47f7faf5d152e7b9e1cda46a20b3fbe",
+          "text": ": www.ess.gov.et"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 46.32,
+            "top": 65.904,
+            "x1": 149.27504,
+            "bottom": 54.86400000000003
+          },
+          "content_hash": "f85118278ebd4d8385876c564eea79a3fbb5e5fc277e0c28f1953b208c528a25",
+          "text": "Tele: +251 111 568464"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 183.02,
+            "top": 63.45024000000001,
+            "x1": 373.67416000000003,
+            "bottom": 30.3536385542169
+          },
+          "content_hash": "e50b6bac87d0c974d402dbdc66672ee12cced7a4d762a5f7aabbd998287d001c",
+          "text": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303"
+        },
+        {
+          "block_type": "table",
+          "page_number": 7,
+          "bbox": {
+            "x0": 40.03445053100586,
+            "top": 466.4430236816406,
+            "x1": 547.979736328125,
+            "bottom": 164.1890869140625
+          },
+          "content_hash": "40178c09bc41ee243e7fc79962f25df48d605d46c3ba095fc0c2b548c3e20adb",
+          "headers": [
+            "Month",
+            "12-month moving average Food Inflation",
+            "12-month moving average Non-Food Infla- tion"
+          ],
+          "rows": [
+            [
+              "September -EFY2017",
+              "26.1",
+              "20.4"
+            ],
+            [
+              "October",
+              "25.1",
+              "19.0"
+            ],
+            [
+              "November",
+              "24.4",
+              "18.4"
+            ],
+            [
+              "December",
+              "23.5",
+              "17.5"
+            ],
+            [
+              "January",
+              "22.1",
+              "16.7"
+            ],
+            [
+              "February",
+              "20.8",
+              "16.1"
+            ],
+            [
+              "March",
+              "19.3",
+              "15.7"
+            ],
+            [
+              "April",
+              "18.1",
+              "15.7"
+            ],
+            [
+              "May",
+              "17.0",
+              "15.7"
+            ],
+            [
+              "June",
+              "16.2",
+              "15.8"
+            ],
+            [
+              "July",
+              "15.5",
+              "15.8"
+            ],
+            [
+              "August",
+              "15.0",
+              "15.9"
+            ],
+            [
+              "September-EFY2018",
+              "14.4",
+              "15.9"
+            ]
+          ],
+          "html_representation": ""
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 45.84,
+            "top": 499.63,
+            "x1": 520.4562400000001,
+            "bottom": 475.15000000000003
+          },
+          "content_hash": "a0713bbcb291c79239e4862a2132e260cdf5e25e3d5df330eabbd2d454e0ace5",
+          "text": "Table 5: 12-month moving average Food and Non-Food Inflation rate (September EFY2017 - September EFY2018)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 65.52,
+            "top": 573.9399999999999,
+            "x1": 557.3663200000003,
+            "bottom": 522.67
+          },
+          "content_hash": "7f32a9ecbc21279fad24afb859536050b81a333214c2e16f16e76c960c71b0e0",
+          "text": "Dis-aggregated, 12-month moving average food inflation increased by 14.4 percent as compared to the one observed a year ago and non-food inflation rate increased by 15.9 percent in September EFY2018 as compared to the one observed in September EFY2017."
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 73.704,
+            "top": 608.38,
+            "x1": 551.47504,
+            "bottom": 597.34
+          },
+          "content_hash": "20c2853d3c6a5e383eddf9f684e130c813a8e10d9f2cfe660c112ebc965223fa",
+          "text": "12-month moving average Food and Non-Food Inflation rate (September EFY2017 - September EFY2018)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 57.6,
+            "top": 654.50236,
+            "x1": 155.42888,
+            "bottom": 645.9160787944026
+          },
+          "content_hash": "ceb9b618033da3b26ccacf0942ebd4a8f889f81c1b17176d1a808838f3a02c0c",
+          "text": "Issue No. 27/2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 522.22,
+            "top": 654.50236,
+            "x1": 559.66888,
+            "bottom": 645.9160787944026
+          },
+          "content_hash": "e0c365b1f5bd7a2cbed947a2adc1550b3f1136685cc7e64a6ccbaed7364bbdad",
+          "text": "Page 8"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 185.3,
+            "top": 749.1,
+            "x1": 430.738,
+            "bottom": 709.02
+          },
+          "content_hash": "1925b1984f333733c8060dfcd6dd19b37f354f644cdc89735e96622ae449f5b8",
+          "text": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 7,
+          "bbox": {
+            "x0": 38.177589416503906,
+            "top": 782.1832761764526,
+            "x1": 160.66744995117188,
+            "bottom": 663.1138153076172
+          },
+          "content_hash": "f3c7abf68ceaed7d4296284c92bd88337514a42a9cf7f3dc57a3178739212699",
+          "caption": null,
+          "image_base64": null
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "layout_docling"
+    },
+    {
+      "page_number": 8,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 185.3,
+            "top": 42.89999999999998,
+            "x1": 430.738,
+            "bottom": 60.89999999999998
+          },
+          "content_hash": "b9f402a42111509c5c820cc1665f9e299ba1466c4fea19b7190c50c26c0bac06",
+          "text": "ETHIOPIAN STATISTICAL SERVICE"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 239.09,
+            "top": 64.98000000000002,
+            "x1": 376.978,
+            "bottom": 82.98000000000002
+          },
+          "content_hash": "3478fd90e4af0c8a1eac92e60adea9739aa65c39bb284d60ef765f3722e72471",
+          "text": "Statistical Bulletin"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 57.6,
+            "top": 136.71079999999995,
+            "x1": 559.66888,
+            "bottom": 146.67079999999999
+          },
+          "content_hash": "aeef892c16ad819848da3d411a8fcf56c6005f5e163d8aa4d48460519ed52a91",
+          "text": "Issue No. 27/2018   Page 9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 73.704,
+            "top": 174.5,
+            "x1": 268.22504000000004,
+            "bottom": 185.53999999999996
+          },
+          "content_hash": "aee650e1ead1bf9ec70d82a8633678efd085446c0e7eb4c6b5618dd34521176d",
+          "text": "Recent Improvements in  CPI  Price survey"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 206.20039999999995,
+            "x1": 556.68828,
+            "bottom": 215.68039999999996
+          },
+          "content_hash": "b022e7368b009e9741c842da48e97d88ca85dbdd2d2e4e4693d3ad0e7d9b724f",
+          "text": "The monthly consumer price data collection first started in Addis Ababa in 1963 (1955 E.C).  The consumer price survey"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 228.16039999999998,
+            "x1": 556.7736000000004,
+            "bottom": 237.6404
+          },
+          "content_hash": "db3824e3e2dae57a2e7348b36f251854a645c85ea0f0cffb633d28aae8061b01",
+          "text": "which started in the capital city helped to prepare Consumer Price Index (CPI) for the city of Addis Ababa which was used as"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 250.2403999999999,
+            "x1": 556.9631999999999,
+            "bottom": 259.7203999999999
+          },
+          "content_hash": "e61b4811df4c82371ecad514733708be533b4e4a02af7687e48529b7fd027b3c",
+          "text": "an indicator of national price movement for long time periods. Starting from December 2000 GC, CPI coverage expanded to 9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 272.3503999999999,
+            "x1": 556.7546400000004,
+            "bottom": 281.8304
+          },
+          "content_hash": "b4f4797512d5b62f8dad90fc2ad3ea5ceb54cc512ef50383f2b6f4964bbc9475",
+          "text": "regions and 2 city administrations. Through this approach a number of zones were first selected and in each zone two"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 294.3104,
+            "x1": 556.8115200000001,
+            "bottom": 303.79040000000003
+          },
+          "content_hash": "9ff66585a3dfffbb0370cae67304d4c4db0d39dffc44b7274f880e32b6bd68e8",
+          "text": "Woredas were selected. From the 2 Woredas a list of 8 markets were prepared and ranked by size (population), importance"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 316.3904,
+            "x1": 556.6788000000003,
+            "bottom": 325.8704
+          },
+          "content_hash": "06678b81b560a1e724feccdc1caf4f9a25d38d1de2d1f9dde25b809b7389cec2",
+          "text": "of the market, wide variety of goods sold and, use of the market by both urban and rural households. From each zone two"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 338.3504,
+            "x1": 556.8494400000004,
+            "bottom": 347.8304
+          },
+          "content_hash": "069d1bfe9b6e7e189ccd766cbd4e7173a978a9d66b900f2792c0db886d364333",
+          "text": "urban markets were selected for price data collection. However, these 120 markets selected  25 years ago and become less"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 360.4304,
+            "x1": 557.61268,
+            "bottom": 369.91040000000004
+          },
+          "content_hash": "0e8a8d131c281f1f24219ab69cd2f7de9cc25c1074bfb1454f54343ef3060b95",
+          "text": "representative given the fast growth in regional towns and cities in terms of population, economic activities, and the creation"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 382.5104,
+            "x1": 554.2234800000003,
+            "bottom": 391.9904
+          },
+          "content_hash": "6774821b581cb80e93c8d98d190eb9596fc44cad2b09bf5890fe4134c686ab90",
+          "text": "of new administrative structures. Furthermore, complaints were raised by stakeholders from time to time that the CPI cover-"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 404.4704,
+            "x1": 557.23936,
+            "bottom": 413.9504
+          },
+          "content_hash": "e9ff1967e6cdd604e6f0766442b494868016e8e49863bed20f4ca8893d70d86c",
+          "text": "age has been limited to 120 urban markets for a quarter of a century in-spite of big structural and economic changes in the"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 426.5504,
+            "x1": 102.85544,
+            "bottom": 436.03040000000004
+          },
+          "content_hash": "9253ab077d9687b3c767533486301f0c6b4313ddfa2dbb7d794b5ff815839250",
+          "text": "country."
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 448.54,
+            "x1": 554.9830000000001,
+            "bottom": 457.54
+          },
+          "content_hash": "642a0b090eef192feab1a92c72e9863760fed063e4ebedf63f3115a11b2608a3",
+          "text": "This led the Ethiopian Statistics Service to review data collection sample markets that are representative following a consistent ap-"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 469.42,
+            "x1": 557.4699999999999,
+            "bottom": 478.42
+          },
+          "content_hash": "e38715e40c785f0ebf7b7a670c3091bc3652b3884cf6c00b770c6a0b92d6d5ee",
+          "text": "proach applied to select the existing 120 markets.  This exercise led to the selection of  80 new markets. This makes a total of 200"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 490.3,
+            "x1": 557.317,
+            "bottom": 499.3
+          },
+          "content_hash": "560fda12f30a42cdc3a2b1a2a6a936374d48ca91d8fc0e6e5fcba74e1ffedc1e",
+          "text": "markets (120 old markets and 80 new markets) for price survey. To see what effect the new market selection could have on the CPI"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 511.18,
+            "x1": 555.127,
+            "bottom": 520.1800000000001
+          },
+          "content_hash": "72f9807a9107ee58d1ddfcbf29daf3adee59dd557711094908cdaa84965e9aa0",
+          "text": "series, Pilot Surveys were conducted in the newly selected 80 markets starting from September 2024. In the subsequent piloting ex-"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 532.06,
+            "x1": 534.8019999999999,
+            "bottom": 541.06
+          },
+          "content_hash": "8d5df0c256ffac8cc5dd34f402486d813556a948be43148c3aea1acad36fb44f",
+          "text": "ercises conducted for one year CPI results showed negligible differences between 120 markets and the combined 200 markets."
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 563.5,
+            "x1": 557.1410000000001,
+            "bottom": 572.5
+          },
+          "content_hash": "641255e6a5cf6aa2da1b08a0f43321ff39a28e1fb8d20769516ebc87c0e1289f",
+          "text": "This exercise was a milestone for the next CPI re-basing which is planned for December 2025=100 using the weights to be derived"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 584.38,
+            "x1": 556.929,
+            "bottom": 593.38
+          },
+          "content_hash": "29a9742d484a1788a3c9290853448208f74167cf13f58cb876c6f714f10c51ab",
+          "text": "from 2017 EFY National Integrated Household Survey.  Furthermore, these 80 new markets are important in order to include the"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 605.29,
+            "x1": 557.482,
+            "bottom": 614.29
+          },
+          "content_hash": "2a2c56c3988c0ae1a5f1de14ffcc312bf68bbe24ecfe028c9e1bcbaa8097b191",
+          "text": "four newly emerged regional sates of Sidama, South, South West and Central Ethiopia for the future CPI compilation. Accordingly,"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 626.2804,
+            "x1": 557.4358000000001,
+            "bottom": 635.7604
+          },
+          "content_hash": "a0d6276229aa40c6d60b62835281f3218643b82f946cd039a516487bceaa9472",
+          "text": "the ESS has decided to do the price data collection and CPI production using the combined 200 markets(120 old+80 new) starting"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 65.52,
+            "top": 648.3604,
+            "x1": 128.89544,
+            "bottom": 657.8404
+          },
+          "content_hash": "4a43ba1d6c03a93824ff2cfa78ef51695ffbbaa5fc3958aab738930b76c20966",
+          "text": "from May 2025."
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 46.32,
+            "top": 726.096,
+            "x1": 569.272,
+            "bottom": 741.3
+          },
+          "content_hash": "83c018fd7f5ec8ffc14903eb67a30b54af460699a25b8be8feb3cbde3469f700",
+          "text": "Tele: +251 111 568464  YOUR RELIABLE DATA SOURCE          Website: www.ess.gov.et"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 46.32,
+            "top": 739.5360000000001,
+            "x1": 149.27504,
+            "bottom": 750.576
+          },
+          "content_hash": "c2c79eaaf8c34c1a3964239362daf2cd8a1dd031966f1ea063aec8aa440d5e3d",
+          "text": "+251 111 564226"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 207.41,
+            "top": 744.876,
+            "x1": 543.436,
+            "bottom": 762.876
+          },
+          "content_hash": "aedfa5b61c4483e38b821e05ee2dccad03ed7da65855a78878695e8b7d961578",
+          "text": "\u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303                P.O.Box\u1361 1143"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 46.32,
+            "top": 752.976,
+            "x1": 149.27504,
+            "bottom": 764.016
+          },
+          "content_hash": "61052d6e6d2ba3ade663d0fb34211c7c4c6005e344b3be8abfde9e245e9d3937",
+          "text": "+251 111 115131"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 46.32,
+            "top": 766.416,
+            "x1": 149.0022936512,
+            "bottom": 777.456
+          },
+          "content_hash": "e343b9abacf4c2e2e61d3e9b116103f183c9510e3ea85b4083e8681cfd08fe9b",
+          "text": "Fax:  +251 111 115470"
+        }
+      ],
+      "page_confidence": 0.6996107454240114,
+      "strategy_used": "fast_text"
+    },
+    {
+      "page_number": 9,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 46.32,
+            "top": 25.583999999999946,
+            "x1": 149.0022936512,
+            "bottom": 14.543999999999983
+          },
+          "content_hash": "0f0da4dfe34020881fe02097d9e18cfad12928e78ea611c57005e8c55eaf35e8",
+          "text": "Fax:  +251 111 115470"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 46.32,
+            "top": 39.024,
+            "x1": 149.27504,
+            "bottom": 27.984000000000037
+          },
+          "content_hash": "5d0e2af4a51af6657036e2e13185e45b4e9591e1f9bf8702530be74ea4887962",
+          "text": "+251 111 115131"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 383.11,
+            "top": 46.05600000000004,
+            "x1": 539.99420395,
+            "bottom": 34.8371908396947
+          },
+          "content_hash": "11fab428e7897a2f74208194eb9987d804412cceb6779cacbb75b4bf7b1a72a7",
+          "text": "P.O.Box\u1361 1143"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 46.32,
+            "top": 52.46399999999994,
+            "x1": 149.27504,
+            "bottom": 41.42399999999998
+          },
+          "content_hash": "a4abc93077549140fd61287253b2ada03f073a56d034ddbc1de3ba3847f4a3dd",
+          "text": "+251 111 564226"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 383.11,
+            "top": 62.039999999999964,
+            "x1": 476.38300000000004,
+            "bottom": 51.60375903614454
+          },
+          "content_hash": "1e28a84fae10a88d7c6c86fd027b8d7e3a9928941f66aef2d03998013ae4ba83",
+          "text": "Website"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 476.5,
+            "top": 62.375999999999976,
+            "x1": 569.272,
+            "bottom": 51.157190839694636
+          },
+          "content_hash": "83859daf5e7438a01da13db4991180d3443e7719b133431e871d8e7dba496160",
+          "text": ": www.ess.gov.et"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 46.32,
+            "top": 65.904,
+            "x1": 149.27504,
+            "bottom": 54.86400000000003
+          },
+          "content_hash": "a4a0e7e7fe2cfe61da88c6f8799dc7a10b7c94d790a561d32bc12eb1ca4b3eea",
+          "text": "Tele: +251 111 568464"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 183.02,
+            "top": 63.45024000000001,
+            "x1": 373.67416000000003,
+            "bottom": 30.3536385542169
+          },
+          "content_hash": "0f5599a7d1ed73d543dba25990e6511d450576580b03e1ea5d297bf435704921",
+          "text": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 50.88,
+            "top": 188.65999999999997,
+            "x1": 562.2721600000002,
+            "bottom": 97.10400000000004
+          },
+          "content_hash": "b6d2ec7c829e4c5ece151a64cc7f5b3b9e31fab2fcbd8e75bfafe69c72f4b70d",
+          "text": "The average annual general inflation rate for the country stood at (16.0 %) in EFY2017 compared to (26.6 %) in EFY2016 . The past three years were unfavorable for the households, due to high inflation in the country. Specially, in the year EFY2014 and EFY2015, the inflation rate has been over 30 percent for most months. Internal and external factors forced the inflation to be at higher level; COVID19, internal conflict, and Russia-Ukraine War were the major factors."
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 66.66666666666667,
+            "top": 220.0,
+            "x1": 538.6666666666667,
+            "bottom": 205.66666666666674
+          },
+          "content_hash": "2da12eafc94b95ddb1c8114f69d8e9c1ebfc743ca89c0b16329e7be380e94199",
+          "text": "207 9007 9107 1107 9107 707 1007 0007 6007 8007 2007 9007 5007"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 219.66666666666666,
+            "top": 309.33333333333337,
+            "x1": 243.33333333333334,
+            "bottom": 291.0
+          },
+          "content_hash": "4f097248da0d01a93902b46e00851e5ad8a70c614935be1447252022ad395975",
+          "text": "7.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 110.0,
+            "top": 316.33333333333337,
+            "x1": 134.33333333333331,
+            "bottom": 299.66666666666663
+          },
+          "content_hash": "a6541f310bcb6f6a54b093a2cac2ba7625e1bff7e6aeac45dbbe94060766e8ef",
+          "text": "8.1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 145.66666666666669,
+            "top": 314.0,
+            "x1": 169.66666666666669,
+            "bottom": 297.33333333333337
+          },
+          "content_hash": "b46a95dbc9999e2e5a01438989ab600020ec2ff2807e06b3711d8eee94f19798",
+          "text": "7.7"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 182.33333333333334,
+            "top": 328.66666666666663,
+            "x1": 207.0,
+            "bottom": 311.0
+          },
+          "content_hash": "d6ca798b892409e43861d5d91a29da4a4bf4fcd43f8043209c4f0070491a2a43",
+          "text": "9.7"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 289.33333333333337,
+            "top": 349.33333333333337,
+            "x1": 320.6666666666667,
+            "bottom": 332.0
+          },
+          "content_hash": "66a41336271d332d45b7cef51defe951cf07ff7286c037a72498eadf6339a3d7",
+          "text": "12.6"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 68.66666666666667,
+            "top": 358.66666666666663,
+            "x1": 100.0,
+            "bottom": 341.0
+          },
+          "content_hash": "de87a7d6569c324dc72362a41a31875bb80cf8107895b15fa002f7878aa5b7c6",
+          "text": "13.9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 510.3333333333333,
+            "top": 373.66666666666663,
+            "x1": 541.0,
+            "bottom": 356.66666666666663
+          },
+          "content_hash": "f0fed3116499d51fea66f3da45eefcbb237dcb82174fcf9b8556caeaa86d1382",
+          "text": "16.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 252.66666666666666,
+            "top": 383.33333333333337,
+            "x1": 284.33333333333337,
+            "bottom": 366.0
+          },
+          "content_hash": "42aeb6618259e87c562354d9f69832e21dbb07e5e2bb07d8ff8bdf608d99d280",
+          "text": "17.4"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 325.0,
+            "top": 402.0,
+            "x1": 395.0,
+            "bottom": 385.0
+          },
+          "content_hash": "718308f97af6d3cc9165dd5e611b06a3e333586ae46341030e25670d33d98dd5",
+          "text": "19.9 20.1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 473.3333333333333,
+            "top": 449.0,
+            "x1": 504.6666666666667,
+            "bottom": 431.6666666666667
+          },
+          "content_hash": "6a41e957eba9c53b1d7c16e3f8d35d6bc1cf6492d7721ccf3d882da7b9d0a256",
+          "text": "26.6"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 436.3333333333333,
+            "top": 492.6666666666667,
+            "x1": 467.6666666666667,
+            "bottom": 474.0
+          },
+          "content_hash": "a710d3faa6924c891d1d47c1754db70dd8d554e99122543f4171b6a7cfc5746c",
+          "text": "32.6"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 399.6666666666667,
+            "top": 500.0,
+            "x1": 431.3333333333333,
+            "bottom": 482.3333333333333
+          },
+          "content_hash": "1afc705534229d8d2d9a588c649501b0d6313f7e8fe4710756eae2080bd51630",
+          "text": "33.7"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 9,
+          "bbox": {
+            "x0": 62.129730224609375,
+            "top": 522.939208984375,
+            "x1": 543.8583374023438,
+            "bottom": 205.671142578125
+          },
+          "content_hash": "ef8ee6c84fa60df2c68226bb461b1affd16d9d7cd246304ed783c9261eb8d22c",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 95.064,
+            "top": 555.3399999999999,
+            "x1": 506.69823999999994,
+            "bottom": 544.3
+          },
+          "content_hash": "214f06f6c4ffd0151d6e2291dd57b4d6cfa48ad7ab6cadfa3929bbc2d0b5a1d4",
+          "text": "Fig 3: Average Annual General inflation in Ethiopia since Ethiopian EFY2005 (Year-on-Year)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 61.56,
+            "top": 600.3399999999999,
+            "x1": 553.5169599999999,
+            "bottom": 569.14
+          },
+          "content_hash": "6b3b91ae9e7c3dcd08610052b9e46683a4cab0facd8658d661545ab2a53a1196",
+          "text": "Relatively low and reduction in inflation rate was observed between 2005 and 2009. Since EFY2010 inflation rate stick to double digit."
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 55.56,
+            "top": 633.19,
+            "x1": 215.0,
+            "bottom": 618.19
+          },
+          "content_hash": "6fb2b8ecba060b7a052a4ca2d4508c02e09ac9a5cb9070a9172268864e0fcc36",
+          "text": "4. Annual Inflation trend"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 518.02,
+            "top": 655.10236,
+            "x1": 561.58888,
+            "bottom": 646.5160787944026
+          },
+          "content_hash": "be3f9005d7c7ed7cc45e32d93847ecc7f5bd2bdb772e23a0af304b1622dc5910",
+          "text": "Page 10"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 50.88,
+            "top": 657.62236,
+            "x1": 148.70888,
+            "bottom": 649.0360787944026
+          },
+          "content_hash": "0ab9cc0467692bbb13411bdce6767a71cf5d40c9daaf0c9453248d3ff45bd6c5",
+          "text": "Issue No. 27/2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": {
+            "x0": 185.3,
+            "top": 749.1,
+            "x1": 430.738,
+            "bottom": 709.02
+          },
+          "content_hash": "995de58b70c0041f119996e34b05025d8f0e369599459649b2784c1fb66e2799",
+          "text": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 9,
+          "bbox": {
+            "x0": 38.2600212097168,
+            "top": 782.1597204208374,
+            "x1": 160.72776794433594,
+            "bottom": 663.2741546630859
+          },
+          "content_hash": "ef8ee6c84fa60df2c68226bb461b1affd16d9d7cd246304ed783c9261eb8d22c",
+          "caption": null,
+          "image_base64": null
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "layout_docling"
+    },
+    {
+      "page_number": 10,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 46.32,
+            "top": 25.583999999999946,
+            "x1": 149.0022936512,
+            "bottom": 14.543999999999983
+          },
+          "content_hash": "12482e7a5f416d22301f09b5e4bf7b0baba7817bc1d6b891a037acbfe1738adc",
+          "text": "Fax:  +251 111 115470"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 46.32,
+            "top": 39.024,
+            "x1": 149.27504,
+            "bottom": 27.984000000000037
+          },
+          "content_hash": "689eeb5fbaae1028159f56051dca21a0dc0be5c1dcdccc8543f8f9fed9451b52",
+          "text": "+251 111 115131"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 383.11,
+            "top": 46.05600000000004,
+            "x1": 539.99420395,
+            "bottom": 34.8371908396947
+          },
+          "content_hash": "c6965152432797925da171b7e78aaf4728c69adf97c88fb33581c2829b03df62",
+          "text": "P.O.Box\u1361 1143"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 46.32,
+            "top": 52.46399999999994,
+            "x1": 149.27504,
+            "bottom": 41.42399999999998
+          },
+          "content_hash": "bdea75bbe934cbcca392aa9dbc7679da41900468a06fe4416ccc60c6286492dd",
+          "text": "+251 111 564226"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 383.11,
+            "top": 62.039999999999964,
+            "x1": 476.38300000000004,
+            "bottom": 51.60375903614454
+          },
+          "content_hash": "e2cd49fdac1b10fdb68c5d99dad21a47f7637bdad0fa0faafef06209763fe309",
+          "text": "Website"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 476.5,
+            "top": 62.375999999999976,
+            "x1": 569.272,
+            "bottom": 51.157190839694636
+          },
+          "content_hash": "e124fde39d4d42956664ffa708d84daa0158e8a0dd3ae1771139adf0e3b5df14",
+          "text": ": www.ess.gov.et"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 46.32,
+            "top": 65.904,
+            "x1": 149.27504,
+            "bottom": 54.86400000000003
+          },
+          "content_hash": "bcf2069e477b963dc3e1608c1366446c344b61a8d80597f755f4303f6968b62c",
+          "text": "Tele: +251 111 568464"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 183.02,
+            "top": 63.45024000000001,
+            "x1": 373.67416000000003,
+            "bottom": 30.3536385542169
+          },
+          "content_hash": "cbcb6211ff8f0e5ab5d5ec14d706103a7d28ed5eb6c32f43e57854c89bd14878",
+          "text": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 61.8,
+            "top": 190.97000000000003,
+            "x1": 545.8014400000002,
+            "bottom": 139.70000000000005
+          },
+          "content_hash": "8e23c80b172929242b0a5106561e383b299b379bdec3b7ff87baa5982421d372",
+          "text": "The average annual food inflation rate for the country stood at (16.2 %) in EFY2017 compared to (28.1 %) in EFY2016, about tweleve percentage point reduction compared to last year figure . But since 2010 the in- flation rate stacked at double digit."
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 57.0,
+            "top": 253.66666666666674,
+            "x1": 544.3333333333333,
+            "bottom": 237.33333333333326
+          },
+          "content_hash": "152a8abb743ecaad44bdd40c736ac9e47e852fbedeb1ad2f9f8fc32493df3879",
+          "text": "207 9007 5107 t107 9107 7107 1007 0007 6007 8007 2007 9007 5007"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 101.33333333333333,
+            "top": 338.3333333333333,
+            "x1": 126.0,
+            "bottom": 319.3333333333333
+          },
+          "content_hash": "cc0851a15266ed7104a383e3c464bf4f58dee9f412ad5ff551a27aad742989b4",
+          "text": "5.9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 215.0,
+            "top": 347.0,
+            "x1": 239.33333333333334,
+            "bottom": 328.3333333333333
+          },
+          "content_hash": "9f3845386429544c5603758aaa82dc5ac09515118980748b8793c6683360eb86",
+          "text": "7.2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 139.0,
+            "top": 349.0,
+            "x1": 163.66666666666669,
+            "bottom": 331.0
+          },
+          "content_hash": "a2afdacc821d1403832cfcacd34f08744d6e628b89a18c912258ef9d80eab031",
+          "text": "7.4"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 173.66666666666666,
+            "top": 376.33333333333337,
+            "x1": 204.66666666666666,
+            "bottom": 356.33333333333337
+          },
+          "content_hash": "4de179320ed0068035b376433094387349b424a64bd4f91c0670c76b0bf400ef",
+          "text": "11.3"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 59.33333333333333,
+            "top": 389.0,
+            "x1": 92.0,
+            "bottom": 371.0
+          },
+          "content_hash": "28ba5ed1582440c9bda149a59adc55b1c425ca1a33e791450d2cc66b16b4ddcd",
+          "text": "13.2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 249.33333333333334,
+            "top": 391.66666666666663,
+            "x1": 282.33333333333337,
+            "bottom": 372.0
+          },
+          "content_hash": "4a64f4a8bb673aa204ea19653eac4fd06f34ddcb590f9d28bf1dd79e8247433c",
+          "text": "13.5"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 273.66666666666663,
+            "top": 388.66666666666663,
+            "x1": 319.3333333333333,
+            "bottom": 370.33333333333337
+          },
+          "content_hash": "bbee4fafa697ac19c6ba5d917597121409782eefdfab53181428f0f07b856b7b",
+          "text": "513.1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 514.3333333333333,
+            "top": 410.0,
+            "x1": 546.0,
+            "bottom": 391.33333333333337
+          },
+          "content_hash": "d39a40ab590d14a82a744762d2b43b5d96ee36825ecb84030120d64095e569a0",
+          "text": "16.2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 325.0,
+            "top": 461.0,
+            "x1": 394.3333333333333,
+            "bottom": 439.0
+          },
+          "content_hash": "e1f1fa5538f759e10d811300a7b0a08180661ce59233f8bfe5f819521db1ff09",
+          "text": "23.323.1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 476.3333333333333,
+            "top": 493.6666666666667,
+            "x1": 508.0,
+            "bottom": 473.66666666666663
+          },
+          "content_hash": "feb098ddfabe717153b07cc450a20d36b052b403b15fd73da7a188246f9a1034",
+          "text": "28.1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 438.6666666666667,
+            "top": 519.6666666666667,
+            "x1": 470.3333333333333,
+            "bottom": 500.0
+          },
+          "content_hash": "0bc08e092e53fe133a591cd0e17b881bc3576ded77892a5ebd392e70773d15fc",
+          "text": "31.8"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 400.6666666666667,
+            "top": 577.3333333333334,
+            "x1": 433.0,
+            "bottom": 558.3333333333334
+          },
+          "content_hash": "2fef07a9854901e6945f72ab7820054db918e250bfa9522d39251fed5b632f85",
+          "text": "40.2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 118.94,
+            "top": 623.5,
+            "x1": 471.50823999999994,
+            "bottom": 612.46
+          },
+          "content_hash": "17f7597d7c29df016396f091329268cfcc4d77ffad0c114e56d7a4f72310c7c6",
+          "text": "Fig 4: Average Annual Food Inflation in Ethiopia since EFY2005 (Year-on-Year)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 57.6,
+            "top": 652.58236,
+            "x1": 155.42888,
+            "bottom": 643.9960787944026
+          },
+          "content_hash": "78d48a76d948e529a22588d2356ee33084dd548de212f7ce8bd868f86f10e19d",
+          "text": "Issue No. 27/2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 518.02,
+            "top": 654.50236,
+            "x1": 561.58888,
+            "bottom": 645.9160787944026
+          },
+          "content_hash": "4710af66a86f35e46c1505a54e548ccc8e54df5191b0935147487694382373f3",
+          "text": "Page 11"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 10,
+          "bbox": {
+            "x0": 42.254886627197266,
+            "top": 658.6317596435547,
+            "x1": 565.4474487304688,
+            "bottom": 73.46795654296875
+          },
+          "content_hash": "4beea7f3b89b71b096627c6567bed0e763f42666385394a83df49c518728742e",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 185.3,
+            "top": 749.1,
+            "x1": 430.738,
+            "bottom": 709.02
+          },
+          "content_hash": "a9cca5c04059cb43fa79f2529dfbf60d04393ac807015ac50c21b364404c8970",
+          "text": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 10,
+          "bbox": {
+            "x0": 38.27383041381836,
+            "top": 782.2794895172119,
+            "x1": 160.87440490722656,
+            "bottom": 662.4113159179688
+          },
+          "content_hash": "4beea7f3b89b71b096627c6567bed0e763f42666385394a83df49c518728742e",
+          "caption": null,
+          "image_base64": null
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "layout_docling"
+    },
+    {
+      "page_number": 11,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 46.32,
+            "top": 25.583999999999946,
+            "x1": 149.0022936512,
+            "bottom": 14.543999999999983
+          },
+          "content_hash": "15d17b171e55167f0064b5ea2862ecefcbec27f13461bf69ba2ee11b958b08a0",
+          "text": "Fax:  +251 111 115470"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 46.32,
+            "top": 39.024,
+            "x1": 149.27504,
+            "bottom": 27.984000000000037
+          },
+          "content_hash": "47509f37ba61eadfba7a9da9a932f6d32f82a51c6082c091ddc2879ec10c4d5c",
+          "text": "+251 111 115131"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 383.11,
+            "top": 46.05600000000004,
+            "x1": 539.99420395,
+            "bottom": 34.8371908396947
+          },
+          "content_hash": "af9cf132e9e86004592351107f00fcf004cff14b9f1383c9b88c9699adb75124",
+          "text": "P.O.Box\u1361 1143"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 46.32,
+            "top": 52.46399999999994,
+            "x1": 149.27504,
+            "bottom": 41.42399999999998
+          },
+          "content_hash": "13656632c6ec1c279614f5567af22c53e9333e102534d3809fd2ffa75be551e1",
+          "text": "+251 111 564226"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 383.11,
+            "top": 62.039999999999964,
+            "x1": 476.38300000000004,
+            "bottom": 51.60375903614454
+          },
+          "content_hash": "51f0b2332e0cc423ff597959a6dcc1ac9d7b5b0f1ef65ac822341a54d2056a0a",
+          "text": "Website"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 476.5,
+            "top": 62.375999999999976,
+            "x1": 569.272,
+            "bottom": 51.157190839694636
+          },
+          "content_hash": "8d5f6e006f3c413df36c00722883794ae27bec89b093068279a73b184fbcc9a8",
+          "text": ": www.ess.gov.et"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 46.32,
+            "top": 65.904,
+            "x1": 149.27504,
+            "bottom": 54.86400000000003
+          },
+          "content_hash": "e9f17c99c7ec15987a3a9862da8597ae3e3ff35fac4a3915200170c468f6eadd",
+          "text": "Tele: +251 111 568464"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 183.02,
+            "top": 63.45024000000001,
+            "x1": 373.67416000000003,
+            "bottom": 30.3536385542169
+          },
+          "content_hash": "78b930d507398e8bde081363151f402cce10ad597f016763107bcdf4b847b45f",
+          "text": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 52.8,
+            "top": 218.09000000000003,
+            "x1": 561.4350400000001,
+            "bottom": 106.34000000000003
+          },
+          "content_hash": "aa7e2e3a0965dce3016cf08260df69a5f8201cfed1416c1fa3f54941e2639b9c",
+          "text": "The average annual non-food inflation rate for the country stood at (15.8 %) in EFY2017 compared to (24.3 %) in EFY2016. Non-food inflation movement, in the past ten year is divided into two. Between 2005 and 2009 non- food inflation showed reduction and since then the rate demonstrate increasing trend until 2015. This is could be attached to Birr devaluation against USD, Russia-Ukraine War, and increase of international price of gasoline, as most of non-food items are imported or utilize imported raw materials. Relative easing of the non-food inflation for EFY2016 and 2017 is observed as a result of tight monetary policy in place to reduce bank credit."
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 63.33333333333333,
+            "top": 262.66666666666674,
+            "x1": 541.6666666666667,
+            "bottom": 247.33333333333326
+          },
+          "content_hash": "5fd5c0cf5946f0672459c8b741b7d67383f51f819519714842cca2882da54254",
+          "text": "2007 9007 9107 107 9107 707 1007 0007 6007 8007 2007 9007 5007"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 217.66666666666666,
+            "top": 361.33333333333337,
+            "x1": 242.0,
+            "bottom": 341.3333333333333
+          },
+          "content_hash": "e15af5922f36c5e02dc313c4fb1ebf119ab54576708bd9b76cead8d54a92866f",
+          "text": "7.4"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 144.0,
+            "top": 364.33333333333337,
+            "x1": 168.0,
+            "bottom": 347.33333333333337
+          },
+          "content_hash": "005be97a43de9b791ef4b06ffe2f96102f28f1f44cd1f120b417b834ad950057",
+          "text": "8.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 181.0,
+            "top": 364.66666666666663,
+            "x1": 204.0,
+            "bottom": 346.33333333333337
+          },
+          "content_hash": "005be97a43de9b791ef4b06ffe2f96102f28f1f44cd1f120b417b834ad950057",
+          "text": "8.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 102.33333333333334,
+            "top": 385.0,
+            "x1": 134.33333333333331,
+            "bottom": 366.66666666666663
+          },
+          "content_hash": "a8e35e128e90ea7ddcbec7377c3c167a258454ffad99724f5cae00ee1a058022",
+          "text": "10.6"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 289.0,
+            "top": 395.66666666666663,
+            "x1": 320.0,
+            "bottom": 376.33333333333337
+          },
+          "content_hash": "75e1cb6566d18b515d3beffbce9db8111c052a7884638579c4bf638491cabee5",
+          "text": "12.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 65.0,
+            "top": 418.0,
+            "x1": 97.0,
+            "bottom": 399.0
+          },
+          "content_hash": "6731a60d96ede7cc79513197a8ae1032020bda8399c65d99e241d21d3a042389",
+          "text": "15.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 251.66666666666666,
+            "top": 424.33333333333337,
+            "x1": 283.33333333333337,
+            "bottom": 405.33333333333337
+          },
+          "content_hash": "51db34ba71a70a58c0167a6775dbace27e01df4b25dbdd95c5e2038cca3318d7",
+          "text": "15.8"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 325.6666666666667,
+            "top": 424.33333333333337,
+            "x1": 358.3333333333333,
+            "bottom": 405.66666666666663
+          },
+          "content_hash": "51db34ba71a70a58c0167a6775dbace27e01df4b25dbdd95c5e2038cca3318d7",
+          "text": "15.8"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 512.6666666666667,
+            "top": 423.66666666666663,
+            "x1": 543.3333333333333,
+            "bottom": 405.66666666666663
+          },
+          "content_hash": "51db34ba71a70a58c0167a6775dbace27e01df4b25dbdd95c5e2038cca3318d7",
+          "text": "15.8"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 362.3333333333333,
+            "top": 428.0,
+            "x1": 395.3333333333333,
+            "bottom": 410.33333333333337
+          },
+          "content_hash": "6edba0f9fe996ecdf10ea616b66d0e52723d2135f6cd54424353fec4da078235",
+          "text": "16.4"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 474.6666666666667,
+            "top": 488.3333333333333,
+            "x1": 506.0,
+            "bottom": 468.33333333333337
+          },
+          "content_hash": "593a00d960abd151deef1c2c36d203c215b17638058a4fdc803c4d367359e718",
+          "text": "24.3"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 400.0,
+            "top": 493.0,
+            "x1": 432.3333333333333,
+            "bottom": 474.0
+          },
+          "content_hash": "2a32fe207b7ab260052833062c90b2f71a46a28aa6bb2417da10ef7a20130532",
+          "text": "25.0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 437.3333333333333,
+            "top": 559.6666666666666,
+            "x1": 469.3333333333333,
+            "bottom": 541.0
+          },
+          "content_hash": "5c6f3826402ef22a2092293aa163d6db970ca4a9966bee0c8aded2cf79a980e7",
+          "text": "33.8"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 110.06,
+            "top": 612.3399999999999,
+            "x1": 484.94823999999994,
+            "bottom": 601.3
+          },
+          "content_hash": "15b179c5e78cb65b2c22db9ba807f0ea55f51a25e81ad37be7c704d5e21ee528",
+          "text": "Fig 5: Average Annual Non-Food Inflation in Ethiopia since EFY2005 (Year-on-Year)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 57.6,
+            "top": 652.58236,
+            "x1": 155.42888,
+            "bottom": 643.9960787944026
+          },
+          "content_hash": "de482b795868559a6b0bc77f8b69dcf0ccc4ca171454b1f5dbf3ec2c2297ced2",
+          "text": "Issue No. 27/2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 518.02,
+            "top": 654.50236,
+            "x1": 561.58888,
+            "bottom": 645.9160787944026
+          },
+          "content_hash": "c2ef5d554edbd87a152711c261ec44f3cd32d8aab19447b573eced7de89f2a7b",
+          "text": "Page 12"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 11,
+          "bbox": {
+            "x0": 42.14468765258789,
+            "top": 660.6640014648438,
+            "x1": 565.4065551757812,
+            "bottom": 73.6063232421875
+          },
+          "content_hash": "c3ee61b5a5f1f6a836349812dde6126679399d5713336306cea9c4b7627ac4d4",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 185.3,
+            "top": 749.1,
+            "x1": 430.738,
+            "bottom": 709.02
+          },
+          "content_hash": "d8a49d5279331c132886f4c9fe62e0cdb64968bc61d1aa6fbd07875759ac731e",
+          "text": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 11,
+          "bbox": {
+            "x0": 38.260623931884766,
+            "top": 782.3637542724609,
+            "x1": 160.89625549316406,
+            "bottom": 663.2286376953125
+          },
+          "content_hash": "c3ee61b5a5f1f6a836349812dde6126679399d5713336306cea9c4b7627ac4d4",
+          "caption": null,
+          "image_base64": null
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "layout_docling"
+    },
+    {
+      "page_number": 12,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 46.32,
+            "top": 25.583999999999946,
+            "x1": 149.0022936512,
+            "bottom": 14.543999999999983
+          },
+          "content_hash": "60f417b662814c9e1c9035c6365581671d0a1c345c014846f40dd366c1148ad9",
+          "text": "Fax:  +251 111 115470"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 46.32,
+            "top": 39.024,
+            "x1": 149.27504,
+            "bottom": 27.984000000000037
+          },
+          "content_hash": "37caf8304000c1e35e473b25243bf45612c18a698249769da65df61b97e956db",
+          "text": "+251 111 115131"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 383.11,
+            "top": 46.05600000000004,
+            "x1": 539.99420395,
+            "bottom": 34.8371908396947
+          },
+          "content_hash": "0bd4e48680194ebe07394c2c8b0aa21ba8c9cecc14fbd9a49023026610a68c47",
+          "text": "P.O.Box\u1361 1143"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 46.32,
+            "top": 52.46399999999994,
+            "x1": 149.27504,
+            "bottom": 41.42399999999998
+          },
+          "content_hash": "7f505e8baa9818fa92083fb23a45a9273c49bee1535e748207e6d169d6ea16e8",
+          "text": "+251 111 564226"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 383.11,
+            "top": 62.039999999999964,
+            "x1": 476.38300000000004,
+            "bottom": 51.60375903614454
+          },
+          "content_hash": "51bd3146a0d5f7c836774de80122e5787feaa0c528827957e110d899244b355d",
+          "text": "Website"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 476.5,
+            "top": 62.375999999999976,
+            "x1": 569.272,
+            "bottom": 51.157190839694636
+          },
+          "content_hash": "79656f90a81e786c1762c525061f9d193422b680db04aba98d110de0bb57dde6",
+          "text": ": www.ess.gov.et"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 46.32,
+            "top": 65.904,
+            "x1": 149.27504,
+            "bottom": 54.86400000000003
+          },
+          "content_hash": "99ef04b2c4831a517d028e4a7cdede5f9ab2561ad862232a742ec6793fe3584a",
+          "text": "Tele: +251 111 568464"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 183.02,
+            "top": 63.45024000000001,
+            "x1": 373.67416000000003,
+            "bottom": 30.3536385542169
+          },
+          "content_hash": "c24dd0d7132b753d7adb3385bc361b8cf9f28850745ed11aa8dd0403c2ba107e",
+          "text": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 248.93,
+            "top": 275.56999999999994,
+            "x1": 535.6988000000005,
+            "bottom": 224.21000000000004
+          },
+          "content_hash": "17e9204e4ad6bc8d5d1499c3703b0f3e3ed45c82d333b603dad190c11fb5a9af",
+          "text": "\uf0b7 Index reference period (December EFY2009=100): The period with which all other periods are compared (the period for which the value of the CPI is set at 100)."
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 248.93,
+            "top": 356.09,
+            "x1": 535.6988000000003,
+            "bottom": 284.57
+          },
+          "content_hash": "8a98bfd61ab9839c99d71bf2975b31ac14207ce857e6b7376bd3ef3bfd627bb0",
+          "text": "\uf0b7 Month-to-Month  percentage  change: The  monthly  percentage change is the change in the index of the relevant month  compared  with  the  index  of  the  previous  month expressed as a percentage."
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 46.56,
+            "top": 371.11,
+            "x1": 224.03048,
+            "bottom": 335.69
+          },
+          "content_hash": "af6ce49ac0d00b31bb9f14b2dfd990637cbf3ede569d282a9707ef151ec30e11",
+          "text": "You can visit us on the Website at: http://www.ess.gov.et/"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 248.93,
+            "top": 436.63,
+            "x1": 535.83352,
+            "bottom": 365.23
+          },
+          "content_hash": "7499d2b7dc674e75cd36b29295e2349a8c14bf39bd923894fed91ab6b212920c",
+          "text": "\uf0b7 Year-on-Year  percentage  change: The  Yearly  percentage change is the change in the index of the relevant month of the  current  year  compared  with  the  index  of  the  same month in the previous year expressed as a percentage."
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 248.93,
+            "top": 476.95,
+            "x1": 535.8688000000002,
+            "bottom": 445.75
+          },
+          "content_hash": "13d2a5038cc24c2700745270cfee6c8eeb172e216faf48c775ab5facac056682",
+          "text": "\uf0b7 Non-food  Inflation :  inflation  which  covers  all  non-food items within the scope of the inflation."
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 81.024,
+            "top": 479.34999999999997,
+            "x1": 178.19503999999998,
+            "bottom": 468.31
+          },
+          "content_hash": "763072e5f26a86e9489f88973b4321f71b6566735b08ddad35ad78dbfe9b5512",
+          "text": "Postal address : 1143"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 248.93,
+            "top": 517.27,
+            "x1": 535.7256800000006,
+            "bottom": 486.07
+          },
+          "content_hash": "5f5b80b78ae4d0eb360ba3b3bac6cede842b0e2317055ca2be8773e92059cac7",
+          "text": "\uf0b7 Food Inflation : inflation which covers all food items within the scope of the inflation."
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 59.4,
+            "top": 519.91,
+            "x1": 202.07504,
+            "bottom": 495.43
+          },
+          "content_hash": "b379be32ac69a8be0d2027f0d21fc2a5b7b9a5ca60b62cc691cfc3d9161c09c7",
+          "text": "Email: alemteferig@gmail.com alemayehu.teferi@ess.gov.et"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 80.064,
+            "top": 577.9,
+            "x1": 175.892,
+            "bottom": 551.14
+          },
+          "content_hash": "550d4970ff47db6d86945b0e6265cb186fd84bb565fa02880cec537df414c367",
+          "text": "Telephone number +251 111 568464"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 248.93,
+            "top": 577.66,
+            "x1": 533.3778400000003,
+            "bottom": 526.42
+          },
+          "content_hash": "b76746f5770d4be41d79e6814ec5956b61319161a1d5a87151f6d969fd01eb23",
+          "text": "\uf0b7 General Inflation : The highest level of aggregation of inflation which covers all the items within the scope of the inflation."
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 249.65,
+            "top": 625.75,
+            "x1": 336.32,
+            "bottom": 610.75
+          },
+          "content_hash": "81b6be24b600f29aeb69296a10d42934747fcf8a336796f38ba9ba0aef017355",
+          "text": "5.  GLOSSARY"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 80.184,
+            "top": 634.03,
+            "x1": 141.29,
+            "bottom": 619.03
+          },
+          "content_hash": "0091dfe9e763ba4aae86a338d5387354739d1358a1a3f3dd4b1cf1998235ff87",
+          "text": "Enquiries"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 507.34,
+            "top": 654.50236,
+            "x1": 550.90888,
+            "bottom": 645.9160787944026
+          },
+          "content_hash": "ce2c850656eca3abff3d03becbf9a4ee1b06f45bdf0b1534a440d80de46e7037",
+          "text": "Page 13"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 224.57,
+            "top": 657.86236,
+            "x1": 322.37888000000004,
+            "bottom": 649.2760787944026
+          },
+          "content_hash": "9d2733b2f5195260c21b2d2aee01af6a9ed5854ae2b9d32c561cd5b784833c10",
+          "text": "Issue No. 27/2018"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 185.3,
+            "top": 749.1,
+            "x1": 430.738,
+            "bottom": 709.02
+          },
+          "content_hash": "232eb00953d392d963d1756d82b8329904c094ed15bbfc8b8687b74d255e9b03",
+          "text": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 12,
+          "bbox": {
+            "x0": 38.210601806640625,
+            "top": 781.8143367767334,
+            "x1": 160.73228454589844,
+            "bottom": 661.8674926757812
+          },
+          "content_hash": "bd3dca2391d0d2d7d047d9343b482ad9864ddd2abbdeea5a98e4ac1f80dd3726",
+          "caption": null,
+          "image_base64": null
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "layout_docling"
+    }
+  ]
+}

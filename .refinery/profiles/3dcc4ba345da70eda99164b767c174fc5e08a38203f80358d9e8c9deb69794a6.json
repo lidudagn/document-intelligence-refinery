@@ -1,0 +1,29 @@
+{
+  "document_id": "3dcc4ba345da70eda99164b767c174fc5e08a38203f80358d9e8c9deb69794a6",
+  "file": "CBE Annual Report 2018-19.pdf",
+  "num_pages": 162,
+  "origin_type": "native_digital",
+  "layout_complexity": "table_heavy",
+  "language": "en",
+  "domain_hint": "legal",
+  "extraction_cost": "fast_text_sufficient",
+  "confidence_scores": {
+    "origin_conf": 0.6666666666666666,
+    "layout_conf": 0.4,
+    "lang_conf": 0.9999959247467701,
+    "domain_conf": 0.42857142857142855
+  },
+  "profiling_warnings": [
+    "Weak layout classification confidence."
+  ],
+  "raw_metrics": {
+    "avg_char_density": 0.0022582414949238504,
+    "std_dev_char_density": 0.002056811366991501,
+    "min_char_density": 0.0,
+    "avg_column_count": 1.1333333333333333,
+    "std_dev_column_count": 0.339934634239519,
+    "avg_image_ratio": 0.20089022610339283,
+    "max_image_ratio": 0.9999079130184104,
+    "total_tables_detected": 8
+  }
+}

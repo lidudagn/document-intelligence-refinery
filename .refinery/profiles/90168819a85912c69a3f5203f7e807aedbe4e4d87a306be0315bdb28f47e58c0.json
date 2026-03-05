@@ -1,0 +1,29 @@
+{
+  "document_id": "90168819a85912c69a3f5203f7e807aedbe4e4d87a306be0315bdb28f47e58c0",
+  "file": "2013-E.C-Procurement-information.pdf",
+  "num_pages": 3,
+  "origin_type": "scanned_image",
+  "layout_complexity": "single_column",
+  "language": "unknown",
+  "domain_hint": "general",
+  "extraction_cost": "needs_vision_model",
+  "confidence_scores": {
+    "origin_conf": 1.0,
+    "layout_conf": 1.0,
+    "lang_conf": 0.0,
+    "domain_conf": 0.0
+  },
+  "profiling_warnings": [
+    "Failed to detect language; insufficient textual stream."
+  ],
+  "raw_metrics": {
+    "avg_char_density": 0.0,
+    "std_dev_char_density": 0.0,
+    "min_char_density": 0.0,
+    "avg_column_count": 1.0,
+    "std_dev_column_count": 0.0,
+    "avg_image_ratio": 1.0,
+    "max_image_ratio": 1.0,
+    "total_tables_detected": 0
+  }
+}

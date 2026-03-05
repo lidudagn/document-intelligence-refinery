@@ -1,0 +1,29 @@
+{
+  "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+  "file": "2021_Audited_Financial_Statement_Report.pdf",
+  "num_pages": 3,
+  "origin_type": "scanned_image",
+  "layout_complexity": "single_column",
+  "language": "unknown",
+  "domain_hint": "general",
+  "extraction_cost": "needs_vision_model",
+  "confidence_scores": {
+    "origin_conf": 1.0,
+    "layout_conf": 1.0,
+    "lang_conf": 0.0,
+    "domain_conf": 0.0
+  },
+  "profiling_warnings": [
+    "Failed to detect language; insufficient textual stream."
+  ],
+  "raw_metrics": {
+    "avg_char_density": 0.0,
+    "std_dev_char_density": 0.0,
+    "min_char_density": 0.0,
+    "avg_column_count": 1.0,
+    "std_dev_column_count": 0.0,
+    "avg_image_ratio": 1.0,
+    "max_image_ratio": 1.0,
+    "total_tables_detected": 0
+  }
+}

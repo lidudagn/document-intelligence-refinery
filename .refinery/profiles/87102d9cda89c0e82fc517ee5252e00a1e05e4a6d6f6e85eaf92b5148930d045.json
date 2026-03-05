@@ -1,0 +1,29 @@
+{
+  "document_id": "87102d9cda89c0e82fc517ee5252e00a1e05e4a6d6f6e85eaf92b5148930d045",
+  "file": "2013-E.C-Audit-finding-information.pdf",
+  "num_pages": 3,
+  "origin_type": "scanned_image",
+  "layout_complexity": "single_column",
+  "language": "unknown",
+  "domain_hint": "general",
+  "extraction_cost": "needs_vision_model",
+  "confidence_scores": {
+    "origin_conf": 1.0,
+    "layout_conf": 1.0,
+    "lang_conf": 0.0,
+    "domain_conf": 0.0
+  },
+  "profiling_warnings": [
+    "Failed to detect language; insufficient textual stream."
+  ],
+  "raw_metrics": {
+    "avg_char_density": 0.0,
+    "std_dev_char_density": 0.0,
+    "min_char_density": 0.0,
+    "avg_column_count": 1.0,
+    "std_dev_column_count": 0.0,
+    "avg_image_ratio": 1.0,
+    "max_image_ratio": 1.0,
+    "total_tables_detected": 0
+  }
+}

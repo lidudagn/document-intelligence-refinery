@@ -1,0 +1,620 @@
+{
+  "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+  "source_path": "data/data/2021_Audited_Financial_Statement_Report.pdf",
+  "pages": [
+    {
+      "page_number": 0,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": null,
+          "content_hash": "e3e053afcdbd52e93fb0efb5d03fe92529e94de781f69eed4b99f8d9addd0954",
+          "text": "Ethio Telecom\nIFRS financial statements\nFor the vear ended 30 June 2021\nStatement of profit or loss and other comprehensive income"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": null,
+          "content_hash": "9cf06d292fae2f9aa17995ad6b59c8793aed555458f6a3bbd8e2006fc1787096",
+          "text": "The Notes on pages 15 to 56 are an integral part of these financial statements."
+        },
+        {
+          "block_type": "table",
+          "page_number": 0,
+          "bbox": null,
+          "content_hash": "7007df43b6fb77fb7db948bf8b1851fc3c7261678bc8effaced5de567c3309a6",
+          "headers": [
+            "Notes",
+            "30 June 2021\nBirr'ooo",
+            "30 June 2020\nBirr'ooo"
+          ],
+          "rows": [
+            [
+              "Revenue from contracts with customers",
+              "55,499,196",
+              "47,628,412"
+            ],
+            [
+              "Direct costs",
+              "6(a)",
+              "(6,593,213)",
+              "(4,492,433)"
+            ],
+            [
+              "Operating expenses",
+              "6(b)",
+              "(19,415,473)",
+              "(15,271,623)"
+            ],
+            [
+              "Net impairment losses on financial and contract assets",
+              "14, 16, 17",
+              "(713,997)",
+              "(89,465)"
+            ],
+            [
+              "Other income (expense)",
+              "8",
+              "73,273",
+              "848,660"
+            ],
+            [
+              "Earnings before interest, taxes, depreciation and amortization (EBITDA)",
+              "28,849,786",
+              "28,623,551"
+            ],
+            [
+              "Depreciation of property, plant and equipment",
+              "11",
+              "(5,488,176)",
+              "(5,712,906)"
+            ],
+            [
+              "Depreciation charge of right of use asset",
+              "12",
+              "(241,722)",
+              "(168,879)"
+            ],
+            [
+              "Amortization intangible assets",
+              "13",
+              "(623,141)",
+              "(600,617)"
+            ],
+            [
+              "Operating profit",
+              "22,496,747",
+              "22,141,149"
+            ],
+            [
+              "Finance income",
+              "9",
+              "222,052",
+              "337,799"
+            ],
+            [
+              "Finance costs",
+              "9",
+              "(10,191,041)",
+              "(7,960,608)"
+            ],
+            [
+              "Finance costs - net",
+              "(9,968,989)",
+              "(7,622,809)"
+            ],
+            [
+              "Profit / (loss) before income tax",
+              "12,527,758",
+              "14,518,340"
+            ],
+            [
+              "Income tax (expense) / credit",
+              "10(a)",
+              "(6,944,531)",
+              "(5,065,268)"
+            ],
+            [
+              "Profit / (loss) after tax",
+              "5,583,227",
+              "9,453,072"
+            ],
+            [
+              "Other comprehensive income (OCI) net on income tax",
+              "Items that will not be subsequently reclassified into profit or loss:",
+              "Remeasurement gain/(loss) on post employment benefits obligations",
+              "19",
+              "96,884",
+              "(53,641)"
+            ],
+            [
+              "Deferred tax (liability)/asset on remeasurement gain or loss",
+              "10(a)",
+              "(29,065)",
+              "16,092"
+            ],
+            [
+              "Total comprehensive income (loss) for the period",
+              "67,819",
+              "(37,549)"
+            ],
+            [
+              "5,651,046",
+              "9,415,523"
+            ]
+          ],
+          "html_representation": null
+        }
+      ],
+      "page_confidence": 0.8500000000000001,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 1,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": null,
+          "content_hash": "ba538a6f74b8c5ad471dad3c77e49ff91ec059c88a2683de077e172bd94553c6",
+          "text": "Ethio Telecom\nIFRS financial statements\nFor the year ended 30 June 2021\nStatement of financial position"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": null,
+          "content_hash": "0f1b35791cf294e5e6d92768ed5a34989e30bc849799da13028b04ddeecd257d",
+          "text": "The Notes on pages 15 to 56 are an integral part of these financial statements.\nThe financial statements on pages 11 to 56 is approved on 07 March 2022 and is signed by:\nW/t Frehiwot Tamiru\nChief Executive Officer\n07 March 2022"
+        },
+        {
+          "block_type": "table",
+          "page_number": 1,
+          "bbox": null,
+          "content_hash": "aa86cc05f85d49186b04d6c4de1068732dc5148405a06893d07f7ab916629854",
+          "headers": [
+            "Notes",
+            "30 June 2021\nBirr'000",
+            "30 June 2020\nBirr'000"
+          ],
+          "rows": [
+            [
+              "ASSETS\nNon current\nassets",
+              "",
+              ""
+            ],
+            [
+              "Property, plant and equipment",
+              "11",
+              "33,286,458",
+              "35,705,951"
+            ],
+            [
+              "Right of use assets",
+              "12",
+              "985,374",
+              "749,256"
+            ],
+            [
+              "Intangible assets",
+              "13",
+              "1,354,309",
+              "1,953,127"
+            ],
+            [
+              "Other assets",
+              "14(a)",
+              "6,846",
+              "25,298"
+            ],
+            [
+              "Other financial assets at amortised cost",
+              "14(c)",
+              "7,127,568",
+              "7,205,098"
+            ],
+            [
+              "Notes receivable at amortised cost",
+              "16(a)",
+              "497,183",
+              "638,743"
+            ],
+            [
+              "Deferred tax Assets",
+              "10(d)",
+              "1,990,697",
+              "1,085,423"
+            ],
+            [
+              "",
+              "",
+              "45,248,435",
+              "47,362,896"
+            ],
+            [
+              "Current assets",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Inventories",
+              "15",
+              "5,930,403",
+              "3,062,563"
+            ],
+            [
+              "Other assets",
+              "14(a)",
+              "2,254,973",
+              "1,932,546"
+            ],
+            [
+              "Trade receivables",
+              "14(b)",
+              "8,095,586",
+              "8,701,043"
+            ],
+            [
+              "Other financial assets at amortised cost",
+              "14(c)",
+              "92,887",
+              "109,371"
+            ],
+            [
+              "Notes receivable at amortised cost",
+              "16(a)",
+              "3,465",
+              "3,455"
+            ],
+            [
+              "Investment securities at amortised cost",
+              "16(b)",
+              "398,456",
+              "2,534,018"
+            ],
+            [
+              "Cash and cash equivalents",
+              "17",
+              "15,194,080",
+              "15,172,911"
+            ],
+            [
+              "",
+              "",
+              "31,969,850",
+              "31,515,907"
+            ],
+            [
+              "Total assets",
+              "",
+              "77,218,285",
+              "78,878,803"
+            ],
+            [
+              "EQUITY AND\nLIABILITIES",
+              "",
+              "",
+              ""
+            ],
+            [
+              "LIABILITIES\nNon-current liabilities",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Borrowings",
+              "18",
+              "22,898,052",
+              "24,353,615"
+            ],
+            [
+              "Provisions",
+              "20(c)",
+              "47,858",
+              "15,316"
+            ],
+            [
+              "Lease liabilities",
+              "12",
+              "631,685",
+              "482,865"
+            ],
+            [
+              "Grants",
+              "23",
+              "563",
+              "610"
+            ],
+            [
+              "Deferred tax liabilities",
+              "10(d)",
+              "",
+              "594,983"
+            ],
+            [
+              "Defined benefit liabilities",
+              "19",
+              "589,152",
+              "25,447,389"
+            ],
+            [
+              "",
+              "",
+              "24,167,310",
+              ""
+            ],
+            [
+              "Current liabilities",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Borrowings",
+              "18",
+              "7,676,488",
+              "8,119,350"
+            ],
+            [
+              "Contract liabilities",
+              "20(a)",
+              "7,311,726",
+              "7,438,510"
+            ],
+            [
+              "Trade and other payables",
+              "20(b)",
+              "25,082,328",
+              "18,601,534"
+            ],
+            [
+              "Lease liabilities",
+              "20(c)",
+              "3,199",
+              "17,879"
+            ],
+            [
+              "Grants",
+              "12",
+              "195,703",
+              "176,875"
+            ],
+            [
+              "Defined benefit liabilities",
+              "23",
+              "45",
+              "45"
+            ],
+            [
+              "Dividend payable",
+              "19",
+              "58,090",
+              "52,428"
+            ],
+            [
+              "Current income tax",
+              "25(b)",
+              "5,304,066",
+              "7,497,085"
+            ],
+            [
+              "",
+              "10 (c)",
+              "6,534,771",
+              "7,497,085"
+            ],
+            [
+              "",
+              "",
+              "52,166,416",
+              "41,903,706"
+            ],
+            [
+              "Total liabilities",
+              "",
+              "76.333.725",
+              "67,351,095"
+            ],
+            [
+              "Equity\nattributable to\nowners",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Capital",
+              "21",
+              "4,749,719",
+              "4,749,719"
+            ],
+            [
+              "Retained earnings",
+              "25 (a)",
+              "(4,790,941)",
+              "5,920,026"
+            ],
+            [
+              "Legal reserve",
+              "22",
+              "949,944",
+              "949,944"
+            ],
+            [
+              "Other reserves",
+              "24",
+              "(24,162)",
+              "(91,981)"
+            ],
+            [
+              "Total equity",
+              "",
+              "884,560",
+              "11,527,708"
+            ],
+            [
+              "Total equity and\nliabilities",
+              "",
+              "77,218,285",
+              "78,878,803"
+            ]
+          ],
+          "html_representation": null
+        }
+      ],
+      "page_confidence": 0.8500000000000001,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 2,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": null,
+          "content_hash": "28d92b9b7cdf0e2ccf4fe0784ce98d79b04b900487619f1d0216e62f85e81c29",
+          "text": "Ethio Telecom\nIFRS financial statements\nFor the year ended 30 June 2021\nStatement of cash flows"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": null,
+          "content_hash": "91bc3dbba27ec97a82a791bd04b41c7119fda2872cf743f3108379ce8679388f",
+          "text": "The Notes on pages 15 to 56 are an integral part of these financial statements."
+        },
+        {
+          "block_type": "table",
+          "page_number": 2,
+          "bbox": null,
+          "content_hash": "6b2ecb78935f410b0466b58ed28b50119cdf6800f6c278901e924d31c6309e2e",
+          "headers": [
+            "Notes",
+            "30 June 2021\nBirr'ooo",
+            "30 June 2020\nBirr'ooo"
+          ],
+          "rows": [
+            [
+              "Cash flows from operating activities",
+              "",
+              ""
+            ],
+            [
+              "Cash generated from operations",
+              "26\n32,282,876",
+              "27,302,463"
+            ],
+            [
+              "Interest income received",
+              "205,028",
+              "321,280"
+            ],
+            [
+              "Interest expense paid",
+              "18\n(606,360)",
+              "(972,840)"
+            ],
+            [
+              "Income tax paid",
+              "10\n(8,841,181)",
+              "(8,386,755)"
+            ],
+            [
+              "Arrear tax paid",
+              "(9,990,128)",
+              ""
+            ],
+            [
+              "Net cash (outflow)/inflow from operating activities",
+              "13,050,235",
+              "18,264,148"
+            ],
+            [
+              "Cash flows from investing activities",
+              "",
+              ""
+            ],
+            [
+              "Sale of placements with financial institutions",
+              "16\n2,150,000",
+              "250,000"
+            ],
+            [
+              "Purchase of intangible assets",
+              "13\n(23,388)",
+              "(17,416)"
+            ],
+            [
+              "Purchase of property, plant and equipment",
+              "11\n(2,867,869)",
+              "(2,493,312)"
+            ],
+            [
+              "Payment for right of use assets",
+              "(6,979)",
+              "(12,311)"
+            ],
+            [
+              "Proceeds from sale of property, plant and equipment",
+              "73,092",
+              "155,866"
+            ],
+            [
+              "Net cash (outflow)/inflow from investing activities",
+              "(675,143)",
+              "(2,117,173)"
+            ],
+            [
+              "Cash flows from financing activities",
+              "",
+              ""
+            ],
+            [
+              "Repayments of borrowings",
+              "18\n(8,744,224)",
+              "(7,315,238)"
+            ],
+            [
+              "Principal elements of lease payments",
+              "12\n(310,268)",
+              "(183,630)"
+            ],
+            [
+              "Payment to Minstry of Finance",
+              "(1,000,000)",
+              "(5,000,000)"
+            ],
+            [
+              "Net cash (outflow)/inflow from financing activities",
+              "(10,054,492)",
+              "(12,498,869)"
+            ],
+            [
+              "Net increase/(decrease) in cash and cash equivalents",
+              "2,320,600",
+              "3,648,106"
+            ],
+            [
+              "Cash and cash equivalents at the beginning of the year",
+              "17\n15,172,910",
+              "12,447,041"
+            ],
+            [
+              "Effects of exchange rate changes on cash and cash equivalents",
+              "17\n(2,299,430)",
+              "(922,237)"
+            ],
+            [
+              "Cash and cash equivalents at the end of the year",
+              "17\n15,194,080",
+              "15,172,910"
+            ]
+          ],
+          "html_representation": null
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "vision_vlm"
+    }
+  ]
+}

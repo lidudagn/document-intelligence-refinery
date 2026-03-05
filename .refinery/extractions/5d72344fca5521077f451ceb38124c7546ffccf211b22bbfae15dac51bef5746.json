@@ -1,0 +1,938 @@
+{
+  "document_id": "5d72344fca5521077f451ceb38124c7546ffccf211b22bbfae15dac51bef5746",
+  "source_path": "data/data/Security_Vulnerability_Disclosure_Standard_Procedure_1.pdf",
+  "pages": [
+    {
+      "page_number": 0,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": null,
+          "content_hash": "1520982d6cf5a708b67afaa6ad9ed392a745761e752d9ce92cc0e5ad8d5b8663",
+          "text": "\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u1295\u130d\u12f5 \u1263\u1295\u12ad\nCommercial Bank of Ethiopia"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": null,
+          "content_hash": "c72417409b68ff211523d90ee32d1e02f74e0fdc056402b58217ec867f0cbeef",
+          "text": "Security Vulnerability Disclosure Standard Procedure"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": null,
+          "content_hash": "1c7f6d276205cbb357a4fb402b43287d2c741c4a6d0c33b40ee4b7d28413b99b",
+          "text": "INFORMATION SYSTEMS DIVISION"
+        },
+        {
+          "block_type": "text",
+          "page_number": 0,
+          "bbox": null,
+          "content_hash": "0a2dd9ae77a167d2bad064a504aa1fce703bbca350b7dd9f65c1bb2eb55f4e14",
+          "text": "February 2023"
+        }
+      ],
+      "page_confidence": 0.85,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 1,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": null,
+          "content_hash": "e1ef4c2864941651b56d5293dfd68e4892da39572d9c83618af2c68048d9782c",
+          "text": "This page is left intentionally"
+        }
+      ],
+      "page_confidence": 0.7,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 2,
+      "blocks": [
+        {
+          "block_type": "table",
+          "page_number": 2,
+          "bbox": null,
+          "content_hash": "724410eadb9776d065357c043f27f87f19442d11a8dac56dfa7bb9a7dc356ca5",
+          "headers": [
+            "Terms",
+            "Definition"
+          ],
+          "rows": [
+            [
+              "CBE",
+              "Commercial Bank of Ethiopia"
+            ],
+            [
+              "IS",
+              "Information Systems Security"
+            ],
+            [
+              "ISS",
+              "Information Systems"
+            ],
+            [
+              "INSA",
+              "Information Network Security Administration"
+            ],
+            [
+              "API",
+              "Application Programming Interface"
+            ],
+            [
+              "SSL",
+              "Secure Sockets Layer"
+            ],
+            [
+              "SQL",
+              "Structured Query Language"
+            ],
+            [
+              "DoS",
+              "Denial of Service"
+            ],
+            [
+              "DDoS",
+              "Distributed Denial of Service"
+            ],
+            [
+              "HTTP",
+              "Hypertext Transfer Protocol"
+            ],
+            [
+              "UI/UX",
+              "User Interface and User eXperience"
+            ],
+            [
+              "CSRF",
+              "Cross-Site Request Forgery"
+            ],
+            [
+              "XSS",
+              "Cross-Site Scripting"
+            ],
+            [
+              "HTML",
+              "HyperText Markup Language"
+            ],
+            [
+              "CLI",
+              "Command Line Interface"
+            ]
+          ],
+          "html_representation": null
+        }
+      ],
+      "page_confidence": 0.4,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 3,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": null,
+          "content_hash": "122e4371e0c2abbe450cbf45695915c6f6e523a03089dd0a6545a9b47e6c5c6d",
+          "text": "CBE VULNERABILITY DISCLOSURE STANDARD PROCEDURE"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": null,
+          "content_hash": "54ef471cfdd77c6c283356a149f1f158da1a628728d28c05fe510a4d4dc9629c",
+          "text": "1 INTRODUCTION"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": null,
+          "content_hash": "c1ce737af651f2ead20020807412150b3382f6982e9f0bbfcd95e80327ad2c5e",
+          "text": "1.1 Preamble"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": null,
+          "content_hash": "3d1b1e1bc677e2a2c226f311a99f9a433c61771cefd159e257213f3c3bc6fca4",
+          "text": "Whereas, Cybercrime is increasing exponentially and becoming a global problem due to organizations' fast digital transformation and the growing sophistication of threats."
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": null,
+          "content_hash": "57594edc980f5b99ab7168415bfc13de07c506c0ac03382d77d1d82208838320",
+          "text": "Whereas, the Commercial Bank of Ethiopia (CBE) is committed to maintaining the security of its banking systems and protecting sensitive information from unauthorized disclosure."
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": null,
+          "content_hash": "8fbe49fcf70409498175160436333c1168f2e5cf241bb3912da025328187a52e",
+          "text": "Whereas, CBE identifies and manages vulnerabilities that exist in its infrastructure. However, the security professional that can be hired is often minimal, ethical security researchers can help in identifying vulnerabilities that are left unidentified by the internal security team."
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": null,
+          "content_hash": "a53c5bc5c4068a4973a827f0d613b3eaf48d49eb0564600af0dede744ef26dc0",
+          "text": "Whereas, safe and clear communication is needed so that goodwill security researchers ethically engage with CBE."
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": null,
+          "content_hash": "258cefc7d0194e12c5acdcdda4f06092ca22b7963481dafeabb4e28e4e4bc1da",
+          "text": "Now, therefore, this Standard Procedure is issued per international vulnerability disclosure policy templates and CBE's internal Information System Security Policy. It describes what systems and types of research are covered under this Procedure, how to send vulnerability reports, and how long CBE asks security researchers to wait to fix the security issue. If you are a security researcher and have discovered a security vulnerability in one of our services and infrastructure, CBE appreciates your help in disclosing it responsibly. The Bank will validate and fix vulnerabilities under this standard procedure and CBE's internal security policies. CBE reserves all its legal rights in the event of any non-compliance to the applicable laws and regulations."
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": null,
+          "content_hash": "6f6ac76660495d96abe000264839e085a04e5e420f2880b7e76889478665bf48",
+          "text": "COMMERCIAL BANK OF ETHIOPIA"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": null,
+          "content_hash": "f894ada811bcee2e186e6656db773c4da6d258339dd30beab307f30c55067dfa",
+          "text": "WEBSITE: www.combanketh.et"
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 4,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": null,
+          "content_hash": "d6568347b7b8fdc65ce3182c8f6e45f8582cf7109f5bb41584863f37dd61a68b",
+          "text": "CBE VULNERABILITY DISCLOSURE STANDARD PROCEDURE"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": null,
+          "content_hash": "37392e340e75330966ef7fdc56865c817e142fdbde3bc640d112306b1931d063",
+          "text": "1.2 Short Title"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": null,
+          "content_hash": "f6755ab1588d49ff600ac82dd682072333ff59c6e114f8fbb1d0a5a1eeb7c53f",
+          "text": "This document can be cited as \"CBE Vulnerability Disclosure Standard\nProcedure\"."
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": null,
+          "content_hash": "ff2f208ba83743addc7287f845111ab523b34db5cbd4740a5bf348ea8a6f8589",
+          "text": "1.3 Definition of Terms"
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": null,
+          "content_hash": "f162f706164dff4145ee51d1225b2e6cd3476b333126f1c1d1781c32fe5f4b3c",
+          "text": "a. Availability: Means the state of being accessible and usable upon demand\nby an authorized person or entity."
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": null,
+          "content_hash": "d5645952842a83a510966e3102bdb157375bf4f08344126f3013b13599108318",
+          "text": "b. Best Practice: Means a standard, a set of guidelines, or a recommended\nchecklist that is known to produce a good outcome in protecting an\norganization's information, resources, or business operations if followed."
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": null,
+          "content_hash": "7f2ee795d0e18f67e30e2401237e35f0263e885fd7c3ec96dd44a0b6b774e890",
+          "text": "c. Confidentiality: Means ensuring that information is made available or\ndisclosed only to those individuals, entities, or processes authorized to have\naccess."
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": null,
+          "content_hash": "7f35dfa7d6a5e342eeeff946e54a24d8d26d6c1185cf13033468130c5fd8ba86",
+          "text": "d. Command-line interface access: Means gaining access to the infected CLI\nwithout connecting to the actual computer."
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": null,
+          "content_hash": "55cc5a27a8f66718361ed26398bbcfe21e18fdbfd7ea91b84184ffa95cfa7e9b",
+          "text": "e. Cross-site scripting: Means a type of injection attack that injects malicious\ncode into otherwise safe websites."
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": null,
+          "content_hash": "e5a73099790b97aa2113b8178e77ae96d75c39cb331b524c0acde6342520de43",
+          "text": "f. DoS/DDoS: Means an attack type in which an attacker makes the system\nor data unavailable to someone who needs it. In the case of distributed\ndenial-of-service (DDoS), the attacks come from many distributed sources."
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": null,
+          "content_hash": "06979d93d10c025cca28d86e12bb19e5cf89d2aa9e9420a009fb1d8e460f3d27",
+          "text": "g. Exfiltrate data: Means an unauthorized transfer of data from a computer."
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": null,
+          "content_hash": "023edfe0d7aa63dea6ba92ba0e1e2b4a735c7f5a6d9da1197de01c2f321df08c",
+          "text": "h. Ethical hacker: Means a person or company doing an authorized practice\nof detecting vulnerabilities in an application, system, or organization's\ninfrastructure and identifying potential data breaches and threats in the\norganization's infrastructure and service."
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": null,
+          "content_hash": "7a488cbcba0d185e4e03be38b0afb1c3a388d489271d2efe8c9053133adf1b41",
+          "text": "i. Integrity: Means safeguarding the accuracy and completeness of\nassets/data."
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 5,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": null,
+          "content_hash": "add037e576cad5d11e5ad3de366d12db1d8483823d7ecb6c2753b2871b361b46",
+          "text": "j. Security researcher: Means skilled experts that use their technical\nknowledge to identify vulnerabilities."
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": null,
+          "content_hash": "950105f8a2a50386969c0d40073e52f28dc21d56bbbebde4381f687aa957e926",
+          "text": "k. Phishing: Refers to the type of social engineering where an attacker sends\na fraudulent message designed to trick a person into revealing sensitive\ninformation to the attacker or to deploy malicious software on the victim's\ninfrastructure like ransomware."
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": null,
+          "content_hash": "59ad51c610d933094e0570c958c112bae437cf0d6a85679c659253454117b722",
+          "text": "l. Pivoting: Means the act of an attacker moving from one compromised\nsystem to one or more other systems within the same or other organizations."
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": null,
+          "content_hash": "88636fdb394875c0107c5728ce7ae2a9bcb6df376bdd1b8fbdd95707eac7e1f1",
+          "text": "m. Physical testing: Means assessing all physical security controls, including\nlocks, fences, security guards, cameras, and other security measures."
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": null,
+          "content_hash": "5a0cedd5618268849d29329b6d738d517c2d2072858cbc9b6961036459d7459c",
+          "text": "n. Sensitive Data: Means confidential information/data that must be kept safe\nand out of reach against unwarranted disclosure."
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": null,
+          "content_hash": "8fa0d23d4313c40d06ab4bc39d09d371f24a6f997373fe250789bf6854094a27",
+          "text": "o. Security Breach: Means any incident that results in unauthorized access to\ncomputer data, applications, networks, or devices."
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": null,
+          "content_hash": "262fae142e31bccc93b5e43dff919046390937c5120e06071a3af3645e1016b1",
+          "text": "p. Social Engineering: Refers to a manipulation technique that exploits human\nerror to gain private information, access, or valuables."
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": null,
+          "content_hash": "d6a8c9c735be9df6522e6012b69f75cd4c78b4249470b21d7e491df0d33656da",
+          "text": "q. The Bank refers Commercial Bank of Ethiopia (CBE)."
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": null,
+          "content_hash": "ebd0094864f4952b7e82395097707e7c462fa4169d3ba4f61a8397454058c3c2",
+          "text": "r. Transport Layer Security (TLS): Refers to a cryptographic protocol designed\nto protect data sent over the internet. It is used to prevent data from being\neavesdropped on or tampered with. Currently at version 1.3 and the\nminimum version recommended to be used is TLS1.2."
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": null,
+          "content_hash": "ac3dd6019e7f6727e7c5753ecfb5dc101b5d8d9842a6ef0cfa2e45358ecd0f31",
+          "text": "s. Vishing: Refers to the type of phishing that uses the phone to steal personal\nconfidential information from victims."
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": null,
+          "content_hash": "d2fc28c5ded7453280ab19aaaab10e1600291bd49a4386021a974579dc6d58b2",
+          "text": "t. Vulnerability: Means the weakness of an asset or control that can be\nexploited by one or more threats."
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": null,
+          "content_hash": "d48c30796b3e0ac85d99bb7a856ddc82195a21a979203a992a375984ed70f5a3",
+          "text": "u. Vulnerability Disclosure: Refers to the practice of reporting security flaws in\ncomputer software or hardware"
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 6,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": null,
+          "content_hash": "94a984cc9b2d2643598ecf5cc0972c16f341166b28bd69207050c5f31ce99114",
+          "text": "v. Zero-day vulnerabilities: Means a vulnerability in a system or device that\nhas been disclosed but is not yet patched."
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": null,
+          "content_hash": "445dfb4280b17fc5e46745f9c5490a916ac6df64a580a78f5e2b34d1319c0fd5",
+          "text": "1.4 The objective of the Standard Procedure\nThe objective of this standard procedure is to set the rules of engagement for an\nethical security researcher to identify and submit security vulnerabilities in a\nresponsible and accountable manner. The document establishes an\nengagement and communication framework for researching and reporting\ndiscovered security weaknesses and vulnerabilities."
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": null,
+          "content_hash": "57fdd24306e2e8f505e69816aecbb5b0151803ce40c600e3a69fe5546dc48163",
+          "text": "1.5 Governing Rules\nThis Standard Procedure shall be governed by:"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": null,
+          "content_hash": "072848bb6285cea60f4592f2ebf9bbcf6d308bf5ca134eb92fe9551e3f491a36",
+          "text": "\u2022 National Computer Crime Prevention Proclamation No.958/2016;"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": null,
+          "content_hash": "4463964c61fe39bffb3ae9fc98a6d38befe4433bfe358eaa2bcb0a62ba66a85b",
+          "text": "\u2022 National Information Security Policy 2011;"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": null,
+          "content_hash": "e24a9392fec2dca6d9caef276143781e7e89e1a30c73f9ad80c64d001a45262c",
+          "text": "\u2022 National Bank of Ethiopia (NBE) policies and directives;"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": null,
+          "content_hash": "9ef05c0c2636732375d5f24bf7d6fa06c4608658ca1517efa6fff495a49e7869",
+          "text": "\u2022 CBE Compliance Policy;"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": null,
+          "content_hash": "bd2062d52bdd9db7bc6ad4a7fab3dad0e82d4ba22497945eef7b0559996ca8ff",
+          "text": "\u2022 CBE's Information Systems Security Policy"
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 7,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": null,
+          "content_hash": "c968ac6be181ecc8812728708f1c3cf4e48cc9275b66ffd1093102516ecb69b3",
+          "text": "2023"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": null,
+          "content_hash": "ec1d32d7e5f9026e61224fa782bf8734e09c9ec1a5edca800e9ee63445d5a37e",
+          "text": "2 SCOPE"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": null,
+          "content_hash": "e86965126006ac870397a976f782cf8c6fe0b8347ec6c11303ea3f79abc827d5",
+          "text": "2.1 Scope of the standard procedure\nThis standard procedure applies to all ethical hackers and security researchers, internal or external to CBE. However, the below-listed in-scope and out-of-scope systems, services, and activities should be considered."
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": null,
+          "content_hash": "e7ee26cff860db3539d0c7736e3ea424804090d7ba1b8dee970055af629d2896",
+          "text": "2.2 In Scope\nAll internet-accessible and public-facing systems and services of CBE are covered within the scope of this Standard Procedure, including:"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": null,
+          "content_hash": "cbeb7c684feed372cf44426ac0f273c43f8161a05e76ecb56ebc895840fe02fc",
+          "text": "\u2022 Internet-facing services:\n\u25e6 *.cbe.com.et,\n\u25e6 *.cbeib.com.et,\n\u25e6 *.combanketh.et,\n\u25e6 *.cbebirr.com.et,"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": null,
+          "content_hash": "b05e75da06d5011252f60a770e50df2b080f19dcc657d0310805f32ebf46c418",
+          "text": "\u2022 Mobile Applications provided by the bank, and"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": null,
+          "content_hash": "d7210d58662d72cb2109d8ef5068556a8bd28f79bfe467383c2dc6d23304fbf4",
+          "text": "\u2022 Any Desktop (If any)."
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": null,
+          "content_hash": "7ae7af0a909f60d207e77998b75ca4bfc30ca08504e666d891b72e3288a7323f",
+          "text": "Any services not expressly listed above, such as any connected services, are excluded from the scope and are not authorized for testing. Additionally, vulnerabilities found in systems from our vendors fall outside of this standard procedure's scope and should be reported directly to the vendor according to their disclosure policy (if any). If you aren't sure whether a system is in scope or not, contact CBE at mailto:cybersecurity@cbe.com.et before starting your research."
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": null,
+          "content_hash": "557942151072d61ac992743f48481277922a9c40dbd2ffdb606f8e2d7bff0308",
+          "text": "2.3 Out of Scope\nIn addition to the above scoping, please consider the following out-of-scope activities, systems, and services:"
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 8,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": null,
+          "content_hash": "ec971dbf2f220df40773f11557ce1840a80c9151e2c3e87f0926b90e2e1bf8a6",
+          "text": "CBE VULNERABILITY DISCLOSURE STANDARD PROCEDURE"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": null,
+          "content_hash": "0f632c4676834c5b579da43ae74f382d93ce0a23f57c22f17779b955b0ccddac",
+          "text": "a) Any services and systems hosted by 3rd party providers and integrators are excluded from the scope."
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": null,
+          "content_hash": "864175c658b939deb31819be25dbfd27cd1da634d3404e3a3ac0aba4e4f53758",
+          "text": "b) Not original, previously reported, and already discovered by internal procedures."
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": null,
+          "content_hash": "188cf1b8d88884a91e28b656d216ea90c0f045879df54402f941f0efa176ff79",
+          "text": "c) Volumetric vulnerabilities are not in scope - meaning that simply overwhelming a service with a high volume of requests is not in scope."
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": null,
+          "content_hash": "a79e2615b72739e162ce5e9fdb5a19c7b3996b534e9a438012dd51f86e1e58b9",
+          "text": "d) Reports of non-exploitable vulnerabilities, or reports indicating that our services do not fully align with \"best practice\", for example missing security headers, are not in scope."
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": null,
+          "content_hash": "046588ce6d960f32daac78e7d6aad166009c8e9622befee1b5c942868b4cd982",
+          "text": "e) TLS configuration weaknesses, for example, \"weak\" cipher suite support or the presence of TLS1.0 support, are not in scope."
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": null,
+          "content_hash": "df522f2b73e8e0e59e1f7530c648023d2f92a85d40e9f31e56b7f9f79525dcf9",
+          "text": "In addition to this, please refer to Section 5 for activities and testing rules that security researchers or ethical hackers are not permitted to perform."
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 9,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": null,
+          "content_hash": "b8c1aa8d1c2b7a8a10044707cdf5d29b80644b5cbbf1c057ca70b8022c14b256",
+          "text": "3 AUTHORIZATION AND LEGAL EXPOSURE"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": null,
+          "content_hash": "52145ab9ae2d937aa6e5d735f89520af05f84f8371436f7e43295de631803eca",
+          "text": "Security researchers must comply with all applicable international, national, or CBES internal laws, regulations, and policies in connection with security research activities. CBE does not authorize, permit, or otherwise allow (expressly or implied) any person, including any individual, group of individuals, consortium, partnership, or any other business or legal entity to engage in any security research or vulnerability or threat disclosure activity that is inconsistent with this standard procedure or the law."
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": null,
+          "content_hash": "15b34e5a9ed95c2419f497c1389d4cb8e2028c3852e2b0950be1578b32d8a5b3",
+          "text": "Security researchers may be subject to fines, imprisonment, or other penalties if they engage in any activities in violation of this standard procedure or the law, including unauthorized attempts to access, obtain, upload, modify, change, and/or delete information on this system, which are strictly prohibited and are subject to criminal prosecution under:"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": null,
+          "content_hash": "25079c46e61b8c28c0565a03111516356ea6a8e8180ef7e069b56a6b6deb5e0e",
+          "text": "\u2022 Ethiopian Computer Crime Proclamation 958/2016;"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": null,
+          "content_hash": "cc7b342b251ea100a9ed1db3f25fa0e084c3837d34558a2506f7b7fa9030e995",
+          "text": "\u2022 CBE's policies including Information Systems Security Policy;"
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": null,
+          "content_hash": "647897d3c6561939bbf845fcc78762b2c76e2bd32929c4e3fd2f4a9929eaa1fe",
+          "text": "\u2022 Other national applicable laws and regulations."
+        },
+        {
+          "block_type": "text",
+          "page_number": 9,
+          "bbox": null,
+          "content_hash": "01b9750f7366dcc86f6bd7a32a5521f0a6048f7f0cb6672aacdbc453909f0a9c",
+          "text": "If you make a good-faith effort to comply with this Standard Procedure during your security research, we will consider your research to be authorized. CBE will work with you to understand and resolve the issue quickly, and CBE will not recommend or pursue legal action related to your research. Should legal action be initiated by a third party against you for activities that were conducted per this Standard Procedure, we will make this authorization known."
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 10,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": null,
+          "content_hash": "ff57c3b7f868811f11e9318454c311c66b6bacf048073c576b1e13b92a4e8eed",
+          "text": "Under this Standard Procedure, \"research\" means activities in which you:"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": null,
+          "content_hash": "394c1445ca667520b148c5554244c0bb145a266325150c01d76e24e8eb1f55bc",
+          "text": "\u2713 Notify CBE as soon as possible after you discover a real or potential security issue."
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": null,
+          "content_hash": "8db51ace253bfdc80e625795e920e1b47c8b8f63d22c28e7c9f07a1af5df28ff",
+          "text": "\u2713 Make every effort to avoid privacy violations, degradation of user experience, disruption to production systems, and destruction or manipulation of data."
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": null,
+          "content_hash": "6991e62374bc3b839b4fcf12b1d2a0f85777393010bce827908434eabd527fb0",
+          "text": "\u2713 Only use exploits to the extent necessary to confirm a vulnerability's presence. Do not use an exploit to compromise or exfiltrate data, establish persistent command-line access, or use the exploit to pivot to other systems."
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": null,
+          "content_hash": "cd9c6e28beb4d5cb1b811188f3248b544046c6c8273a774cd34e2c148ac3ff97",
+          "text": "\u2713 Provide a reasonable amount of time, at least 120 working days, to resolve the issue before you disclose it publicly or request an explanation. CBE has a security patch management standard procedure and will follow it to address the reported issue."
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": null,
+          "content_hash": "7ee6426e234a34661436a4bcce6d2638ef3150cbf399a38f51809610891bed28",
+          "text": "\u2713 Do not submit a high volume of low-quality reports."
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": null,
+          "content_hash": "192b1eac5a8b5cd9a2d3be5b5c697443bb225b362e5a434e3ab076dc639789f0",
+          "text": "Once you've established that a vulnerability exists or encounter any sensitive data (including personally identifiable information, financial information, proprietary information, or trade secrets of any party), you must stop your test, notify CBE immediately, and not disclose this data to anyone else."
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 11,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": null,
+          "content_hash": "e2aa572c5f5d3afe2981a82d563035a4a7583b6434e99db2c575177b74b8831f",
+          "text": "CBE VULNERABILITY DISCLOSURE STANDARD PROCEDURE"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": null,
+          "content_hash": "338a540902a628006c0683a36dfb69a9f119943c9b19bc4669afd8d3d794c0ca",
+          "text": "5 TESTING RULES"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": null,
+          "content_hash": "027842767dd58f9dced42adad5de57f8ec75124b5141c12ab518b7cc98315641",
+          "text": "Security researchers must NOT:"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": null,
+          "content_hash": "af8e3b721cb05e45cf5a0f0c8d9a3d567bbf43eaf6456ca55fcfd626947dddd5",
+          "text": "\u27a4 Test any system or service other than those listed above,"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": null,
+          "content_hash": "e0db22b7c9b49c4a69997f689d6553ed1e934a147fff5b5bd1223525bdafffef",
+          "text": "\u27a4 Perform Network Denial of Service (DoS or DDoS) tests or other tests that\nimpair access to or damage/disable a system or data,"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": null,
+          "content_hash": "e15f52f2729e82d66d020be842d58efd74babca9e896aa5ff4ed0d6a26451509",
+          "text": "\u27a4 Test Physical testing (e.g., office access, open doors, tailgating), social\nengineering (e.g., phishing, vishing), or any other non-technical\nvulnerability testing."
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": null,
+          "content_hash": "7279178d1b511722a372e1db08e4b8c4dcac32cd9f324f45da3d1a02bd5be88e",
+          "text": "\u27a4 Disclose vulnerability information except as outlined in the 'How to Report\na 'Vulnerability' and 'Disclosure' sections below."
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": null,
+          "content_hash": "764460a34cbdb65b99454cca608427b25eb3c2716fffa8a16c76775f4c020b46",
+          "text": "\u27a4 Introduce malicious software to CBE infrastructure,"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": null,
+          "content_hash": "121aaba1daa44a505d4c40c9eb72ceb346e5a5f3af77d385c503d7840d61a2eb",
+          "text": "\u27a4 Test third-party applications, websites, or services that integrate with or link\nto or from CBE systems or services."
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": null,
+          "content_hash": "40b8478b2453d396a2b5bd38d143fde1157e63af5cb1b64764592bef30270733",
+          "text": "\u27a4 Do not use an exploit to exfiltrate data, establish command-line access,\nestablish a persistent presence on CBE systems or services, or \"pivot\" to\nother CBE systems or services."
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": null,
+          "content_hash": "33cb76083c4a34402650dad8d0c01b55df2442166b7ace70ad97f0cfcd653ff0",
+          "text": "\u27a4 Do not use social engineering to gain access to a system."
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 12,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": null,
+          "content_hash": "26858931df0bf225b0a05b783cc71d58a44fc4043382ebbc331ae5d7d3197a0c",
+          "text": "Information submitted under this Standard Procedure will be used for defensive\npurposes only to mitigate or remediate vulnerabilities. If your findings include\nnewly discovered vulnerabilities that affect all users of a product or service and\nnot solely CBE, we may share your report with the Information Network Security\nAdministration (INSA), other banks, and Cybersecurity Agencies, where it will be\nhandled under their policies. We will not share your name or contact information\nwithout express permission."
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": null,
+          "content_hash": "63fcc6dbd3e142e4b40521e0fdd202b5c406fbb595c514157a160375e9b89ae2",
+          "text": "What you expect from CBE\nWe accept vulnerability reports via cybersecurity@cbe.com.et. Reports may be\nsubmitted anonymously. However, when you choose to share your contact\ninformation with us, we commit to coordinating with you as openly and as quickly\nas possible:"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": null,
+          "content_hash": "b9aab0f5e7b74755abf6ccf4c302e3e75dc6773370e7e3483874e4676c0b2666",
+          "text": "We will acknowledge receipt of your report within 5 business days."
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": null,
+          "content_hash": "ba68fa51347627d4bfd2e780610d6a7931c132bf278a402bd31a59dc5c99671b",
+          "text": "To the best of our ability, we will confirm the existence of the vulnerability to\nyou and be as transparent as possible about what steps we are taking\nduring the remediation process, including on issues or challenges that may\ndelay resolution."
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": null,
+          "content_hash": "2da643cf6e60e43eb0ac85a36fe151f84fbe49a8b0736d6351f8317f3c58efa0",
+          "text": "We will maintain an open dialogue to discuss issues."
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": null,
+          "content_hash": "3539f48a356d75dc48416de52b39eb12c73536a8b54e17490771a44104766ad3",
+          "text": "CBE does not provide any recognition or reward payment for submitting\nthe vulnerabilities. However, in return, CBE will not recommend or pursue\nlegal action related to your research if you report your research to CBE\nfollowing this standard procedure."
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 13,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 13,
+          "bbox": null,
+          "content_hash": "6e0a0fdc733def25cb09a9fe3478d2406ddc042dff944d8ca704583d097e41db",
+          "text": "To help triage and prioritize submissions, CBE recommends that your reports shall:"
+        },
+        {
+          "block_type": "text",
+          "page_number": 13,
+          "bbox": null,
+          "content_hash": "cb4abb715165e04a74eb5d93f515d3afb7a5c771cad355afbcaecd3ba1d32c63",
+          "text": "\u27a4 be in acceptable message formats are plain text, rich text, and HTML,\n\u27a4 provide a detailed technical description of the steps required to reproduce\nthe vulnerability, including a description of any tools needed to identify or\nexploit the vulnerability,\n\u27a4 contain and attached Images, e.g., screen captures, and other\ndocuments. It is helpful to give attachments illustrative names,\n\u27a4 include proof-of-concept (PoC) code that demonstrates exploitation of\nthe vulnerability. We request that any scripts be embedded into non-\nexecutable file types. We can process all common file types as well as file\narchives including .zip, .7zip, and .gzip,\n\u27a4 in English, if possible."
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "vision_vlm"
+    },
+    {
+      "page_number": 14,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": null,
+          "content_hash": "47a239708a2f584c633944525bba8cc5e3d52e3538fc9de41452280271579b7a",
+          "text": "CBE VULNERABILITY DISCLOSURE STANDARD PROCEDURE"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": null,
+          "content_hash": "1b710438c8b1df53dbf6336df1d761718490602cf51729560a553a4c1c956efa",
+          "text": "8 MISCELLANEOUS"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": null,
+          "content_hash": "96089b0e7afe7f64c3abd1719c96e3e26cc15d27fc9ec593a59285db2fe2028d",
+          "text": "8.1 Enforcement\na) All ethical hackers or security researchers, internal or external, have a\nresponsibility to follow this standard procedure.\nb) Violation of this requirement will result in Legal action since it is a violation of\nthe Computer Crime Prevention Proclamation No.958/2016 and the CBE's\ninternal regulations and Security Policy."
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": null,
+          "content_hash": "088c05194920270e68262acd9b3d6a3639a7a18cf7e9921ff6f26ba61b0fef02",
+          "text": "8.2 Revision\na) This standard procedure document shall be reviewed and updated every two\nyears, or on-demand when new major security practices and standards are\nintroduced globally or internally.\nb) CBE may modify or terminate this standard procedure at any time in its sole\nand absolute discretion."
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": null,
+          "content_hash": "69e3c0ecaeb2e8e457af4fbcd46c11320cff73d3e7bd02105bcb8c57c4e5154c",
+          "text": "8.3 Effective Date\na) This standard procedure document shall become effective upon the date\napproved by the Bank."
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": null,
+          "content_hash": "44c260d545e46c292b50996698946be5a8fcbcc76c2763605439e68dfe7cabc5",
+          "text": "8.4 Document Change History"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": null,
+          "content_hash": "6a6d9958e6e8ee37e600e6babbb880f314207f8a4e190be73856d8ed8d2d1b69",
+          "text": "9 Questions and Contacts"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": null,
+          "content_hash": "4760b7d77bf9ef72c98addb9c6a12a9989231b8d34ab9d5ff703bd0bb56c28d9",
+          "text": "Use the following contacts for any inquiry or submit security findings:\ninformationsecurity@cbe.com.et or cybersecurity@cbe.com.et. We also invite you\nto contact us with suggestions for improving this Standard Procedure"
+        },
+        {
+          "block_type": "table",
+          "page_number": 14,
+          "bbox": null,
+          "content_hash": "983340a7e51c20214859d48155f0a07b3ce0fb24f850ba92d40effbeeb5d6bbe",
+          "headers": [
+            "Version",
+            "Date",
+            "Description"
+          ],
+          "rows": [
+            [
+              "1.0",
+              "25/03/2023",
+              "First Issuance"
+            ]
+          ],
+          "html_representation": null
+        }
+      ],
+      "page_confidence": 0.9500000000000001,
+      "strategy_used": "vision_vlm"
+    }
+  ]
+}

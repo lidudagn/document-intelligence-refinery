@@ -1,0 +1,29 @@
+{
+  "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+  "file": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+  "num_pages": 15,
+  "origin_type": "native_digital",
+  "layout_complexity": "table_heavy",
+  "language": "en",
+  "domain_hint": "medical",
+  "extraction_cost": "needs_layout_model",
+  "confidence_scores": {
+    "origin_conf": 0.4,
+    "layout_conf": 1.0,
+    "lang_conf": 0.9999945191527643,
+    "domain_conf": 0.425
+  },
+  "profiling_warnings": [
+    "Inconsistent origin signals (high variance between native and scanned metrics)."
+  ],
+  "raw_metrics": {
+    "avg_char_density": 0.000819899679942802,
+    "std_dev_char_density": 0.0005559530831696158,
+    "min_char_density": 0.00015543623027030164,
+    "avg_column_count": 1.2666666666666666,
+    "std_dev_column_count": 0.4422166387140533,
+    "avg_image_ratio": 0.5059334651625433,
+    "max_image_ratio": 1.529196027936131,
+    "total_tables_detected": 17
+  }
+}

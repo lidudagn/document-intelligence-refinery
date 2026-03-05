@@ -1,0 +1,29 @@
+{
+  "document_id": "b9e6b1f72571963e453375a9c192c17f4f7ee9f6c8266b3ee6577e6da2b17ca7",
+  "file": "Company_Profile_2024_25.pdf",
+  "num_pages": 24,
+  "origin_type": "native_digital",
+  "layout_complexity": "figure_heavy",
+  "language": "en",
+  "domain_hint": "technical",
+  "extraction_cost": "fast_text_sufficient",
+  "confidence_scores": {
+    "origin_conf": 0.6666666666666666,
+    "layout_conf": 0.4666666666666667,
+    "lang_conf": 0.999996149927501,
+    "domain_conf": 0.5333333333333333
+  },
+  "profiling_warnings": [
+    "Weak layout classification confidence."
+  ],
+  "raw_metrics": {
+    "avg_char_density": 0.0027953252560399488,
+    "std_dev_char_density": 0.003037691780749126,
+    "min_char_density": 0.00010441550121834512,
+    "avg_column_count": 1.0666666666666667,
+    "std_dev_column_count": 0.24944382578492943,
+    "avg_image_ratio": 1.105856615192477,
+    "max_image_ratio": 3.286693810470063,
+    "total_tables_detected": 6
+  }
+}

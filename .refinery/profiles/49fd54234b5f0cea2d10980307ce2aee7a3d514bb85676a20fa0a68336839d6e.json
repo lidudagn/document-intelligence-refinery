@@ -1,0 +1,27 @@
+{
+  "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+  "file": "Consumer Price Index August 2025.pdf",
+  "num_pages": 13,
+  "origin_type": "native_digital",
+  "layout_complexity": "table_heavy",
+  "language": "en",
+  "domain_hint": "general",
+  "extraction_cost": "needs_layout_model",
+  "confidence_scores": {
+    "origin_conf": 0.9230769230769231,
+    "layout_conf": 1.0,
+    "lang_conf": 0.9999968876702101,
+    "domain_conf": 0.0
+  },
+  "profiling_warnings": [],
+  "raw_metrics": {
+    "avg_char_density": 0.0026261864497158613,
+    "std_dev_char_density": 0.0013212597165888167,
+    "min_char_density": 0.0009118967452300785,
+    "avg_column_count": 1.0,
+    "std_dev_column_count": 0.0,
+    "avg_image_ratio": 0.16524946706570484,
+    "max_image_ratio": 0.42351194234006734,
+    "total_tables_detected": 18
+  }
+}

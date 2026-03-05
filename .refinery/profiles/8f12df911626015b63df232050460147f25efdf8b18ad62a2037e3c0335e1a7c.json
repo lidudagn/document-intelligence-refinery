@@ -1,0 +1,27 @@
+{
+  "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+  "file": "Consumer Price Index September 2025.pdf",
+  "num_pages": 13,
+  "origin_type": "native_digital",
+  "layout_complexity": "table_heavy",
+  "language": "en",
+  "domain_hint": "general",
+  "extraction_cost": "needs_layout_model",
+  "confidence_scores": {
+    "origin_conf": 1.0,
+    "layout_conf": 1.0,
+    "lang_conf": 0.9999968065378644,
+    "domain_conf": 0.0
+  },
+  "profiling_warnings": [],
+  "raw_metrics": {
+    "avg_char_density": 0.0029329557515832025,
+    "std_dev_char_density": 0.0013394964486581323,
+    "min_char_density": 0.00121723773684558,
+    "avg_column_count": 1.0,
+    "std_dev_column_count": 0.0,
+    "avg_image_ratio": 0.1546068728543606,
+    "max_image_ratio": 0.42351194234006745,
+    "total_tables_detected": 19
+  }
+}
