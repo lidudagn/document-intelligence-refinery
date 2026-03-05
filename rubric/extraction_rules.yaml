@@ -52,3 +52,22 @@ extraction:
     budget_warning_threshold: 0.08
   routing:
     escalate_on_confidence_below: 0.65
+
+chunking:
+  max_tokens_per_chunk: 512
+  enforce_rules: true
+  constitution:
+    - name: tables_must_not_split
+      description: Table rows and headers must remain in the same LDU
+    - name: figures_must_include_caption
+      description: Figure captions must be stored with their parent figure chunk
+    - name: list_items_grouped
+      description: Consecutive list items are grouped until token limit
+    - name: headers_propagate_to_children
+      description: Section headers propagate as metadata to child chunks
+    - name: preserve_spatial_order
+      description: Blocks must be chunked following page reading order
+
+vector_store:
+  engine: chromadb
+  embedding_model: all-MiniLM-L6-v2
