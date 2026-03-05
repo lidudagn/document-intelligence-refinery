@@ -13,6 +13,8 @@ def main(profile_name):
     EXTRACTIONS_DIR.mkdir(parents=True, exist_ok=True)
     router = ExtractionRouter()
     
+    if not profile_name.endswith(".json"):
+        profile_name += ".json"
     profile_path = Path(".refinery/profiles") / profile_name
     with open(profile_path) as f:
         profile = DocumentProfile(**json.load(f))

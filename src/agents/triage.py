@@ -345,3 +345,19 @@ class TriageAgent:
             f.write(profile.model_dump_json(indent=2))
             
         return profile
+
+if __name__ == "__main__":
+    import sys
+    if len(sys.argv) != 2:
+        print("Usage: python src/agents/triage.py <path_to_pdf>")
+        sys.exit(1)
+        
+    pdf_path = sys.argv[1]
+    agent = TriageAgent()
+    profile = agent.profile_document(pdf_path)
+    print(f"✅ Triaged {pdf_path}")
+    print(f"   Origin: {profile.origin_type.value}")
+    print(f"   Layout: {profile.layout_complexity.value}")
+    print(f"   Domain: {profile.domain_hint.value}")
+    print(f"   Cost:   {profile.extraction_cost.value}")
+
