@@ -2,6 +2,7 @@ import json
 import os
 import time
 import logging
+import shutil
 from pathlib import Path
 from typing import List, Dict, Any, Optional
 from dotenv import load_dotenv
@@ -96,31 +97,68 @@ class ExtractionRouter:
         ))
         self.budget_guard = BudgetGuard(max_usd_per_doc=max_usd)
 
+        # FastText is always eagerly loaded — it's lightweight (just pdfplumber).
         self.fast_text = FastTextExtractor(config=self.config)
-        self.layout = LayoutExtractor(config=self.config)
-        self.vision = VisionExtractor(config=self.config, budget_guard=self.budget_guard)
+
+        # Layout and Vision are LAZY-LOADED. They only consume memory when a
+        # page actually needs escalation. This prevents loading ~GBs of Docling
+        # ML models (layout detection, table structure, OCR) for documents
+        # where FastText handles most or all pages.
+        self._layout: Optional[LayoutExtractor] = None
+        self._vision: Optional[VisionExtractor] = None
+
         self.ledger = ExtractionLedger()
         self.validator = ExtractionValidator()
+
+    @property
+    def layout(self) -> LayoutExtractor:
+        """Lazy-load LayoutExtractor (Docling) only when first needed."""
+        if self._layout is None:
+            logger.info("Lazy-loading LayoutExtractor (Docling)...")
+            self._layout = LayoutExtractor(config=self.config)
+        return self._layout
+
+    @property
+    def vision(self) -> VisionExtractor:
+        """Lazy-load VisionExtractor (VLM API) only when first needed."""
+        if self._vision is None:
+            logger.info("Lazy-loading VisionExtractor (VLM)...")
+            self._vision = VisionExtractor(config=self.config, budget_guard=self.budget_guard)
+        return self._vision
 
     def _select_baseline_strategy(
         self, profile: DocumentProfile
     ) -> BaseExtractor:
-        """Choose the initial strategy based on the DocumentProfile."""
+        """Choose the initial strategy based on the DocumentProfile.
+
+        Core principle: CHEAP FIRST, escalate per page only if needed.
+
+        - native_digital (any layout): Always start with FastText. It runs in
+          ~1ms/page and its confidence formula naturally detects pages that need
+          escalation (table-heavy pages yield low char_density → low confidence
+          → per-page escalation to Docling). This prevents sending ALL pages
+          of a large document through an expensive strategy.
+        - scanned_image: Skip straight to Vision — there is no text stream
+          for FastText or Docling to read.
+        """
         if profile.origin_type == OriginType.SCANNED_IMAGE:
             return self.vision
-        if profile.origin_type == OriginType.NATIVE_DIGITAL and profile.layout_complexity == LayoutComplexity.SINGLE_COLUMN:
-            return self.fast_text
-        # For multi_column, table_heavy, mixed, figure_heavy -> layout
-        return self.layout
+        # All native_digital documents start cheap, regardless of layout_complexity.
+        # The escalation chain handles table_heavy/multi_column pages automatically.
+        return self.fast_text
 
-    def _get_escalation_chain(self, baseline: BaseExtractor) -> List[BaseExtractor]:
-        """Return the ordered list of extractors to try after the baseline fails."""
-        chain = []
-        if baseline is not self.layout:
-            chain.append(self.layout)
-        if baseline is not self.vision:
-            chain.append(self.vision)
-        return chain
+    def _get_escalation_chain(self, baseline: BaseExtractor):
+        """Yield extractors to try after the baseline fails (lazy generator).
+
+        Uses a generator so that accessing self.layout / self.vision (which are
+        lazy-loaded properties) only happens when the escalation step is reached.
+        This means Docling models are loaded only if FastText confidence is low,
+        and Vision API client is created only if Docling also fails.
+        """
+        if not isinstance(baseline, LayoutExtractor):
+            yield self.layout
+        if not isinstance(baseline, VisionExtractor):
+            yield self.vision
 
     def extract_document(
         self, pdf_path: str, profile: DocumentProfile
@@ -145,21 +183,59 @@ class ExtractionRouter:
 
         pages: List[ExtractedPage] = []
 
-        for page_num in range(total_pages):
-            result = self._extract_page_with_escalation(
-                pdf_path, page_num, baseline
-            )
-            total_cost += result.cost_estimate
+        # Setup checkpointing directory
+        chk_dir = Path(f".refinery/extractions/{profile.document_id}_pages")
+        chk_dir.mkdir(parents=True, exist_ok=True)
 
-            page = ExtractedPage(
-                page_number=result.page_number,
-                blocks=result.blocks,
-                page_confidence=result.confidence_score,
-                strategy_used=result.strategy_used,
-            )
-            page.sort_blocks()
-            pages.append(page)
-            page_strategy_map[page_num] = result.strategy_used
+        for page_num in range(total_pages):
+            page_chk_path = chk_dir / f"page_{page_num}.json"
+            
+            # Try to load from checkpoint
+            if page_chk_path.exists():
+                try:
+                    with open(page_chk_path, "r") as f:
+                        page_data = json.load(f)
+                    page = ExtractedPage.model_validate(page_data)
+                    pages.append(page)
+                    page_strategy_map[page_num] = page.strategy_used
+                    logger.info(f"  Page {page_num}: loaded from checkpoint ({page.strategy_used})")
+                    continue
+                except Exception as e:
+                    logger.warning(f"  Page {page_num}: failed to load checkpoint ({e}), re-extracting")
+
+            try:
+                result = self._extract_page_with_escalation(
+                    pdf_path, page_num, baseline
+                )
+                total_cost += result.cost_estimate
+
+                page = ExtractedPage(
+                    page_number=result.page_number,
+                    blocks=result.blocks,
+                    page_confidence=result.confidence_score,
+                    strategy_used=result.strategy_used,
+                )
+                page.sort_blocks()
+                pages.append(page)
+                page_strategy_map[page_num] = result.strategy_used
+                
+                # Save checkpoint
+                with open(page_chk_path, "w") as f:
+                    json.dump(page.model_dump(), f, indent=2, default=str)
+
+            except Exception as e:
+                logger.error(
+                    f"  Page {page_num}: extraction crashed ({type(e).__name__}: {e}). "
+                    f"Recording empty page and continuing."
+                )
+                page = ExtractedPage(
+                    page_number=page_num,
+                    blocks=[],
+                    page_confidence=0.0,
+                    strategy_used="failed",
+                )
+                pages.append(page)
+                page_strategy_map[page_num] = "failed"
 
         doc = ExtractedDocument(
             document_id=profile.document_id,
@@ -187,6 +263,10 @@ class ExtractionRouter:
             f"cost=${total_cost:.4f}, time={processing_time:.1f}s"
         )
 
+        # Clean up temporary checkpoint directory on successful extraction
+        if chk_dir.exists():
+            shutil.rmtree(chk_dir)
+
         return doc
 
     def _extract_page_with_escalation(
@@ -202,9 +282,8 @@ class ExtractionRouter:
         if result.confidence_score >= self.escalation_threshold:
             return result
 
-        # Escalate through the chain
-        chain = self._get_escalation_chain(baseline)
-        for fallback in chain:
+        # Escalate through the chain (lazy generator — each step triggers loading)
+        for fallback in self._get_escalation_chain(baseline):
             logger.info(
                 f"  Page {page_num}: confidence {result.confidence_score:.2f} < {self.escalation_threshold} "
                 f"→ escalating to {type(fallback).__name__}"
