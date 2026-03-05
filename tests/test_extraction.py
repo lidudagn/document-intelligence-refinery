@@ -193,7 +193,8 @@ class TestExtractionRouterEscalation:
         assert baseline is router.fast_text
 
     def test_baseline_selection_multi_column(self):
-        """Multi-column docs should start with layout strategy."""
+        """Multi-column native docs should STILL start with fast_text (cheap first).
+        Escalation handles complex pages per-page."""
         config = {
             "extraction": {
                 "routing": {"escalate_on_confidence_below": 0.65},
@@ -205,7 +206,23 @@ class TestExtractionRouterEscalation:
             layout_complexity=LayoutComplexity.MULTI_COLUMN,
         )
         baseline = router._select_baseline_strategy(profile)
-        assert baseline is router.layout
+        assert baseline is router.fast_text
+
+    def test_baseline_selection_table_heavy(self):
+        """Table-heavy native docs should start with fast_text (cheap first).
+        The confidence formula detects low quality → escalates to Docling per page."""
+        config = {
+            "extraction": {
+                "routing": {"escalate_on_confidence_below": 0.65},
+                "vision": {"max_usd_per_document": 1.0},
+            }
+        }
+        router = ExtractionRouter(config=config)
+        profile = _make_profile(
+            layout_complexity=LayoutComplexity.TABLE_HEAVY,
+        )
+        baseline = router._select_baseline_strategy(profile)
+        assert baseline is router.fast_text
 
     def test_escalation_triggered_on_low_confidence(self):
         """When fast_text returns low confidence, the router must try layout next."""
