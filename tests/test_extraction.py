@@ -14,7 +14,7 @@ from src.models.extracted_document import (
 from src.models.profile import (
     DocumentProfile, OriginType, LayoutComplexity, DomainHint, ExtractionCost,
 )
-from src.agents.extractor import ExtractionRouter, ExtractionValidator
+from src.agents.router import ExtractionRouter, ExtractionValidator
 from src.strategies.vision_augmented import BudgetGuard, BudgetExceededError
 
 # ---------------------------------------------------------------------------
