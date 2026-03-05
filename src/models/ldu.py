@@ -29,5 +29,11 @@ class LDU(BaseModel):
     token_count: int = Field(default=0, description="Estimated token size of the content.")
     content_hash: str = Field(..., description="SHA-256 spatial and content hash for provenance.")
     
-    # Metadata for specific types (e.g. parent figure for captions, or actual row data for tables)
+    # metadata for specific types (e.g. parent figure for captions, or actual row data for tables)
     metadata: dict[str, Any] = Field(default_factory=dict)
+    
+    # Semantic relationships (e.g., cross-references, parent-child hierarchies)
+    relationships: List[dict[str, str]] = Field(
+        default_factory=list, 
+        description="List of related chunk IDs and their relation type (e.g. {'id': 'chunk_1', 'type': 'parent'})"
+    )
