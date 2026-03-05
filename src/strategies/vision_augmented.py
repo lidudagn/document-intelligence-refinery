@@ -126,22 +126,19 @@ class VisionExtractor(BaseExtractor):
         # Use externally-provided guard if available, otherwise create one
         self.budget_guard = budget_guard or BudgetGuard(max_usd_per_doc=max_usd)
 
-        # Resolve API key: try OPENAI first, then OPENROUTER, then GOOGLE
-        api_key = (
-            os.getenv("OPENAI_API_KEY")
-            or os.getenv("OPENROUTER_API_KEY")
-            or os.getenv("GOOGLE_API_KEY")
-            or ""
-        )
+        self.model = os.getenv("DEFAULT_LLM_MODEL", DEFAULT_MODEL)
 
-        # If using OpenRouter key, route through their endpoint
-        base_url = None
-        if os.getenv("OPENROUTER_API_KEY") and not os.getenv("OPENAI_API_KEY"):
+        if "/" in self.model and os.getenv("OPENROUTER_API_KEY"):
             base_url = "https://openrouter.ai/api/v1"
             api_key = os.getenv("OPENROUTER_API_KEY")
+        elif "gemini" in self.model.lower() and os.getenv("GOOGLE_API_KEY"):
+            base_url = "https://generativelanguage.googleapis.com/v1beta/openai/"
+            api_key = os.getenv("GOOGLE_API_KEY")
+        else:
+            base_url = None
+            api_key = os.getenv("OPENAI_API_KEY")
 
         self.client = OpenAI(api_key=api_key, base_url=base_url) if api_key else None
-        self.model = os.getenv("DEFAULT_LLM_MODEL", DEFAULT_MODEL)
 
     def _render_page_to_base64(self, pdf_path: str, page_num: int) -> str:
         """Render a specific PDF page as a PNG image and return as base64."""
@@ -187,7 +184,8 @@ class VisionExtractor(BaseExtractor):
 
         # Calculate real cost from usage
         usage = response.usage
-        pricing = PRICING.get(self.model, PRICING[DEFAULT_MODEL])
+        fallback_pricing = PRICING.get(DEFAULT_MODEL, {"input": 0.075, "output": 0.300})
+        pricing = PRICING.get(self.model, fallback_pricing)
         cost = (
             (usage.prompt_tokens * pricing["input"] / 1_000_000)
             + (usage.completion_tokens * pricing["output"] / 1_000_000)
