@@ -14,6 +14,35 @@ triage:
     routing_origin_threshold: 0.60
     routing_layout_threshold: 0.70
     domain_activation_threshold: 10
+  domains:
+    financial:
+      revenue: 5
+      fiscal: 5
+      balance sheet: 5
+      tax expenditure: 4
+      income statement: 5
+      audit: 3
+    legal:
+      whereas: 5
+      hereby: 4
+      jurisdiction: 5
+      affidavit: 5
+      plaintiff: 5
+      statute: 3
+    technical:
+      architecture: 4
+      protocol: 4
+      latency: 5
+      system design: 5
+      api: 4
+      bandwidth: 3
+    medical:
+      patient: 5
+      diagnosis: 5
+      clinical: 4
+      symptoms: 4
+      treatment: 3
+      syndrome: 5
 
 extraction:
   fast_text:

@@ -216,13 +216,16 @@ class TriageAgent:
         if not full_text:
             return DomainHint.GENERAL, 0.0
             
-        # Domain dictionaries and associated weights
-        domains = {
-            DomainHint.FINANCIAL: {"revenue": 5, "fiscal": 5, "balance sheet": 5, "tax expenditure": 4, "income statement": 5, "audit": 3},
-            DomainHint.LEGAL: {"whereas": 5, "hereby": 4, "jurisdiction": 5, "affidavit": 5, "plaintiff": 5, "statute": 3},
-            DomainHint.TECHNICAL: {"architecture": 4, "protocol": 4, "latency": 5, "system design": 5, "api": 4, "bandwidth": 3},
-            DomainHint.MEDICAL: {"patient": 5, "diagnosis": 5, "clinical": 4, "symptoms": 4, "treatment": 3, "syndrome": 5}
-        }
+        # Domain dictionaries and associated weights from config
+        domains_config = self.config.get("domains", {})
+        domains = {}
+        for domain_name, keywords in domains_config.items():
+            try:
+                # Map string domain name to DomainHint enum
+                domain_enum = DomainHint(domain_name)
+                domains[domain_enum] = keywords
+            except ValueError:
+                continue # Skip invalid domains
         
         scores = {d: 0 for d in DomainHint if d != DomainHint.GENERAL}
         total_hits = 0
