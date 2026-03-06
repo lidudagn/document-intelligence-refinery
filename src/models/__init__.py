@@ -4,6 +4,8 @@ from .extracted_document import ExtractedDocument, ExtractedPage, BoundingBox, T
 from .ldu import LDU, ChunkType
 from .page_index import PageIndex, Section
 from .provenance import ProvenanceChain, Citation
+from .fact_record import FactRecord
+from .audit_result import AuditResult, AuditVerdict
 
 __all__ = [
     "PageMetrics",
@@ -23,5 +25,9 @@ __all__ = [
     "PageIndex",
     "Section",
     "ProvenanceChain",
-    "Citation"
+    "Citation",
+    "FactRecord",
+    "AuditResult",
+    "AuditVerdict",
 ]
+
