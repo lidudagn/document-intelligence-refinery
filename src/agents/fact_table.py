@@ -28,7 +28,7 @@ except ImportError:
 # ---------------------------------------------------------------------------
 
 # Symbols to strip before attempting float conversion
-_STRIP_SYMBOLS = re.compile(r"[$€£,ETB\s]", re.IGNORECASE)
+_STRIP_SYMBOLS = re.compile(r"[$€£,\s]|(?i:ETB)")
 _PERCENTAGE = re.compile(r"^([\d.]+)\s*%$")
 _PAREN_NEGATIVE = re.compile(r"^\(([\d,.]+)\)$")  # accounting negative: (1,234)
 
@@ -57,7 +57,6 @@ def parse_numeric(raw: str) -> Optional[float]:
             pass
 
     cleaned = _STRIP_SYMBOLS.sub("", s)
-    # Handle billions/millions shorthand
     multiplier = 1.0
     if cleaned.lower().endswith("b"):
         multiplier = 1e9

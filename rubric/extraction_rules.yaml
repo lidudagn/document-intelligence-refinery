@@ -71,3 +71,33 @@ chunking:
 vector_store:
   engine: chromadb
   embedding_model: all-MiniLM-L6-v2
+  deduplicate_by_hash: true
+
+query_agent:
+  llm_model: "gemini/gemini-1.5-flash"
+  max_synthesis_tokens: 6000
+  section_boost_factor: 1.5
+  top_k_retrieval: 10
+  max_chunks_for_synthesis: 6
+  min_retrieval_confidence: 0.3
+  sql_direct_answer: true
+  verify_answers: false
+
+fact_table:
+  extraction_mode: "heuristic_first"
+  numeric_parse_symbols: ["$", "€", "£", ",", "%", "ETB"]
+
+caching:
+  enabled: true
+  cache_dir: ".refinery/cache"
+  cache_targets:
+    - pageindex_summaries
+    - fact_extraction
+    - synthesis
+    - audits
+    - embeddings
+
+audit:
+  run_by_default: false
+  min_verification_confidence: 0.4
+  require_multi_source: true

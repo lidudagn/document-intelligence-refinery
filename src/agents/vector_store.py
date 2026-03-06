@@ -37,7 +37,7 @@ class VectorStoreClient:
     def ingest_ldus(self, document_id: str, ldus: List[LDU]):
         """
         Takes a list of validated LDUs and syncs them to ChromaDB.
-        Skips ingestion if ChromaDB is not installed.
+        Deduplicates by content_hash before ingestion.
         """
         if not CHROMA_AVAILABLE:
             logger.info(f"Mock ingestion: skipped {len(ldus)} chunks from {document_id}")
@@ -45,13 +45,24 @@ class VectorStoreClient:
             
         if not ldus:
             return
+        
+        # Deduplicate by content_hash (removes repeated headers/footers)
+        seen_hashes: set = set()
+        unique_ldus: List[LDU] = []
+        for ldu in ldus:
+            if ldu.content_hash not in seen_hashes:
+                seen_hashes.add(ldu.content_hash)
+                unique_ldus.append(ldu)
+        
+        dedup_count = len(ldus) - len(unique_ldus)
+        if dedup_count > 0:
+            logger.info(f"Deduplication: removed {dedup_count} duplicate chunks (by content_hash)")
             
         ids = []
         documents = []
         metadatas = []
         
-        for ldu in ldus:
-            # We must convert ChunkType/Lists/Dicts to basic types for ChromaDB metadata
+        for ldu in unique_ldus:
             meta: Dict[str, str | int | float | bool] = {
                 "document_id": document_id,
                 "chunk_type": ldu.chunk_type.value,
@@ -61,7 +72,6 @@ class VectorStoreClient:
                 "page_refs": ",".join(str(p) for p in ldu.page_refs)
             }
             
-            # Add bbox as string if exists
             if ldu.bounding_box:
                 meta["bbox"] = f"{ldu.bounding_box.x0:.1f},{ldu.bounding_box.top:.1f},{ldu.bounding_box.x1:.1f},{ldu.bounding_box.bottom:.1f}"
                 
@@ -69,7 +79,6 @@ class VectorStoreClient:
             documents.append(ldu.content)
             metadatas.append(meta)
             
-        # Upsert in small batches if necessary, but typically a doc's ldus fit in one call
         self.collection.upsert(
             ids=ids,
             documents=documents,
