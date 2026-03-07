@@ -1,68 +1,76 @@
-# Document Intelligence Refinery
+# Week 3: Document Intelligence Refinery
 
-Production-grade, multi-stage agentic pipeline that ingests heterogeneous document corpora and emits structured, queryable, spatially-indexed knowledge.
+An enterprise-scale PDF extraction pipeline designed to reliably convert uncooperative business documents into queryable structured data.
 
-## 🏗 Architecture Overview
+## Architecture Highlights
+This system acts as a deterministic funnel, handling everything from clean digital PDFs to degraded scanned images utilizing a tiered cost-extraction strategy.
 
-The refinery follows a 5-stage agentic architecture designed for enterprise-scale document extraction:
+1. **Triage Agent:** Analyzes visual layout and text density to classify documents as `native_digital`, `scanned_image`, or `mixed_layout`.
+2. **Extraction Router:** Executes extraction strategies efficiently using Confidence-Aware Routing:
+   - **Strategy A (Fast Text):** `pdfplumber`. Target cost < $0.001 per page.
+   - **Strategy B (Layout-Aware):** `Docling`. Runs in an isolated subprocess to prevent OOM errors.
+   - **Strategy C (Vision Augmented):** Multimodal LLM (Gemini/OpenAI) for complex graphics or degraded scans, constrained by a strict `BudgetGuard`.
+3. **Semantic Chunking:** Converts extracted blocks into Logical Document Units (LDUs) using content-hash deduplication and constitution rules that forbid splitting tables or separating figures from captions.
+4. **Agentic Indexing:** Hierarchically structures LDUs with LLM-generated summaries (or heuristic fallbacks) while syncing chunks to a local ChromaDB instance.
+5. **Auditable Query Interface:** An LLM-driven query agent equipped with a `FactTable` for deterministic SQL retrieval and `VectorSearch` for semantic retrieval, outputting responses tied strictly to an irrefutable `ProvenanceChain` (Document -> Page -> BBox).
 
-1.  **Triage Agent**: Document classification (origin detection, layout complexity, language/domain analysis). Produces a `DocumentProfile`.
-2.  **Structure Extraction Layer**: A multi-strategy router that selects between:
-    *   **Fast Text**: `pdfplumber` for native digital prose.
-    *   **Layout-Aware**: `Docling` for complex tables and multi-column layouts.
-    *   **Vision-Augmented**: Multimodal VLMs (Gemini/GPT-4o) for scanned documents or low-confidence pages.
-3.  **Semantic Chunking Engine**: (Phase 3) Converts structured extraction into Logical Document Units (LDUs) that preserve semantic context (tables, headers, figure-caption pairs).
-4.  **PageIndex Builder**: (Phase 4) Builds a hierarchical navigation tree for LLM-based document traversal.
-5.  **Query Interface Agent**: (Phase 4) A LangGraph agent with spatial provenance citations (page refs + bounding boxes).
+## Setup & Installation
 
-## 🚀 Setup
+**Prerequisites:** Python 3.10+
 
 ```bash
-# Install dependencies
-pip install -e ".[dev]"
+# Clone and enter the repository
+git clone <your-repo-url>
+cd document-intelligence-refinery
 
-# Configure Environment
-cp .env.example .env
-# Edit .env and provide your OPENROUTER_API_KEY
+# Setup virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# Install requirements
+pip install -r requirements.txt
 ```
 
-## 🛠 Usage
+### Environment Variables
+Create a `.env` file in the project root:
 
-### 1. Document Profiling (Triage)
-To profile documents in the corpus:
+```ini
+GOOGLE_API_KEY="your-gemini-key"
+OPENAI_API_KEY="your-openai-key" # Optional, for Vision/Chunk indexing
+OPENROUTER_API_KEY="your-openrouter-key" # Recommended for avoiding rate limits
+```
+
+## Running the Pipeline
+
+You can run individual phases for debugging or the full batch pipeline to process a corpus.
+
+### Running Single Documents
 ```bash
-export PYTHONPATH=$PYTHONPATH:.
-python3 src/agents/triage.py data/data/your_document.pdf
+# Phase 1: Triage
+python src/agents/triage.py path/to/document.pdf
+
+# Phase 2: Extraction
+python run_single.py <document_sha256_id>
+
+# Phase 3 & 4: Chunking and Indexing
+python run_indexer.py --json_path .refinery/extractions/<document_id>.json
+python run_query_agent.py --json_path .refinery/extractions/<document_id>_ldu.json
 ```
 
-### 2. Multi-Strategy Extraction
-To run the extraction engine on a specific document:
+### Running Batch (Full Corpus)
+Execute the provided script to process the entire `/data/data/` corpus end-to-end:
 ```bash
-# Via Document ID (Hash)
-python3 run_single.py <doc_id_hash>
+python run_full_batch.py
 ```
 
-To run extraction on all profiled documents:
+### Running the Query Interface
+To chat with the processed documents:
 ```bash
-python3 run_extraction.py
+python run_query_agent.py --json_path <any_processed_json_path> --interactive
 ```
 
-## 📊 Project Structure
-
-```
-src/
-  models/       # Pydantic schemas (DocumentProfile, ExtractedDocument, LDU, PageIndex, etc.)
-  agents/       # Stage agents (triage, extractor, chunker, indexer, query)
-  strategies/   # Extraction strategy implementations (FastText, Layout-Aware, Vision)
-rubric/         # Externalized rules and thresholds (extraction_rules.yaml)
-.refinery/      # Persistent data layer
-  profiles/     # Stage 1 profiling outputs
-  extractions/  # Stage 2 extraction outputs
-  ledger/       # Performance and cost audit logs
-```
-
-## 📄 Documentation
-
-- [DOMAIN_NOTES.md](DOMAIN_NOTES.md): Detailed analysis of extraction strategies, failure modes, and cost analysis.
-- [Architecture Diagram](DOMAIN_NOTES.md#4-pipeline-architecture-diagram): Detailed Mermaid diagram of the 5-stage pipeline.
+## Testing
+The pipeline is fully unit-tested to guarantee structural extraction bounds:
+```bash
+pytest tests/
 ```

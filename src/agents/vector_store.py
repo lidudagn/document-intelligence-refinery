@@ -19,9 +19,16 @@ class VectorStoreClient:
     Ingests LDUs into a local ChromaDB instance to enable RAG.
     """
     
-    def __init__(self, db_path: str = ".refinery/chroma_db", collection_name: str = "ldu_collection"):
-        self.db_path = db_path
-        self.collection_name = collection_name
+    def __init__(self, config: dict = None, db_path: str = ".refinery/chroma_db", collection_name: str = "ldu_collection"):
+        # Handle case where first arg is the config dict (common in run_query_agent.py)
+        if isinstance(config, dict):
+            vector_config = config.get("vector_store", {})
+            self.db_path = vector_config.get("db_path", db_path)
+            self.collection_name = vector_config.get("collection_name", collection_name)
+        else:
+            # Fallback for manual instantiation where config is path
+            self.db_path = config if config else db_path
+            self.collection_name = collection_name
         
         if CHROMA_AVAILABLE:
             self.client = chromadb.PersistentClient(path=self.db_path)
