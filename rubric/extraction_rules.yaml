@@ -74,7 +74,7 @@ vector_store:
   deduplicate_by_hash: true
 
 query_agent:
-  llm_model: "openrouter/meta-llama/llama-3.3-70b-instruct:free"
+  llm_model: "openrouter/qwen/qwen-2.5-72b-instruct"
   max_synthesis_tokens: 6000
   section_boost_factor: 1.5
   top_k_retrieval: 10
