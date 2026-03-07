@@ -58,7 +58,7 @@ class FastTextExtractor(BaseExtractor):
                 bottom = max(w['bottom'] for w in line_words)
                 
                 block = TextBlock(
-                    page_number=page_num,
+                    page_number=page_num + 1,
                     bbox=BoundingBox(x0=x0, top=top, x1=x1, bottom=bottom),
                     text=text,
                     content_hash="" # Placeholder, computed next
@@ -97,7 +97,7 @@ class FastTextExtractor(BaseExtractor):
         processing_time = time.time() - start_time
         
         return ExtractionResult(
-            page_number=page_num,
+            page_number=page_num + 1,
             blocks=blocks,
             confidence_score=float(confidence),
             strategy_used="fast_text",
