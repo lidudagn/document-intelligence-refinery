@@ -47,3 +47,24 @@ class DocumentProfile(BaseModel):
             if not (0.0 <= score <= 1.0):
                 raise ValueError(f'Confidence score for {key} must be between 0.0 and 1.0, got {score}')
         return v
+
+    @field_validator('file')
+    @classmethod
+    def validate_file(cls, v: str) -> str:
+        if not v.lower().endswith('.pdf'):
+            raise ValueError('file must end with .pdf')
+        return v
+
+    @field_validator('domain_hint')
+    @classmethod
+    def validate_domain_hint(cls, v: str) -> str:
+        if not v.strip():
+            raise ValueError('domain_hint cannot be empty whitespace')
+        return v
+
+    @field_validator('language')
+    @classmethod
+    def validate_language(cls, v: str) -> str:
+        if not v.strip():
+            raise ValueError('language must be defined')
+        return v

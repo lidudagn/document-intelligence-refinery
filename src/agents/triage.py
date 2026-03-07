@@ -355,6 +355,6 @@ if __name__ == "__main__":
     print(f"✅ Triaged {pdf_path}")
     print(f"   Origin: {profile.origin_type.value}")
     print(f"   Layout: {profile.layout_complexity.value}")
-    print(f"   Domain: {profile.domain_hint.value}")
+    print(f"   Domain: {profile.domain_hint}")
     print(f"   Cost:   {profile.extraction_cost.value}")
 

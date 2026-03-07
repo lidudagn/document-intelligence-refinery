@@ -53,3 +53,27 @@ class LDU(BaseModel):
         if v < 0:
             raise ValueError('token_count cannot be negative')
         return v
+
+    @field_validator('page_refs')
+    @classmethod
+    def validate_page_refs(cls, v: List[int]) -> List[int]:
+        if not v:
+            raise ValueError('page_refs cannot be empty')
+        if any(page < 1 for page in v):
+            raise ValueError('page_refs must contain valid 1-indexed page numbers')
+        return v
+
+    @field_validator('content')
+    @classmethod
+    def validate_content(cls, v: str) -> str:
+        if not v.strip():
+            raise ValueError('content cannot be empty or just whitespace')
+        return v
+
+    @field_validator('relationships')
+    @classmethod
+    def validate_relationships(cls, v: List[dict[str, str]]) -> List[dict[str, str]]:
+        for rel in v:
+            if 'id' not in rel or 'type' not in rel:
+                raise ValueError('relationship dicts must have "id" and "type" keys')
+        return v
