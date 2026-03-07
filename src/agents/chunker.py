@@ -12,15 +12,16 @@ class ChunkValidator:
     """Enforces the 5 chunking constitution rules."""
     
     @staticmethod
-    def validate(ldus: List[LDU], max_tokens: int) -> bool:
+    def validate(ldus: List[LDU], chunking_config: dict) -> bool:
+        max_tokens = chunking_config.get("max_tokens_per_chunk", 512)
+        constitution = chunking_config.get("constitution", [])
+        rules = [rule.get("name") for rule in constitution]
+        
         for i, ldu in enumerate(ldus):
             # Rule 1: tables must not split (a table is always 1 LDU)
-            if ldu.chunk_type == ChunkType.TABLE:
+            if "tables_must_not_split" in rules and ldu.chunk_type == ChunkType.TABLE:
                 if len(ldu.page_refs) > 1:
                     logger.warning(f"LDU {ldu.chunk_id} spans {len(ldu.page_refs)} pages. Tables should ideally remain intact.")
-                    
-            # Rule 4: headers propagate to children
-            # (If it's not a header itself, and a header was seen, it should have a parent)
             
             # Additional validation: token bounds
             if ldu.token_count > max_tokens and ldu.chunk_type != ChunkType.TABLE:
@@ -187,6 +188,6 @@ class ChunkingEngine:
         flush_text_chunk() # final flush
         
         if self.config.get("enforce_rules", True):
-            self.validator.validate(ldus, self.max_tokens)
+            self.validator.validate(ldus, self.config)
             
         return ldus
