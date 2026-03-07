@@ -1,4 +1,4 @@
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, field_validator, model_validator
 from typing import List, Optional, Any
 from enum import Enum
 
@@ -14,6 +14,14 @@ class BoundingBox(BaseModel):
     top: float
     x1: float
     bottom: float
+    
+    @model_validator(mode='after')
+    def check_coordinates(self) -> 'BoundingBox':
+        if self.x0 > self.x1:
+            raise ValueError(f'x0 ({self.x0}) cannot be greater than x1 ({self.x1})')
+        if self.top > self.bottom:
+            raise ValueError(f'top ({self.top}) cannot be greater than bottom ({self.bottom})')
+        return self
 
 class LDU(BaseModel):
     """
@@ -38,3 +46,10 @@ class LDU(BaseModel):
         default_factory=list, 
         description="List of related chunk IDs and their relation type (e.g. {'id': 'chunk_1', 'type': 'parent'})"
     )
+
+    @field_validator('token_count')
+    @classmethod
+    def validate_token_count(cls, v: int) -> int:
+        if v < 0:
+            raise ValueError('token_count cannot be negative')
+        return v
