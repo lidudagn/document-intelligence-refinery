@@ -44,7 +44,7 @@ class AuditAgent:
         self.fact_db = fact_db
         self.full_config = config or {}
         self.audit_cfg = self.full_config.get("audit", {})
-        self.model = os.getenv("INDEXER_LLM_MODEL", "gemini/gemini-1.5-flash")
+        self.model = os.getenv("INDEXER_LLM_MODEL", "gemini/gemini-2.0-flash")
         self.min_confidence = self.audit_cfg.get("min_verification_confidence", 0.4)
 
         cache_cfg = self.full_config.get("caching", {})

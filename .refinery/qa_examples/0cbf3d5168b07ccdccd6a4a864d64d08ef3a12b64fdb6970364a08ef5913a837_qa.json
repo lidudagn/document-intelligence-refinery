@@ -1,0 +1,33 @@
+{
+  "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+  "document_name": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+  "qa_pairs": [
+    {
+      "answer": "Information not found in the document with sufficient confidence.",
+      "query_text": "What is the overall summary or primary objective of this document?",
+      "citations": [],
+      "is_verifiable": false,
+      "confidence_level": 0.0,
+      "retrieval_method": "hybrid_search",
+      "evidence_bundle_hash": "68ba5e4e094c91348aa0eeb51affaa30fb304af19bb9c6bdfa5870c364f8e7ab"
+    },
+    {
+      "answer": "Information not found in the document with sufficient confidence.",
+      "query_text": "What are the key financial or numerical highlights mentioned?",
+      "citations": [],
+      "is_verifiable": false,
+      "confidence_level": 0.0,
+      "retrieval_method": "hybrid_search",
+      "evidence_bundle_hash": "cf6d7c27a552c1946b2deff9a9f6e8ec0099cb776a61142b2cae8667528869c0"
+    },
+    {
+      "answer": "Information not found in the document with sufficient confidence.",
+      "query_text": "What are the main risks, challenges, or recommendations identified?",
+      "citations": [],
+      "is_verifiable": false,
+      "confidence_level": 0.0,
+      "retrieval_method": "hybrid_search",
+      "evidence_bundle_hash": "294f857f12f497bb9149168fe40da5b0bc77509a878d97ec6c7989e8e1155edd"
+    }
+  ]
+}

@@ -175,7 +175,12 @@ def reciprocal_rank_fusion(
 
     # Sort by fused score
     ranked = sorted(scores.items(), key=lambda x: x[1], reverse=True)
-    return [{"fused_score": s, **docs[key]} for key, s in ranked]
+    
+    # Normalize: theoretical max is (1.0/k+1) + (1.0/k+1) = 2.0/(k+1)
+    # We want a top-quality match (rank 0 in both) to be ~1.0
+    scale = (k + 1) / 2.0
+    
+    return [{"fused_score": s * scale, "score": s * scale, **docs[key]} for key, s in ranked]
 
 
 # ---------------------------------------------------------------------------
@@ -203,7 +208,7 @@ class QueryAgent:
         self.fact_db = fact_db
         self.full_config = config or {}
         self.config = self.full_config.get("query_agent", {})
-        self.model = self.config.get("llm_model", os.getenv("INDEXER_LLM_MODEL", "gemini/gemini-1.5-flash"))
+        self.model = self.config.get("llm_model", os.getenv("INDEXER_LLM_MODEL", "openrouter/anthropic/claude-3.5-sonnet"))
         self.top_k = self.config.get("top_k_retrieval", 10)
         self.max_chunks = self.config.get("max_chunks_for_synthesis", 6)
         self.min_confidence = self.config.get("min_retrieval_confidence", 0.3)

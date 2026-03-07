@@ -8,12 +8,8 @@ from src.models.page_index import PageIndex, Section
 from src.models.ldu import LDU, ChunkType
 
 # Use LiteLLM if available, otherwise just use heuristic fallback
-try:
-    import litellm
-    from litellm import completion
-    LITELLM_AVAILABLE = True
-except ImportError:
-    LITELLM_AVAILABLE = False
+# Disable LLM summarization for Index building to prevent rate limits
+LITELLM_AVAILABLE = False
 
 logger = logging.getLogger(__name__)
 
@@ -32,7 +28,7 @@ class PageIndexBuilder:
     def __init__(self, config: dict = None):
         self.config = config or {}
         # Try to use a fast, cheap model for summarization
-        self.model = os.getenv("INDEXER_LLM_MODEL", "gemini/gemini-1.5-flash")
+        self.model = os.getenv("DEFAULT_LLM_MODEL", "openrouter/google/gemini-2.0-flash-lite-preview-02-05:free")
         
     def _generate_heuristic_summary(self, text: str) -> SectionSummaryResponse:
         """Fallback: Extracts the first 2-3 sentences as a summary."""

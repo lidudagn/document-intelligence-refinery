@@ -203,7 +203,7 @@ class FactTableExtractor:
     def __init__(self, config: dict = None):
         self.config = (config or {}).get("fact_table", {})
         self.mode = self.config.get("extraction_mode", "heuristic_first")
-        self.model = os.getenv("INDEXER_LLM_MODEL", "gemini/gemini-1.5-flash")
+        self.model = os.getenv("INDEXER_LLM_MODEL", "gemini/gemini-2.0-flash")
         cache_cfg = (config or {}).get("caching", {})
         self.cache = LLMCache(
             cache_dir=cache_cfg.get("cache_dir", ".refinery/cache"),
