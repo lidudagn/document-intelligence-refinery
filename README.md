@@ -38,6 +38,8 @@ Create a `.env` file in the project root:
 GOOGLE_API_KEY="your-gemini-key"
 OPENAI_API_KEY="your-openai-key" # Optional, for Vision/Chunk indexing
 OPENROUTER_API_KEY="your-openrouter-key" # Recommended for avoiding rate limits
+INDEXER_LLM_MODEL="openrouter/qwen/qwen-2.5-72b-instruct"
+MAX_VLM_COST_PER_DOCUMENT="0.10"
 ```
 
 ## Running the Pipeline
@@ -47,14 +49,14 @@ You can run individual phases for debugging or the full batch pipeline to proces
 ### Running Single Documents
 ```bash
 # Phase 1: Triage
-python src/agents/triage.py path/to/document.pdf
+python run_triage.py path/to/document.pdf
 
 # Phase 2: Extraction
-python run_single.py <document_sha256_id>
+python run_extraction.py <document_sha256_id>
 
 # Phase 3 & 4: Chunking and Indexing
 python run_indexer.py --json_path .refinery/extractions/<document_id>.json
-python run_query_agent.py --json_path .refinery/extractions/<document_id>_ldu.json
+python run_query_agent.py --json_path .refinery/pageindex/<document_id>_index.json
 ```
 
 ### Running Batch (Full Corpus)
