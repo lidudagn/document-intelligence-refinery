@@ -1,5 +1,5 @@
 from .page_metrics import PageMetrics
-from .profile import DocumentProfile, OriginType, LayoutComplexity, DomainHint, ExtractionCost
+from .profile import DocumentProfile, OriginType, LayoutComplexity, ExtractionCost
 from .extracted_document import ExtractedDocument, ExtractedPage, BoundingBox, TextBlock, TableBlock, FigureBlock
 from .ldu import LDU, ChunkType
 from .page_index import PageIndex, Section
@@ -12,7 +12,6 @@ __all__ = [
     "DocumentProfile",
     "OriginType",
     "LayoutComplexity",
-    "DomainHint",
     "ExtractionCost",
     "ExtractedDocument",
     "ExtractedPage",

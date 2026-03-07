@@ -10,7 +10,7 @@ import numpy as np
 from langdetect import detect_langs, DetectorFactory
 
 from src.models import DocumentProfile, PageMetrics
-from src.models.profile import OriginType, LayoutComplexity, DomainHint, ExtractionCost
+from src.models.profile import OriginType, LayoutComplexity, ExtractionCost
 
 # Ensure deterministic language detection
 DetectorFactory.seed = 0
@@ -210,41 +210,35 @@ class TriageAgent:
         except:
             return "unknown", 0.0
 
-    def _detect_domain(self, page_metrics: List[PageMetrics]) -> tuple[DomainHint, float]:
+    def _detect_domain(self, page_metrics: List[PageMetrics]) -> tuple[str, float]:
         """Weighted scoring approach to domain determination."""
         full_text = " ".join([p.text_sample for p in page_metrics if p.text_sample]).lower()
         if not full_text:
-            return DomainHint.GENERAL, 0.0
+            return "general", 0.0
             
         # Domain dictionaries and associated weights from config
-        domains_config = self.config.get("domains", {})
-        domains = {}
-        for domain_name, keywords in domains_config.items():
-            try:
-                # Map string domain name to DomainHint enum
-                domain_enum = DomainHint(domain_name)
-                domains[domain_enum] = keywords
-            except ValueError:
-                continue # Skip invalid domains
+        domains = self.config.get("domains", {})
         
-        scores = {d: 0 for d in DomainHint if d != DomainHint.GENERAL}
+        scores = {d: 0 for d in domains.keys()}
         total_hits = 0
         
         for domain, keywords in domains.items():
             for kw, weight in keywords.items():
-                hits = full_text.count(kw)
+                hits = full_text.count(kw.lower())
+                if domain not in scores:
+                    scores[domain] = 0
                 scores[domain] += hits * weight
                 total_hits += hits
                 
         if total_hits == 0:
-            return DomainHint.GENERAL, 0.0
+            return "general", 0.0
             
         winning_domain = max(scores, key=scores.get)
         max_score = scores[winning_domain]
         
         activation_thresh = self.config["thresholds"]["domain_activation_threshold"]
         if max_score < activation_thresh: # Minimum activation threshold
-            return DomainHint.GENERAL, 0.0
+            return "general", 0.0
             
         confidence = min(1.0, max_score / (total_hits * 5.0))
         return winning_domain, confidence
