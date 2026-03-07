@@ -285,7 +285,7 @@ class ExtractionRouter:
         # Escalate through the chain (lazy generator — each step triggers loading)
         for fallback in self._get_escalation_chain(baseline):
             logger.info(
-                f"  Page {page_num}: confidence {result.confidence_score:.2f} < {self.escalation_threshold} "
+                f"  Page {page_num}: confidence {result.confidence_score:.3f} < {self.escalation_threshold} "
                 f"→ escalating to {type(fallback).__name__}"
             )
             escalated = fallback.extract_page(pdf_path, page_num)

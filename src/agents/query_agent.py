@@ -344,6 +344,13 @@ Return ONLY valid JSON: {{"relevant_sections": ["Title 1", "Title 2"]}}"""
             else:
                 item["score"] = item.get("fused_score", item.get("score", 0))
 
+            # Penalize tiny fragments that lack enough context for synthesis
+            content_len = len(item.get("content", ""))
+            if content_len < 50:
+                item["score"] *= 0.3  # heavily deprioritize fragments
+            elif content_len < 100:
+                item["score"] *= 0.6  # mild penalty for short chunks
+
         merged.sort(key=lambda x: x.get("score", 0), reverse=True)
         return merged[:self.top_k]
 

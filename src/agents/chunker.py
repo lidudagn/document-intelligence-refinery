@@ -118,8 +118,8 @@ class ChunkingEngine:
                     bbox_obj = None
                     if hasattr(block, "bbox") and block.bbox:
                         bbox_obj = BoundingBox(
-                            x0=block.bbox.x0, top=block.bbox.top, 
-                            x1=block.bbox.x1, bottom=block.bbox.bottom
+                            x0=min(block.bbox.x0, block.bbox.x1), top=min(block.bbox.top, block.bbox.bottom), 
+                            x1=max(block.bbox.x0, block.bbox.x1), bottom=max(block.bbox.top, block.bbox.bottom)
                         )
                     
                     c_hash = self._compute_hash([page.page_number], bbox_obj, table_text)
@@ -155,7 +155,10 @@ class ChunkingEngine:
                     if hasattr(block, "bbox") and block.bbox:
                         b = block.bbox
                         if current_chunk_bbox is None:
-                            current_chunk_bbox = BoundingBox(x0=b.x0, top=b.top, x1=b.x1, bottom=b.bottom)
+                            current_chunk_bbox = BoundingBox(
+                                x0=min(b.x0, b.x1), top=min(b.top, b.bottom), 
+                                x1=max(b.x0, b.x1), bottom=max(b.top, b.bottom)
+                            )
                         else:
                             # Usually this is the first block, so it just sets it
                             pass
@@ -178,7 +181,10 @@ class ChunkingEngine:
                 if hasattr(block, "bbox") and block.bbox:
                     b = block.bbox
                     if current_chunk_bbox is None:
-                        current_chunk_bbox = BoundingBox(x0=b.x0, top=b.top, x1=b.x1, bottom=b.bottom)
+                        current_chunk_bbox = BoundingBox(
+                            x0=min(b.x0, b.x1), top=min(b.top, b.bottom), 
+                            x1=max(b.x0, b.x1), bottom=max(b.top, b.bottom)
+                        )
                     else:
                         current_chunk_bbox.x0 = min(current_chunk_bbox.x0, b.x0)
                         current_chunk_bbox.top = min(current_chunk_bbox.top, b.top)
