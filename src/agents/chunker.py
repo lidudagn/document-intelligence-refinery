@@ -1,7 +1,7 @@
 import hashlib
 import json
 import logging
-from typing import List, Optional
+from typing import List, Optional, Any
 
 from src.models.ldu import LDU, ChunkType, BoundingBox
 from src.models.extracted_document import ExtractedDocument, TextBlock, TableBlock
@@ -65,6 +65,63 @@ class ChunkingEngine:
         
         return hasher.hexdigest()
 
+    def _merge_text_blocks(self, blocks: List[Any], max_vertical_gap: float = 20.0) -> List[Any]:
+        """Merge consecutive short TextBlocks on the same page into larger paragraphs."""
+        merged = []
+        current_text_block = None
+        
+        for block in blocks:
+            if block.block_type != "text" or not getattr(block, "text", "").strip():
+                if current_text_block:
+                    merged.append(current_text_block)
+                    current_text_block = None
+                merged.append(block)
+                continue
+                
+            # It's a TextBlock. If no active block, start one
+            if not current_text_block:
+                current_text_block = block
+                continue
+                
+            # Check if we should merge with current active text block
+            can_merge = False
+            if hasattr(current_text_block, "bbox") and current_text_block.bbox and hasattr(block, "bbox") and block.bbox:
+                b1 = current_text_block.bbox
+                b2 = block.bbox
+                v_gap = b2.top - b1.bottom
+                # Merge if vertical gap is small and horizontal overlap exists,
+                # or if it's very close vertically
+                if 0 <= v_gap <= max_vertical_gap:
+                    can_merge = True
+            elif not hasattr(current_text_block, "bbox") or not current_text_block.bbox:
+                # If no bounding boxes to check, just merge blindly unless it's a header
+                can_merge = True
+                
+            # Don't merge if either block looks like a header (to preserve parent_section logic)
+            t1 = getattr(current_text_block, "text", "")
+            t2 = getattr(block, "text", "")
+            is_h1 = len(t1.split()) < 10 and (t1.isupper() or t1.istitle())
+            is_h2 = len(t2.split()) < 10 and (t2.isupper() or t2.istitle())
+            if is_h1 or is_h2:
+                can_merge = False
+                
+            if can_merge:
+                current_text_block.text = current_text_block.text + " " + block.text
+                if hasattr(current_text_block, "bbox") and current_text_block.bbox and hasattr(block, "bbox") and block.bbox:
+                    current_text_block.bbox.x0 = min(current_text_block.bbox.x0, block.bbox.x0)
+                    current_text_block.bbox.top = min(current_text_block.bbox.top, block.bbox.top)
+                    current_text_block.bbox.x1 = max(current_text_block.bbox.x1, block.bbox.x1)
+                    current_text_block.bbox.bottom = max(current_text_block.bbox.bottom, block.bbox.bottom)
+            else:
+                # Flush and start new
+                merged.append(current_text_block)
+                current_text_block = block
+                
+        if current_text_block:
+            merged.append(current_text_block)
+            
+        return merged
+
     def process_document(self, doc: ExtractedDocument) -> List[LDU]:
         ldus: List[LDU] = []
         active_parent_section: Optional[str] = None
@@ -102,7 +159,10 @@ class ChunkingEngine:
             current_chunk_bbox = None
 
         for page in doc.pages:
-            for block in page.blocks:
+            # Pre-processing pass: merge consecutive layout text fragments
+            merged_blocks = self._merge_text_blocks(page.blocks)
+            
+            for block in merged_blocks:
                 
                 # Handling Tables (Rule 1: tables must not split)
                 if block.block_type == "table":

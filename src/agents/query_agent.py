@@ -226,6 +226,24 @@ class QueryAgent:
         self._bm25_indexed = False
 
     # -----------------------------------------------------------------------
+    # Helper: Markdown JSON Stripper
+    # -----------------------------------------------------------------------
+
+    @staticmethod
+    def _parse_json_response(text: str) -> dict:
+        """Strips markdown code fences (e.g. ```json ... ```) and parses JSON."""
+        text = text.strip()
+        if text.startswith("```"):
+            text = text.split("\n", 1)[-1]
+            if text.endswith("```"):
+                text = text.rsplit("\n", 1)[0]
+        try:
+            return json.loads(text.strip())
+        except json.JSONDecodeError as e:
+            logger.error(f"Failed to parse LLM JSON: {e}\nRaw text:\n{text}")
+            return {}
+
+    # -----------------------------------------------------------------------
     # Tool 1: PageIndex Navigate
     # -----------------------------------------------------------------------
 
@@ -250,8 +268,8 @@ Return ONLY valid JSON: {{"relevant_sections": ["Title 1", "Title 2"]}}"""
         cached = self.cache.get(self.model, prompt)
         if cached:
             try:
-                return json.loads(cached).get("relevant_sections", [])
-            except (json.JSONDecodeError, AttributeError):
+                return self._parse_json_response(cached).get("relevant_sections", [])
+            except Exception:
                 pass
 
         try:
@@ -263,7 +281,7 @@ Return ONLY valid JSON: {{"relevant_sections": ["Title 1", "Title 2"]}}"""
             )
             content = response.choices[0].message.content
             self.cache.put(self.model, prompt, content)
-            return json.loads(content).get("relevant_sections", [])
+            return self._parse_json_response(content).get("relevant_sections", [])
         except Exception as e:
             logger.warning(f"PageIndex traversal failed: {e}")
             return []
