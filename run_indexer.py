@@ -78,9 +78,11 @@ def main():
         print("\n" + "="*50)
         print(f"Top Results for: '{args.query}'")
         print("="*50)
-        for i, res in enumerate(results):
-            print(f"\n[{i+1}] Score: {res['score']:.4f} | Section: {res['metadata'].get('parent_section', 'N/A')}")
-            print(f"Content: {res['content'][:200]}...")
+        for i, cit in enumerate(results.citations):
+            print(f"\n[{i+1}] Source Document: {cit.document_name} | Page: {cit.page_number}")
+            print(f"Content: {cit.extracted_text[:200]}...")
+            
+        print(f"\nLLM Synthesized Answer:\n{results.answer}")
             
     logger.info("Phase 3 Execution Complete.")
 
