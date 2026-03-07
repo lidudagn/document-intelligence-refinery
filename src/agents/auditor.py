@@ -46,6 +46,7 @@ class AuditAgent:
         self.audit_cfg = self.full_config.get("audit", {})
         self.model = os.getenv("INDEXER_LLM_MODEL", "gemini/gemini-2.0-flash")
         self.min_confidence = self.audit_cfg.get("min_verification_confidence", 0.4)
+        self.require_multi_source = self.audit_cfg.get("require_multi_source", True)
 
         cache_cfg = self.full_config.get("caching", {})
         self.cache = LLMCache(

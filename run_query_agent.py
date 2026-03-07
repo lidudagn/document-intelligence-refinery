@@ -116,6 +116,12 @@ def interactive_mode(
                     print(f" [{i+1}] Page {cit.page_number} | Match: {cit.extracted_text[:60].strip()}...")
                 
             print(f"\n[Meta: Confidence={chain.confidence_level:.2f} | Method={chain.retrieval_method}]")
+            
+            # Review Flags Externalization
+            if config.get("audit", {}).get("run_by_default", False) or config.get("query_agent", {}).get("verify_answers", False):
+                print("\n[Auto-Audit Enabled via Config - Verifying Answer...]")
+                # Using the chain.answer as the claim to verify
+                audit_mode(chain.answer, doc_id, doc_name, vstore, fact_db, config)
 
         except KeyboardInterrupt:
             print("\nExiting...")
