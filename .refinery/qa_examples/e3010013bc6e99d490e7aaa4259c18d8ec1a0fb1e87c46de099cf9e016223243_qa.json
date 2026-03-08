@@ -1,0 +1,270 @@
+{
+  "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+  "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+  "qa_pairs": [
+    {
+      "answer": "This document appears to be about investment opportunities and the pharmaceutical market in Ethiopia. It highlights Ethiopia's attractiveness for foreign direct investment [Source 2, page 5], its fast-growing economy [Source 2, page 5], and its vision for industrialization [Source 3, page 5]. It also emphasizes the potential of Ethiopia's pharmaceutical sector, driven by factors like a national strategy for pharmaceutical manufacturing and a growing demand for pharmaceutical products [Source 4, page 8].\n",
+      "query_text": "What is the overall summary or primary objective of this document?",
+      "citations": [
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 13,
+          "bbox": [
+            128.1,
+            144.0,
+            426.0,
+            261.0
+          ],
+          "content_hash": "a911375f6ac7c3869e02613b7956639c2a3e2a5b5490d785d1db5f87ac8166aa",
+          "extracted_text": "Industrial park facilities\nLand is available at reasonable lease prices\n177 ha service land for manufacturing\nEstablished on 279 ha of land\nIndustrial park area"
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 5,
+          "bbox": [
+            506.7,
+            367.2,
+            1032.2,
+            474.6
+          ],
+          "content_hash": "e2384736976e9d8489eacd71728808b227f9a6b11e2d718ebb170daf419e75ef",
+          "extracted_text": "One of the top destinations for foreign direct investment standing 5 th in Africa.\nOne of the fastest growing economies with 9.68% average growth over the past 10 years."
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 5,
+          "bbox": [
+            50.3,
+            259.9,
+            939.7,
+            301.8
+          ],
+          "content_hash": "a063416e7d48d3bcdd09ddc45b7ee4d778c4c2f99f26dab76aac2216c87d5d9e",
+          "extracted_text": "Productive labor force with more than 60% of its population between the ages of 15 - 65.\nEthiopia has a clear vision for industrialization that builds off of its rapid growth"
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 8,
+          "bbox": [
+            111.3,
+            252.8,
+            1026.2,
+            384.6
+          ],
+          "content_hash": "c6723c4f4982df302b5ef5cc7b682d9feb1bb43dba4123f97e736bb1e32685d3",
+          "extracted_text": "Mainly driven by:\nOne of the first African countries to develop a national strategy for pharmaceutical manufacturing\n~ 1 B USD by 2020\n~ 4 B USD by 2030\nEthiopia's pharmaceutical sector market size"
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 9,
+          "bbox": [
+            104.5,
+            21.2,
+            598.4,
+            33.2
+          ],
+          "content_hash": "d16a0e567dce57f9d0ae373c6df5af34dea4ee905f9c2b5df6101c20bb2d06eb",
+          "extracted_text": ": Frost & Sullivan, World Bank, National Strategy and Plan of Action for Pharmaceutical Manufacturing"
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 10,
+          "bbox": [
+            56.8,
+            19.6,
+            957.8,
+            440.5
+          ],
+          "content_hash": "52f0ef279225b45640395b1ca8687869b64f3aebe22e75f8befede9638bc56b2",
+          "extracted_text": "Source : Interviews, market research\nPrevalence of non-communicable diseases: diabetes, cancer, hypertension\nRising healthcare coverage\nHigh burden of communicable diseases: malaria, HIV/AIDS, TB\nAwareness, diagnosis and treatment are increasing\nPrimary health care service coverage reached 100% in 2015\nIncreasing healthcare coverage by government to the large rural population creates growing demand for pharmaceutical products.\nGrowing population\nWith average economic growth of >10% per year, inc"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.666,
+      "retrieval_method": "hybrid_search",
+      "evidence_bundle_hash": "849ffcf4d12af9ae07a41336b0b35cd75e59d46b5f45a71444a55f32c64c8dab"
+    },
+    {
+      "answer": "Here are the key financial or numerical highlights mentioned in the provided text:\n\n*   Ethiopia is one of the top destinations for foreign direct investment, standing 5th in Africa [Source 1, page 5].\n*   Ethiopia has experienced a 9.68% average economic growth over the past 10 years [Source 1, page 5].\n*   The pharmaceutical market in Africa has the potential to serve >$20 billion [Source 3, page 8].\n*   The Ethiopian government has spent $15 billion USD on the pharmaceutical sector over 10 years [Source 3, page 8].\n*   Ethiopia's pharmaceutical sector market size is expected to be approximately $1 billion USD by 2020 and $4 billion USD by 2030 [Source 5, page 8].\n*   Ethiopia has the second-largest population in Africa at over 100 million, which is approximately 8.5% of Africa's population, with a growth rate of 2.3% per year [Source 4, page 10].\n",
+      "query_text": "What are the key financial or numerical highlights mentioned?",
+      "citations": [
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 5,
+          "bbox": [
+            506.7,
+            367.2,
+            1032.2,
+            474.6
+          ],
+          "content_hash": "e2384736976e9d8489eacd71728808b227f9a6b11e2d718ebb170daf419e75ef",
+          "extracted_text": "One of the top destinations for foreign direct investment standing 5 th in Africa.\nOne of the fastest growing economies with 9.68% average growth over the past 10 years."
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 6,
+          "bbox": [
+            94.2,
+            514.5,
+            939.7,
+            573.2
+          ],
+          "content_hash": "ed03f77a6cb857fdb3795c715ee4b773e6b38a0f9d6081bfcc5c5dd584e7a8d7",
+          "extracted_text": "Strategic sectors have been identified for investment including pharmaceutical and textile manufacturing"
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 8,
+          "bbox": [
+            165.1,
+            46.4,
+            996.9,
+            90.3
+          ],
+          "content_hash": "25d65911cb23eaeb5854de69bd3c87fc4ef4e0fa5175ef552d71a06484d53953",
+          "extracted_text": "Potential to serve >$20 billion pharmaceutical market in Africa\nGovernment 10 years expenditure for the sector (15B USD )"
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 10,
+          "bbox": [
+            56.8,
+            19.6,
+            957.8,
+            440.5
+          ],
+          "content_hash": "52f0ef279225b45640395b1ca8687869b64f3aebe22e75f8befede9638bc56b2",
+          "extracted_text": "Source : Interviews, market research\nPrevalence of non-communicable diseases: diabetes, cancer, hypertension\nRising healthcare coverage\nHigh burden of communicable diseases: malaria, HIV/AIDS, TB\nAwareness, diagnosis and treatment are increasing\nPrimary health care service coverage reached 100% in 2015\nIncreasing healthcare coverage by government to the large rural population creates growing demand for pharmaceutical products.\nGrowing population\nWith average economic growth of >10% per year, inc"
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 8,
+          "bbox": [
+            111.3,
+            252.8,
+            1026.2,
+            384.6
+          ],
+          "content_hash": "c6723c4f4982df302b5ef5cc7b682d9feb1bb43dba4123f97e736bb1e32685d3",
+          "extracted_text": "Mainly driven by:\nOne of the first African countries to develop a national strategy for pharmaceutical manufacturing\n~ 1 B USD by 2020\n~ 4 B USD by 2030\nEthiopia's pharmaceutical sector market size"
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 3,
+          "bbox": [
+            152.3,
+            70.7,
+            508.4,
+            172.8
+          ],
+          "content_hash": "96b495b238b8b3f830dff6281b835816e288affac9bec86514fe80de477e233e",
+          "extracted_text": "Learn Ethiopia's effort in developing the manufacturing sector in general\nPitch potential manufacturing opportunities in Ethiopia & enablers"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.785,
+      "retrieval_method": "hybrid_search",
+      "evidence_bundle_hash": "05dd9470674144b11b65b5eecf2e0f20200274b217ce481a74b75532eedc1983"
+    },
+    {
+      "answer": "Information not found in the document.\n",
+      "query_text": "What are the main risks, challenges, or recommendations identified?",
+      "citations": [
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 6,
+          "bbox": [
+            94.2,
+            514.5,
+            939.7,
+            573.2
+          ],
+          "content_hash": "ed03f77a6cb857fdb3795c715ee4b773e6b38a0f9d6081bfcc5c5dd584e7a8d7",
+          "extracted_text": "Strategic sectors have been identified for investment including pharmaceutical and textile manufacturing"
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 10,
+          "bbox": [
+            56.8,
+            19.6,
+            957.8,
+            440.5
+          ],
+          "content_hash": "52f0ef279225b45640395b1ca8687869b64f3aebe22e75f8befede9638bc56b2",
+          "extracted_text": "Source : Interviews, market research\nPrevalence of non-communicable diseases: diabetes, cancer, hypertension\nRising healthcare coverage\nHigh burden of communicable diseases: malaria, HIV/AIDS, TB\nAwareness, diagnosis and treatment are increasing\nPrimary health care service coverage reached 100% in 2015\nIncreasing healthcare coverage by government to the large rural population creates growing demand for pharmaceutical products.\nGrowing population\nWith average economic growth of >10% per year, inc"
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 8,
+          "bbox": [
+            718.4,
+            101.6,
+            1034.8,
+            204.9
+          ],
+          "content_hash": "20eb0c39ff51a8f3d2ea7ab0bf311ea4a9cbd432f2c9f2292ed676ba7bfff234",
+          "extracted_text": "Strong investment policy focused on pharmaceuticals including tax exemptions, one-stop-shop services and price preference in public procurement"
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 5,
+          "bbox": [
+            506.7,
+            367.2,
+            1032.2,
+            474.6
+          ],
+          "content_hash": "e2384736976e9d8489eacd71728808b227f9a6b11e2d718ebb170daf419e75ef",
+          "extracted_text": "One of the top destinations for foreign direct investment standing 5 th in Africa.\nOne of the fastest growing economies with 9.68% average growth over the past 10 years."
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 9,
+          "bbox": [
+            104.5,
+            21.2,
+            598.4,
+            33.2
+          ],
+          "content_hash": "d16a0e567dce57f9d0ae373c6df5af34dea4ee905f9c2b5df6101c20bb2d06eb",
+          "extracted_text": ": Frost & Sullivan, World Bank, National Strategy and Plan of Action for Pharmaceutical Manufacturing"
+        },
+        {
+          "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+          "document_name": "20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
+          "page_number": 10,
+          "bbox": [
+            96.7,
+            514.5,
+            983.9,
+            573.2
+          ],
+          "content_hash": "e6651265a236576db32d05e9b9fb7a68bd2150a6ba214de964b932d89284f5d7",
+          "extracted_text": "Large & growing population and rising health care coverage make pharmaceutical manufacturing an attractive endeavor"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.56,
+      "retrieval_method": "hybrid_search",
+      "evidence_bundle_hash": "1fc0d728d630b3591945313228d2b7a9a0ed2b175e60b3ee15b5c4fb27fdf141"
+    }
+  ]
+}

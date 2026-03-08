@@ -1,0 +1,270 @@
+{
+  "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+  "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+  "qa_pairs": [
+    {
+      "answer": "The primary objective of this report is to estimate federal import tax expenditures in Ethiopia for the fiscal years 2018/19, 2019/20 and 2020/21 [Source 5, page 6]. It uses shipment-level microdata from the Ethiopian Customs Commission on collections of customs duty, excise duty, VAT and surtax on imports [Source 1, page 3,4] [Source 5, page 6]. The report defines a benchmark tax system and compares actual collections with estimated collections under this system to provide annual estimates of tax expenditures [Source 5, page 6]. Understanding, estimating, and reporting on tax expenditures is an important exercise in public financial management [Source 1, page 3,4].\n",
+      "query_text": "What is the overall summary or primary objective of this document?",
+      "citations": [
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 3,
+          "bbox": [
+            82.2,
+            36.9,
+            511.4,
+            797.1
+          ],
+          "content_hash": "482d61f3b6f12ba4cfdad82f838bf7aa92edf250ccbc34a1e1aca7b757e9bfe7",
+          "extracted_text": "\uf0e3 Ministry of Finance, Ethiopia\n4  Import tax expenditure report: FY 2018/19 \u2013 2020/21\nExecutive summary\nUnderstanding, estimating and reporting on tax expenditures is an important exercise in public financial management. Tax expenditures \u2013 cases in which the tax liability of an individual, a firm or other entity is reduced below the liability under a benchmark tax system \u2013 use limited public financial resources. Ethiopia, like other countries, incurs significant tax expenditures each year. To u"
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 3,
+          "bbox": [
+            82.2,
+            167.5,
+            512.7,
+            178.6
+          ],
+          "content_hash": "2fef8bb7f21ff70a8639f720f5bb177890ad5540c1f8a830f6f80a6f5d67c321",
+          "extracted_text": "Executive summary ...................................................................................................................... 4"
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 13,
+          "bbox": [
+            82.2,
+            36.9,
+            512.0,
+            797.1
+          ],
+          "content_hash": "a37fe8c7b9dc34420d21d767cb33f94a9eb93305a0147ffcecd83fba8c09263c",
+          "extracted_text": "The overall tax expenditure for a shipment is the difference between the tax that should have been paid had the benchmark tax system been applied and the actual tax collected. One complication in the Ethiopian import tax system is that customs duty, excise tax, VAT and surtax are charged sequentially, so tax expenditures earlier in the sequence affect the tax base for taxes later in the sequence. This means that simply comparing actual tax collected under the benchmark tax system with actual col"
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 9,
+          "bbox": [
+            82.2,
+            36.9,
+            512.5,
+            797.1
+          ],
+          "content_hash": "5a0953116c2ba15130b4fd00aed4bdb537b8364a42e7eddd60102e06ed2b6247",
+          "extracted_text": "In this report, we focus on positive import tax expenditures \u2013 cases in which an importer is charged at a lower (possibly zero) customs duty/tax rate than the rate in the benchmark tax system. The benchmark tax system generally reflects the standard tax rates laid down in the relevant proclamations and regulations. When bilateral or multilateral agreements regulate tax rates for specific countries of origin, these tax rates enter the benchmark system and do not count as expenditures (Internation"
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 6,
+          "bbox": [
+            82.2,
+            169.9,
+            509.1,
+            797.1
+          ],
+          "content_hash": "dcd680e5c344b35faf1201f30991386a62bac0e982269559c1ee8a0527514260",
+          "extracted_text": "This report provides estimates of federal import tax expenditures during fiscal years 2018/19, 2019/20 and 2020/21. The report is based on shipment-level microdata on customs duty, excise duty, VAT and surtax collections on imports from the Ethiopian Customs Commission.1 It starts by defining a benchmark tax system and then compares actual collections with estimated collections under the benchmark tax system for each of the tax types and each shipment. Shipment-level differences between estimate"
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 3,
+          "bbox": [
+            82.2,
+            207.5,
+            512.7,
+            278.6
+          ],
+          "content_hash": "f630abbd0092812c60c426e77188d37865168387564a688fb0a4e71635dccada",
+          "extracted_text": "2.  Policy rationale for and issues with tax expenditures ....................................................... 7 3.  Definitions and data ............................................................................................................. 9 3.1  Defining the benchmark tax system ............................................................................. 9 3.2  Estimating tax expenditures ....................................................................................... 13"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.617,
+      "retrieval_method": "hybrid_search+structured_query",
+      "evidence_bundle_hash": "67e5b7b8bb609fff8189571aacca1b3055001eab0780b9f4da7fa62517c6aea2"
+    },
+    {
+      "answer": "The report includes import tax expenditure estimations for fiscal years 2018/19, 2019/20 and 2020/21 [Source 2, page 3]. It covers customs duty, excise duty, VAT, and surtax taxes [Source 2, page 3]. Key numerical highlights regarding the import tax include:\n\n*   2018/19: 99.3 [Source 1, page 21]\n*   2019/20: 78.3 [Source 1, page 21]\n*   2020/21: 120.7 [Source 1, page 21]\n\nAdditional financial data related to \"Prepared food and beverages (incl. sugar)\" can be found on page 19.\n\n* Prepared food and beverages (incl. sugar) = 7,508.84 (None, 2018/19), page 19\n* Prepared food and beverages (incl. sugar) = 4,438.81 (None, 2019/20), page 19\n* Prepared food and beverages (incl. sugar) = 6,950.20 (None, 2020/21), page 19\n\nAdditional financial data related to percentage of total for \"Prepared food and beverages (incl. sugar)\" can be found on page 20.\n\n* Prepared food and beverages (incl. sugar) = 47.7% (None, 2018/19), page 20\n* Prepared food and beverages (incl. sugar) = 36.8% (None, 2019/20), page 20\n",
+      "query_text": "What are the key financial or numerical highlights mentioned?",
+      "citations": [
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 21,
+          "bbox": [
+            81.2,
+            152.4,
+            492.4,
+            500.2
+          ],
+          "content_hash": "3b90d118bf1a55dda1118342c7b77d287d5b2dc719f1fcb340164ce4ce511046",
+          "extracted_text": " | 2018/19 | 2019/20 | 2020/21\nThis | 99.3 | 78.3 | report 120.7\nThis eCMS only | 68.7 | 76.4 | report, 120.7\nECC standard rates as benchmark | 40.0 | 45.3 | 81.4\nMinistry of Finance (2022) |  |  | 68.5\nMinistry of (2020) | 73.9 |  | Finance\n"
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 3,
+          "bbox": [
+            82.2,
+            36.9,
+            511.4,
+            797.1
+          ],
+          "content_hash": "482d61f3b6f12ba4cfdad82f838bf7aa92edf250ccbc34a1e1aca7b757e9bfe7",
+          "extracted_text": "\uf0e3 Ministry of Finance, Ethiopia\n4  Import tax expenditure report: FY 2018/19 \u2013 2020/21\nExecutive summary\nUnderstanding, estimating and reporting on tax expenditures is an important exercise in public financial management. Tax expenditures \u2013 cases in which the tax liability of an individual, a firm or other entity is reduced below the liability under a benchmark tax system \u2013 use limited public financial resources. Ethiopia, like other countries, incurs significant tax expenditures each year. To u"
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 11,
+          "bbox": [
+            82.2,
+            389.8,
+            510.9,
+            742.5
+          ],
+          "content_hash": "65cc10e820cb437f5f779f19e6314e5da42be7cc2f3df780a6774ba07ef0985d",
+          "extracted_text": "\u25aa  The unit of taxation for excise on imports is the importer, the business or the individual. \u25aa  The benchmark tax base for excise tax on imports is the sum of the CIF value of imports and the customs duty payable. \u25aa  The benchmark excise rates before August 2020 are specified in Proclamation No. 307/2002 and range between 10% and 100%. \u25aa  The benchmark excise tax rates after August 2020 are specified in Proclamation No. 1186/2020 and vary between 5% and 500%. \u25aa  Excise-free privileges for inte"
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 9,
+          "bbox": [
+            82.2,
+            36.9,
+            512.5,
+            797.1
+          ],
+          "content_hash": "5a0953116c2ba15130b4fd00aed4bdb537b8364a42e7eddd60102e06ed2b6247",
+          "extracted_text": "In this report, we focus on positive import tax expenditures \u2013 cases in which an importer is charged at a lower (possibly zero) customs duty/tax rate than the rate in the benchmark tax system. The benchmark tax system generally reflects the standard tax rates laid down in the relevant proclamations and regulations. When bilateral or multilateral agreements regulate tax rates for specific countries of origin, these tax rates enter the benchmark system and do not count as expenditures (Internation"
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 10,
+          "bbox": [
+            82.2,
+            526.9,
+            511.1,
+            725.0
+          ],
+          "content_hash": "23b76c1c4e26e232d50ba35e36654149f0ef9bf941533682778f73565e910d33",
+          "extracted_text": "\u25aa  The unit of taxation for excise on imports is the importer, the business or the individual. \u25aa  The customs duty tax base is the cost, insurance and freight (CIF) value of imports. \u25aa  The benchmark customs duty rate is, in general, the standard customs duty rate for the item in question as specified in the 2017 tariff book (0%, 5%, 10%, 20%, 30% or 35%). \u25aa  For items imported from countries with which Ethiopia has a multilateral, regional or bilateral trade deal, the benchmark rates are those "
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 13,
+          "bbox": [
+            82.2,
+            36.9,
+            512.0,
+            797.1
+          ],
+          "content_hash": "a37fe8c7b9dc34420d21d767cb33f94a9eb93305a0147ffcecd83fba8c09263c",
+          "extracted_text": "The overall tax expenditure for a shipment is the difference between the tax that should have been paid had the benchmark tax system been applied and the actual tax collected. One complication in the Ethiopian import tax system is that customs duty, excise tax, VAT and surtax are charged sequentially, so tax expenditures earlier in the sequence affect the tax base for taxes later in the sequence. This means that simply comparing actual tax collected under the benchmark tax system with actual col"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.639,
+      "retrieval_method": "hybrid_search+structured_query",
+      "evidence_bundle_hash": "73f0490058a4caee749c51c3336fa03b2186bb04e8c43f7939c31ee4a723d532"
+    },
+    {
+      "answer": "Information not found in the document. Although [Source 1, page 3] refers to \"Conclusions and recommendations\" I cannot access those recommendations based on the information provided. Only the page and section are visible.\n",
+      "query_text": "What are the main risks, challenges, or recommendations identified?",
+      "citations": [
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 3,
+          "bbox": [
+            82.2,
+            427.6,
+            512.7,
+            438.7
+          ],
+          "content_hash": "53cbb5f62aaf8cf87602d4987cd9f1a1c8b11036c5422e8cab9999fcd2d3da2c",
+          "extracted_text": "5.  Conclusions and recommendations ................................................................................... 41"
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 20,
+          "bbox": [
+            81.6,
+            180.3,
+            524.1,
+            662.4
+          ],
+          "content_hash": "5c7c94d9f7e8ecf5f92053c854f2933f686ea81d70395eaecf38235231cc1d06",
+          "extracted_text": " | 2018/19 | 2019/20 | 2020/21\nAnimal products | 15.6% | 16.5% | 16.8%\nVegetable products | 3.2% | 2.0% | 2.7%\nAnimal or vegetable fats | 50.1% | 23.6% | 48.1%\nPrepared food and beverages (incl. sugar) | 47.7% | 36.8% | 31.0%\nMineral oil and fuel | 19.1% | 17.2% | 17.9%\nOther mineral products (incl. cement) | 20.9% | 17.6% | 9.7%\nPharmaceuticals | 16.0% | 16.1% | 16.1%\nFertiliser | 15.0% | 15.0% | 15.0%\nPlastics and rubbers | 7.4% | 6.2% | 7.1%\nOther chemical products | 13.8% | 11.7% | 13.2%\nLea"
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 45,
+          "bbox": [
+            82.2,
+            338.1,
+            515.2,
+            487.0
+          ],
+          "content_hash": "9376370d954db6844c0633e779d74782e03afad2131fe534c465ff0bc60026e7",
+          "extracted_text": "C.  Alternative measures of tax expenditures In the main text, we present tax expenditure estimates as the sum of the direct and indirect effects, where the indirect effects of import taxes through the reduction in tax base on the subsequent taxes are counted as tax expenditure for the original tax. For example, the indirect effect of customs duty expenditure through excise, VAT and/or surtax are considered customs duty expenditures. In this appendix, we present an alternative measure of expendi"
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 46,
+          "bbox": [
+            82.2,
+            222.9,
+            511.0,
+            409.9
+          ],
+          "content_hash": "2b2b23c0b34685f0af944f85e1c1c8b205c1bab0148653582bfb068a0fb0eb01",
+          "extracted_text": "20\n10\n0 2018/19 2019/20 2020/21 2018/19 2019/20 2020/21 2018/19 2019/20 2020/21 2018/19 2019/20 2020/21 Customs duty expenditure Excise tax expenditure VAT expenditure Surtax expenditure Alternative estimates Main estimates\nNote: \u2018Main estimates\u2019 are the expenditure estimates used in the main text. Assumes no duplicate reporting of transactions across customs IT systems (see Appendix D). Source: Authors\u2019 calculations using data from the Ministry of Revenues."
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 3,
+          "bbox": [
+            82.2,
+            167.5,
+            512.7,
+            178.6
+          ],
+          "content_hash": "2fef8bb7f21ff70a8639f720f5bb177890ad5540c1f8a830f6f80a6f5d67c321",
+          "extracted_text": "Executive summary ...................................................................................................................... 4"
+        },
+        {
+          "document_id": "7febcc03cf8e0523887fcea47959f981e483b21ac1fc1adc41075da565502d84",
+          "document_name": "tax_expenditure_ethiopia_2021_22.pdf",
+          "page_number": 3,
+          "bbox": [
+            82.2,
+            36.9,
+            511.4,
+            797.1
+          ],
+          "content_hash": "482d61f3b6f12ba4cfdad82f838bf7aa92edf250ccbc34a1e1aca7b757e9bfe7",
+          "extracted_text": "\uf0e3 Ministry of Finance, Ethiopia\n4  Import tax expenditure report: FY 2018/19 \u2013 2020/21\nExecutive summary\nUnderstanding, estimating and reporting on tax expenditures is an important exercise in public financial management. Tax expenditures \u2013 cases in which the tax liability of an individual, a firm or other entity is reduced below the liability under a benchmark tax system \u2013 use limited public financial resources. Ethiopia, like other countries, incurs significant tax expenditures each year. To u"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.596,
+      "retrieval_method": "hybrid_search",
+      "evidence_bundle_hash": "19366e49118c01f1be3e1e0e60050805e4d5e749e78bd2b5eeff682dbdb99a40"
+    }
+  ]
+}

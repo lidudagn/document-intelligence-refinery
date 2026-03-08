@@ -1,33 +1,180 @@
 {
   "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
-  "document_name": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+  "document_name": "Audit Report - 2023.pdf",
   "qa_pairs": [
     {
-      "answer": "Information not found in the document with sufficient confidence.",
+      "answer": "The primary objective of this document is to present the independent auditor's report and financial statements for the Development Bank of Ethiopia for the year ended 30 June 2023 [Source 1, page 2,3]. This includes consolidated and separate financial statements [Source 1, page 2,3]. The document covers various aspects, including the report of the board of management [Source 2, page 3], statement of profit or loss [Source 2, page 3], financial position [Source 2, page 3], changes in equity [Source 2, page 3], cash flows [Source 2, page 3] and notes to the financial statements [Source 2, page 3].\n",
       "query_text": "What is the overall summary or primary objective of this document?",
-      "citations": [],
-      "is_verifiable": false,
-      "confidence_level": 0.0,
+      "citations": [
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 2,
+          "bbox": null,
+          "content_hash": "903aa09b089053076d5938d4e0eb66167efd78a8088703148c7602c0524fe539",
+          "extracted_text": "DEVELOPMENT BANK OF ETHIOPIA\nINDEPENDENT AUDITOR'S REPORT\nAND\nFINANCIAL STATEMENTS\n30 JUNE 2023\nDevelopment Bank of Ethiopia\nConsolidated and separate financial statements\nFor the year ended 30 June 2023 Table of contents"
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 3,
+          "bbox": null,
+          "content_hash": "0de611e63ea3ff19acd7dbab77b241b19679e2227ff08bbffd27d2a000c0a809",
+          "extracted_text": "Page\nIndependent auditor's report | 1-4\nBoard of management, professional advisers and registered office | 5\nReport of the board of management | 6\nStatement of board of management's responsibilities | 7\nConsolidated and separate statement of profit or loss and other comprehensive income | 8\nConsolidated and separate statement of financial position | 9\nConsolidated and separate statement of changes in equity | 10-11\nConsolidated and separate statement of cash flows | 12\nNotes to the consolidated "
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 20,
+          "bbox": null,
+          "content_hash": "0909ffae68d524424a8075650464491d65b426cc0681b263f22de4cd1646ed36",
+          "extracted_text": "Development Bank of Ethiopia\nNotes to the consolidated and separate financial statements\nFor the year ended 30 June 2023 2.8.1 Financial assets and liabilities\ni) Recognition and initial measurement\nThe Group and Bank initially recognise loans and advances, Ethiopian special government bonds and Treasury notes, deposits, debt securities\nissued (savings/renaissance dam bonds and DBE bonds), borrowings and other receivables and payables on the date on which they are\noriginated. All other financial"
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 56,
+          "bbox": null,
+          "content_hash": "5702da0fc3af3d2c29c23997748787e75433eb76f02f308dff19cf0ff6bf3178",
+          "extracted_text": "Development Bank of Ethiopia\nNotes to the consolidated and separate financial statements\nFor the year ended 30 June 2023 4.5 Market risk\nMarket risk is defined as the risk of loss risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market\nrisk factors such as interest rates, foreign exchange rates, equity prices, credit spreads and their volatilities that will affect the Group's and Bank's\nincome or the value of its holdings of financial i"
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 60,
+          "bbox": null,
+          "content_hash": "fc0012104a3bc9936d01a6a9791e9772e189c84f13ce31ec46b2216a6d911edf",
+          "extracted_text": "Development Bank of Ethiopia\nNotes to the consolidated and separate financial statements\nFor the year ended 30 June 2023 The fair value of financial instruments that are not traded in an active market is determined using valuation techniques. The company uses its\njudgement to select a variety of methods and make assumptions that are mainly based on market conditions existing at the end of each reporting period.\nThe specific valuation techniques used to value the equity instruments include: the u"
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 21,
+          "bbox": null,
+          "content_hash": "ceb3517e144ffa29345e9486566cf3efcb7ef5a6bb290497377c9b7833f58ca8",
+          "extracted_text": "Development Bank of Ethiopia\nNotes to the consolidated and separate financial statements\nFor the year ended 30 June 2023 \u2013 the risks that affect the performance of the business model (and the financial assets held within that business model) and its strategy for\nhow those risks are managed; \u2013 how managers of the business are compensated (e.g. whether compensation is based on the fair value of the assets managed or the\ncontractual cash flows collected); and \u2013 the frequency, volume and timing of r"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.63,
       "retrieval_method": "hybrid_search",
-      "evidence_bundle_hash": "68ba5e4e094c91348aa0eeb51affaa30fb304af19bb9c6bdfa5870c364f8e7ab"
+      "evidence_bundle_hash": "0a76372327596b4e65334c1012316c584cf187be9e0b705f49b1de8514aa0d75"
     },
     {
-      "answer": "Information not found in the document with sufficient confidence.",
+      "answer": "The key financial or numerical highlights mentioned are:\n\n*   **Cash and bank balances (net)**: Birr 33,085,405 (30 June 2023) [Source 5, page 37]\n*   **Loans and advances to customers (net)**: Birr 67,646,196 (30 June 2023) [Source 5, page 37]\n*   **Financial assets measured at FVOCI**: Birr 103,822 (30 June 2023) [Source 5, page 37]\n*   **Financial assets measured at amortized cost**: Birr 46,456,966 (30 June 2023) [Source 5, page 37]\n*   **Other assets**: Birr 1,355,424 (30 June 2023) [Source 5, page 37]\n*   **Total financial assets**: Birr 148,647,813 (30 June 2023) [Source 5, page 37]\n* Birr'ooo | 10,931,380 (Cash and bank balances, Agriculture)\n* Birr'ooo | 34,854,520 (Cash and bank balances, manufacturing)\n* Birr'ooo | 12,865,624 (Cash and bank balances, Financial Service)\n* Birr'ooo | 10,616,722 (Loans and advances to customers, Agriculture) [Source 3, page 54]\n* Birr'ooo | 7,271,549 (Loans and advances to customers, Manufacturing)\n* Birr'ooo | 63,674,171 (Loans and advances to customers, Financial Services) [Source 3, page 54]\n* Birr'ooo | 52,531 (Investment securities:Financial assets measured at FVOCI) [Source 3, page 54]\n* Birr'ooo | 45,985,425 (Investment securities: Financial assets measured at amortized cost) [Source 3, page 54]\n* Birr'ooo | 816,175 (Other assets) [Source 3, page 54]\n",
       "query_text": "What are the key financial or numerical highlights mentioned?",
-      "citations": [],
-      "is_verifiable": false,
-      "confidence_level": 0.0,
-      "retrieval_method": "hybrid_search",
-      "evidence_bundle_hash": "cf6d7c27a552c1946b2deff9a9f6e8ec0099cb776a61142b2cae8667528869c0"
+      "citations": [
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 5,
+          "bbox": null,
+          "content_hash": "515f306fd9b907fc71c5cfaaaa57838a7cd0adc8a0edc2054124dbfa4629eeb0",
+          "extracted_text": "Key audit matters are those matters that, in our professional judgment, were of most\nsignificance in our audit of the consolidated financial statements of the current period. These\nmatters were addressed in the context of our audit of the consolidated financial statements as\na whole, and in forming our opinion thereon, and we do not provide a separate opinion on\nthese matters. Loans and advances There are risks that loans and advances may be given without proper managerial approval;\nmay not be a"
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 7,
+          "bbox": null,
+          "content_hash": "cc4875ad1b1db6a138833109867ad2fa091eba783c34dc99abdadcd1d9fcf6d1",
+          "extracted_text": "INDEPENDENT AUDITOR'S REPORT\nTO THE SUPERVISING AUTHORITY OF\nDEVELOPMENT BANK OF ETHIOPIA (continued) Report on the Audit of the Consolidated Financial Statements(continued) Auditor's Responsibilities for the Audit of the Consolidated Financial\nStatements (continued) We communicate with those charged with governance regarding, among other matters, the\nplanned scope and timing of the audit and significant audit findings, including any significant\ndeficiencies in internal control that we identify "
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 54,
+          "bbox": null,
+          "content_hash": "3bb052f4ced2f9ef0d280155ede9b15735d79ed02116db931d2c85b60aa31bf8",
+          "extracted_text": "Bank | Agriculture | Manufacturing | Financial\nService | others | Total | 30 June 2022 | Birr'ooo | Birr'ooo | Birr'ooo | Birr'ooo | Birr'ooo\nCash and bank balances | 10,931,380 | 34,854,520 | 12,865,624 | 12,865,624\nLoans and advances to customers | 10,616,722 | 7,271,549 | 63,674,171\nInvestment securities:\n- Financial assets measured at FVOCI | 52,531 | 52,531\n- Financial assets measured at amortized cost | 45,985,425 | 45,985,425\nOther assets | 816,175 | 816,175\n10,931,380 | 34,854,520 | 23,5"
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 94,
+          "bbox": null,
+          "content_hash": "815abbf05a01cd972bb31f204ca4af9a10acaebc30d8681cc1b71e69a675c436",
+          "extracted_text": "Development Bank of Ethiopia\nNotes to the consolidated and separate financial statements\nFor the year ended 30 June 2023 35 Related party transactions\nDevelopment Bank of Ethiopia is a wholly-owned government financial institution.\nA number of transactions were entered into with related parties in the normal course of business. These are disclosed below: 35a Loans and advances to key management members (year-end balances)\nKey management has been determined to be the members of the Board of Manag"
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 37,
+          "bbox": null,
+          "content_hash": "05aaa0d0d3d5d272b7008cb08453b62c0072ae6fbe011bfac2c1e59c51612482",
+          "extracted_text": "Bank | Notes | FVOCI\nBirr'ooo | Amortized\nCost\nBirr'ooo | Total\nBirr'ooo\n30 June 2023 |  |  |  | \nCash and bank balances (net) | 14 |  | 33,085,405 | 33,085,405\nLoans and advances to customers (net) | 15 |  | 67,646,196 | 67,646,196\nInvestment securities: |  |  |  | \n- Financial assets measured at FVOCI | 16 | 103,822 |  | 103,822\n- Financial assets measured at amortized cost | 16 |  | 46,456,966 | 46,456,966\nOther assets | 18 |  | 1,355,424 | 1,355,424\nTotal financial assets |  | 103,822 | 148,"
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 33,
+          "bbox": null,
+          "content_hash": "2a4ba5149129dc03d151edb1329f24f68c4e539ad2b24cb680bc989f26cbcb33",
+          "extracted_text": "Development Bank of Ethiopia\nNotes to the consolidated and separate financial statements\nFor the year ended 30 June 2023 Other disclosures relating to the Group's and Bank's exposure to risks and uncertainties include:\n\u2022 Capital management Note 4.6\n\u2022 Financial risk management and policies Note 4\n\u2022 Sensitivity analyses disclosures Note 4.5.1 3.1 Judgments\nIn the process of applying the Group's and Bank's accounting policies, management has made the following judgments, which have the most\nsignifi"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.526,
+      "retrieval_method": "hybrid_search+structured_query",
+      "evidence_bundle_hash": "eca45d093b56905450e7f860b5c2fc8f0ee50d4f723764f4f142f2d047eded8f"
     },
     {
-      "answer": "Information not found in the document with sufficient confidence.",
+      "answer": "Based on the evidence:\n\n*   The Development Bank of Ethiopia faces inherent risks managed through an integrated risk management framework, including ongoing identification, measurement, and monitoring [Source 2, page 36]. Major risk includes credit risk, liquidity risk, and market risk [Source 2, page 36]. The bank is also subject to country risk and various operating and business risks [Source 2, page 36].\n*   There are risks associated with loans and advances, including the possibility of them being given without proper managerial approval, inaccurately recorded, nonexistent, not recorded at appropriate values, and insufficient provision for bad and doubtful balances [Source 4, page 5].\n*   A main objective of risk management is to manage and control market risk exposures within acceptable parameters to ensure the Group's and Bank's solvency while optimizing the return on risk [Source 6, page 56]. Market risk is monitored regularly by the bank [Source 6, page 56].\n",
       "query_text": "What are the main risks, challenges, or recommendations identified?",
-      "citations": [],
-      "is_verifiable": false,
-      "confidence_level": 0.0,
+      "citations": [
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 37,
+          "bbox": null,
+          "content_hash": "52564498d20cdd754ef25697563ad05502c0a08cea5c80b9bbad19e2d3d005a1",
+          "extracted_text": "Development Bank of Ethiopia\nNotes to the consolidated and separate financial statements\nFor the year ended 30 June 2023 Tight control exists between and among the various independent specialized lending units where the Bank has conducted its overall credit activities,\nincluding customer relationship, loan appraisal, loan review, loan approval, Ongiong concern Project and Aquired asset Management (specialized loan\nworkout), loan portfolio management, and Management information System. The Bank's"
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 36,
+          "bbox": null,
+          "content_hash": "f62f483c1949f0509b1d1286619ddeef5f54e9387a04a616f3c65bd9e4755211",
+          "extracted_text": "Risk is inherent in the Group's and Bank's activities, but is managed through an integrated risk management framework/program, including ongoing\nidentification, measurement and monitoring, and subject to appropriate risk limits and other controls, and adherence to limits. This process of risk\nmanagement is critical to the Group's and Bank's continuing profitability, and each individual within the Group and Bank is accountable for the risk\nexposures relating to its responsibilities. The Group and"
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 38,
+          "bbox": null,
+          "content_hash": "3524db9f288198d54a8ef0148c4a9c3f66bfcfa0a33a562ee8b9683587cf8c01",
+          "extracted_text": "Development Bank of Ethiopia\nNotes to the consolidated and separate financial statements\nFor the year ended 30 June 2023 4.  3 Credit risk Credit risk is the risk of financial loss to the Bank if a customer or counterparty to a financial instrument fails to meet its contractual obligations, and\narises principally from the Bank's loans and advances to customers and other banks and financial assets. The Bank manages this risk by applying a rigorous set of criteria in credit granting. It ensures th"
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 5,
+          "bbox": null,
+          "content_hash": "515f306fd9b907fc71c5cfaaaa57838a7cd0adc8a0edc2054124dbfa4629eeb0",
+          "extracted_text": "Key audit matters are those matters that, in our professional judgment, were of most\nsignificance in our audit of the consolidated financial statements of the current period. These\nmatters were addressed in the context of our audit of the consolidated financial statements as\na whole, and in forming our opinion thereon, and we do not provide a separate opinion on\nthese matters. Loans and advances There are risks that loans and advances may be given without proper managerial approval;\nmay not be a"
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 6,
+          "bbox": null,
+          "content_hash": "6b81b94ef4caf335c668acbd75d4abb7dcc1ee1f39ea19b5d656d26e027643cd",
+          "extracted_text": "INDEPENDENT AUDITOR'S REPORT\nTO THE SUPERVISING AUTHORITY OF\nDEVELOPMENT BANK OF ETHIOPIA (continued) Report on the Audit of the Consolidated Financial Statements (continued) Auditor's Responsibilities for the Audit of the Consolidated Financial Statements Our objectives are to obtain reasonable assurance about whether the consolidated financial\nstatements as a whole are free from material misstatement, whether due to fraud or error, and\nto issue an auditor's report that includes our opinion. Re"
+        },
+        {
+          "document_id": "4b172fa2708161f9b75c6bc224115ed522f80226821501e7a9ff7b2f3615e61a",
+          "document_name": "Audit Report - 2023.pdf",
+          "page_number": 56,
+          "bbox": null,
+          "content_hash": "5702da0fc3af3d2c29c23997748787e75433eb76f02f308dff19cf0ff6bf3178",
+          "extracted_text": "Development Bank of Ethiopia\nNotes to the consolidated and separate financial statements\nFor the year ended 30 June 2023 4.5 Market risk\nMarket risk is defined as the risk of loss risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market\nrisk factors such as interest rates, foreign exchange rates, equity prices, credit spreads and their volatilities that will affect the Group's and Bank's\nincome or the value of its holdings of financial i"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.923,
       "retrieval_method": "hybrid_search",
-      "evidence_bundle_hash": "294f857f12f497bb9149168fe40da5b0bc77509a878d97ec6c7989e8e1155edd"
+      "evidence_bundle_hash": "e7febc124bdb83d94dd8896307e827dbfbb7f232fafd5023988f5a824e72a695"
     }
   ]
 }
