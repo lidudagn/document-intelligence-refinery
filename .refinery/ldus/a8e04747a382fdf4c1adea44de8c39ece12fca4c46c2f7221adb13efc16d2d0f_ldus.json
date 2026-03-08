@@ -1,0 +1,1291 @@
+[
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_0",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "11",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 320.49904378255206,
+      "top": 81.46490478515625,
+      "x1": 327.68701171875,
+      "bottom": 88.67681884765625
+    },
+    "parent_section": null,
+    "token_count": 1,
+    "content_hash": "fe5fcaa3ba73a240bc55e07290cbade8e44c2ca9969fb7ab2bdc06b46468e96f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_1",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 251.17208862304688,
+      "top": 220.830322265625,
+      "x1": 366.01202392578125,
+      "bottom": 333.5840148925781
+    },
+    "parent_section": null,
+    "token_count": 1,
+    "content_hash": "e8bd72c2b77783e32fddeb6e55a9e5e3cc26442f9bbe77442858341effafce14",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_2",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 409.668701171875,
+      "top": 216.647705078125,
+      "x1": 525.7813110351562,
+      "bottom": 348.81414794921875
+    },
+    "parent_section": null,
+    "token_count": 1,
+    "content_hash": "0edc0d2cb36b099c5e9b4a31f6ddf1a98aadffd6cbe3bc6fcfc8083a4be13551",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_3",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "TheNotes onpages 15to56areanintegral part ofthesefinancial statements.",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 87.10132853190105,
+      "top": 356.78835042317706,
+      "x1": 328.9554850260417,
+      "bottom": 372.06052652994794
+    },
+    "parent_section": null,
+    "token_count": 7,
+    "content_hash": "b3ff2d67b1a9fe65f0a47e0859fe5b1b30761ad1228e6318323608b8078859a8",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_4",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": " | Notes | 30June2021 Birr'ooo | 30 June 2020 Birr'ooo\nRevenuefromcontractswithcustomers |  |  | \nDirectcosts | 5 | 55,499,196 | 47,628,412\nOperatingexpenses | 6(a) | (6,593,213) | (4,492,433)\nNetimpairmentlosses onfinancial and contract assets | 6(b) | (19,415,473) | (15,271,623)\nOtherincome(expense) | 14,16,17 | (713,997) | (89,465)\n | 8 | 73,273 | 848,660\nEarningsbeforeinterest,taxes,depreciation and amortization(EBITDA) |  |  | \n |  | 28,849,786 | 28,623,551\nDepreciationof property,plantandequipment |  |  | \nDepreciationchargeofrightofuse asset | 11 | (5,488,176) | (5,712,906)\nAmortizationintangibleassets | 12 | (241,722) | (168,879)\n | 13 | (623,141) | (600,617)\n |  | (6,353,039) | (6,482,402)\nOperatingprofit |  |  | \n |  | 22,496,747 | 22,141,149\nFinanceincome |  |  | \nFinancecosts | 6 | 222,052 | 337,799\n | 9 | (10,191,041) | (7,960,608)\nFinancecosts-net |  | (9,968,989) | (7,622,809)\nProfit/(loss)beforeincometax |  |  | \n |  | 12,527,758 | 14,518,340\nIncome tax(expense)/credit | 10(a) | (6,944,531) | (5,065,268)\nProfit/(loss)aftertax |  |  | \n |  | 5,583,227 | 9,453,072\nOthercomprehensiveincome(Oci)netonincometax |  |  | \nItemsthatwill notbesubsequentlyreclassifiedintoprofitor loss: |  |  | \nRemeasurementgain/loss)onpostemploymentbenefitsobligations |  |  | \nDeferred tax(liability)/assetonremeasurementgainorloss | 19 | 96,884 | (53,641)\n | 10(a) | (29,065) | 16,092\n |  | 67,819 | (37,549)\nTotalcomprehensiveincome(loss)fortheperiod |  | 5,651,046 | 9,415,523\n",
+    "chunk_type": "table",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 88.43505859375,
+      "top": 370.09063720703125,
+      "x1": 548.1439819335938,
+      "bottom": 726.1182632446289
+    },
+    "parent_section": null,
+    "token_count": 191,
+    "content_hash": "9df092e449918a2194a161ebd1ddc3ac00bbf3596661d2c86ea4606469897aed",
+    "metadata": {
+      "raw_headers": [
+        "",
+        "Notes",
+        "30June2021 Birr'ooo",
+        "30 June 2020 Birr'ooo"
+      ],
+      "raw_rows": [
+        [
+          "Revenuefromcontractswithcustomers",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Directcosts",
+          "5",
+          "55,499,196",
+          "47,628,412"
+        ],
+        [
+          "Operatingexpenses",
+          "6(a)",
+          "(6,593,213)",
+          "(4,492,433)"
+        ],
+        [
+          "Netimpairmentlosses onfinancial and contract assets",
+          "6(b)",
+          "(19,415,473)",
+          "(15,271,623)"
+        ],
+        [
+          "Otherincome(expense)",
+          "14,16,17",
+          "(713,997)",
+          "(89,465)"
+        ],
+        [
+          "",
+          "8",
+          "73,273",
+          "848,660"
+        ],
+        [
+          "Earningsbeforeinterest,taxes,depreciation and amortization(EBITDA)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "28,849,786",
+          "28,623,551"
+        ],
+        [
+          "Depreciationof property,plantandequipment",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Depreciationchargeofrightofuse asset",
+          "11",
+          "(5,488,176)",
+          "(5,712,906)"
+        ],
+        [
+          "Amortizationintangibleassets",
+          "12",
+          "(241,722)",
+          "(168,879)"
+        ],
+        [
+          "",
+          "13",
+          "(623,141)",
+          "(600,617)"
+        ],
+        [
+          "",
+          "",
+          "(6,353,039)",
+          "(6,482,402)"
+        ],
+        [
+          "Operatingprofit",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "22,496,747",
+          "22,141,149"
+        ],
+        [
+          "Financeincome",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Financecosts",
+          "6",
+          "222,052",
+          "337,799"
+        ],
+        [
+          "",
+          "9",
+          "(10,191,041)",
+          "(7,960,608)"
+        ],
+        [
+          "Financecosts-net",
+          "",
+          "(9,968,989)",
+          "(7,622,809)"
+        ],
+        [
+          "Profit/(loss)beforeincometax",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "12,527,758",
+          "14,518,340"
+        ],
+        [
+          "Income tax(expense)/credit",
+          "10(a)",
+          "(6,944,531)",
+          "(5,065,268)"
+        ],
+        [
+          "Profit/(loss)aftertax",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "5,583,227",
+          "9,453,072"
+        ],
+        [
+          "Othercomprehensiveincome(Oci)netonincometax",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Itemsthatwill notbesubsequentlyreclassifiedintoprofitor loss:",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Remeasurementgain/loss)onpostemploymentbenefitsobligations",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Deferred tax(liability)/assetonremeasurementgainorloss",
+          "19",
+          "96,884",
+          "(53,641)"
+        ],
+        [
+          "",
+          "10(a)",
+          "(29,065)",
+          "16,092"
+        ],
+        [
+          "",
+          "",
+          "67,819",
+          "(37,549)"
+        ],
+        [
+          "Totalcomprehensiveincome(loss)fortheperiod",
+          "",
+          "5,651,046",
+          "9,415,523"
+        ]
+      ]
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_5",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 9.916216850280762,
+      "top": 736.9103622436523,
+      "x1": 20.65403175354004,
+      "bottom": 761.0662002563477
+    },
+    "parent_section": null,
+    "token_count": 1,
+    "content_hash": "7c79b6e5a5e7525b53880073d599a5a706101b3e79a0af77ce33e98ca7e1f393",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_6",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "0111541235\nEthioTelecom IFRSfinancialstatements Fortheyearended30June 2021 Statementofprofitor loss andothercomprehensiveincome\n011888129",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 97.24905395507812,
+      "top": 763.6221974690756,
+      "x1": 500.1983642578125,
+      "bottom": 783.985097249349
+    },
+    "parent_section": null,
+    "token_count": 11,
+    "content_hash": "8316bb73205e96549e1fdbbdd305ac3c96f4f2936031464bdf5b230aa5db9656",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_7",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "4.2",
+    "chunk_type": "list",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 466.7954508463542,
+      "top": 788.2273712158203,
+      "x1": 495.12451171875,
+      "bottom": 811.9840927124023
+    },
+    "parent_section": null,
+    "token_count": 1,
+    "content_hash": "ba034f5e1273073ec62e1bc2a28a321413e88d8e8fce2256686ba4a38f483e7a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_8",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "anting",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 441.4261067708333,
+      "top": 814.5294545491537,
+      "x1": 462.5672200520833,
+      "bottom": 815.3779093424479
+    },
+    "parent_section": null,
+    "token_count": 1,
+    "content_hash": "819901680bb966a3c3e8bef18bd5f556876f61acc233bc878174b5d03f900b46",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_9",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 421.0510559082031,
+      "top": 728.393180847168,
+      "x1": 534.13818359375,
+      "bottom": 835.4317412376404
+    },
+    "parent_section": null,
+    "token_count": 1,
+    "content_hash": "fc6bdd1ca8427b78dce5e5c5b7b071fa9d22874de77ea8aed69850519203ef15",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_10",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "12\ngMacls2\nlefExgcutive Ofmoer",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 137.83995564778647,
+      "top": 89.52520751953125,
+      "x1": 327.68701171875,
+      "bottom": 144.67478434244788
+    },
+    "parent_section": null,
+    "token_count": 4,
+    "content_hash": "093d11f4e793d67009a61c29fbd82d84da46b67768d157fff0c73b25ef9e328f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_11",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "Haa",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 254.9616495768229,
+      "top": 141.70522054036462,
+      "x1": 263.8409016927083,
+      "bottom": 161.64385986328125
+    },
+    "parent_section": "Haa",
+    "token_count": 1,
+    "content_hash": "2d32b2557f1aae7ef1bda27dbf827e5c22a927f43455fc35372544159fe63ecd",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_12",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "Frehig/or Tararu m\nW/tFrehiwotTamiru ChiefExecutiveOfficer 07March2022",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 81.60463968912761,
+      "top": 159.09849039713538,
+      "x1": 261.72678629557294,
+      "bottom": 168.43149820963538
+    },
+    "parent_section": "Haa",
+    "token_count": 6,
+    "content_hash": "1488288ffb121a928e29731881adf5c76f3dd6e854254c22ce5fc17e31655cf9",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_13",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 128.06707763671875,
+      "top": 81.7777099609375,
+      "x1": 475.7290344238281,
+      "bottom": 210.796630859375
+    },
+    "parent_section": "Haa",
+    "token_count": 1,
+    "content_hash": "3883548253eb98e2d412e14f2b35071143a9e184e61548e716793dd7a59992de",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_14",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "TheNotesonpages15to56arean integralpart ofthesefinancialstatements. Thefinancialstatementsonpages11to56isapprovedon07March2022andissignedby:",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 82.02746073404948,
+      "top": 211.70265706380212,
+      "x1": 325.15008544921875,
+      "bottom": 235.45937093098962
+    },
+    "parent_section": "Haa",
+    "token_count": 5,
+    "content_hash": "bcf62ee0d63928ca244e6314b1e0da500b0e2c206558f2edbb8967eeb8bb23ad",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_15",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "Birr'000",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 439.7348225911458,
+      "top": 716.9572041829427,
+      "x1": 469.3323567708333,
+      "bottom": 725.865976969401
+    },
+    "parent_section": "Birr'000",
+    "token_count": 1,
+    "content_hash": "51fc7ad36b20054b53f8c23becbe59da7a48dd85e9cd0549c55d79c794160a0d",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_16",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": " | Notes | 30 June2021 | \nASSETS |  | Birr'ooo | Birr'000\nNoncurrent |  |  | \nassets |  |  | \nProperty,plantandequipment Right of use assets | 11 | 33,286,458 | 35,705,951\nIntangible assets | 12 | 985,374 | 749,256\nOtherassets | 13 | 1,354,309 | 1,953,127\nOtherfinancialassetsatamortisedcost | 14(a) | 6,846 | 25,298\nNotesreceivableatamortisedcost | 14(c) | 7,127,568 | 7,205,098\nDeferred taxAssets | 16(a) | 497,183 | 638,743\n | 10(d) | 1,990,697 | 1,085,423\n |  | 45,248,435 | 47,362,896\nCurrentassets Inventories. |  |  | \nOtherassets | 15. | 5,930,403 | 3,062,563\nTradereceivables | 14(a) | 2,254,973 | 1,932,546\nOtherfinancialassetsatamortisedcost | 14(b) | 8,095,586 | 8,701,043\nNotesreceivable at amortised cost. | 14(c) | 92,887 | 109,371\nInvestmentsecuritiesatamortisedcost | 16(a) | 3,465 | 3,455\nCash and cash equivalents | 16(b) | 398,456 | \n | 17 | 15,194,080 | 2,534,018 15,172,911\n |  | 31,969,850 | 31,515,907\nTotal assets |  |  | \nEQUITYAND |  | 77,218,285 | 78,878,803\nLIABILITIES |  |  | \nLIABILITIES |  |  | \nNon-current liabilities |  |  | \nBorrowings Provisions | 18 | 22,898,052 | 24,353,615\nLease liabilities | 20(c) | 47,858 | 15,316\nGrants | 12 | 631,685 | 482,865\nDeferredtaxliabilities | 23 | 563 | 610\nDefined benefit liabilities |  | 589,152 | \n | 10(d) 19 | 24,167,310 | 594,983\nCurrent liabilities Borrowings | 18 |  | 25.447,389\nContract liabilities |  | 7,676,488 | 8,119,350\nTradeand other payables | 20(a) | 7,311,726 | 7,438,510\n | 20(b) 20(c) | 25,082,328 | 18,601,534\nLeaseliabilities |  | 3,199 | 17,879\nGrants | 12 | 195,703 | 176,875\nDefined benefit liabilities | 23 | 45 | 45\nDividend payable | 19 | 58,090 | 52,428\nCurrentincometax | 10(c) 25(b) | 5,304,066 | 7,497,085\n |  | 6,534,771 52,166,416 | 41,903,706\nTotalliabilities |  | 76,333,725 | 67,351,095\nEquity attributableto |  |  | \nowners. Capital |  |  | \nRetained earnings | 21 | 4,749,719 | 4,749,719\nLegalreserve | 25(a) | (4,790,941) | 5,920,026\nOtherreserves | 22 | 949,944 | 949,944\n | 24 | (24,162) | (91,981)\nTotalequity |  | 884,560 | 11,527,708\nTotalequityand liabilities |  | 77,218,285 | 78,878,803\n",
+    "chunk_type": "table",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 85.04948425292969,
+      "top": 232.54901123046875,
+      "x1": 465.59234619140625,
+      "bottom": 735.3767166137695
+    },
+    "parent_section": "Birr'000",
+    "token_count": 343,
+    "content_hash": "8d30a54c4e72185960fb74988c10cfec6b2fbd6d3ecdcd9e9ddbc75c73051355",
+    "metadata": {
+      "raw_headers": [
+        "",
+        "Notes",
+        "30 June2021",
+        ""
+      ],
+      "raw_rows": [
+        [
+          "ASSETS",
+          "",
+          "Birr'ooo",
+          "Birr'000"
+        ],
+        [
+          "Noncurrent",
+          "",
+          "",
+          ""
+        ],
+        [
+          "assets",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Property,plantandequipment Right of use assets",
+          "11",
+          "33,286,458",
+          "35,705,951"
+        ],
+        [
+          "Intangible assets",
+          "12",
+          "985,374",
+          "749,256"
+        ],
+        [
+          "Otherassets",
+          "13",
+          "1,354,309",
+          "1,953,127"
+        ],
+        [
+          "Otherfinancialassetsatamortisedcost",
+          "14(a)",
+          "6,846",
+          "25,298"
+        ],
+        [
+          "Notesreceivableatamortisedcost",
+          "14(c)",
+          "7,127,568",
+          "7,205,098"
+        ],
+        [
+          "Deferred taxAssets",
+          "16(a)",
+          "497,183",
+          "638,743"
+        ],
+        [
+          "",
+          "10(d)",
+          "1,990,697",
+          "1,085,423"
+        ],
+        [
+          "",
+          "",
+          "45,248,435",
+          "47,362,896"
+        ],
+        [
+          "Currentassets Inventories.",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Otherassets",
+          "15.",
+          "5,930,403",
+          "3,062,563"
+        ],
+        [
+          "Tradereceivables",
+          "14(a)",
+          "2,254,973",
+          "1,932,546"
+        ],
+        [
+          "Otherfinancialassetsatamortisedcost",
+          "14(b)",
+          "8,095,586",
+          "8,701,043"
+        ],
+        [
+          "Notesreceivable at amortised cost.",
+          "14(c)",
+          "92,887",
+          "109,371"
+        ],
+        [
+          "Investmentsecuritiesatamortisedcost",
+          "16(a)",
+          "3,465",
+          "3,455"
+        ],
+        [
+          "Cash and cash equivalents",
+          "16(b)",
+          "398,456",
+          ""
+        ],
+        [
+          "",
+          "17",
+          "15,194,080",
+          "2,534,018 15,172,911"
+        ],
+        [
+          "",
+          "",
+          "31,969,850",
+          "31,515,907"
+        ],
+        [
+          "Total assets",
+          "",
+          "",
+          ""
+        ],
+        [
+          "EQUITYAND",
+          "",
+          "77,218,285",
+          "78,878,803"
+        ],
+        [
+          "LIABILITIES",
+          "",
+          "",
+          ""
+        ],
+        [
+          "LIABILITIES",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Non-current liabilities",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Borrowings Provisions",
+          "18",
+          "22,898,052",
+          "24,353,615"
+        ],
+        [
+          "Lease liabilities",
+          "20(c)",
+          "47,858",
+          "15,316"
+        ],
+        [
+          "Grants",
+          "12",
+          "631,685",
+          "482,865"
+        ],
+        [
+          "Deferredtaxliabilities",
+          "23",
+          "563",
+          "610"
+        ],
+        [
+          "Defined benefit liabilities",
+          "",
+          "589,152",
+          ""
+        ],
+        [
+          "",
+          "10(d) 19",
+          "24,167,310",
+          "594,983"
+        ],
+        [
+          "Current liabilities Borrowings",
+          "18",
+          "",
+          "25.447,389"
+        ],
+        [
+          "Contract liabilities",
+          "",
+          "7,676,488",
+          "8,119,350"
+        ],
+        [
+          "Tradeand other payables",
+          "20(a)",
+          "7,311,726",
+          "7,438,510"
+        ],
+        [
+          "",
+          "20(b) 20(c)",
+          "25,082,328",
+          "18,601,534"
+        ],
+        [
+          "Leaseliabilities",
+          "",
+          "3,199",
+          "17,879"
+        ],
+        [
+          "Grants",
+          "12",
+          "195,703",
+          "176,875"
+        ],
+        [
+          "Defined benefit liabilities",
+          "23",
+          "45",
+          "45"
+        ],
+        [
+          "Dividend payable",
+          "19",
+          "58,090",
+          "52,428"
+        ],
+        [
+          "Currentincometax",
+          "10(c) 25(b)",
+          "5,304,066",
+          "7,497,085"
+        ],
+        [
+          "",
+          "",
+          "6,534,771 52,166,416",
+          "41,903,706"
+        ],
+        [
+          "Totalliabilities",
+          "",
+          "76,333,725",
+          "67,351,095"
+        ],
+        [
+          "Equity attributableto",
+          "",
+          "",
+          ""
+        ],
+        [
+          "owners. Capital",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Retained earnings",
+          "21",
+          "4,749,719",
+          "4,749,719"
+        ],
+        [
+          "Legalreserve",
+          "25(a)",
+          "(4,790,941)",
+          "5,920,026"
+        ],
+        [
+          "Otherreserves",
+          "22",
+          "949,944",
+          "949,944"
+        ],
+        [
+          "",
+          "24",
+          "(24,162)",
+          "(91,981)"
+        ],
+        [
+          "Totalequity",
+          "",
+          "884,560",
+          "11,527,708"
+        ],
+        [
+          "Totalequityand liabilities",
+          "",
+          "77,218,285",
+          "78,878,803"
+        ]
+      ]
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_17",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "in 3",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 440.1576741536458,
+      "top": 757.6830139160156,
+      "x1": 453.6879475911458,
+      "bottom": 761.5010579427084
+    },
+    "parent_section": "Birr'000",
+    "token_count": 2,
+    "content_hash": "e98a667b1856f3596ffe1de82038aa91f92d6f293e1b1e663044d29e87ba447d",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_18",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "Q",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 439.31201171875,
+      "top": 770.4098307291666,
+      "x1": 443.117431640625,
+      "bottom": 775.5005544026693
+    },
+    "parent_section": "Q",
+    "token_count": 1,
+    "content_hash": "4cd6fa6c4a1650a76ac45157dbaa7e310e118f1165b4652c1ad71218258db521",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_19",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "011154123:\n011886129\nEthioTelecom IFRSfinancialstatements Fortheyearended3oJune2021 Statementoffinancialposition",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 95.98058064778645,
+      "top": 750.0469258626302,
+      "x1": 508.6548258463542,
+      "bottom": 775.0763295491537
+    },
+    "parent_section": "Q",
+    "token_count": 7,
+    "content_hash": "4c0d2b4641b27fd8f99a8dc28a41a90232c259b34c48dae296efb84292864e08",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_20",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "9.2",
+    "chunk_type": "list",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 477.788818359375,
+      "top": 775.9247843424479,
+      "x1": 505.2722574869792,
+      "bottom": 800.9541854858398
+    },
+    "parent_section": "Q",
+    "token_count": 1,
+    "content_hash": "0bf893ee3225e7fdfd5bd539ecab8b4e8839fc7601ba03f7d11dcf7a456d2596",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_21",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 430.0653076171875,
+      "top": 715.2505264282227,
+      "x1": 543.5771484375,
+      "bottom": 832.299726486206
+    },
+    "parent_section": "Q",
+    "token_count": 1,
+    "content_hash": "e80d538d057bc4fc3c3ee980831d7fdd65622ee7da37b11385b251389128ba08",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_22",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "14",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 323.88161214192706,
+      "top": 84.85870361328125,
+      "x1": 331.49241129557294,
+      "bottom": 91.64638264973962
+    },
+    "parent_section": "Q",
+    "token_count": 1,
+    "content_hash": "79932c1747ff12637c6e2bde676e28be75a51f3822096a569d42c9032d57ba9f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_23",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 233.3816375732422,
+      "top": 234.94390869140625,
+      "x1": 349.7572021484375,
+      "bottom": 349.8071594238281
+    },
+    "parent_section": "Q",
+    "token_count": 1,
+    "content_hash": "13cbfc9dba1e29a3770a8aba0703c5db129ba0b39fd261e645a78f93709ca653",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_24",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 400.50531005859375,
+      "top": 259.08489990234375,
+      "x1": 516.3561401367188,
+      "bottom": 372.3918762207031
+    },
+    "parent_section": "Q",
+    "token_count": 1,
+    "content_hash": "c95e9a1ed84c82b806c0efc4e2e26fca71467db07e33652c3a5db4d7d12acfbd",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_25",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "TheNotesonpages15to56areanintegralpartofthesefinancialstatements.",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 88.36979166666667,
+      "top": 395.81724039713544,
+      "x1": 329.3782958984375,
+      "bottom": 408.11985270182294
+    },
+    "parent_section": "Q",
+    "token_count": 1,
+    "content_hash": "82ab43ac59aef3608599f2a4476c1758da44a157740d3313e6ceda6fc0ab8132",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_26",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": " | Notes | 30June2021 Birr'ooo | 30June 2020 Birr'ooo\nCash flowsfrom operatingactivities |  |  | \nCashgeneratedfromoperations | 26 | 32,282,876 | 27,302,463\nInterestincomereceived |  | 205,028 | 321,280\nInterest expense paid | 18 | (606,360) | (972,840)\nIncome taxpaid | 10 | (8,841,181) | (8,386,755)\nArrear taxpaid |  | (9,990,128) | \nNetcash(outflow)/inflowfromoperatingactivities |  | 13,050,235 | 18,264,148\nCashflowsfrominvestingactivities |  |  | \nSaleofplacementswithfinancialinstitutions | 16 | 2,150,000 | 250,000\nPurchase ofintangible assets | 13 | (23,388) | (17,416)\nPurchaseof propertyplant andequipment | 11 | (2,867,869) | (2,493,312)\nPayment forright ofuse assets |  | (6,979) | (12,311)\nProceedsfromsaleofproperty,plantandequipment |  | 73,092 | 155,866\nNetcash(outflow)/inflowfrominvestingactivities |  | (675,143) | (2,117,173)\nCashflowsfromfinancingactivities |  |  | \nRepaymentsof borrowings | 18 | (8,744,224) | (7,315,238)\nPrincipalelementsofleasepayments | 12 | (310,268) | (183,630)\nPayment toMinstry ofFinance |  | (1,000,000) | (5,000,000)\nNetcash(outflow)/inflowfromfinancingactivities |  | (10,054,492) | (12,498,869)\nNet increase/(decrease)in cash and cashequivalents |  | 2,320,600 | 3,648,106\nCashandcashequivalents at thebeginningof the year | 17 | 15,172,910 | 12,447,041\nEffectsofexchangeratechangesoncash and cash equivalents | 17 | (2,299,430) | (922,237)\nCashandcashequivalentsattheendoftheyear | 17 | 15,194,080 | 15,172,910\n",
+    "chunk_type": "table",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 89.0914077758789,
+      "top": 411.1150207519531,
+      "x1": 542.214599609375,
+      "bottom": 731.7741088867188
+    },
+    "parent_section": "Q",
+    "token_count": 178,
+    "content_hash": "c95c3027dbf83744cbd670a1e5da7a3aa9cdca4a436af989d28f15f2ab0bc966",
+    "metadata": {
+      "raw_headers": [
+        "",
+        "Notes",
+        "30June2021 Birr'ooo",
+        "30June 2020 Birr'ooo"
+      ],
+      "raw_rows": [
+        [
+          "Cash flowsfrom operatingactivities",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Cashgeneratedfromoperations",
+          "26",
+          "32,282,876",
+          "27,302,463"
+        ],
+        [
+          "Interestincomereceived",
+          "",
+          "205,028",
+          "321,280"
+        ],
+        [
+          "Interest expense paid",
+          "18",
+          "(606,360)",
+          "(972,840)"
+        ],
+        [
+          "Income taxpaid",
+          "10",
+          "(8,841,181)",
+          "(8,386,755)"
+        ],
+        [
+          "Arrear taxpaid",
+          "",
+          "(9,990,128)",
+          ""
+        ],
+        [
+          "Netcash(outflow)/inflowfromoperatingactivities",
+          "",
+          "13,050,235",
+          "18,264,148"
+        ],
+        [
+          "Cashflowsfrominvestingactivities",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Saleofplacementswithfinancialinstitutions",
+          "16",
+          "2,150,000",
+          "250,000"
+        ],
+        [
+          "Purchase ofintangible assets",
+          "13",
+          "(23,388)",
+          "(17,416)"
+        ],
+        [
+          "Purchaseof propertyplant andequipment",
+          "11",
+          "(2,867,869)",
+          "(2,493,312)"
+        ],
+        [
+          "Payment forright ofuse assets",
+          "",
+          "(6,979)",
+          "(12,311)"
+        ],
+        [
+          "Proceedsfromsaleofproperty,plantandequipment",
+          "",
+          "73,092",
+          "155,866"
+        ],
+        [
+          "Netcash(outflow)/inflowfrominvestingactivities",
+          "",
+          "(675,143)",
+          "(2,117,173)"
+        ],
+        [
+          "Cashflowsfromfinancingactivities",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Repaymentsof borrowings",
+          "18",
+          "(8,744,224)",
+          "(7,315,238)"
+        ],
+        [
+          "Principalelementsofleasepayments",
+          "12",
+          "(310,268)",
+          "(183,630)"
+        ],
+        [
+          "Payment toMinstry ofFinance",
+          "",
+          "(1,000,000)",
+          "(5,000,000)"
+        ],
+        [
+          "Netcash(outflow)/inflowfromfinancingactivities",
+          "",
+          "(10,054,492)",
+          "(12,498,869)"
+        ],
+        [
+          "Net increase/(decrease)in cash and cashequivalents",
+          "",
+          "2,320,600",
+          "3,648,106"
+        ],
+        [
+          "Cashandcashequivalents at thebeginningof the year",
+          "17",
+          "15,172,910",
+          "12,447,041"
+        ],
+        [
+          "Effectsofexchangeratechangesoncash and cash equivalents",
+          "17",
+          "(2,299,430)",
+          "(922,237)"
+        ],
+        [
+          "Cashandcashequivalentsattheendoftheyear",
+          "17",
+          "15,194,080",
+          "15,172,910"
+        ]
+      ]
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_27",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "0111541235\nEthioTelecom IFRSfinancialstatements Fortheyearended3oJune2021 Statementofcashflous",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 93.02083333333333,
+      "top": 764.0464223225912,
+      "x1": 469.7552083333333,
+      "bottom": 788.2273712158203
+    },
+    "parent_section": "Q",
+    "token_count": 6,
+    "content_hash": "8692747121dd9ecdd1ead0437b59b08d0ded9e04c2bf5528f9149eeb739ed24e",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_28",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "011886129.\n4.2",
+    "chunk_type": "list",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 420.7078450520833,
+      "top": 775.0763295491537,
+      "x1": 469.3323567708333,
+      "bottom": 798.4088236490885
+    },
+    "parent_section": "Q",
+    "token_count": 2,
+    "content_hash": "2b9bb13b5fdb1ff3ba1518c82172619753b2a5fd1bd1c44ceb3457125ddd2534",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_29",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "unidng",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 408.023193359375,
+      "top": 817.9232711791992,
+      "x1": 431.7012125651042,
+      "bottom": 818.7717259724935
+    },
+    "parent_section": "Q",
+    "token_count": 1,
+    "content_hash": "3fcf455f296801526383817ec4511296f5d93b3a4671bfb49fd7c3dc3d698e82",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f_chk_30",
+    "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 387.52783203125,
+      "top": 731.0917816162109,
+      "x1": 499.9149475097656,
+      "bottom": 835.5702514648438
+    },
+    "parent_section": "Q",
+    "token_count": 1,
+    "content_hash": "eadc65aaf596ed00fb7a5974653d13edbd8e71f5ccd1e0e9170a076370b88cae",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  }
+]
