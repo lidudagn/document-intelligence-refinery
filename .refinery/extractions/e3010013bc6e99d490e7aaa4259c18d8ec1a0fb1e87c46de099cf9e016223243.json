@@ -3,209 +3,77 @@
   "source_path": "data/data/20191010_Pharmaceutical-Manufacturing-Opportunites-in-Ethiopia_VF.pdf",
   "pages": [
     {
-      "page_number": 0,
+      "page_number": 1,
       "blocks": [
         {
           "block_type": "text",
-          "page_number": 0,
+          "page_number": 1,
           "bbox": {
-            "x0": 36.81855010986328,
-            "top": 49.88677978515625,
-            "x1": 274.80511474609375,
-            "bottom": 36.05877685546875
+            "x0": 36.28494771321615,
+            "top": 49.35491943359375,
+            "x1": 273.7379150390625,
+            "bottom": 37.12249755859375
           },
-          "content_hash": "83b10335c867359fec965d4edc7fe57b0c6659041544fd731612058cfc81ad14",
+          "content_hash": "4ff73cf46e3fb1870ec47c6c73b7049a0b388dbe96d68e8f194079d6958e3096",
           "text": "ETHIOPIANINVESTMENTCOMMISSION"
         },
         {
           "block_type": "figure",
-          "page_number": 0,
+          "page_number": 1,
           "bbox": {
             "x0": 36.636749267578125,
             "top": 124.0142822265625,
             "x1": 275.3550720214844,
             "bottom": 16.25823974609375
           },
-          "content_hash": "5cd7c9d5e057df35308441f32086e3060830983a0ba834c74df4c592f597373f",
+          "content_hash": "b19a0df819ea7d173a2364b69e8e17af55ac7bf9edf0c9fa372d2d470a8d7fcf",
           "caption": null,
           "image_base64": null
         },
         {
           "block_type": "text",
-          "page_number": 0,
+          "page_number": 1,
           "bbox": {
-            "x0": 93.91398111979167,
-            "top": 128.06801350911456,
-            "x1": 276.93951416015625,
-            "bottom": 56.26890055338538
+            "x0": 83.77553812662761,
+            "top": 128.59987386067706,
+            "x1": 279.0739339192708,
+            "bottom": 55.73708089192712
           },
-          "content_hash": "99c403a77a005fc8664946ef5819780c38ef8923996c22f12ff02528ab38fa37",
+          "content_hash": "d0e4a7735f1e485a3326c7e93dab9e6cd7b3d49d3e4071df518648ceb027d5fc",
           "text": "EIC"
         },
         {
           "block_type": "text",
-          "page_number": 0,
+          "page_number": 1,
           "bbox": {
             "x0": 96.552,
             "top": 476.3494695585938,
             "x1": 309.67668000000003,
             "bottom": 427.8938217353894
           },
-          "content_hash": "c797614861a7ea01279407978ef634e42121b91ac13a2de79c7ee3702ba85623",
+          "content_hash": "22b7bad20b5de625f38e08ee16ba33b676b4d7f30f4a075a4716a3326a03e03f",
           "text": "Ethiopia"
         },
         {
           "block_type": "text",
-          "page_number": 0,
+          "page_number": 1,
           "bbox": {
             "x0": 329.52,
             "top": 477.00487755859376,
             "x1": 833.1360000000002,
             "bottom": 329.1367657353894
           },
-          "content_hash": "d9b852e28cb7e68aa43ca27b95fafd11ea1b1b6dc0108b21c8bd274e88456be1",
+          "content_hash": "eff3939ebfb283828668fe056e909e7583e417b83fe89a6fa32701ecd4a935e4",
           "text": "Attractive investment opportunities Enablers & support Emerging manufacturing hub in Africa"
         },
         {
           "block_type": "figure",
-          "page_number": 0,
+          "page_number": 1,
           "bbox": {
             "x0": 0.0,
             "top": 539.8225479125977,
             "x1": 1058.4609375,
             "bottom": 171.35787963867188
-          },
-          "content_hash": "5cd7c9d5e057df35308441f32086e3060830983a0ba834c74df4c592f597373f",
-          "caption": null,
-          "image_base64": null
-        }
-      ],
-      "page_confidence": 0.9,
-      "strategy_used": "layout_docling"
-    },
-    {
-      "page_number": 1,
-      "blocks": [
-        {
-          "block_type": "figure",
-          "page_number": 1,
-          "bbox": {
-            "x0": 71.4742431640625,
-            "top": 111.10025024414062,
-            "x1": 130.56036376953125,
-            "bottom": 48.191650390625
-          },
-          "content_hash": "b19a0df819ea7d173a2364b69e8e17af55ac7bf9edf0c9fa372d2d470a8d7fcf",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "text",
-          "page_number": 1,
-          "bbox": {
-            "x0": 152.3,
-            "top": 112.70111755859381,
-            "x1": 508.37072000000006,
-            "bottom": 70.72667689561035
-          },
-          "content_hash": "762203eb76cfef24aa0ad731aaa3bed28de4e9019a77d194c2ce74fe8506a231",
-          "text": "Learn Ethiopia's effort in developing the manufacturing sector in general"
-        },
-        {
-          "block_type": "text",
-          "page_number": 1,
-          "bbox": {
-            "x0": 152.3,
-            "top": 214.72911755859377,
-            "x1": 480.37892,
-            "bottom": 172.75467689561037
-          },
-          "content_hash": "3660b3d84a6ca5bc50bda0b86ec3f556c584f07166cdf536d94d7c77da1248f6",
-          "text": "Pitch potential manufacturing opportunities in Ethiopia & enablers"
-        },
-        {
-          "block_type": "figure",
-          "page_number": 1,
-          "bbox": {
-            "x0": 62.589019775390625,
-            "top": 224.02764892578125,
-            "x1": 141.90672302246094,
-            "bottom": 146.3690185546875
-          },
-          "content_hash": "b19a0df819ea7d173a2364b69e8e17af55ac7bf9edf0c9fa372d2d470a8d7fcf",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "text",
-          "page_number": 1,
-          "bbox": {
-            "x0": 152.3,
-            "top": 314.3491175585938,
-            "x1": 525.6652400000002,
-            "bottom": 274.7746768956104
-          },
-          "content_hash": "d7e49208e5c1efc48c6fefc169c63e840d06560c4979fb1fb63aafa2fcabf7ee",
-          "text": "Link up and network with the international community for soliciting support"
-        },
-        {
-          "block_type": "figure",
-          "page_number": 1,
-          "bbox": {
-            "x0": 79.27655029296875,
-            "top": 320.5536193847656,
-            "x1": 131.57620239257812,
-            "bottom": 280.80316162109375
-          },
-          "content_hash": "b19a0df819ea7d173a2364b69e8e17af55ac7bf9edf0c9fa372d2d470a8d7fcf",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "text",
-          "page_number": 1,
-          "bbox": {
-            "x0": 152.3,
-            "top": 411.5691175585938,
-            "x1": 476.79448,
-            "bottom": 371.9906226193673
-          },
-          "content_hash": "210dea27e18dcbf50d757fb0ab70dc567c70e1e855ee5b1daa30035244462198",
-          "text": "Coordination and collaboration to attract FDIs  to Ethiopia"
-        },
-        {
-          "block_type": "figure",
-          "page_number": 1,
-          "bbox": {
-            "x0": 60.20663833618164,
-            "top": 432.92120361328125,
-            "x1": 139.24954223632812,
-            "bottom": 353.6746520996094
-          },
-          "content_hash": "b19a0df819ea7d173a2364b69e8e17af55ac7bf9edf0c9fa372d2d470a8d7fcf",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "text",
-          "page_number": 1,
-          "bbox": {
-            "x0": 56.808,
-            "top": 527.3251175585938,
-            "x1": 438.66072000000014,
-            "bottom": 464.02348449782033
-          },
-          "content_hash": "15c11d03d6402eb3c19c65d3d38b0bc427bee890b9f512940bc35eeed8ecdc2e",
-          "text": "Our Investment Promotion Objectives are:"
-        },
-        {
-          "block_type": "figure",
-          "page_number": 1,
-          "bbox": {
-            "x0": 538.5637817382812,
-            "top": 595.5599975585938,
-            "x1": 1057.9224853515625,
-            "bottom": 6.482421875
           },
           "content_hash": "b19a0df819ea7d173a2364b69e8e17af55ac7bf9edf0c9fa372d2d470a8d7fcf",
           "caption": null,
@@ -219,73 +87,13 @@
       "page_number": 2,
       "blocks": [
         {
-          "block_type": "text",
-          "page_number": 2,
-          "bbox": {
-            "x0": 971.52,
-            "top": 32.25887755859378,
-            "x1": 978.72576,
-            "bottom": 20.63468838732308
-          },
-          "content_hash": "c6e542833f2d3fb47e2430e20d18cd841b97e5dc33a2e87cd9fd877b4b85c3dc",
-          "text": "3"
-        },
-        {
-          "block_type": "text",
-          "page_number": 2,
-          "bbox": {
-            "x0": 126.6,
-            "top": 219.1919975585938,
-            "x1": 346.274688,
-            "bottom": 140.04572131549992
-          },
-          "content_hash": "fc704806fe6e1770d898dbe7f4310fa772bd0901e4cb1fa7e93655dd108028ee",
-          "text": "Growing & dynamic Economy, access to East African market"
-        },
-        {
-          "block_type": "text",
-          "page_number": 2,
-          "bbox": {
-            "x0": 418.08,
-            "top": 219.1919975585938,
-            "x1": 663.5040000000004,
-            "bottom": 140.04572131549992
-          },
-          "content_hash": "357c7a954352e14e9a4eff0b3f8be9d7904bb94a74a57a15e0500d159f0f7bd5",
-          "text": "Opportunities to invest in high value pharmaceutical sector"
-        },
-        {
-          "block_type": "text",
-          "page_number": 2,
-          "bbox": {
-            "x0": 738.05,
-            "top": 219.1919975585938,
-            "x1": 964.8020000000004,
-            "bottom": 82.44172131549988
-          },
-          "content_hash": "8d19a6447be1283b4f82e67fa6be2cf13ac1e811e22566707d871f3c4a335b02",
-          "text": "Benefit based on tailored enabling environment including specialized parks"
-        },
-        {
-          "block_type": "text",
-          "page_number": 2,
-          "bbox": {
-            "x0": 802.6666666666666,
-            "top": 296.55999755859375,
-            "x1": 902.0,
-            "bottom": 251.55999755859375
-          },
-          "content_hash": "6ffd316bc13fe6138b42bc3cf91699d422cdf46058e26251b98e4427531181fa",
-          "text": "\u6237"
-        },
-        {
           "block_type": "figure",
           "page_number": 2,
           "bbox": {
-            "x0": 457.48974609375,
-            "top": 378.50611877441406,
-            "x1": 629.28466796875,
-            "bottom": 260.6673278808594
+            "x0": 71.4742431640625,
+            "top": 111.10025024414062,
+            "x1": 130.56036376953125,
+            "bottom": 48.191650390625
           },
           "content_hash": "cbaff5538c317526fb622f65f6ab6f7b3591f9d9f00771ec6d15128ae2928d26",
           "caption": null,
@@ -295,35 +103,34 @@
           "block_type": "text",
           "page_number": 2,
           "bbox": {
-            "x0": 770.6666666666666,
-            "top": 391.8933308919271,
-            "x1": 882.3333333333334,
-            "bottom": 346.55999755859375
+            "x0": 152.3,
+            "top": 112.70111755859381,
+            "x1": 508.37072000000006,
+            "bottom": 70.72667689561035
           },
-          "content_hash": "a1678256c71e0f0750d24b909931d81dbb181bebaa781b0d88cb497abe04d671",
-          "text": "\u76ee\u6a02"
+          "content_hash": "089819ccde7e3e343a20fb8213f1e09953fd8201536b0d0defcf4d4b2016dd88",
+          "text": "Learn Ethiopia's effort in developing the manufacturing sector in general"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 152.3,
+            "top": 214.72911755859377,
+            "x1": 480.37892,
+            "bottom": 172.75467689561037
+          },
+          "content_hash": "3a79970beafed73510d53fddd890e05c433db66032d410a56335ee2cf23dbee3",
+          "text": "Pitch potential manufacturing opportunities in Ethiopia & enablers"
         },
         {
           "block_type": "figure",
           "page_number": 2,
           "bbox": {
-            "x0": 768.450927734375,
-            "top": 394.0835723876953,
-            "x1": 929.7529296875,
-            "bottom": 247.94061279296875
-          },
-          "content_hash": "cbaff5538c317526fb622f65f6ab6f7b3591f9d9f00771ec6d15128ae2928d26",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "figure",
-          "page_number": 2,
-          "bbox": {
-            "x0": 46.533050537109375,
-            "top": 422.3881530761719,
-            "x1": 406.1413879394531,
-            "bottom": 32.9954833984375
+            "x0": 62.589019775390625,
+            "top": 224.02764892578125,
+            "x1": 141.90672302246094,
+            "bottom": 146.3690185546875
           },
           "content_hash": "cbaff5538c317526fb622f65f6ab6f7b3591f9d9f00771ec6d15128ae2928d26",
           "caption": null,
@@ -333,22 +140,84 @@
           "block_type": "text",
           "page_number": 2,
           "bbox": {
-            "x0": 57.408,
-            "top": 508.2903495585938,
-            "x1": 621.6039520000003,
-            "bottom": 477.80914239837284
+            "x0": 152.3,
+            "top": 314.3491175585938,
+            "x1": 525.6652400000002,
+            "bottom": 274.7746768956104
           },
-          "content_hash": "06743a37be5ef395ab17015877e141f4c0e4532a2e0bbeb2ee1877791664b64f",
-          "text": "Investment - Why do business in Ethiopia?"
+          "content_hash": "488bf8dcf36b9ff6ff9715c09bd61503182d2bec97ffdd0f86f053fb72d64a1e",
+          "text": "Link up and network with the international community for soliciting support"
         },
         {
           "block_type": "figure",
           "page_number": 2,
           "bbox": {
-            "x0": 14.606060028076172,
-            "top": 580.9828109741211,
-            "x1": 87.87557220458984,
-            "bottom": 522.5870132446289
+            "x0": 79.27655029296875,
+            "top": 320.5536193847656,
+            "x1": 131.57620239257812,
+            "bottom": 280.80316162109375
+          },
+          "content_hash": "cbaff5538c317526fb622f65f6ab6f7b3591f9d9f00771ec6d15128ae2928d26",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 77.0,
+            "top": 327.55999755859375,
+            "x1": 135.33333333333331,
+            "bottom": 274.89333089192706
+          },
+          "content_hash": "1a04c81fee8b3bd166a4d14a3c6681bf7a68f1f58c67f5ab6d8f928fffb79bbb",
+          "text": "\u4eba"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 152.3,
+            "top": 411.5691175585938,
+            "x1": 476.79448,
+            "bottom": 371.9906226193673
+          },
+          "content_hash": "6a3d5ae54ffe7df41700c45100e74450fcdbf4e4d874cb46ec13c0c0df3645b4",
+          "text": "Coordination and collaboration to attract FDIs  to Ethiopia"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 2,
+          "bbox": {
+            "x0": 60.20663833618164,
+            "top": 432.92120361328125,
+            "x1": 139.24954223632812,
+            "bottom": 353.6746520996094
+          },
+          "content_hash": "cbaff5538c317526fb622f65f6ab6f7b3591f9d9f00771ec6d15128ae2928d26",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 56.808,
+            "top": 527.3251175585938,
+            "x1": 438.66072000000014,
+            "bottom": 464.02348449782033
+          },
+          "content_hash": "62bf5330905d0a227311f949c2de03e3a1ec8e9a08068592e453722f641e2958",
+          "text": "Our Investment Promotion Objectives are:"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 2,
+          "bbox": {
+            "x0": 538.5637817382812,
+            "top": 595.5599975585938,
+            "x1": 1057.9224853515625,
+            "bottom": 6.482421875
           },
           "content_hash": "cbaff5538c317526fb622f65f6ab6f7b3591f9d9f00771ec6d15128ae2928d26",
           "caption": null,
@@ -365,22 +234,70 @@
           "block_type": "text",
           "page_number": 3,
           "bbox": {
-            "x0": 513.48,
-            "top": 108.50111755859382,
-            "x1": 1024.1334000000002,
-            "bottom": 66.52667689561042
+            "x0": 971.52,
+            "top": 32.25887755859378,
+            "x1": 978.72576,
+            "bottom": 20.63468838732308
           },
-          "content_hash": "6f2da3fbe7d3c991c33563896de9fc86eacbabaf215b7b97b3d9de8d1c11c087",
-          "text": "Member of preferential trade agreements and bilateral investment treaties - COMESA, AGOA, etc."
+          "content_hash": "9d41a1d48dbe9766befe39c539463150564d16a25b2dab5b5d3c5267f91edcde",
+          "text": "3"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 126.6,
+            "top": 219.1919975585938,
+            "x1": 346.274688,
+            "bottom": 140.04572131549992
+          },
+          "content_hash": "f2f004b29ce5d394fe01178592a7b3768cd77c3779eccbfe7e8f7a9b0c2b1a0e",
+          "text": "Growing & dynamic Economy, access to East African market"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 418.08,
+            "top": 219.1919975585938,
+            "x1": 663.5040000000004,
+            "bottom": 140.04572131549992
+          },
+          "content_hash": "aaec5fef65240a0b3a939626f2751c886ffc13584368bf37ce37bf805fd3b5a1",
+          "text": "Opportunities to invest in high value pharmaceutical sector"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 738.05,
+            "top": 219.1919975585938,
+            "x1": 964.8020000000004,
+            "bottom": 82.44172131549988
+          },
+          "content_hash": "5c524b1e8215693ca749c606e4ca066511dde52549534a0c3e962c0e7502af8e",
+          "text": "Benefit based on tailored enabling environment including specialized parks"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 787.6666666666666,
+            "top": 302.89333089192706,
+            "x1": 924.0,
+            "bottom": 245.89333089192712
+          },
+          "content_hash": "58f46c6cecd480b155ad94925595cc30441f85b88d7dd5f35f6f869a67715283",
+          "text": "\u8272"
         },
         {
           "block_type": "figure",
           "page_number": 3,
           "bbox": {
-            "x0": 440.28009033203125,
-            "top": 113.81069946289062,
-            "x1": 491.2762451171875,
-            "bottom": 61.0323486328125
+            "x0": 457.48974609375,
+            "top": 378.50611877441406,
+            "x1": 629.28466796875,
+            "bottom": 260.6673278808594
           },
           "content_hash": "d4489a4978b0fd1af68940960afaed10bac09d4dc6b4cd8bafa70a4d1c455c30",
           "caption": null,
@@ -390,10 +307,10 @@
           "block_type": "figure",
           "page_number": 3,
           "bbox": {
-            "x0": 439.2548828125,
-            "top": 179.81301879882812,
-            "x1": 493.0203552246094,
-            "bottom": 155.28173828125
+            "x0": 768.450927734375,
+            "top": 394.0835723876953,
+            "x1": 929.7529296875,
+            "bottom": 247.94061279296875
           },
           "content_hash": "d4489a4978b0fd1af68940960afaed10bac09d4dc6b4cd8bafa70a4d1c455c30",
           "caption": null,
@@ -403,22 +320,22 @@
           "block_type": "text",
           "page_number": 3,
           "bbox": {
-            "x0": 513.48,
-            "top": 194.46911755859378,
-            "x1": 950.0589199999998,
-            "bottom": 152.49467689561038
+            "x0": 770.3333333333334,
+            "top": 393.8933308919271,
+            "x1": 892.3333333333334,
+            "bottom": 344.55999755859375
           },
-          "content_hash": "8c22c77cf6ae82ff1d5ae03d5533249fddfeec7d3bb6627aa64517bf17fc7194",
-          "text": "Dedicated leadership with a vision to become a manufacturing hub in Africa by 2025."
+          "content_hash": "3c8c0bea51ccc6c09d9299f50638326acf2fb72de4a1291a92450d0ac36db564",
+          "text": "\u76ee\u6a02"
         },
         {
           "block_type": "figure",
           "page_number": 3,
           "bbox": {
-            "x0": 441.72509765625,
-            "top": 290.7845153808594,
-            "x1": 490.65606689453125,
-            "bottom": 268.2822265625
+            "x0": 46.533050537109375,
+            "top": 422.3881530761719,
+            "x1": 406.1413879394531,
+            "bottom": 32.9954833984375
           },
           "content_hash": "d4489a4978b0fd1af68940960afaed10bac09d4dc6b4cd8bafa70a4d1c455c30",
           "caption": null,
@@ -428,84 +345,22 @@
           "block_type": "text",
           "page_number": 3,
           "bbox": {
-            "x0": 510.1,
-            "top": 301.8491175585938,
-            "x1": 939.6573999999996,
-            "bottom": 259.8706226193673
+            "x0": 57.408,
+            "top": 508.2903495585938,
+            "x1": 621.6039520000003,
+            "bottom": 477.80914239837284
           },
-          "content_hash": "99e1b1e743f7a72e2a2f24907ce05a9100ce8cb3819da2afc0536b245badb6cb",
-          "text": "Productive labor force with more than 60% of its population between the ages of 15 - 65."
-        },
-        {
-          "block_type": "text",
-          "page_number": 3,
-          "bbox": {
-            "x0": 50.304,
-            "top": 402.78834955859384,
-            "x1": 374.49948000000006,
-            "bottom": 174.87962761384244
-          },
-          "content_hash": "349b13f97b7b8b8c00133183ba21f373eeef1571f79344e090d880b718afc982",
-          "text": "Ethiopia has a clear vision for industrialization that builds off of its rapid growth"
+          "content_hash": "3dbd9ae59c2a0a7eed64dbb96f80b3a2c8cb5bfd12be44fdee2c86e3b0653de5",
+          "text": "Investment - Why do business in Ethiopia?"
         },
         {
           "block_type": "figure",
           "page_number": 3,
           "bbox": {
-            "x0": 441.53863525390625,
-            "top": 410.3411102294922,
-            "x1": 491.40966796875,
-            "bottom": 361.2951354980469
-          },
-          "content_hash": "d4489a4978b0fd1af68940960afaed10bac09d4dc6b4cd8bafa70a4d1c455c30",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "text",
-          "page_number": 3,
-          "bbox": {
-            "x0": 506.74,
-            "top": 409.1991175585938,
-            "x1": 1002.9905199999995,
-            "bottom": 367.2246768956104
-          },
-          "content_hash": "f771d401077b641cd935bdc404d2b6647978411db31bcdeaf89b4586f1be27a6",
-          "text": "One of the top destinations for foreign direct investment standing 5 th in Africa."
-        },
-        {
-          "block_type": "text",
-          "page_number": 3,
-          "bbox": {
-            "x0": 510.1,
-            "top": 516.5691175585938,
-            "x1": 1032.17576,
-            "bottom": 474.5946768956104
-          },
-          "content_hash": "01374b995f305e8a2da0984bd63dce5ccfb8b5a10e8209aae7462caf7874d410",
-          "text": "One of the fastest growing economies with 9.68% average growth over the past 10 years."
-        },
-        {
-          "block_type": "figure",
-          "page_number": 3,
-          "bbox": {
-            "x0": 441.20135498046875,
-            "top": 518.196174621582,
-            "x1": 493.0402526855469,
-            "bottom": 466.9464874267578
-          },
-          "content_hash": "d4489a4978b0fd1af68940960afaed10bac09d4dc6b4cd8bafa70a4d1c455c30",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "figure",
-          "page_number": 3,
-          "bbox": {
-            "x0": 14.756312370300293,
-            "top": 581.2906713485718,
-            "x1": 87.82953643798828,
-            "bottom": 522.2823867797852
+            "x0": 14.606060028076172,
+            "top": 580.9828109741211,
+            "x1": 87.87557220458984,
+            "bottom": 522.5870132446289
           },
           "content_hash": "d4489a4978b0fd1af68940960afaed10bac09d4dc6b4cd8bafa70a4d1c455c30",
           "caption": null,
@@ -522,142 +377,22 @@
           "block_type": "text",
           "page_number": 4,
           "bbox": {
-            "x0": 406.7,
-            "top": 47.9971175585938,
-            "x1": 516.83336,
-            "bottom": 30.022676895610402
+            "x0": 513.48,
+            "top": 108.50111755859382,
+            "x1": 1024.1334000000002,
+            "bottom": 66.52667689561042
           },
-          "content_hash": "77c1643c611bf35f497ece463ac30f30cb61d272ea2228e2fad3c754476c5bce",
-          "text": "Floriculture"
-        },
-        {
-          "block_type": "text",
-          "page_number": 4,
-          "bbox": {
-            "x0": 576.46,
-            "top": 56.9251175585938,
-            "x1": 648.9046000000002,
-            "bottom": 38.9506768956104
-          },
-          "content_hash": "9b8ae27e2d09eacd9b9e46a730e3811a08c82c424e720c5b85821c38a16d8472",
-          "text": "Leather"
-        },
-        {
-          "block_type": "text",
-          "page_number": 4,
-          "bbox": {
-            "x0": 729.22,
-            "top": 154.0091175585938,
-            "x1": 791.2237600000001,
-            "bottom": 136.03467689561035
-          },
-          "content_hash": "93c12e709c2af6a5db9f258775f08be0d3a0ddf1bb484331627e6351c1946fda",
-          "text": "Textile"
-        },
-        {
-          "block_type": "text",
-          "page_number": 4,
-          "bbox": {
-            "x0": 317.86,
-            "top": 185.39911755859384,
-            "x1": 395.47492000000005,
-            "bottom": 167.4246768956104
-          },
-          "content_hash": "7f060b87c21fa3e060f4775a684b3e3a727c3cb25f2e706671210d39d27c7108",
-          "text": "Tourism"
-        },
-        {
-          "block_type": "text",
-          "page_number": 4,
-          "bbox": {
-            "x0": 719.6666666666666,
-            "top": 255.55999755859375,
-            "x1": 757.0,
-            "bottom": 222.55999755859375
-          },
-          "content_hash": "dd03ae74db9b76454d90f780be10a77570194fcab5ee3a29db4497ccd446d232",
-          "text": "D"
-        },
-        {
-          "block_type": "text",
-          "page_number": 4,
-          "bbox": {
-            "x0": 656.06,
-            "top": 330.8091175585938,
-            "x1": 816.5334800000003,
-            "bottom": 312.8346768956104
-          },
-          "content_hash": "c259b9d67356ebd960f5c511c8be5318a91d2b7c964e3bb61a864961b08daec2",
-          "text": "Agro-processing"
-        },
-        {
-          "block_type": "text",
-          "page_number": 4,
-          "bbox": {
-            "x0": 316.8,
-            "top": 340.16911755859377,
-            "x1": 384.73560000000003,
-            "bottom": 322.19467689561037
-          },
-          "content_hash": "a55c21ea6fc1a6e4cffdf321d08c244240fe64d32d155855346d6c1997f800b0",
-          "text": "Energy"
-        },
-        {
-          "block_type": "text",
-          "page_number": 4,
-          "bbox": {
-            "x0": 446.69,
-            "top": 389.19658955859376,
-            "x1": 594.842576,
-            "bottom": 371.20062261936727
-          },
-          "content_hash": "8c5d797ca29d05231d728fb72b53b4d1090b8708c07f813534bf80054eba3f16",
-          "text": "Pharmaceutical"
-        },
-        {
-          "block_type": "text",
-          "page_number": 4,
-          "bbox": {
-            "x0": 680.3333333333334,
-            "top": 403.8933308919271,
-            "x1": 703.0,
-            "bottom": 388.22666422526044
-          },
-          "content_hash": "6cab3ff9d0388e7d5f2ce0ce555093c45711c793072054df33b0dab71b807738",
-          "text": "\u5ddd!"
-        },
-        {
-          "block_type": "text",
-          "page_number": 4,
-          "bbox": {
-            "x0": 343.3333333333333,
-            "top": 461.55999755859375,
-            "x1": 390.0,
-            "bottom": 407.8933308919271
-          },
-          "content_hash": "af74512442af73858c728a1b394e1027dd6a19a473b840d11f6be83f6a832f5f",
-          "text": "\u4e09"
-        },
-        {
-          "block_type": "text",
-          "page_number": 4,
-          "bbox": {
-            "x0": 886.7,
-            "top": 500.7379975585938,
-            "x1": 1006.1060000000002,
-            "bottom": 481.9025058458866
-          },
-          "content_hash": "a09b9cf713e1773f4319cbf146c96a0d2583d7ef0099523dd349729f3acb5b54",
-          "text": "Focus Area"
+          "content_hash": "e382788c87d819a50de2a67238aecaf1a4f3d61e53feffbfba6d4e55f3c1f930",
+          "text": "Member of preferential trade agreements and bilateral investment treaties - COMESA, AGOA, etc."
         },
         {
           "block_type": "figure",
           "page_number": 4,
           "bbox": {
-            "x0": 290.771484375,
-            "top": 502.9813995361328,
-            "x1": 819.6693115234375,
-            "bottom": 33.26336669921875
+            "x0": 440.28009033203125,
+            "top": 113.81069946289062,
+            "x1": 491.2762451171875,
+            "bottom": 61.0323486328125
           },
           "content_hash": "cf266be952a0003547a4660aaa4a6bda87b2d054677ac90abed3a9ca59b2f5ac",
           "caption": null,
@@ -667,10 +402,10 @@
           "block_type": "figure",
           "page_number": 4,
           "bbox": {
-            "x0": 844.462646484375,
-            "top": 504.689453125,
-            "x1": 1001.5992431640625,
-            "bottom": 473.44982147216797
+            "x0": 439.2548828125,
+            "top": 179.81301879882812,
+            "x1": 493.0203552246094,
+            "bottom": 155.28173828125
           },
           "content_hash": "cf266be952a0003547a4660aaa4a6bda87b2d054677ac90abed3a9ca59b2f5ac",
           "caption": null,
@@ -680,22 +415,109 @@
           "block_type": "text",
           "page_number": 4,
           "bbox": {
-            "x0": 94.248,
-            "top": 573.1948775585938,
-            "x1": 939.7272800000002,
-            "bottom": 514.5127114591463
+            "x0": 513.48,
+            "top": 194.46911755859378,
+            "x1": 950.0589199999998,
+            "bottom": 152.49467689561038
           },
-          "content_hash": "da0b4f33fa63ebdedf751a50dc98caafcd47d83a433a3f7a163174aa086b5a8e",
-          "text": "Strategic sectors have been identified for investment including pharmaceutical and textile manufacturing"
+          "content_hash": "c108f8f7fbcbc43753e60f4dfb5ac5b41b74afbd0b1fd0839aec587ffd300067",
+          "text": "Dedicated leadership with a vision to become a manufacturing hub in Africa by 2025."
         },
         {
           "block_type": "figure",
           "page_number": 4,
           "bbox": {
-            "x0": 14.725438117980957,
-            "top": 583.3617906570435,
-            "x1": 86.6947021484375,
-            "bottom": 515.5343322753906
+            "x0": 441.72509765625,
+            "top": 290.7845153808594,
+            "x1": 490.65606689453125,
+            "bottom": 268.2822265625
+          },
+          "content_hash": "cf266be952a0003547a4660aaa4a6bda87b2d054677ac90abed3a9ca59b2f5ac",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 510.1,
+            "top": 301.8491175585938,
+            "x1": 939.6573999999996,
+            "bottom": 259.8706226193673
+          },
+          "content_hash": "940920759ace049c48885f987e4f275b2e8dd7c60c4e09281da8904171817711",
+          "text": "Productive labor force with more than 60% of its population between the ages of 15 - 65."
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 50.304,
+            "top": 402.78834955859384,
+            "x1": 374.49948000000006,
+            "bottom": 174.87962761384244
+          },
+          "content_hash": "7b99f492a53779d0aed03865ae544835e3a4fbbaa6c198813a208fb63aec3327",
+          "text": "Ethiopia has a clear vision for industrialization that builds off of its rapid growth"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 4,
+          "bbox": {
+            "x0": 441.53863525390625,
+            "top": 410.3411102294922,
+            "x1": 491.40966796875,
+            "bottom": 361.2951354980469
+          },
+          "content_hash": "cf266be952a0003547a4660aaa4a6bda87b2d054677ac90abed3a9ca59b2f5ac",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 506.74,
+            "top": 409.1991175585938,
+            "x1": 1002.9905199999995,
+            "bottom": 367.2246768956104
+          },
+          "content_hash": "57b5de8c875130be8b9db04aa231652e978c52ae114b6c33f37a714d6f1ef204",
+          "text": "One of the top destinations for foreign direct investment standing 5 th in Africa."
+        },
+        {
+          "block_type": "text",
+          "page_number": 4,
+          "bbox": {
+            "x0": 510.1,
+            "top": 516.5691175585938,
+            "x1": 1032.17576,
+            "bottom": 474.5946768956104
+          },
+          "content_hash": "2d04e9470fde5c5e946e69b725b05cc236af39cc28036039b568be27ac802072",
+          "text": "One of the fastest growing economies with 9.68% average growth over the past 10 years."
+        },
+        {
+          "block_type": "figure",
+          "page_number": 4,
+          "bbox": {
+            "x0": 441.20135498046875,
+            "top": 518.196174621582,
+            "x1": 493.0402526855469,
+            "bottom": 466.9464874267578
+          },
+          "content_hash": "cf266be952a0003547a4660aaa4a6bda87b2d054677ac90abed3a9ca59b2f5ac",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "figure",
+          "page_number": 4,
+          "bbox": {
+            "x0": 14.756312370300293,
+            "top": 581.2906713485718,
+            "x1": 87.82953643798828,
+            "bottom": 522.2823867797852
           },
           "content_hash": "cf266be952a0003547a4660aaa4a6bda87b2d054677ac90abed3a9ca59b2f5ac",
           "caption": null,
@@ -712,70 +534,142 @@
           "block_type": "text",
           "page_number": 5,
           "bbox": {
-            "x0": 971.52,
-            "top": 32.25887755859378,
-            "x1": 978.72576,
-            "bottom": 20.63468838732308
+            "x0": 406.7,
+            "top": 47.9971175585938,
+            "x1": 516.83336,
+            "bottom": 30.022676895610402
           },
-          "content_hash": "803d01846d73bb7d889188632808332345ababb2cbd582a518ac000e6556deba",
-          "text": "6"
+          "content_hash": "742060e5406f814a00d79bc2c35e985faf5ba2aa333157ed9e9b381e53e5d061",
+          "text": "Floriculture"
         },
         {
           "block_type": "text",
           "page_number": 5,
           "bbox": {
-            "x0": 115.06,
-            "top": 219.1919975585938,
-            "x1": 357.70000000000005,
-            "bottom": 111.24572131549985
+            "x0": 576.46,
+            "top": 56.9251175585938,
+            "x1": 648.9046000000002,
+            "bottom": 38.9506768956104
           },
-          "content_hash": "41f598ad388a12b32cf6b5a62bc55e187e074257716426c1ec540b92bf66531d",
-          "text": "Growing Economy, dynamic market with access to East African market"
+          "content_hash": "4727a64d2680ec3f791ca01e0fa2c53f99c41891cd96a475f86f415c6780f92a",
+          "text": "Leather"
         },
         {
           "block_type": "text",
           "page_number": 5,
           "bbox": {
-            "x0": 418.08,
-            "top": 219.1919975585938,
-            "x1": 663.5040000000004,
-            "bottom": 140.04572131549992
+            "x0": 729.22,
+            "top": 154.0091175585938,
+            "x1": 791.2237600000001,
+            "bottom": 136.03467689561035
           },
-          "content_hash": "ed1c6393758012c12350bc68595433ba2ef9087d8a52fb950842655cfaf6bcfb",
-          "text": "Opportunities to invest in high value pharmaceutical sector"
+          "content_hash": "c6e611cd374d8913c8690ee69058442df72565e8746f5e62467c4de48f12ef72",
+          "text": "Textile"
         },
         {
           "block_type": "text",
           "page_number": 5,
           "bbox": {
-            "x0": 738.05,
-            "top": 219.1919975585938,
-            "x1": 964.8020000000004,
-            "bottom": 82.44172131549988
+            "x0": 317.86,
+            "top": 185.39911755859384,
+            "x1": 395.47492000000005,
+            "bottom": 167.4246768956104
           },
-          "content_hash": "39e60bf084b355e102081883de08d737734c7f99e970b5968dd3fee35192e5b2",
-          "text": "Benefit based on tailored enabling environment including specialized parks"
+          "content_hash": "2770c4970b980c888a1aebf9e4b803549d5db5d6f72739e7fad4faf05a8a58d8",
+          "text": "Tourism"
         },
         {
           "block_type": "text",
           "page_number": 5,
           "bbox": {
-            "x0": 802.6666666666666,
-            "top": 296.55999755859375,
-            "x1": 902.0,
-            "bottom": 251.55999755859375
+            "x0": 720.6666666666666,
+            "top": 260.55999755859375,
+            "x1": 754.0,
+            "bottom": 216.89333089192706
           },
-          "content_hash": "0acbb2e415109436ac48cea509d78c7b6dace1207b9ca714b4eccf26b5b637c6",
-          "text": "\u6237"
+          "content_hash": "637ceec883f2cc7e0a167974f71bae08482cb1b4a3381f41ac95fc6b37c6998f",
+          "text": "X"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 656.06,
+            "top": 330.8091175585938,
+            "x1": 816.5334800000003,
+            "bottom": 312.8346768956104
+          },
+          "content_hash": "dd0a728353b8d3acde038b17ab62dee71d2b03ecd32065764cd40d82fbf244b8",
+          "text": "Agro-processing"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 316.8,
+            "top": 340.16911755859377,
+            "x1": 384.73560000000003,
+            "bottom": 322.19467689561037
+          },
+          "content_hash": "a3fd6af472ed33a980a4043bf9ed77e36bd7813f2b00242eb1a04e583ea55210",
+          "text": "Energy"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 685.3333333333334,
+            "top": 381.89333089192706,
+            "x1": 711.0,
+            "bottom": 361.22666422526044
+          },
+          "content_hash": "98fbd57f40d639c9d5313ce3d22f2d3b63f57c1f5b2e6e78e83b44c6d7f3ba35",
+          "text": "\u7167"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 446.69,
+            "top": 389.19658955859376,
+            "x1": 594.842576,
+            "bottom": 371.20062261936727
+          },
+          "content_hash": "b72bc278e7d05817f0651244f599d87b059b4bc27e4c0e145a7ef60268448aec",
+          "text": "Pharmaceutical"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 320.0,
+            "top": 401.22666422526044,
+            "x1": 376.6666666666667,
+            "bottom": 353.55999755859375
+          },
+          "content_hash": "9b8f9d4492a2126b274f803ecb5cca85d0912a1a29c5a58289fe5dbe742a5767",
+          "text": "t"
+        },
+        {
+          "block_type": "text",
+          "page_number": 5,
+          "bbox": {
+            "x0": 886.7,
+            "top": 500.7379975585938,
+            "x1": 1006.1060000000002,
+            "bottom": 481.9025058458866
+          },
+          "content_hash": "8788e4d259938de05e8fab8499b1495c4ba2bdf59764ac25357776a883e58205",
+          "text": "Focus Area"
         },
         {
           "block_type": "figure",
           "page_number": 5,
           "bbox": {
-            "x0": 457.471435546875,
-            "top": 378.8078918457031,
-            "x1": 629.5078125,
-            "bottom": 260.7454528808594
+            "x0": 290.771484375,
+            "top": 502.9813995361328,
+            "x1": 819.6693115234375,
+            "bottom": 33.26336669921875
           },
           "content_hash": "7d9082e013d908efc62134296cc5c025a7929b14978125102e6b34f21ceafbf7",
           "caption": null,
@@ -785,10 +679,10 @@
           "block_type": "figure",
           "page_number": 5,
           "bbox": {
-            "x0": 153.64561462402344,
-            "top": 391.0569610595703,
-            "x1": 334.89227294921875,
-            "bottom": 250.64019775390625
+            "x0": 844.462646484375,
+            "top": 504.689453125,
+            "x1": 1001.5992431640625,
+            "bottom": 473.44982147216797
           },
           "content_hash": "7d9082e013d908efc62134296cc5c025a7929b14978125102e6b34f21ceafbf7",
           "caption": null,
@@ -798,47 +692,22 @@
           "block_type": "text",
           "page_number": 5,
           "bbox": {
-            "x0": 770.6666666666666,
-            "top": 391.8933308919271,
-            "x1": 882.3333333333334,
-            "bottom": 346.55999755859375
+            "x0": 94.248,
+            "top": 573.1948775585938,
+            "x1": 939.7272800000002,
+            "bottom": 514.5127114591463
           },
-          "content_hash": "9e089243411c7727c9bfc36daba4dbefbd48de967bc2cc78fa069618b37c49c7",
-          "text": "\u76ee\u6a02"
+          "content_hash": "a040c62c58232b4037071a9df8f9c02172a5b62c11b92425c6ee762b14cfc8fc",
+          "text": "Strategic sectors have been identified for investment including pharmaceutical and textile manufacturing"
         },
         {
           "block_type": "figure",
           "page_number": 5,
           "bbox": {
-            "x0": 768.6858520507812,
-            "top": 394.12794494628906,
-            "x1": 930.031005859375,
-            "bottom": 247.91860961914062
-          },
-          "content_hash": "7d9082e013d908efc62134296cc5c025a7929b14978125102e6b34f21ceafbf7",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "text",
-          "page_number": 5,
-          "bbox": {
-            "x0": 57.408,
-            "top": 508.2903495585938,
-            "x1": 621.6039520000003,
-            "bottom": 477.80914239837284
-          },
-          "content_hash": "c3637cb7979632ec3ad326f3fdd34982e890f93bd98ad4866683afdacbeb1c42",
-          "text": "Investment - Why do business in Ethiopia?"
-        },
-        {
-          "block_type": "figure",
-          "page_number": 5,
-          "bbox": {
-            "x0": 14.689502716064453,
-            "top": 581.0526580810547,
-            "x1": 87.83969116210938,
-            "bottom": 522.5746688842773
+            "x0": 14.725438117980957,
+            "top": 583.3617906570435,
+            "x1": 86.6947021484375,
+            "bottom": 515.5343322753906
           },
           "content_hash": "7d9082e013d908efc62134296cc5c025a7929b14978125102e6b34f21ceafbf7",
           "caption": null,
@@ -855,218 +724,70 @@
           "block_type": "text",
           "page_number": 6,
           "bbox": {
-            "x0": 718.39,
-            "top": 84.91799755859381,
-            "x1": 996.8740000000004,
-            "bottom": 46.39929037627337
+            "x0": 971.52,
+            "top": 32.25887755859378,
+            "x1": 978.72576,
+            "bottom": 20.63468838732308
           },
-          "content_hash": "fc1b02778ae6fb99361fa578115fee64f0164d9af4f84fd0ae47b16417e0e660",
-          "text": "Potential to serve >$20 billion pharmaceutical market in Africa"
+          "content_hash": "f6c441340710ca79c7f79476683c9e305ddb296fea9b2414cd7e23ecdf777fab",
+          "text": "6"
         },
         {
           "block_type": "text",
           "page_number": 6,
           "bbox": {
-            "x0": 165.05,
-            "top": 104.6188775585938,
-            "x1": 591.3266799999996,
-            "bottom": 90.30390385693636
+            "x0": 115.06,
+            "top": 219.1919975585938,
+            "x1": 357.70000000000005,
+            "bottom": 111.24572131549985
           },
-          "content_hash": "0d2fd52c5d06c265d3e018408b1c03f7cf87941c3d99e2a48226a7ab6c034ead",
-          "text": "Government 10 years expenditure for the sector (15B USD )"
+          "content_hash": "f0917a6f59b19d714e4f913ef59b5ae1c336e202ae1e0ce48d88f7cf054e81d9",
+          "text": "Growing Economy, dynamic market with access to East African market"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 418.08,
+            "top": 219.1919975585938,
+            "x1": 663.5040000000004,
+            "bottom": 140.04572131549992
+          },
+          "content_hash": "6b00bc311b094b91a5cfdfd77d79a8e56cdeed53cabb0119a884ade61aa7d8d7",
+          "text": "Opportunities to invest in high value pharmaceutical sector"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 738.05,
+            "top": 219.1919975585938,
+            "x1": 964.8020000000004,
+            "bottom": 82.44172131549988
+          },
+          "content_hash": "5fc16374eb793d95ba9f4d8b96825be740a6a64ecb391daace1365c37faadd75",
+          "text": "Benefit based on tailored enabling environment including specialized parks"
+        },
+        {
+          "block_type": "text",
+          "page_number": 6,
+          "bbox": {
+            "x0": 787.6666666666666,
+            "top": 302.89333089192706,
+            "x1": 924.0,
+            "bottom": 245.89333089192712
+          },
+          "content_hash": "f4538ab49fff56516062b0de1e46733f56726a9f4612872ec0c805e5ecb8924f",
+          "text": "\u8272"
         },
         {
           "block_type": "figure",
           "page_number": 6,
           "bbox": {
-            "x0": 115.66632080078125,
-            "top": 111.71466064453125,
-            "x1": 158.090087890625,
-            "bottom": 91.91671752929688
-          },
-          "content_hash": "e764918eff0a24efce1d28afcbf2c989bba52f8298fcdcf59f7fbf0a56a4ef1b",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "text",
-          "page_number": 6,
-          "bbox": {
-            "x0": 165.19,
-            "top": 146.1188775585938,
-            "x1": 536.1163599999996,
-            "bottom": 131.80390385693636
-          },
-          "content_hash": "7dff215fadbd71164d70c15b38a8d232d1f48be5eb75836e445fc7b60baa3998",
-          "text": "Out of pocket expenditure (46% of total expenditure)"
-        },
-        {
-          "block_type": "figure",
-          "page_number": 6,
-          "bbox": {
-            "x0": 114.33368682861328,
-            "top": 153.961669921875,
-            "x1": 152.91680908203125,
-            "bottom": 118.16949462890625
-          },
-          "content_hash": "e764918eff0a24efce1d28afcbf2c989bba52f8298fcdcf59f7fbf0a56a4ef1b",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "text",
-          "page_number": 6,
-          "bbox": {
-            "x0": 164.47,
-            "top": 187.63887755859378,
-            "x1": 610.7103999999997,
-            "bottom": 173.32390385693634
-          },
-          "content_hash": "0523db8a1107d4d994ca9a76eb1a66164625867ba346f261af3585d3f3a4d3b7",
-          "text": "12% of GDP to health (75% on essential medicines & services)"
-        },
-        {
-          "block_type": "text",
-          "page_number": 6,
-          "bbox": {
-            "x0": 131.66666666666666,
-            "top": 195.22666422526044,
-            "x1": 152.66666666666666,
-            "bottom": 179.22666422526044
-          },
-          "content_hash": "e8376e3e230192a08ea00f2e06dac2d25f8c606083f8e215d71cac2e187742ab",
-          "text": "$\u2192"
-        },
-        {
-          "block_type": "figure",
-          "page_number": 6,
-          "bbox": {
-            "x0": 113.67188262939453,
-            "top": 198.5015869140625,
-            "x1": 153.74057006835938,
-            "bottom": 166.6448974609375
-          },
-          "content_hash": "e764918eff0a24efce1d28afcbf2c989bba52f8298fcdcf59f7fbf0a56a4ef1b",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "text",
-          "page_number": 6,
-          "bbox": {
-            "x0": 718.39,
-            "top": 204.9379975585938,
-            "x1": 1034.8180000000007,
-            "bottom": 101.59929037627336
-          },
-          "content_hash": "7fcde08c20f3f4a321380c342e642f47fbcc210a893a3768528de46b673e6234",
-          "text": "Strong investment policy focused on pharmaceuticals including tax exemptions, one-stop-shop services and price preference in public procurement"
-        },
-        {
-          "block_type": "text",
-          "page_number": 6,
-          "bbox": {
-            "x0": 123.33333333333333,
-            "top": 221.89333089192706,
-            "x1": 130.33333333333334,
-            "bottom": 213.89333089192706
-          },
-          "content_hash": "2d321bdbe9ea959fc2c5b5493fa086e5a135ed7bdd4e4667a405061e203a607e",
-          "text": "K"
-        },
-        {
-          "block_type": "text",
-          "page_number": 6,
-          "bbox": {
-            "x0": 168.53,
-            "top": 230.25887755859378,
-            "x1": 213.76064000000002,
-            "bottom": 215.94390385693634
-          },
-          "content_hash": "6b3ee2e5a238be54319912ca5b965afb19c89fd3fc3ad951811611f6c4ce7484",
-          "text": "Import"
-        },
-        {
-          "block_type": "figure",
-          "page_number": 6,
-          "bbox": {
-            "x0": 113.6751708984375,
-            "top": 246.59783935546875,
-            "x1": 154.13047790527344,
-            "bottom": 206.12741088867188
-          },
-          "content_hash": "e764918eff0a24efce1d28afcbf2c989bba52f8298fcdcf59f7fbf0a56a4ef1b",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "text",
-          "page_number": 6,
-          "bbox": {
-            "x0": 111.29,
-            "top": 274.3594695585938,
-            "x1": 291.4940240000001,
-            "bottom": 252.8116670392568
-          },
-          "content_hash": "5747b40180d9faf3d65b94cc47ec45b4513cb8045ba09b8992ea2f71797b209a",
-          "text": "Mainly driven by:"
-        },
-        {
-          "block_type": "text",
-          "page_number": 6,
-          "bbox": {
-            "x0": 718.39,
-            "top": 281.7679975585938,
-            "x1": 1026.1960000000006,
-            "bottom": 221.6192903762734
-          },
-          "content_hash": "79b02ad76b87772c92bcd35f9a9e8fa92eb400341857dd81dc6852268ab5932c",
-          "text": "One of the first African countries to develop a national strategy for pharmaceutical manufacturing"
-        },
-        {
-          "block_type": "text",
-          "page_number": 6,
-          "bbox": {
-            "x0": 361.78,
-            "top": 424.0091175585938,
-            "x1": 421.05544,
-            "bottom": 367.36390385693636
-          },
-          "content_hash": "cdbabcc7593cbbce335720b52f820b192a618773faa0600ec4e9df3318331d13",
-          "text": "~ 1 B USD by 2020"
-        },
-        {
-          "block_type": "text",
-          "page_number": 6,
-          "bbox": {
-            "x0": 808.66,
-            "top": 438.0251175585938,
-            "x1": 927.75772,
-            "bottom": 384.5546768956104
-          },
-          "content_hash": "95ff7a862443ff6d9c2c3c282b9cc0f3852f6221f24a959ec4d34f30f7d39c9c",
-          "text": "~ 4 B USD by 2030"
-        },
-        {
-          "block_type": "text",
-          "page_number": 6,
-          "bbox": {
-            "x0": 111.29,
-            "top": 454.63487755859376,
-            "x1": 309.13688,
-            "bottom": 328.7367657353894
-          },
-          "content_hash": "29bacd58d84ce1188b1ff328d425d2a2c8fe522a81f06a009617daf315fffae0",
-          "text": "Ethiopia's pharmaceutical sector market size"
-        },
-        {
-          "block_type": "figure",
-          "page_number": 6,
-          "bbox": {
-            "x0": 322.47235107421875,
-            "top": 466.14744567871094,
-            "x1": 452.546142578125,
-            "bottom": 333.9566955566406
+            "x0": 457.471435546875,
+            "top": 378.8078918457031,
+            "x1": 629.5078125,
+            "bottom": 260.7454528808594
           },
           "content_hash": "e764918eff0a24efce1d28afcbf2c989bba52f8298fcdcf59f7fbf0a56a4ef1b",
           "caption": null,
@@ -1076,10 +797,23 @@
           "block_type": "figure",
           "page_number": 6,
           "bbox": {
-            "x0": 783.662841796875,
-            "top": 493.00433349609375,
-            "x1": 951.0289306640625,
-            "bottom": 324.6871643066406
+            "x0": 153.64561462402344,
+            "top": 391.0569610595703,
+            "x1": 334.89227294921875,
+            "bottom": 250.64019775390625
+          },
+          "content_hash": "e764918eff0a24efce1d28afcbf2c989bba52f8298fcdcf59f7fbf0a56a4ef1b",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "figure",
+          "page_number": 6,
+          "bbox": {
+            "x0": 768.6858520507812,
+            "top": 394.12794494628906,
+            "x1": 930.031005859375,
+            "bottom": 247.91860961914062
           },
           "content_hash": "e764918eff0a24efce1d28afcbf2c989bba52f8298fcdcf59f7fbf0a56a4ef1b",
           "caption": null,
@@ -1089,34 +823,34 @@
           "block_type": "text",
           "page_number": 6,
           "bbox": {
-            "x0": 33.666666666666664,
-            "top": 568.5599975585938,
-            "x1": 66.33333333333333,
-            "bottom": 533.5599975585938
+            "x0": 770.3333333333334,
+            "top": 393.8933308919271,
+            "x1": 892.3333333333334,
+            "bottom": 344.55999755859375
           },
-          "content_hash": "8d28acda7d3fbd9bc6503ffb99f11333a940fc4e76597a58e2493fce9d209679",
-          "text": "\u8336"
+          "content_hash": "d4c7c092d4b5f4b94180c660a1c0e161d24f7fc9d8dbed8fb6bbb92e04e486dc",
+          "text": "\u76ee\u6a02"
         },
         {
           "block_type": "text",
           "page_number": 6,
           "bbox": {
-            "x0": 96.744,
-            "top": 573.1948775585938,
-            "x1": 621.4133999999999,
-            "bottom": 514.5127114591463
+            "x0": 57.408,
+            "top": 508.2903495585938,
+            "x1": 621.6039520000003,
+            "bottom": 477.80914239837284
           },
-          "content_hash": "bdc0acb8c15174acfb8a442f0713c79681c01521d0d175adc9ff66082893e2de",
-          "text": "Pharmaceutical manufacturing sectors is nascent with a potential for growth"
+          "content_hash": "0a1203baad73bcb4aa7fe4ac2fccafd991a511449ce1abbf01f9560cc1b70f55",
+          "text": "Investment - Why do business in Ethiopia?"
         },
         {
           "block_type": "figure",
           "page_number": 6,
           "bbox": {
-            "x0": 14.385080337524414,
-            "top": 583.2409257888794,
-            "x1": 86.08209991455078,
-            "bottom": 520.0435104370117
+            "x0": 14.689502716064453,
+            "top": 581.0526580810547,
+            "x1": 87.83969116210938,
+            "bottom": 522.5746688842773
           },
           "content_hash": "e764918eff0a24efce1d28afcbf2c989bba52f8298fcdcf59f7fbf0a56a4ef1b",
           "caption": null,
@@ -1133,442 +867,219 @@
           "block_type": "text",
           "page_number": 7,
           "bbox": {
-            "x0": 70.608,
-            "top": 33.239997558593814,
-            "x1": 104.49600000000002,
-            "bottom": 21.239997558593814
+            "x0": 718.39,
+            "top": 84.91799755859381,
+            "x1": 996.8740000000004,
+            "bottom": 46.39929037627337
           },
-          "content_hash": "5dc1654716bb090fcd539e1ca15685edc841a2164c576a56f2a5683c043d57c5",
-          "text": "Source"
+          "content_hash": "b42c48026e6f9f54bb9f6af3956f226031b405e658c737dff7d6fc03ce37521f",
+          "text": "Potential to serve >$20 billion pharmaceutical market in Africa"
         },
         {
           "block_type": "text",
           "page_number": 7,
           "bbox": {
-            "x0": 104.47,
-            "top": 33.239997558593814,
-            "x1": 598.4259999999999,
-            "bottom": 21.239997558593814
+            "x0": 165.05,
+            "top": 104.6188775585938,
+            "x1": 591.3266799999996,
+            "bottom": 90.30390385693636
           },
-          "content_hash": "ab163fda256667ad07b56fc4fb83abe083238191e73b8cc3f565ef37b28bc256",
-          "text": ": Frost & Sullivan, World Bank, National Strategy and Plan of Action for Pharmaceutical Manufacturing"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 70.608,
-            "top": 47.63999755859379,
-            "x1": 101.13600000000001,
-            "bottom": 35.63999755859379
-          },
-          "content_hash": "ee92810cb4073aa0a8de19c12caa483673995adbba35359f572aed2b7c5ff817",
-          "text": "Note:"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 100.99,
-            "top": 47.63999755859379,
-            "x1": 150.84999999999997,
-            "bottom": 35.63999755859379
-          },
-          "content_hash": "839577374ccb0d3acd0104c93f2b4e68bf215b3464de823554c4d3aa2f1560a5",
-          "text": "*Forecast"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 213.82,
-            "top": 81.97199755859378,
-            "x1": 267.544,
-            "bottom": 63.971997558593785
-          },
-          "content_hash": "005c32a9e984c87984b7375e26f28336b167c74aa6fba9b41eed8701eb4e996f",
-          "text": "2016F*"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 504.14,
-            "top": 82.2599975585938,
-            "x1": 548.8820000000001,
-            "bottom": 64.2599975585938
-          },
-          "content_hash": "f168c5cc6e60eec640db11c7f210dc9a6a18f5b3b8c630a68ce58fc9e32cbaa2",
-          "text": "2020F"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 154.87,
-            "top": 83.05199755859383,
-            "x1": 191.35600000000002,
-            "bottom": 65.05199755859383
-          },
-          "content_hash": "87e2a2a7f3a8cd882a5be8cfa7ca6b11688dd7df2188a6292d21d78638d9228b",
-          "text": "2015"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 289.87,
-            "top": 83.43599755859384,
-            "x1": 334.612,
-            "bottom": 65.43599755859384
-          },
-          "content_hash": "1ae6166f53f340666b5aa30a130c5b3e0192d4f3b0e0653c0698905b957fed78",
-          "text": "2017F"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 361.2,
-            "top": 83.05199755859383,
-            "x1": 405.942,
-            "bottom": 65.05199755859383
-          },
-          "content_hash": "39e7547b5fe6ff1b306cec2e0f19686a82e8a6676db6530597a130c14e1e2bbc",
-          "text": "2018F"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 432.1,
-            "top": 83.05199755859383,
-            "x1": 476.84200000000004,
-            "bottom": 65.05199755859383
-          },
-          "content_hash": "aa212f4677ee181b1a1d778fbba9a1beb9cf9ee33f8f50741a9d237f08e7213a",
-          "text": "2019F"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 572.98,
-            "top": 83.05199755859383,
-            "x1": 617.722,
-            "bottom": 65.05199755859383
-          },
-          "content_hash": "c5ec7489c3cca001b781a6529871fb61fd76208f051fe442811c3ba7edd26991",
-          "text": "2025F"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 641.78,
-            "top": 83.05199755859383,
-            "x1": 686.5219999999999,
-            "bottom": 65.05199755859383
-          },
-          "content_hash": "bb3d2f2e0890cfbf55abdde7dc10b375e95c1f60cbee01e9fe6e7ee09edaefed",
-          "text": "2030F"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 105.07,
-            "top": 102.99599755859379,
-            "x1": 114.196,
-            "bottom": 84.99599755859379
-          },
-          "content_hash": "5bdbbb076bd2057a0f0d541889637b72f7fedfe0a507a30040f2cec745f2870a",
-          "text": "0"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 86.832,
-            "top": 139.7599975585938,
-            "x1": 114.19800000000001,
-            "bottom": 121.7599975585938
-          },
-          "content_hash": "4d31f36052ff3880bbdb4de7062fcf02773641ad972db0cf12454a22f3d3c40a",
-          "text": "500"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 152.81,
-            "top": 147.91999755859376,
-            "x1": 180.17600000000002,
-            "bottom": 129.91999755859376
-          },
-          "content_hash": "1307651f230f38f3b4d6354410c520f44590af97ba562bff00ccd9d24b0413e3",
-          "text": "450"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 223.94,
-            "top": 152.8899975585938,
-            "x1": 251.306,
-            "bottom": 134.8899975585938
-          },
-          "content_hash": "99c66d8882d52eda4135e5736fea896dcf52d71a4cb18ee6d70a49355733f004",
-          "text": "517"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 295.1,
-            "top": 158.7699975585938,
-            "x1": 322.466,
-            "bottom": 140.7699975585938
-          },
-          "content_hash": "5a2a87247822d31fb9c7d3d82211694937f7f29cd4492aede4bcc75eacd95145",
-          "text": "595"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 366.26,
-            "top": 165.41999755859376,
-            "x1": 393.626,
-            "bottom": 147.41999755859376
-          },
-          "content_hash": "81b3ad44cce9d0f6e971d3483decdb379775721cbe1d0c9e35a3dc5585c39058",
-          "text": "684"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 77.712,
-            "top": 176.52999755859378,
-            "x1": 114.19800000000002,
-            "bottom": 158.52999755859378
-          },
-          "content_hash": "413ce7c9a1b2bd07d6a96b9815244181656c152abd69b01d31a6dd7056db7d51",
-          "text": "1000"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 437.42,
-            "top": 173.07999755859385,
-            "x1": 464.786,
-            "bottom": 155.07999755859385
-          },
-          "content_hash": "47be97ecf7e8f60bb0a94cafb288880ab6c56e8519df22af2743485b11e5f91e",
-          "text": "787"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 508.58,
-            "top": 181.90999755859377,
-            "x1": 535.946,
-            "bottom": 163.90999755859377
-          },
-          "content_hash": "30de1bb1860752c4c1e8c6f4f563813dece95acf2845efb20d56de0d7309649d",
-          "text": "905"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 775.9,
-            "top": 211.39799755859383,
-            "x1": 1006.3420000000006,
-            "bottom": 86.45529037627335
-          },
-          "content_hash": "7fdac01dc58333ad092d2cf7b897b53bcf2b2c062d47434e80015b95c581756e",
-          "text": "Ethiopia currently imports ~85% of its pharmaceutical needs -a big gap that is yet to be fulfilled by manufacturing locally"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 77.712,
-            "top": 213.27999755859378,
-            "x1": 114.19800000000002,
-            "bottom": 195.27999755859378
-          },
-          "content_hash": "7176b6edb97025389b01e156d27065dc3bc0ce38ceff68d2c823595ae14498d7",
-          "text": "1500"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 77.712,
-            "top": 250.03999755859377,
-            "x1": 114.19800000000002,
-            "bottom": 232.03999755859377
-          },
-          "content_hash": "0c6a084e715c8a6b9f4cb3a0792fcd80c6e930a56603e811235c1ff73b89d267",
-          "text": "2000"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 572.86,
-            "top": 250.37799755859385,
-            "x1": 614.0628639999998,
-            "bottom": 232.35399755859385
-          },
-          "content_hash": "2dd8fbea5e0ddf8e1730100f869df5dcb940568007a0f28674401773d55bdef5",
-          "text": "1,821"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 77.712,
-            "top": 286.8099975585938,
-            "x1": 114.19800000000002,
-            "bottom": 268.8099975585938
-          },
-          "content_hash": "d704c598177887a03f5a4e38f6cc91464d7ae7c1edfc659a20425b39a3488d30",
-          "text": "2500"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 77.712,
-            "top": 323.59799755859376,
-            "x1": 114.210072,
-            "bottom": 305.57399755859376
-          },
-          "content_hash": "483cd56ceb3ccd6f303274250ad1ae8dbcdd29305e4a2d8844344dcc7ed78200",
-          "text": "3000"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 77.712,
-            "top": 360.3199975585938,
-            "x1": 114.19800000000002,
-            "bottom": 342.3199975585938
-          },
-          "content_hash": "0bc1c6897d188a688004b1da088c091dd1a8d9023afefab531bb4811937a712b",
-          "text": "3500"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 775.9,
-            "top": 384.21799755859377,
-            "x1": 1003.8220000000003,
-            "bottom": 237.67929037627334
-          },
-          "content_hash": "43737c081c21d9cc75dc3a24830194162cb2045d19e1f41cf96ee147a15bcdc0",
-          "text": "With growing population, increased access to health services and a growing middle-class , demand is projected to grow exponentially & reach >3.6 billion by 2030"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 643.99,
-            "top": 387.65999755859383,
-            "x1": 685.1379999999999,
-            "bottom": 369.65999755859383
-          },
-          "content_hash": "89bbe9bfa9c1d231b5167ab55ea43b668dece7e5caaae0fce67e0171e6ba505f",
-          "text": "3,662"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 77.712,
-            "top": 397.0899975585938,
-            "x1": 114.19800000000002,
-            "bottom": 379.0899975585938
-          },
-          "content_hash": "1d980841f0c730e3c5b1e1e6b893ff1d14da29ddca718b845ee2c147a0b4c5be",
-          "text": "4000"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 73.656,
-            "top": 451.10999755859376,
-            "x1": 263.5732,
-            "bottom": 431.0699975585938
-          },
-          "content_hash": "4c099ef8de6f7660341df2efc46a89d2b3416782df2d7019c472c80704bf684a",
-          "text": "(2015-30F), US$ million"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 630.34,
-            "top": 453.6259975585938,
-            "x1": 720.112,
-            "bottom": 442.86285943704684
-          },
-          "content_hash": "1bd1ba249864516e3a4fc69e429f4b4486491a756c6d346c9892c62a3b43b9d8",
-          "text": "Annual forecast"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 775.9,
-            "top": 470.6479975585938,
-            "x1": 1000.1740000000001,
-            "bottom": 410.52929037627337
-          },
-          "content_hash": "ba1957890e2c4c81ef8a3905fe8251c3ffc34f78525188c7fc64a8ea69f7a1a7",
-          "text": "Local market has been growing steadily at an average of 15% per year"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 73.656,
-            "top": 475.10999755859376,
-            "x1": 363.5346000000001,
-            "bottom": 455.0699975585938
-          },
-          "content_hash": "24ae32aff8afe313ae6210d3cc2348c9a529cf3c872d481443da3b35aec3f75f",
-          "text": "Pharmaceutical market in Ethiopia"
-        },
-        {
-          "block_type": "text",
-          "page_number": 7,
-          "bbox": {
-            "x0": 630.34,
-            "top": 473.6159975585938,
-            "x1": 719.14,
-            "bottom": 462.85285943704685
-          },
-          "content_hash": "94e777081020e384d4d71ef4b0223cd314ba09e114a03b773dadc8d9747ff582",
-          "text": "5 years forecast"
+          "content_hash": "96939708a23f391eb3dbb9a7e065d93f81315723177d77feffee61a88267af40",
+          "text": "Government 10 years expenditure for the sector (15B USD )"
         },
         {
           "block_type": "figure",
           "page_number": 7,
           "bbox": {
-            "x0": 33.24966049194336,
-            "top": 490.3724670410156,
-            "x1": 733.1351928710938,
-            "bottom": 54.112060546875
+            "x0": 115.66632080078125,
+            "top": 111.71466064453125,
+            "x1": 158.090087890625,
+            "bottom": 91.91671752929688
+          },
+          "content_hash": "f3c7abf68ceaed7d4296284c92bd88337514a42a9cf7f3dc57a3178739212699",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 165.19,
+            "top": 146.1188775585938,
+            "x1": 536.1163599999996,
+            "bottom": 131.80390385693636
+          },
+          "content_hash": "3b2289218a40233ed45c4265b1c30d832da6dc180a151dfd504f3e5c02f9dd77",
+          "text": "Out of pocket expenditure (46% of total expenditure)"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 7,
+          "bbox": {
+            "x0": 114.33368682861328,
+            "top": 153.961669921875,
+            "x1": 152.91680908203125,
+            "bottom": 118.16949462890625
+          },
+          "content_hash": "f3c7abf68ceaed7d4296284c92bd88337514a42a9cf7f3dc57a3178739212699",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 164.47,
+            "top": 187.63887755859378,
+            "x1": 610.7103999999997,
+            "bottom": 173.32390385693634
+          },
+          "content_hash": "745d04cab2bf9785a01ca4cf8ef51903c88aa52eb2749a691876794226b4329b",
+          "text": "12% of GDP to health (75% on essential medicines & services)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 131.33333333333334,
+            "top": 195.55999755859375,
+            "x1": 153.0,
+            "bottom": 179.22666422526044
+          },
+          "content_hash": "1c203773e2b9372fc96f2d877cad749fab7bbb0d7b928e1ff9778a9c1abcff74",
+          "text": "$\u2192"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 7,
+          "bbox": {
+            "x0": 113.67188262939453,
+            "top": 198.5015869140625,
+            "x1": 153.74057006835938,
+            "bottom": 166.6448974609375
+          },
+          "content_hash": "f3c7abf68ceaed7d4296284c92bd88337514a42a9cf7f3dc57a3178739212699",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 718.39,
+            "top": 204.9379975585938,
+            "x1": 1034.8180000000007,
+            "bottom": 101.59929037627336
+          },
+          "content_hash": "7666fb33337f3ec10a985f8102703c84d9d6ed0db3a07e8acef3c3b6f2a68d99",
+          "text": "Strong investment policy focused on pharmaceuticals including tax exemptions, one-stop-shop services and price preference in public procurement"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 168.53,
+            "top": 230.25887755859378,
+            "x1": 213.76064000000002,
+            "bottom": 215.94390385693634
+          },
+          "content_hash": "460ef8dc79f3df5b0f6f8f92f0733a9888bcc529caa06332cf03a9ac23f580fb",
+          "text": "Import"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 7,
+          "bbox": {
+            "x0": 113.6751708984375,
+            "top": 246.59783935546875,
+            "x1": 154.13047790527344,
+            "bottom": 206.12741088867188
+          },
+          "content_hash": "f3c7abf68ceaed7d4296284c92bd88337514a42a9cf7f3dc57a3178739212699",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 111.29,
+            "top": 274.3594695585938,
+            "x1": 291.4940240000001,
+            "bottom": 252.8116670392568
+          },
+          "content_hash": "471da0a12530ab569539a76532cda09ac72c137b65cc326eb060a2af9dfc8e96",
+          "text": "Mainly driven by:"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 718.39,
+            "top": 281.7679975585938,
+            "x1": 1026.1960000000006,
+            "bottom": 221.6192903762734
+          },
+          "content_hash": "2d9a1f155def91f2086f31c065100299f0f6f2865d6cca5f4c749cb92acc5720",
+          "text": "One of the first African countries to develop a national strategy for pharmaceutical manufacturing"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 361.78,
+            "top": 424.0091175585938,
+            "x1": 421.05544,
+            "bottom": 367.36390385693636
+          },
+          "content_hash": "e6ab53a22f1f267d22d842eff0281b0ad6775c264eae55e0becc3f203825a2f5",
+          "text": "~ 1 B USD by 2020"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 808.66,
+            "top": 438.0251175585938,
+            "x1": 927.75772,
+            "bottom": 384.5546768956104
+          },
+          "content_hash": "fbe37cd305acfaba3c6c0dfb6284529bb158abaa329661e0f15916b342c8df27",
+          "text": "~ 4 B USD by 2030"
+        },
+        {
+          "block_type": "text",
+          "page_number": 7,
+          "bbox": {
+            "x0": 111.29,
+            "top": 454.63487755859376,
+            "x1": 309.13688,
+            "bottom": 328.7367657353894
+          },
+          "content_hash": "0cc9b2a4677b74d3b77932b2cf056815b12fd1a53265bf45f1f2d544adce0090",
+          "text": "Ethiopia's pharmaceutical sector market size"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 7,
+          "bbox": {
+            "x0": 322.47235107421875,
+            "top": 466.14744567871094,
+            "x1": 452.546142578125,
+            "bottom": 333.9566955566406
+          },
+          "content_hash": "f3c7abf68ceaed7d4296284c92bd88337514a42a9cf7f3dc57a3178739212699",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "figure",
+          "page_number": 7,
+          "bbox": {
+            "x0": 783.662841796875,
+            "top": 493.00433349609375,
+            "x1": 951.0289306640625,
+            "bottom": 324.6871643066406
           },
           "content_hash": "f3c7abf68ceaed7d4296284c92bd88337514a42a9cf7f3dc57a3178739212699",
           "caption": null,
@@ -1580,20 +1091,20 @@
           "bbox": {
             "x0": 96.744,
             "top": 573.1948775585938,
-            "x1": 1004.01804,
+            "x1": 621.4133999999999,
             "bottom": 514.5127114591463
           },
-          "content_hash": "b7e1403e6c2cad2d87a7bd677558c09feb65be708bfa3b40e21cbe505d474fba",
-          "text": "Ethiopian pharmaceutical market has been growing at 15% per year and is predicted to reach $905 million by 2020"
+          "content_hash": "f4ddd4cb8ede0c898d3ae9cc99a2a92066dbc2d51e4a554fe5f771fc4c663fdf",
+          "text": "Pharmaceutical manufacturing sectors is nascent with a potential for growth"
         },
         {
           "block_type": "figure",
           "page_number": 7,
           "bbox": {
-            "x0": 14.396178245544434,
-            "top": 583.1781539916992,
-            "x1": 86.68253326416016,
-            "bottom": 519.9914016723633
+            "x0": 14.385080337524414,
+            "top": 583.2409257888794,
+            "x1": 86.08209991455078,
+            "bottom": 520.0435104370117
           },
           "content_hash": "f3c7abf68ceaed7d4296284c92bd88337514a42a9cf7f3dc57a3178739212699",
           "caption": null,
@@ -1610,154 +1121,442 @@
           "block_type": "text",
           "page_number": 8,
           "bbox": {
-            "x0": 68.592,
-            "top": 31.631997558593753,
-            "x1": 243.78999999999994,
-            "bottom": 19.631997558593753
+            "x0": 70.608,
+            "top": 33.239997558593814,
+            "x1": 104.49600000000002,
+            "bottom": 21.239997558593814
           },
-          "content_hash": "cc6bb8bbb61b7ed203ce66ce90e3d104787ab4db38b917ee0edbed55855db4a5",
-          "text": "Source : Interviews, market research"
+          "content_hash": "fe3b6ebe3863445a58ae5524a5722d6bd95140429dba9c1467e99d0564275228",
+          "text": "Source"
         },
         {
           "block_type": "text",
           "page_number": 8,
           "bbox": {
-            "x0": 306.72,
-            "top": 97.70999755859378,
-            "x1": 925.8020000000006,
-            "bottom": 80.79129037627331
+            "x0": 104.47,
+            "top": 33.239997558593814,
+            "x1": 598.4259999999999,
+            "bottom": 21.239997558593814
           },
-          "content_hash": "4f75c3defdac66096600c4db123955057f93e2a4757146eeb89ec9dd8d60d0a5",
-          "text": "Prevalence of non-communicable diseases: diabetes, cancer, hypertension"
+          "content_hash": "1e0fcac5a69743d6f9e7842e3e1c1e057a16cd64841b9221123f3df894f75f8d",
+          "text": ": Frost & Sullivan, World Bank, National Strategy and Plan of Action for Pharmaceutical Manufacturing"
         },
         {
           "block_type": "text",
           "page_number": 8,
           "bbox": {
-            "x0": 56.784,
-            "top": 111.30911755859381,
-            "x1": 229.22820000000002,
-            "bottom": 69.33467689561041
+            "x0": 70.608,
+            "top": 47.63999755859379,
+            "x1": 101.13600000000001,
+            "bottom": 35.63999755859379
           },
-          "content_hash": "f3bd68ebbeedcc01aac46f9905c5ce1cf9afcad77c486a542150cb677497d3f4",
-          "text": "Rising healthcare coverage"
+          "content_hash": "7ae2c769fd23b1429a3e5175895a12504c3ede141e1fd947df8c0d6e4fa2d7b9",
+          "text": "Note:"
         },
         {
           "block_type": "text",
           "page_number": 8,
           "bbox": {
-            "x0": 306.72,
-            "top": 119.3079975585938,
-            "x1": 833.0640000000001,
-            "bottom": 102.38929037627338
+            "x0": 100.99,
+            "top": 47.63999755859379,
+            "x1": 150.84999999999997,
+            "bottom": 35.63999755859379
           },
-          "content_hash": "42ab77670d9b1549a62c33f567173f8fbccb767183f13bef66595ff9959874ef",
-          "text": "High burden of communicable diseases: malaria, HIV/AIDS, TB"
+          "content_hash": "2287ead972f298109093bc1994070947a5c2f65ab3038bbf2961bd8feb1486a9",
+          "text": "*Forecast"
         },
         {
           "block_type": "text",
           "page_number": 8,
           "bbox": {
-            "x0": 265.92,
-            "top": 140.90799755859382,
-            "x1": 696.8820000000004,
-            "bottom": 123.98929037627335
+            "x0": 213.82,
+            "top": 81.97199755859378,
+            "x1": 267.544,
+            "bottom": 63.971997558593785
           },
-          "content_hash": "0d95879eeef4914fbb2e112c86edd935975950d3e561bc813c7e912921bbe8d9",
-          "text": "Awareness, diagnosis and treatment are increasing"
+          "content_hash": "95f9e72ee857038646a93b5f824ffb99d989c5419941914cd38ae66adc19dff3",
+          "text": "2016F*"
         },
         {
           "block_type": "text",
           "page_number": 8,
           "bbox": {
-            "x0": 306.72,
-            "top": 184.13799755859378,
-            "x1": 811.1040000000006,
-            "bottom": 167.21929037627336
+            "x0": 504.14,
+            "top": 82.2599975585938,
+            "x1": 548.8820000000001,
+            "bottom": 64.2599975585938
           },
-          "content_hash": "cda5e75848a4ab9cf9da2445b60969e74f9012c5375e4f880aabf4bc0623d0eb",
-          "text": "Primary health care service coverage reached 100% in 2015"
+          "content_hash": "cf6b251ca52856b7a023b4e5857aaf24ddcd1e8b098349d79861b73cd2aa86bc",
+          "text": "2020F"
         },
         {
           "block_type": "text",
           "page_number": 8,
           "bbox": {
-            "x0": 265.92,
-            "top": 227.33799755859383,
-            "x1": 956.2620000000011,
-            "bottom": 188.8192903762734
+            "x0": 154.87,
+            "top": 83.05199755859383,
+            "x1": 191.35600000000002,
+            "bottom": 65.05199755859383
           },
-          "content_hash": "3f78966f64be09df6ecbb5e14cf089191aef7381f7999a55e6b943bd97f0ef4c",
-          "text": "Increasing healthcare coverage by government to the large rural population creates growing demand for pharmaceutical products."
+          "content_hash": "4124af4225e74f3c3f21f4e8cd18b4b7d7b3758935a9c1b60fad5a75e206ebae",
+          "text": "2015"
         },
         {
           "block_type": "text",
           "page_number": 8,
           "bbox": {
-            "x0": 89.064,
-            "top": 305.7091175585938,
-            "x1": 191.46839999999997,
-            "bottom": 263.7346768956104
+            "x0": 289.87,
+            "top": 83.43599755859384,
+            "x1": 334.612,
+            "bottom": 65.43599755859384
           },
-          "content_hash": "9b3ff41b18fc3693918748929bf2495c1e6989fb20224cf5eb6a3d9a37ac8cf9",
-          "text": "Growing population"
+          "content_hash": "6ed6482079260a8438a7956d67547b4b505f773ff3e4744fcb46f0ef0485428d",
+          "text": "2017F"
         },
         {
           "block_type": "text",
           "page_number": 8,
           "bbox": {
-            "x0": 265.92,
-            "top": 333.5379975585938,
-            "x1": 952.9460000000006,
-            "bottom": 295.0192903762734
+            "x0": 361.2,
+            "top": 83.05199755859383,
+            "x1": 405.942,
+            "bottom": 65.05199755859383
           },
-          "content_hash": "a121fbc403b1c481c72111e81692f0de10f8826aa5c6c5a578771147f52ec773",
-          "text": "With average economic growth of >10% per year, increase in disposable income will influence spending on pharmaceutical products"
+          "content_hash": "d00832231f5a55b175fccb47f8b309d635411b78e0da36e85816694b20559e0b",
+          "text": "2018F"
         },
         {
           "block_type": "text",
           "page_number": 8,
           "bbox": {
-            "x0": 265.92,
-            "top": 398.3579975585938,
-            "x1": 957.7600000000002,
-            "bottom": 359.8352361000303
+            "x0": 432.1,
+            "top": 83.05199755859383,
+            "x1": 476.84200000000004,
+            "bottom": 65.05199755859383
           },
-          "content_hash": "3673399518bcdc327046416ae5a2f43d8672787e0443475d3cf6945fcec4b13f",
-          "text": "Second-largest population in Africa (>100M, ~8.5% of Africa's population ); growth of 2.3% per year is expected"
+          "content_hash": "5a8a2ea01fe3723967a1d530fcf6619f31c9c2b6e7c954e20473217e61b9aed0",
+          "text": "2019F"
         },
         {
           "block_type": "text",
           "page_number": 8,
           "bbox": {
-            "x0": 106.19354756673177,
-            "top": 410.71311950683594,
-            "x1": 159.32005818684894,
-            "bottom": 390.15374755859375
+            "x0": 572.98,
+            "top": 83.05199755859383,
+            "x1": 617.722,
+            "bottom": 65.05199755859383
           },
-          "content_hash": "2e160b544875390a5e33996be5dc450fa11225f6236346887227e0f8f3de4a45",
-          "text": "\u2191\u2191"
+          "content_hash": "40cebb33f631ebc2fcf1e74970617e58e61a70b2e77f65bcf0db5eadf3034bf3",
+          "text": "2025F"
         },
         {
           "block_type": "text",
           "page_number": 8,
           "bbox": {
-            "x0": 215.88,
-            "top": 460.5199975585938,
-            "x1": 628.4234400000005,
-            "bottom": 440.4799975585938
+            "x0": 641.78,
+            "top": 83.05199755859383,
+            "x1": 686.5219999999999,
+            "bottom": 65.05199755859383
           },
-          "content_hash": "ef3bc0872e7b2835de01769feea34c47246b18b9c9b64391cefad7b54f12d9e3",
-          "text": "Key drivers of pharmaceutical demand in Ethiopia"
+          "content_hash": "3e5a4551de06f7b4f5bb5e2ba2267074e6e920cda93f36b4a0584bb6652f9623",
+          "text": "2030F"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 105.07,
+            "top": 102.99599755859379,
+            "x1": 114.196,
+            "bottom": 84.99599755859379
+          },
+          "content_hash": "f976baa5879f19eae9f9a05610565990a010cdc550e0d8ab206030af4619919a",
+          "text": "0"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 86.832,
+            "top": 139.7599975585938,
+            "x1": 114.19800000000001,
+            "bottom": 121.7599975585938
+          },
+          "content_hash": "3c779aa31c0bee07ea08d8dfe4bad571f1cd1cfeeed6b267e43e28ec9a47c1ae",
+          "text": "500"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 152.81,
+            "top": 147.91999755859376,
+            "x1": 180.17600000000002,
+            "bottom": 129.91999755859376
+          },
+          "content_hash": "bdc1cd01393e33efb36da0c2ad71ddfad18983dbe3749871815d6daa696ea513",
+          "text": "450"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 223.94,
+            "top": 152.8899975585938,
+            "x1": 251.306,
+            "bottom": 134.8899975585938
+          },
+          "content_hash": "25582bde5bfeee89423de2298af7eee110d270354a37c7b77490350ca8f56886",
+          "text": "517"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 295.1,
+            "top": 158.7699975585938,
+            "x1": 322.466,
+            "bottom": 140.7699975585938
+          },
+          "content_hash": "95148e7925b402293cad5ea0e78a15ecfe75a15f15490c169c24828bdd39ce83",
+          "text": "595"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 366.26,
+            "top": 165.41999755859376,
+            "x1": 393.626,
+            "bottom": 147.41999755859376
+          },
+          "content_hash": "c5c0a13466e8b972a56a0b1ae9efd64a92aba4b61cc90d7ccb99f55894cfa19b",
+          "text": "684"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 77.712,
+            "top": 176.52999755859378,
+            "x1": 114.19800000000002,
+            "bottom": 158.52999755859378
+          },
+          "content_hash": "9e38fe5e9e6640fdd49b0b1916a116451869a5a8daab7294fe27a2753240db58",
+          "text": "1000"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 437.42,
+            "top": 173.07999755859385,
+            "x1": 464.786,
+            "bottom": 155.07999755859385
+          },
+          "content_hash": "38064c34463923e9fb574fbca090a63de409c1a0d08370ab4438e8ac51cf8bd9",
+          "text": "787"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 508.58,
+            "top": 181.90999755859377,
+            "x1": 535.946,
+            "bottom": 163.90999755859377
+          },
+          "content_hash": "4a9d7f3a7929b50a9829a413a5ed3d4ef621e05b9526eed40078ce8abf8f10e0",
+          "text": "905"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 775.9,
+            "top": 211.39799755859383,
+            "x1": 1006.3420000000006,
+            "bottom": 86.45529037627335
+          },
+          "content_hash": "703391482013468725cb9b36f4434913bdbad0b242e9f89c0fc031e81bf1231d",
+          "text": "Ethiopia currently imports ~85% of its pharmaceutical needs -a big gap that is yet to be fulfilled by manufacturing locally"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 77.712,
+            "top": 213.27999755859378,
+            "x1": 114.19800000000002,
+            "bottom": 195.27999755859378
+          },
+          "content_hash": "066b90926a9ffff99a2d330cda4f5ac79d920f8fb5f531678569b8ae514ca993",
+          "text": "1500"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 77.712,
+            "top": 250.03999755859377,
+            "x1": 114.19800000000002,
+            "bottom": 232.03999755859377
+          },
+          "content_hash": "f29add06f52460540a0c762aed8b27490bc7d870a8271ac0c61b3010c248e056",
+          "text": "2000"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 572.86,
+            "top": 250.37799755859385,
+            "x1": 614.0628639999998,
+            "bottom": 232.35399755859385
+          },
+          "content_hash": "0a3f8f01091e34faeffc4f0d61e58e446ff5e23115a3dc10bf02240d13d17191",
+          "text": "1,821"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 77.712,
+            "top": 286.8099975585938,
+            "x1": 114.19800000000002,
+            "bottom": 268.8099975585938
+          },
+          "content_hash": "acab4059763b90e68542109a1a323be3fbd0faada498fe993b7965092956be22",
+          "text": "2500"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 77.712,
+            "top": 323.59799755859376,
+            "x1": 114.210072,
+            "bottom": 305.57399755859376
+          },
+          "content_hash": "f81fb6826a36d528a1adaafe0309e479c9681bafb1ac0e563e8eaf2d22761949",
+          "text": "3000"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 77.712,
+            "top": 360.3199975585938,
+            "x1": 114.19800000000002,
+            "bottom": 342.3199975585938
+          },
+          "content_hash": "c8af8bb98e88b71812c89f6d9dce473d30f0ccd0feaf94a89b74d760ddb4e1c0",
+          "text": "3500"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 775.9,
+            "top": 384.21799755859377,
+            "x1": 1003.8220000000003,
+            "bottom": 237.67929037627334
+          },
+          "content_hash": "e3af20352e7ec4ff9ce9054edac56b1c5323695f87cf5df5dd95179a9740d7eb",
+          "text": "With growing population, increased access to health services and a growing middle-class , demand is projected to grow exponentially & reach >3.6 billion by 2030"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 643.99,
+            "top": 387.65999755859383,
+            "x1": 685.1379999999999,
+            "bottom": 369.65999755859383
+          },
+          "content_hash": "186f3f6926adbf3bd743ec697720050033c6eb541bf0b0c0b4402f01776669e6",
+          "text": "3,662"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 77.712,
+            "top": 397.0899975585938,
+            "x1": 114.19800000000002,
+            "bottom": 379.0899975585938
+          },
+          "content_hash": "49752be81447000946dc82ab935ee9ac041d627086d0a0970f9610097965157f",
+          "text": "4000"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 73.656,
+            "top": 451.10999755859376,
+            "x1": 263.5732,
+            "bottom": 431.0699975585938
+          },
+          "content_hash": "63582016bb0a5ce02c4af049ec70fb57e1d3dd7646b49603b0f51b06b94d1dbb",
+          "text": "(2015-30F), US$ million"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 630.34,
+            "top": 453.6259975585938,
+            "x1": 720.112,
+            "bottom": 442.86285943704684
+          },
+          "content_hash": "5dfff1d485dc1b64b9be15eead3c6c1e08a45f896c50a032a66ebe95301c5ef0",
+          "text": "Annual forecast"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 775.9,
+            "top": 470.6479975585938,
+            "x1": 1000.1740000000001,
+            "bottom": 410.52929037627337
+          },
+          "content_hash": "ab350d5ca12f46553a2a97a2f9b76055247496d33a85d4aa389be449fecc21c9",
+          "text": "Local market has been growing steadily at an average of 15% per year"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 73.656,
+            "top": 475.10999755859376,
+            "x1": 363.5346000000001,
+            "bottom": 455.0699975585938
+          },
+          "content_hash": "f3904d98a2e93e13bf3b1576ce43a1bcac5fc6a9e30a2c38fd7e5cff1cf58940",
+          "text": "Pharmaceutical market in Ethiopia"
+        },
+        {
+          "block_type": "text",
+          "page_number": 8,
+          "bbox": {
+            "x0": 630.34,
+            "top": 473.6159975585938,
+            "x1": 719.14,
+            "bottom": 462.85285943704685
+          },
+          "content_hash": "4277bbab086524b7e7849bfa9f2cd4df2d53cab98df0e6222c2ec02ae653f063",
+          "text": "5 years forecast"
         },
         {
           "block_type": "figure",
           "page_number": 8,
           "bbox": {
-            "x0": 46.91660690307617,
-            "top": 477.24369049072266,
-            "x1": 234.85784912109375,
-            "bottom": 63.75054931640625
+            "x0": 33.24966049194336,
+            "top": 490.3724670410156,
+            "x1": 733.1351928710938,
+            "bottom": 54.112060546875
           },
           "content_hash": "9615dde5e3055636fb2bb9d07d811bb3cabc555e79e428fd189575478eb21c67",
           "caption": null,
@@ -1767,34 +1566,22 @@
           "block_type": "text",
           "page_number": 8,
           "bbox": {
-            "x0": 33.666666666666664,
-            "top": 568.5599975585938,
-            "x1": 66.33333333333333,
-            "bottom": 533.5599975585938
-          },
-          "content_hash": "fca29cdb658a1637de20a95994bfc97429401c5a77cc5690563f3bc05baf12db",
-          "text": "\u8336"
-        },
-        {
-          "block_type": "text",
-          "page_number": 8,
-          "bbox": {
             "x0": 96.744,
             "top": 573.1948775585938,
-            "x1": 983.9147999999996,
+            "x1": 1004.01804,
             "bottom": 514.5127114591463
           },
-          "content_hash": "86b305649bf45605f8c21c786cfa2817d8e28d53afb6ae12cab1c21cbb8fc455",
-          "text": "Large & growing population and rising health care coverage make pharmaceutical manufacturing an attractive endeavor"
+          "content_hash": "0e0436174608193aff58e367556d626fd42d5002c85f4c624502680c7257f4ff",
+          "text": "Ethiopian pharmaceutical market has been growing at 15% per year and is predicted to reach $905 million by 2020"
         },
         {
           "block_type": "figure",
           "page_number": 8,
           "bbox": {
-            "x0": 14.541277885437012,
-            "top": 583.1874284744263,
-            "x1": 87.27450561523438,
-            "bottom": 515.9168853759766
+            "x0": 14.396178245544434,
+            "top": 583.1781539916992,
+            "x1": 86.68253326416016,
+            "bottom": 519.9914016723633
           },
           "content_hash": "9615dde5e3055636fb2bb9d07d811bb3cabc555e79e428fd189575478eb21c67",
           "caption": null,
@@ -1811,168 +1598,142 @@
           "block_type": "text",
           "page_number": 9,
           "bbox": {
-            "x0": 392.74,
-            "top": 119.68146955859379,
-            "x1": 644.6914479999999,
-            "bottom": 60.29529037627333
+            "x0": 68.592,
+            "top": 31.631997558593753,
+            "x1": 243.78999999999994,
+            "bottom": 19.631997558593753
           },
-          "content_hash": "d24a8902246deebc14db7539b504f00b5c3a95109d5557ed40d0ac2a2753abb3",
-          "text": "-Market access to USA and EU through free trade agreements"
+          "content_hash": "36988d4ddadf99fd3074700caafaae6f45a9623b18f81faf854bca4870543576",
+          "text": "Source : Interviews, market research"
         },
         {
           "block_type": "text",
           "page_number": 9,
           "bbox": {
-            "x0": 705.82,
-            "top": 119.68146955859379,
-            "x1": 991.6060000000003,
-            "bottom": 38.695290376273306
+            "x0": 306.72,
+            "top": 97.70999755859378,
+            "x1": 925.8020000000006,
+            "bottom": 80.79129037627331
           },
-          "content_hash": "b4f5c3b2f839c4828ea44711ef268a6e20c6d714abbe4bd30fdd4258ff5dffc3",
-          "text": "-Components and Trim manufacturing : producing components & decorations such zippers, buttons, plastics, tec."
+          "content_hash": "fa994bda94be12402dba20e2b529bcf1d5858602bdcfea1476e92f976d3358e0",
+          "text": "Prevalence of non-communicable diseases: diabetes, cancer, hypertension"
         },
         {
           "block_type": "text",
           "page_number": 9,
           "bbox": {
-            "x0": 76.512,
-            "top": 141.26399755859381,
-            "x1": 336.1018000000001,
-            "bottom": 81.89529037627335
+            "x0": 56.784,
+            "top": 111.30911755859381,
+            "x1": 229.22820000000002,
+            "bottom": 69.33467689561041
           },
-          "content_hash": "d0736efd102ecfc7197ea4698a5813cb886d637c6285b1a57a0a000f968bc2ef",
-          "text": "-Managed to attract leading global brands such as PVH, H&M, Wuxi and Sunshine,"
+          "content_hash": "2a035bb8ef7c8608091b44da484c10c39a413c616eafe27b1607640af9ebe6b6",
+          "text": "Rising healthcare coverage"
         },
         {
           "block_type": "text",
           "page_number": 9,
           "bbox": {
-            "x0": 392.74,
-            "top": 196.4639975585938,
-            "x1": 663.9300000000001,
-            "bottom": 137.1192903762734
+            "x0": 306.72,
+            "top": 119.3079975585938,
+            "x1": 833.0640000000001,
+            "bottom": 102.38929037627338
           },
-          "content_hash": "d85ac0bb0184f83f398e044e0b38dc18d41a25f464bd024138a7c4a25377ea45",
-          "text": "-Reliable green energy supply with an estimated cost of 0.04 USD/kWh."
+          "content_hash": "c83ecedb1592d46a1848ee940aaaa0d766e9a9f5fd850bb09b5c69973c1872df",
+          "text": "High burden of communicable diseases: malaria, HIV/AIDS, TB"
         },
         {
           "block_type": "text",
           "page_number": 9,
           "bbox": {
-            "x0": 705.82,
-            "top": 196.4639975585938,
-            "x1": 1028.412,
-            "bottom": 137.1192903762734
+            "x0": 265.92,
+            "top": 140.90799755859382,
+            "x1": 696.8820000000004,
+            "bottom": 123.98929037627335
           },
-          "content_hash": "1d12dcd3be745d6846f3325fd513fcdec5446045ec5561c2e4ae9598beae2a0a",
-          "text": "-Garment manufacturing : producing any article of clothing such as dresses, suits, shirts, trousers"
+          "content_hash": "ac470842e955ce11fb9fac3217c7e53e9ab383b8ddfce0d63f8517540c1b97fc",
+          "text": "Awareness, diagnosis and treatment are increasing"
         },
         {
           "block_type": "text",
           "page_number": 9,
           "bbox": {
-            "x0": 76.512,
-            "top": 218.06399755859383,
-            "x1": 340.128,
-            "bottom": 158.71929037627336
+            "x0": 306.72,
+            "top": 184.13799755859378,
+            "x1": 811.1040000000006,
+            "bottom": 167.21929037627336
           },
-          "content_hash": "2ed124c73a39d7ff76f921f2a3649445d6e3831ff8adf4ef7035240084abcd78",
-          "text": "-Emerging as a regional hub for sourcing /contract manufacturers"
+          "content_hash": "d7027fd901f3da582b818e29ac5963ca5b9de4588edbf13ab065a8970a3f5613",
+          "text": "Primary health care service coverage reached 100% in 2015"
         },
         {
           "block_type": "text",
           "page_number": 9,
           "bbox": {
-            "x0": 76.512,
-            "top": 273.2839975585938,
-            "x1": 343.006,
-            "bottom": 235.53929037627336
+            "x0": 265.92,
+            "top": 227.33799755859383,
+            "x1": 956.2620000000011,
+            "bottom": 188.8192903762734
           },
-          "content_hash": "d985e895a2ce21d17d93b4e0f5099e93fd008cc8d80ba83685a4a8731372ff5e",
-          "text": "-Booming industry which has grown 7 fold since 2008"
+          "content_hash": "db39c79c3433abd268dee1a41787bad9961ea6a2b1608298872a41840fa100e1",
+          "text": "Increasing healthcare coverage by government to the large rural population creates growing demand for pharmaceutical products."
         },
         {
           "block_type": "text",
           "page_number": 9,
           "bbox": {
-            "x0": 392.74,
-            "top": 273.2839975585938,
-            "x1": 664.1700000000002,
-            "bottom": 213.91929037627335
+            "x0": 89.064,
+            "top": 305.7091175585938,
+            "x1": 191.46839999999997,
+            "bottom": 263.7346768956104
           },
-          "content_hash": "97e40d1d791f98ec056c38bcd4e91690b71cdc67a0a583c7d5d54f4497aa92bb",
-          "text": "-More than 2.7 million hectare of suitable land availability for cotton cultivation"
+          "content_hash": "3c6ede7002d64c4edf226c6abe61a5d04325d48ee52bff76cf6e4e8f883f3e28",
+          "text": "Growing population"
         },
         {
           "block_type": "text",
           "page_number": 9,
           "bbox": {
-            "x0": 705.82,
-            "top": 273.2839975585938,
-            "x1": 1008.8520000000002,
-            "bottom": 213.91929037627335
+            "x0": 265.92,
+            "top": 333.5379975585938,
+            "x1": 952.9460000000006,
+            "bottom": 295.0192903762734
           },
-          "content_hash": "1e805f40971750b967bd2fe199a09bf3f4cbb0cf2905b3ecffa996bca6848fcd",
-          "text": "-Textile manufacturing: producing any goods prepared by weaving, knitting or felting."
+          "content_hash": "7975e03cde5c025c7b56872f64adbbf20e0ecf87e77d82e52629e593fcf809f9",
+          "text": "With average economic growth of >10% per year, increase in disposable income will influence spending on pharmaceutical products"
         },
         {
           "block_type": "text",
           "page_number": 9,
           "bbox": {
-            "x0": 496.3333333333333,
-            "top": 438.2266642252604,
-            "x1": 538.0,
-            "bottom": 375.55999755859375
+            "x0": 265.92,
+            "top": 398.3579975585938,
+            "x1": 957.7600000000002,
+            "bottom": 359.8352361000303
           },
-          "content_hash": "c05b0aac4d635fef3693e1fbdec9eaae6b0a107d842d74121509025cc1a414ee",
-          "text": "2"
+          "content_hash": "e800601e95344db885abc52ff008f528b926ebac56591c5d90dcf92ef3758355",
+          "text": "Second-largest population in Africa (>100M, ~8.5% of Africa's population ); growth of 2.3% per year is expected"
         },
         {
           "block_type": "text",
           "page_number": 9,
           "bbox": {
-            "x0": 834.3333333333334,
-            "top": 460.55999755859375,
-            "x1": 898.3333333333334,
-            "bottom": 414.2266642252604
+            "x0": 215.88,
+            "top": 460.5199975585938,
+            "x1": 628.4234400000005,
+            "bottom": 440.4799975585938
           },
-          "content_hash": "56f9b5fbebd343d6f9a49ca71a3caf75b5b0d9a7ab3bb3302fca1a72e926c40a",
-          "text": "\u516c"
+          "content_hash": "a7ad5dc74c31c2a1b174462f7ca5a7d59252317ea0b7a9a43923da308fa929a9",
+          "text": "Key drivers of pharmaceutical demand in Ethiopia"
         },
         {
           "block_type": "figure",
           "page_number": 9,
           "bbox": {
-            "x0": 107.06631469726562,
-            "top": 490.3319854736328,
-            "x1": 280.6860046386719,
-            "bottom": 315.8238830566406
-          },
-          "content_hash": "ef8ee6c84fa60df2c68226bb461b1affd16d9d7cd246304ed783c9261eb8d22c",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "figure",
-          "page_number": 9,
-          "bbox": {
-            "x0": 426.76666259765625,
-            "top": 490.6936340332031,
-            "x1": 601.7201538085938,
-            "bottom": 315.4366455078125
-          },
-          "content_hash": "ef8ee6c84fa60df2c68226bb461b1affd16d9d7cd246304ed783c9261eb8d22c",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "figure",
-          "page_number": 9,
-          "bbox": {
-            "x0": 768.1533813476562,
-            "top": 500.37135314941406,
-            "x1": 941.9253540039062,
-            "bottom": 325.91375732421875
+            "x0": 46.91660690307617,
+            "top": 477.24369049072266,
+            "x1": 234.85784912109375,
+            "bottom": 63.75054931640625
           },
           "content_hash": "ef8ee6c84fa60df2c68226bb461b1affd16d9d7cd246304ed783c9261eb8d22c",
           "caption": null,
@@ -1984,20 +1745,20 @@
           "bbox": {
             "x0": 96.744,
             "top": 573.1948775585938,
-            "x1": 844.76188,
+            "x1": 983.9147999999996,
             "bottom": 514.5127114591463
           },
-          "content_hash": "5b3e6077c1f634ec933843cb76204c6a57fa323aa35dbf3620cc4c024e448663",
-          "text": "Ethiopia's textile and garment industry presents unique opportunities to investors"
+          "content_hash": "ec552e34f82d986426a9fc61cf200319caa4b797dec5c1b0ca6af165004e63e8",
+          "text": "Large & growing population and rising health care coverage make pharmaceutical manufacturing an attractive endeavor"
         },
         {
           "block_type": "figure",
           "page_number": 9,
           "bbox": {
-            "x0": 14.607871055603027,
-            "top": 583.1835899353027,
-            "x1": 86.76443481445312,
-            "bottom": 519.5979843139648
+            "x0": 14.541277885437012,
+            "top": 583.1874284744263,
+            "x1": 87.27450561523438,
+            "bottom": 515.9168853759766
           },
           "content_hash": "ef8ee6c84fa60df2c68226bb461b1affd16d9d7cd246304ed783c9261eb8d22c",
           "caption": null,
@@ -2014,58 +1775,142 @@
           "block_type": "text",
           "page_number": 10,
           "bbox": {
-            "x0": 965.28,
-            "top": 32.25887755859378,
-            "x1": 978.7255200000001,
-            "bottom": 20.63468838732308
+            "x0": 392.74,
+            "top": 119.68146955859379,
+            "x1": 644.6914479999999,
+            "bottom": 60.29529037627333
           },
-          "content_hash": "4c726432382a681c9d10bc203555445e22e804d451d0f2fc75dd9fbb66ac30f5",
-          "text": "11"
+          "content_hash": "dfd8fed53a2c9858e79b522eec44967d110135fa047b1027178404476af6acd0",
+          "text": "-Market access to USA and EU through free trade agreements"
         },
         {
           "block_type": "text",
           "page_number": 10,
           "bbox": {
-            "x0": 115.06,
-            "top": 219.1919975585938,
-            "x1": 357.70000000000005,
-            "bottom": 111.24572131549985
+            "x0": 705.82,
+            "top": 119.68146955859379,
+            "x1": 991.6060000000003,
+            "bottom": 38.695290376273306
           },
-          "content_hash": "47aa2adbaebb0634b294d94cbea92e78e78882f54c4c880cd5a450b13d05586c",
-          "text": "Growing Economy, dynamic market with access to East African market"
+          "content_hash": "b65f815e086b6d2fa30899878185f980b50670966c8839e8ddca4e0f4f7e70d5",
+          "text": "-Components and Trim manufacturing : producing components & decorations such zippers, buttons, plastics, tec."
         },
         {
           "block_type": "text",
           "page_number": 10,
           "bbox": {
-            "x0": 418.08,
-            "top": 219.1919975585938,
-            "x1": 663.5040000000004,
-            "bottom": 140.04572131549992
+            "x0": 76.512,
+            "top": 141.26399755859381,
+            "x1": 336.1018000000001,
+            "bottom": 81.89529037627335
           },
-          "content_hash": "7398546fe8687f4334012d8d063d13187a49fe67a03ae60326b192979bbfda35",
-          "text": "Opportunities to invest in high value pharmaceutical sector"
+          "content_hash": "bc190df5d2a7e7bf8487148b595f977e309cae540b80540d2d7a0296aa466631",
+          "text": "-Managed to attract leading global brands such as PVH, H&M, Wuxi and Sunshine,"
         },
         {
           "block_type": "text",
           "page_number": 10,
           "bbox": {
-            "x0": 760.13,
-            "top": 219.1919975585938,
-            "x1": 948.1460000000006,
-            "bottom": 140.04572131549992
+            "x0": 392.74,
+            "top": 196.4639975585938,
+            "x1": 663.9300000000001,
+            "bottom": 137.1192903762734
           },
-          "content_hash": "aeed9435135b7309d129c7ac73728d9289261ed3113a455a6640ab29e745dd05",
-          "text": "Benefit based on tailored enabling environment"
+          "content_hash": "19435d9bd19a0390c6be135fb964d36f773be29c209cb1832343af9120d83be6",
+          "text": "-Reliable green energy supply with an estimated cost of 0.04 USD/kWh."
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 705.82,
+            "top": 196.4639975585938,
+            "x1": 1028.412,
+            "bottom": 137.1192903762734
+          },
+          "content_hash": "41e130e5b063a7b3e2fdfc605211a58f301a2b251c2d1a034f7b31a4c874cf4a",
+          "text": "-Garment manufacturing : producing any article of clothing such as dresses, suits, shirts, trousers"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 76.512,
+            "top": 218.06399755859383,
+            "x1": 340.128,
+            "bottom": 158.71929037627336
+          },
+          "content_hash": "ef5107098f74ca9ce3bc6c5188f171a06a0857a1633d5821b838bb096cba4e56",
+          "text": "-Emerging as a regional hub for sourcing /contract manufacturers"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 76.512,
+            "top": 273.2839975585938,
+            "x1": 343.006,
+            "bottom": 235.53929037627336
+          },
+          "content_hash": "a28332597617e7ed05cf9248e5f37c307b08c552a9e85c3de222e4d0ec59aa83",
+          "text": "-Booming industry which has grown 7 fold since 2008"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 392.74,
+            "top": 273.2839975585938,
+            "x1": 664.1700000000002,
+            "bottom": 213.91929037627335
+          },
+          "content_hash": "1ba78a816ba91e6da7d4149fab0569b9b6dbe278953a49f19b663ea0138d319f",
+          "text": "-More than 2.7 million hectare of suitable land availability for cotton cultivation"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 705.82,
+            "top": 273.2839975585938,
+            "x1": 1008.8520000000002,
+            "bottom": 213.91929037627335
+          },
+          "content_hash": "b182a8bc6da73c8aed5cceb658b27a1ccd8511944b7e024edebc90cb27e28da6",
+          "text": "-Textile manufacturing: producing any goods prepared by weaving, knitting or felting."
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 495.0,
+            "top": 439.2266642252604,
+            "x1": 539.0,
+            "bottom": 372.55999755859375
+          },
+          "content_hash": "fce5a245eba858f110ba60e9838b70500ccf8787eb0aa2ac0293ccfe929be3c2",
+          "text": "2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 10,
+          "bbox": {
+            "x0": 834.0,
+            "top": 460.2266642252604,
+            "x1": 898.6666666666666,
+            "bottom": 414.55999755859375
+          },
+          "content_hash": "86062e47c1cbc34ddc2de5fda4add592f513400b56d8ab9a1fe388cf81d0ffa1",
+          "text": "\u516c"
         },
         {
           "block_type": "figure",
           "page_number": 10,
           "bbox": {
-            "x0": 457.39373779296875,
-            "top": 378.3991394042969,
-            "x1": 629.1813354492188,
-            "bottom": 260.6961364746094
+            "x0": 107.06631469726562,
+            "top": 490.3319854736328,
+            "x1": 280.6860046386719,
+            "bottom": 315.8238830566406
           },
           "content_hash": "4beea7f3b89b71b096627c6567bed0e763f42666385394a83df49c518728742e",
           "caption": null,
@@ -2075,10 +1920,10 @@
           "block_type": "figure",
           "page_number": 10,
           "bbox": {
-            "x0": 153.32177734375,
-            "top": 390.8767395019531,
-            "x1": 334.6531677246094,
-            "bottom": 250.7281494140625
+            "x0": 426.76666259765625,
+            "top": 490.6936340332031,
+            "x1": 601.7201538085938,
+            "bottom": 315.4366455078125
           },
           "content_hash": "4beea7f3b89b71b096627c6567bed0e763f42666385394a83df49c518728742e",
           "caption": null,
@@ -2088,10 +1933,10 @@
           "block_type": "figure",
           "page_number": 10,
           "bbox": {
-            "x0": 768.3220825195312,
-            "top": 394.5960235595703,
-            "x1": 930.5812377929688,
-            "bottom": 247.87387084960938
+            "x0": 768.1533813476562,
+            "top": 500.37135314941406,
+            "x1": 941.9253540039062,
+            "bottom": 325.91375732421875
           },
           "content_hash": "4beea7f3b89b71b096627c6567bed0e763f42666385394a83df49c518728742e",
           "caption": null,
@@ -2101,22 +1946,22 @@
           "block_type": "text",
           "page_number": 10,
           "bbox": {
-            "x0": 57.408,
-            "top": 508.2903495585938,
-            "x1": 621.6039520000003,
-            "bottom": 477.80914239837284
+            "x0": 96.744,
+            "top": 573.1948775585938,
+            "x1": 844.76188,
+            "bottom": 514.5127114591463
           },
-          "content_hash": "52b40356b7562cda5d03d96deb5870e2147df66af0f690fe70472d031701f396",
-          "text": "Investment - Why do business in Ethiopia?"
+          "content_hash": "0a6630a08cb428ef3e4f173883da80a0b72fc4715f9e821c98135390a63a9837",
+          "text": "Ethiopia's textile and garment industry presents unique opportunities to investors"
         },
         {
           "block_type": "figure",
           "page_number": 10,
           "bbox": {
-            "x0": 14.562640190124512,
-            "top": 581.0867395401001,
-            "x1": 87.73796081542969,
-            "bottom": 522.5238494873047
+            "x0": 14.607871055603027,
+            "top": 583.1835899353027,
+            "x1": 86.76443481445312,
+            "bottom": 519.5979843139648
           },
           "content_hash": "4beea7f3b89b71b096627c6567bed0e763f42666385394a83df49c518728742e",
           "caption": null,
@@ -2133,278 +1978,58 @@
           "block_type": "text",
           "page_number": 11,
           "bbox": {
-            "x0": 128.09,
-            "top": 55.43058955859385,
-            "x1": 320.289392,
-            "bottom": 42.81619168014072
+            "x0": 965.28,
+            "top": 32.25887755859378,
+            "x1": 978.7255200000001,
+            "bottom": 20.63468838732308
           },
-          "content_hash": "ac98b1812069947372f0472a2a6b19ff1004aaf015c5edc35e611d52f7584b3b",
-          "text": "Waste Treatment Facilities"
+          "content_hash": "191b32368a374f6a8ca902dad258b5d1ed8f2215f42571982a706c40a4c417ec",
+          "text": "11"
         },
         {
           "block_type": "text",
           "page_number": 11,
           "bbox": {
-            "x0": 128.09,
-            "top": 72.21311755859381,
-            "x1": 388.24351999999993,
-            "bottom": 59.62024595638388
+            "x0": 115.06,
+            "top": 219.1919975585938,
+            "x1": 357.70000000000005,
+            "bottom": 111.24572131549985
           },
-          "content_hash": "0dbcf1a8b8667d9f66946b04377972e5ad457dd0386c5aa6b74a06ce62b50709",
-          "text": "Fire Brigade & 24/7 Security Services"
+          "content_hash": "06aba5dd68169e7c52c7a126934d02919e43bf6e4e973a5b3f441f882277fc86",
+          "text": "Growing Economy, dynamic market with access to East African market"
         },
         {
           "block_type": "text",
           "page_number": 11,
           "bbox": {
-            "x0": 128.09,
-            "top": 89.01311755859382,
-            "x1": 284.33348000000007,
-            "bottom": 76.42024595638384
+            "x0": 418.08,
+            "top": 219.1919975585938,
+            "x1": 663.5040000000004,
+            "bottom": 140.04572131549992
           },
-          "content_hash": "5b086603a53b866f0381431082e2adfab1b2525e99686ccc7a69bdd2bf2b2874",
-          "text": "Commercial Building"
+          "content_hash": "4444f1e8a86948aa27edb48c9d19f8d58c8d198f9925b0dbdbdb899b4a0c7259",
+          "text": "Opportunities to invest in high value pharmaceutical sector"
         },
         {
           "block_type": "text",
           "page_number": 11,
           "bbox": {
-            "x0": 128.09,
-            "top": 105.81311755859383,
-            "x1": 309.80515999999994,
-            "bottom": 93.22024595638385
+            "x0": 760.13,
+            "top": 219.1919975585938,
+            "x1": 948.1460000000006,
+            "bottom": 140.04572131549992
           },
-          "content_hash": "a860cbb05ee6a85b62bb11fcc68420061abb4441c5a40d8e1a21814d98e81246",
-          "text": "One-Stop Shop Services"
-        },
-        {
-          "block_type": "text",
-          "page_number": 11,
-          "bbox": {
-            "x0": 128.09,
-            "top": 122.61111755859383,
-            "x1": 241.83440000000007,
-            "bottom": 110.01824595638385
-          },
-          "content_hash": "de80b580117dc1a7eed2157dcc7279059eedff305b013b9f9926b7a16864805c",
-          "text": "Police Station"
-        },
-        {
-          "block_type": "text",
-          "page_number": 11,
-          "bbox": {
-            "x0": 87.45564778645833,
-            "top": 141.87249755859375,
-            "x1": 98.65423583984375,
-            "bottom": 133.90374755859375
-          },
-          "content_hash": "ce6559ce5df44c16dcd3d006e6c7388fcb2f78f8bb168475e58ca207e5a8e8cf",
-          "text": "O"
-        },
-        {
-          "block_type": "text",
-          "page_number": 11,
-          "bbox": {
-            "x0": 128.09,
-            "top": 139.4111175585938,
-            "x1": 242.42407999999998,
-            "bottom": 126.81824595638386
-          },
-          "content_hash": "29f093ba16ff3965231dd9cdf803b3467b7b9ff6342d1932c634c839b92b56ce",
-          "text": "Health Center"
+          "content_hash": "eeee7668bf697427f53f792e27b7013484fd8139c226602b00b66a91d5519f3e",
+          "text": "Benefit based on tailored enabling environment"
         },
         {
           "block_type": "figure",
           "page_number": 11,
           "bbox": {
-            "x0": 64.95030975341797,
-            "top": 162.9486083984375,
-            "x1": 120.57017517089844,
-            "bottom": 121.04241943359375
-          },
-          "content_hash": "c3ee61b5a5f1f6a836349812dde6126679399d5713336306cea9c4b7627ac4d4",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "text",
-          "page_number": 11,
-          "bbox": {
-            "x0": 128.09,
-            "top": 162.83799755859383,
-            "x1": 368.498,
-            "bottom": 144.00250584588662
-          },
-          "content_hash": "4f38327f09e5048ec6dd3ebb8b5bd65323de82be5b4f614ca2c2fb5b76b4de51",
-          "text": "Industrial park facilities"
-        },
-        {
-          "block_type": "text",
-          "page_number": 11,
-          "bbox": {
-            "x0": 128.09,
-            "top": 222.8411175585938,
-            "x1": 426.04795999999993,
-            "bottom": 210.24824595638387
-          },
-          "content_hash": "2ce77e12b072074b11479fad9eb0369a14cf770b67111534c7eceb3d93489c2c",
-          "text": "Land is available at reasonable lease prices"
-        },
-        {
-          "block_type": "text",
-          "page_number": 11,
-          "bbox": {
-            "x0": 128.09,
-            "top": 239.6411175585938,
-            "x1": 392.7029600000002,
-            "bottom": 227.04824595638388
-          },
-          "content_hash": "7c53069ccbb516f6b3d9f74c8e2ccf37aec6d1c48b63c571477f8a655d2af904",
-          "text": "177 ha service land for manufacturing"
-        },
-        {
-          "block_type": "text",
-          "page_number": 11,
-          "bbox": {
-            "x0": 128.09,
-            "top": 256.4411175585938,
-            "x1": 339.1544000000002,
-            "bottom": 243.84824595638383
-          },
-          "content_hash": "45378f9e42bf9d1536896903a25cfaff363493fc079000c167e16d8406ebff3c",
-          "text": "Established on 279 ha of land"
-        },
-        {
-          "block_type": "text",
-          "page_number": 11,
-          "bbox": {
-            "x0": 128.09,
-            "top": 279.8679975585938,
-            "x1": 327.5689999999999,
-            "bottom": 261.0325058458866
-          },
-          "content_hash": "45b066a1a8d8b4cd6af5708c18ecde311f75ec6f0dda016aac204e1bca4ad3bb",
-          "text": "Industrial park area"
-        },
-        {
-          "block_type": "figure",
-          "page_number": 11,
-          "bbox": {
-            "x0": 62.7318229675293,
-            "top": 282.9450988769531,
-            "x1": 120.09559631347656,
-            "bottom": 242.11624145507812
-          },
-          "content_hash": "c3ee61b5a5f1f6a836349812dde6126679399d5713336306cea9c4b7627ac4d4",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "text",
-          "page_number": 11,
-          "bbox": {
-            "x0": 128.09,
-            "top": 339.6711175585938,
-            "x1": 322.99436000000014,
-            "bottom": 327.07824595638385
-          },
-          "content_hash": "db4eca933a1827cb4c5a528f1933a3efc36ac55b9241449029ddf8de39d93041",
-          "text": "Accessible to skilled labour"
-        },
-        {
-          "block_type": "text",
-          "page_number": 11,
-          "bbox": {
-            "x0": 128.09,
-            "top": 356.49111755859377,
-            "x1": 348.05576,
-            "bottom": 343.89824595638385
-          },
-          "content_hash": "dc4ad57a85586548fae792caa6a203625e1aa3292e6f80d05efab8d94f39774a",
-          "text": "+4 million people live in the city"
-        },
-        {
-          "block_type": "text",
-          "page_number": 11,
-          "bbox": {
-            "x0": 128.09,
-            "top": 379.9179975585938,
-            "x1": 415.16,
-            "bottom": 361.0825058458866
-          },
-          "content_hash": "9f3322005afba01d32823b13d106f0ff042001a3cbe5f80ad5641a0b5dd8ba50",
-          "text": "Population and employment"
-        },
-        {
-          "block_type": "figure",
-          "page_number": 11,
-          "bbox": {
-            "x0": 63.93045425415039,
-            "top": 386.9803161621094,
-            "x1": 123.75576782226562,
-            "bottom": 330.77008056640625
-          },
-          "content_hash": "c3ee61b5a5f1f6a836349812dde6126679399d5713336306cea9c4b7627ac4d4",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "text",
-          "page_number": 11,
-          "bbox": {
-            "x0": 128.09,
-            "top": 456.5211175585938,
-            "x1": 547.8742000000001,
-            "bottom": 427.12824595638386
-          },
-          "content_hash": "da9d0fa813f74c73d4e65c5e215dce2a8c77bbe32a83deaf3c494f8b31359106",
-          "text": "Addis Ababa; 25 km from city center, 863 Km from Djibouti port and 10 minutes drive from Bole International Airport"
-        },
-        {
-          "block_type": "text",
-          "page_number": 11,
-          "bbox": {
-            "x0": 128.09,
-            "top": 479.94799755859384,
-            "x1": 215.51299999999995,
-            "bottom": 461.11250584588663
-          },
-          "content_hash": "67d7bbd1c269d414e86d87302b01e2d186dd1fd64c46ce96a0c0d8553f1f62b3",
-          "text": "Location"
-        },
-        {
-          "block_type": "figure",
-          "page_number": 11,
-          "bbox": {
-            "x0": 71.80586242675781,
-            "top": 484.260009765625,
-            "x1": 111.24861145019531,
-            "bottom": 425.642578125
-          },
-          "content_hash": "c3ee61b5a5f1f6a836349812dde6126679399d5713336306cea9c4b7627ac4d4",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "text",
-          "page_number": 11,
-          "bbox": {
-            "x0": 99.0,
-            "top": 573.1948775585938,
-            "x1": 571.6271599999999,
-            "bottom": 514.5127114591463
-          },
-          "content_hash": "4c0ef272031065eb30980f8ca6e350ba59fffe5ac62536f3a76d499b397ae51f",
-          "text": "Kilinto Industrial Park is the first IP specializing in pharmaceuticals"
-        },
-        {
-          "block_type": "figure",
-          "page_number": 11,
-          "bbox": {
-            "x0": 14.477513313293457,
-            "top": 580.5372352600098,
-            "x1": 86.57952880859375,
-            "bottom": 521.9113006591797
+            "x0": 457.39373779296875,
+            "top": 378.3991394042969,
+            "x1": 629.1813354492188,
+            "bottom": 260.6961364746094
           },
           "content_hash": "c3ee61b5a5f1f6a836349812dde6126679399d5713336306cea9c4b7627ac4d4",
           "caption": null,
@@ -2414,10 +2039,60 @@
           "block_type": "figure",
           "page_number": 11,
           "bbox": {
-            "x0": 574.6498413085938,
-            "top": 595.5599975585938,
-            "x1": 1058.4124755859375,
-            "bottom": 8.10968017578125
+            "x0": 153.32177734375,
+            "top": 390.8767395019531,
+            "x1": 334.6531677246094,
+            "bottom": 250.7281494140625
+          },
+          "content_hash": "c3ee61b5a5f1f6a836349812dde6126679399d5713336306cea9c4b7627ac4d4",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "figure",
+          "page_number": 11,
+          "bbox": {
+            "x0": 768.3220825195312,
+            "top": 394.5960235595703,
+            "x1": 930.5812377929688,
+            "bottom": 247.87387084960938
+          },
+          "content_hash": "c3ee61b5a5f1f6a836349812dde6126679399d5713336306cea9c4b7627ac4d4",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 770.0,
+            "top": 393.8933308919271,
+            "x1": 891.3333333333334,
+            "bottom": 344.22666422526044
+          },
+          "content_hash": "fc5c66a5afa4299ab2538feec8acedbc14fea406232cb8931414565ba752d0a8",
+          "text": "\u76ee\u6a02"
+        },
+        {
+          "block_type": "text",
+          "page_number": 11,
+          "bbox": {
+            "x0": 57.408,
+            "top": 508.2903495585938,
+            "x1": 621.6039520000003,
+            "bottom": 477.80914239837284
+          },
+          "content_hash": "f6060fb3253071b514a18f7afc78d0bf7216ef830480e3a12ad4130cc963758b",
+          "text": "Investment - Why do business in Ethiopia?"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 11,
+          "bbox": {
+            "x0": 14.562640190124512,
+            "top": 581.0867395401001,
+            "x1": 87.73796081542969,
+            "bottom": 522.5238494873047
           },
           "content_hash": "c3ee61b5a5f1f6a836349812dde6126679399d5713336306cea9c4b7627ac4d4",
           "caption": null,
@@ -2434,34 +2109,82 @@
           "block_type": "text",
           "page_number": 12,
           "bbox": {
-            "x0": 964.32,
-            "top": 32.25887755859378,
-            "x1": 978.7257600000002,
-            "bottom": 20.63468838732308
+            "x0": 128.09,
+            "top": 55.43058955859385,
+            "x1": 320.289392,
+            "bottom": 42.81619168014072
           },
-          "content_hash": "0e8b06afe29724411d0420c53ae29119a1a6e6d88383635a2d42d627a0fe950d",
-          "text": "13"
+          "content_hash": "bdec1b644eeab1c25e715a78e806ef1d328c38509b3674e1ee414586a2b22d9f",
+          "text": "Waste Treatment Facilities"
         },
         {
           "block_type": "text",
           "page_number": 12,
           "bbox": {
-            "x0": 204.6,
-            "top": 82.81746955859376,
-            "x1": 341.61600000000004,
-            "bottom": 45.03129037627332
+            "x0": 128.09,
+            "top": 72.21311755859381,
+            "x1": 388.24351999999993,
+            "bottom": 59.62024595638388
           },
-          "content_hash": "2364d3348df91d6bdd89b6dfc75ec6d6b3da5df79387b58ce531a38b1fb10cca",
-          "text": "SKILL DEVELOPMENT"
+          "content_hash": "2c2ce752460475df4bce1eab583152f7afe2faeec9f548af1a02c35de7404e3e",
+          "text": "Fire Brigade & 24/7 Security Services"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 128.09,
+            "top": 89.01311755859382,
+            "x1": 284.33348000000007,
+            "bottom": 76.42024595638384
+          },
+          "content_hash": "b6f09a4bf7fb66deec22d38c8c080667f7c4d7adb5f441668f5d426202b2f118",
+          "text": "Commercial Building"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 128.09,
+            "top": 105.81311755859383,
+            "x1": 309.80515999999994,
+            "bottom": 93.22024595638385
+          },
+          "content_hash": "a5b8829b039f9dbeb2465774933a7743eea9da14c2c0966020c73d6fa29fa7ad",
+          "text": "One-Stop Shop Services"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 128.09,
+            "top": 122.61111755859383,
+            "x1": 241.83440000000007,
+            "bottom": 110.01824595638385
+          },
+          "content_hash": "cd567c51c52ab759b469470fee784849f42dc4d17e8f2f31ba8ac38be56a3625",
+          "text": "Police Station"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 128.09,
+            "top": 139.4111175585938,
+            "x1": 242.42407999999998,
+            "bottom": 126.81824595638386
+          },
+          "content_hash": "847c2644803163173026245d0ec305d5e73df24dd130f11460da648fa2a0a38a",
+          "text": "Health Center"
         },
         {
           "block_type": "figure",
           "page_number": 12,
           "bbox": {
-            "x0": 85.025390625,
-            "top": 98.92523193359375,
-            "x1": 153.72398376464844,
-            "bottom": 26.3170166015625
+            "x0": 64.95030975341797,
+            "top": 162.9486083984375,
+            "x1": 120.57017517089844,
+            "bottom": 121.04241943359375
           },
           "content_hash": "bd3dca2391d0d2d7d047d9343b482ad9864ddd2abbdeea5a98e4ac1f80dd3726",
           "caption": null,
@@ -2471,46 +2194,70 @@
           "block_type": "text",
           "page_number": 12,
           "bbox": {
-            "x0": 454.32,
-            "top": 101.06111755859376,
-            "x1": 1009.8435199999999,
-            "bottom": 35.08667689561037
+            "x0": 128.09,
+            "top": 162.83799755859383,
+            "x1": 368.498,
+            "bottom": 144.00250584588662
           },
-          "content_hash": "780e59f04394e847f2085ad1ead3d5140a2ad4bcb58bf522aa686870b3f6735d",
-          "text": "One Stop Services (OSS) including processing & issuance of permits, licenses, registration certificates, agreements, tax identification number, customs clearance, banking services."
+          "content_hash": "137ed37357c38fccce67a5275665ef56be4f18c60f01f470ac05fe427a9c4a89",
+          "text": "Industrial park facilities"
         },
         {
           "block_type": "text",
           "page_number": 12,
           "bbox": {
-            "x0": 204.6,
-            "top": 165.36399755859378,
-            "x1": 351.75,
-            "bottom": 149.21929037627336
+            "x0": 128.09,
+            "top": 222.8411175585938,
+            "x1": 426.04795999999993,
+            "bottom": 210.24824595638387
           },
-          "content_hash": "dea5a1047eb00e3f9d3f3198e5c76005751c8f634e75f1b19df58e02296a14fc",
-          "text": "SUSTAINABILITY"
+          "content_hash": "a57b9a1dfb352e02831107a6c8e9bd88b80728553b2211271b39b58597e75abf",
+          "text": "Land is available at reasonable lease prices"
         },
         {
           "block_type": "text",
           "page_number": 12,
           "bbox": {
-            "x0": 454.32,
-            "top": 167.08911755859378,
-            "x1": 997.1034000000003,
-            "bottom": 125.08467689561041
+            "x0": 128.09,
+            "top": 239.6411175585938,
+            "x1": 392.7029600000002,
+            "bottom": 227.04824595638388
           },
-          "content_hash": "4f29d858d18aeb49c4960da2002a1e084b306d77fa3a1274f304e7b8b911280b",
-          "text": "Health stations, fire brigade, expats accommodation and 24 hours security services"
+          "content_hash": "31281440c4155c7da2f0b11c55b060a4c625caa29f0e9063a606e652a4993739",
+          "text": "177 ha service land for manufacturing"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 128.09,
+            "top": 256.4411175585938,
+            "x1": 339.1544000000002,
+            "bottom": 243.84824595638383
+          },
+          "content_hash": "ebe954b41733a35070909719ce810c275af24f18b74217b59615c018b9b17923",
+          "text": "Established on 279 ha of land"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 128.09,
+            "top": 279.8679975585938,
+            "x1": 327.5689999999999,
+            "bottom": 261.0325058458866
+          },
+          "content_hash": "12e9df24be15ad090d41531ba9726ded84b1b3e498d2543021245a93ce91381b",
+          "text": "Industrial park area"
         },
         {
           "block_type": "figure",
           "page_number": 12,
           "bbox": {
-            "x0": 88.24250030517578,
-            "top": 176.7547607421875,
-            "x1": 149.2350616455078,
-            "bottom": 119.758056640625
+            "x0": 62.7318229675293,
+            "top": 282.9450988769531,
+            "x1": 120.09559631347656,
+            "bottom": 242.11624145507812
           },
           "content_hash": "bd3dca2391d0d2d7d047d9343b482ad9864ddd2abbdeea5a98e4ac1f80dd3726",
           "caption": null,
@@ -2520,34 +2267,46 @@
           "block_type": "text",
           "page_number": 12,
           "bbox": {
-            "x0": 204.6,
-            "top": 254.11399755859378,
-            "x1": 331.7879999999999,
-            "bottom": 216.3692903762734
+            "x0": 128.09,
+            "top": 339.6711175585938,
+            "x1": 322.99436000000014,
+            "bottom": 327.07824595638385
           },
-          "content_hash": "735756002f5a235642b0c266ed6ae572676041ae355867278abdea98427f91ae",
-          "text": "VERTICALY INTEGERATED"
+          "content_hash": "c0c7c4a48a90fb363218faa99ed7c30c5cd7732d834b849e83f05982cc3e9256",
+          "text": "Accessible to skilled labour"
         },
         {
           "block_type": "text",
           "page_number": 12,
           "bbox": {
-            "x0": 454.32,
-            "top": 257.0891175585938,
-            "x1": 1008.1893200000001,
-            "bottom": 191.1146768956104
+            "x0": 128.09,
+            "top": 356.49111755859377,
+            "x1": 348.05576,
+            "bottom": 343.89824595638385
           },
-          "content_hash": "320527c354e230f129aa266b5e844f7c9c3e785ee892718558b62df3e8d54281",
-          "text": "Dedicated power with own sub-station and state of the art waste treatment facilities with a dedicated park administration and support system"
+          "content_hash": "4ac658cfe10efbd6ac5414a452c5c6b92999563834957f104fb81ef5edf8da7c",
+          "text": "+4 million people live in the city"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 128.09,
+            "top": 379.9179975585938,
+            "x1": 415.16,
+            "bottom": 361.0825058458866
+          },
+          "content_hash": "7fe4ba240dfb6678057102997c1a3138b4c6f5cc4e4cd01aafe231045a14e80f",
+          "text": "Population and employment"
         },
         {
           "block_type": "figure",
           "page_number": 12,
           "bbox": {
-            "x0": 83.58287811279297,
-            "top": 265.25787353515625,
-            "x1": 154.26434326171875,
-            "bottom": 202.44659423828125
+            "x0": 63.93045425415039,
+            "top": 386.9803161621094,
+            "x1": 123.75576782226562,
+            "bottom": 330.77008056640625
           },
           "content_hash": "bd3dca2391d0d2d7d047d9343b482ad9864ddd2abbdeea5a98e4ac1f80dd3726",
           "caption": null,
@@ -2557,34 +2316,46 @@
           "block_type": "text",
           "page_number": 12,
           "bbox": {
-            "x0": 204.6,
-            "top": 340.5339975585938,
-            "x1": 285.6,
-            "bottom": 302.78929037627336
+            "x0": 128.09,
+            "top": 456.5211175585938,
+            "x1": 547.8742000000001,
+            "bottom": 427.12824595638386
           },
-          "content_hash": "dd204d5446849765dd16111a545b8a8634784236f45964142d8ae9b573fe1cee",
-          "text": "EXPORT ORINTED"
+          "content_hash": "17d442d780e530400f11523c28fa17e0fa0053cb97d91a59f6b0d0a67ae523ff",
+          "text": "Addis Ababa; 25 km from city center, 863 Km from Djibouti port and 10 minutes drive from Bole International Airport"
         },
         {
           "block_type": "text",
           "page_number": 12,
           "bbox": {
-            "x0": 454.32,
-            "top": 347.10911755859377,
-            "x1": 1005.0592799999996,
-            "bottom": 281.13467689561037
+            "x0": 83.66666666666667,
+            "top": 473.22666422526044,
+            "x1": 102.0,
+            "bottom": 452.55999755859375
           },
-          "content_hash": "d6d51f82aa16147a2e515b1e2954d3228ea7b9a0413f350d81b8345a636e3e1f",
-          "text": "Ready for plug-and-play , equipped with all the necessary infrastructure including waste water treatment plants with joint calibration"
+          "content_hash": "9f11001dadb0d7bd59a7ebb19468497d6aebe2852202c37635170105822065bb",
+          "text": "O"
+        },
+        {
+          "block_type": "text",
+          "page_number": 12,
+          "bbox": {
+            "x0": 128.09,
+            "top": 479.94799755859384,
+            "x1": 215.51299999999995,
+            "bottom": 461.11250584588663
+          },
+          "content_hash": "e3bffcb146124589dc3fae527ca7b59e220485f4e0dbc0b75956cc8db902ec4b",
+          "text": "Location"
         },
         {
           "block_type": "figure",
           "page_number": 12,
           "bbox": {
-            "x0": 93.82684326171875,
-            "top": 347.7477722167969,
-            "x1": 143.90184020996094,
-            "bottom": 290.24285888671875
+            "x0": 71.80586242675781,
+            "top": 484.260009765625,
+            "x1": 111.24861145019531,
+            "bottom": 425.642578125
           },
           "content_hash": "bd3dca2391d0d2d7d047d9343b482ad9864ddd2abbdeea5a98e4ac1f80dd3726",
           "caption": null,
@@ -2594,71 +2365,35 @@
           "block_type": "text",
           "page_number": 12,
           "bbox": {
-            "x0": 204.6,
-            "top": 423.0939975585938,
-            "x1": 352.722,
-            "bottom": 385.34929037627336
+            "x0": 99.0,
+            "top": 573.1948775585938,
+            "x1": 571.6271599999999,
+            "bottom": 514.5127114591463
           },
-          "content_hash": "34f8b322cf522b0309e6e2dbf230b0e6acf708fd3ea68804be73f5ac111058f1",
-          "text": "SECTOR SPECIALIZATION"
-        },
-        {
-          "block_type": "text",
-          "page_number": 12,
-          "bbox": {
-            "x0": 454.32,
-            "top": 437.1291175585938,
-            "x1": 1021.53224,
-            "bottom": 371.1506226193673
-          },
-          "content_hash": "46beed9d309bc5a439c85283bbb177cfdfbf5ad3cee7bfc41401d6dde7dc6133",
-          "text": "Located along strategic economic corridors, connected to ports by electric driven railway lines and asphalt roads with Close proximity to abundant labor force"
+          "content_hash": "bd45268f53efe6e8ee01067c7b70c9d0edce09f445bc45b3a95662fbe2fc1b0c",
+          "text": "Kilinto Industrial Park is the first IP specializing in pharmaceuticals"
         },
         {
           "block_type": "figure",
           "page_number": 12,
           "bbox": {
-            "x0": 103.3983383178711,
-            "top": 441.5902099609375,
-            "x1": 134.7661895751953,
-            "bottom": 367.73146057128906
+            "x0": 14.477513313293457,
+            "top": 580.5372352600098,
+            "x1": 86.57952880859375,
+            "bottom": 521.9113006591797
           },
           "content_hash": "bd3dca2391d0d2d7d047d9343b482ad9864ddd2abbdeea5a98e4ac1f80dd3726",
           "caption": null,
           "image_base64": null
         },
         {
-          "block_type": "text",
-          "page_number": 12,
-          "bbox": {
-            "x0": 57.408,
-            "top": 514.4228775585938,
-            "x1": 367.22508,
-            "bottom": 447.24319667461594
-          },
-          "content_hash": "c0c8c3a4c252f29512a9d4fe3d7ab8e5c652f97b05cb5568abdb1fe4a42db93c",
-          "text": "Industrial park key characteristics"
-        },
-        {
-          "block_type": "text",
-          "page_number": 12,
-          "bbox": {
-            "x0": 425.11,
-            "top": 514.4228775585938,
-            "x1": 502.47087999999997,
-            "bottom": 483.9631966746159
-          },
-          "content_hash": "118bce41d4c8bbaa01857cfe84bc125b2fd7a3abee2f1331b7aee73ba062717a",
-          "text": "\u2026\u2026."
-        },
-        {
           "block_type": "figure",
           "page_number": 12,
           "bbox": {
-            "x0": 14.417413711547852,
-            "top": 580.8575468063354,
-            "x1": 87.67879486083984,
-            "bottom": 522.9808959960938
+            "x0": 574.6498413085938,
+            "top": 595.5599975585938,
+            "x1": 1058.4124755859375,
+            "bottom": 8.10968017578125
           },
           "content_hash": "bd3dca2391d0d2d7d047d9343b482ad9864ddd2abbdeea5a98e4ac1f80dd3726",
           "caption": null,
@@ -2675,325 +2410,34 @@
           "block_type": "text",
           "page_number": 13,
           "bbox": {
-            "x0": 111.31,
-            "top": 51.575997558593826,
-            "x1": 302.73999999999995,
-            "bottom": 38.122074906660146
+            "x0": 964.32,
+            "top": 32.25887755859378,
+            "x1": 978.7257600000002,
+            "bottom": 20.63468838732308
           },
-          "content_hash": "33258a7f33c5b78ddcc39af0baaf721546d5a52b35b3b52597aa66253d218d09",
-          "text": "Full export duty exemption"
+          "content_hash": "d49c5eedaa84133cc05c42d05171f4cc0be75981340eff6a9cf87d3f7ee8303a",
+          "text": "13"
         },
         {
           "block_type": "text",
           "page_number": 13,
           "bbox": {
-            "x0": 111.31,
-            "top": 81.57599755859383,
-            "x1": 250.82499999999993,
-            "bottom": 68.12207490666015
+            "x0": 204.6,
+            "top": 82.81746955859376,
+            "x1": 341.61600000000004,
+            "bottom": 45.03129037627332
           },
-          "content_hash": "5b3313d6740eac8c8e3c3169799d84914460f59b87a94c45d1d2cba8620858ad",
-          "text": "Loss carry forward"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 813.12,
-            "top": 117.61746955859383,
-            "x1": 999.6599999999997,
-            "bottom": 14.122074906660146
-          },
-          "content_hash": "b3d7cc168ed064049332fccd98329df797ec44f3f08275c14c1285a2308465d5",
-          "text": "One-Stop Shop Service under the EIC - including pre-establishment licensing and registration and post-establishment after-care services"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 347.78,
-            "top": 153.59999755859383,
-            "x1": 530.825,
-            "bottom": 50.122074906660146
-          },
-          "content_hash": "d4f3f83cfb6eb428ab76a7fb9cebd0df974c8dd5f7468a58c51efa00c4149a2a",
-          "text": "Relaxed Industrial park land regime - 60-80 years charge-free lease for IP Developers, discounted lease rate for IP Enterprises"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 566.71,
-            "top": 153.59999755859383,
-            "x1": 747.055,
-            "bottom": 104.14202063041705
-          },
-          "content_hash": "243610df1439624a84af8c5c40c7105ef0b1098d68d6b7b6da5b2267f7ea6482",
-          "text": "Regional regulatory harmonization underway to catalyze regional trade"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 813.12,
-            "top": 165.59999755859383,
-            "x1": 967.9649999999998,
-            "bottom": 134.14607490666015
-          },
-          "content_hash": "84a65ff71d837524fa2b3a5b14916a8ea535b355e6f4a9a62277ffba92e47a34",
-          "text": "Facilitation of market linkages"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 111.31,
-            "top": 201.59999755859383,
-            "x1": 307.7049999999999,
-            "bottom": 98.14202063041705
-          },
-          "content_hash": "8b87dbee416c3ec23fdff18a8089b89344309eecfe30495e816370d2ebb69ffc",
-          "text": "Exemption from duties and other taxes on imports of machinery, equipment, construction materials, spare parts, raw materials and vehicles"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 347.78,
-            "top": 201.59999755859383,
-            "x1": 537.0799999999997,
-            "bottom": 170.14607490666015
-          },
-          "content_hash": "b7e0706371a9b916f6dd5f07188a117b117abdb725e60f51cdc608ded476da9e",
-          "text": "Guarantee for repatriation of funds"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 566.71,
-            "top": 201.59999755859383,
-            "x1": 711.895,
-            "bottom": 170.14607490666015
-          },
-          "content_hash": "82bd5e4dc664e14a6c727f810e6e36185b33d0f583a3ffb3f933b6629abd52e5",
-          "text": "Fast-track medicine registration"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 813.12,
-            "top": 231.6374695585938,
-            "x1": 1003.8449999999999,
-            "bottom": 182.14607490666015
-          },
-          "content_hash": "99e453fd97373acca7f009cd314a0768235821478720912a845425a554e55462",
-          "text": "Multiple entry visas for share holders and general managers"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 347.78,
-            "top": 249.6199975585938,
-            "x1": 482.8399999999999,
-            "bottom": 218.16202063041703
-          },
-          "content_hash": "346a8fcd8c39461b1c70ff938653403bdac166fe93025b01852aba837e5f50e8",
-          "text": "Guarantee against expropriation"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 566.71,
-            "top": 249.6199975585938,
-            "x1": 738.5695359999997,
-            "bottom": 218.16202063041703
-          },
-          "content_hash": "52f298aa4d97965c14b08da505daed16b5239f82e8a3689a6ee89284a383fb9c",
-          "text": "Potential for long term procurement guarantee."
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 111.31,
-            "top": 267.6199975585938,
-            "x1": 287.9649999999999,
-            "bottom": 218.16202063041703
-          },
-          "content_hash": "ec882443a399e5285ed230f24e08c41f05a573d19f5676f0211e172f37c40009",
-          "text": "Exemption from income tax up to 8 - 10 years for enterprises inside IPs,"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 111.31,
-            "top": 333.6199975585938,
-            "x1": 291.025,
-            "bottom": 284.16607490666007
-          },
-          "content_hash": "8e97b03745de619b463c996495427b9bacb7b4604fd735a95a6e326dca28023f",
-          "text": "Exemption from income tax up to 15 years for Industry Park Developer,"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 347.78,
-            "top": 333.6199975585938,
-            "x1": 526.8499999999999,
-            "bottom": 266.16607490666007
-          },
-          "content_hash": "99996f8392e73a7c8e54972888fb42b484f0fabf1d60dedba7963dcde8370b8f",
-          "text": "Customs facilitation through bonded export factory and similar other schemes"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 566.71,
-            "top": 333.6199975585938,
-            "x1": 755.6049999999998,
-            "bottom": 266.16607490666007
-          },
-          "content_hash": "52bc7a0ff6eea0fb822a2b4e97b169b01b8e3f079e550b85a9991e9f0efe3478",
-          "text": "Public procurement: 25% price preference and 30% prepayment for firms manufacturing in Ethiopia,"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 813.12,
-            "top": 333.6199975585938,
-            "x1": 1004.735,
-            "bottom": 248.16607490666013
-          },
-          "content_hash": "7629bdaf9ddb0cd7b2c858df19e149933b378b8615c81ceb1d6f0a82dc00dd7b",
-          "text": "Expedited visa procedure expedited procedure of securing entry, work permit and certificate of residency"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 111.31,
-            "top": 401.1139975585938,
-            "x1": 302.83,
-            "bottom": 363.3692903762734
-          },
-          "content_hash": "4fa220dda6903072c9755fb3f936bcdd13645f12285c16d8a9aa8bcc0a4db877",
-          "text": "Fiscal Incentives tailored to investment"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 334.44,
-            "top": 401.7014695585938,
-            "x1": 525.9600000000002,
-            "bottom": 363.91929037627335
-          },
-          "content_hash": "041168bd2925a6ad4e3e6aa369e6dfcd31b7b1a7d61978fcc8668ba5afde0146",
-          "text": "Non-fiscal Incentives tailored to investment"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 555.65,
-            "top": 401.7014695585938,
-            "x1": 785.5461199999999,
-            "bottom": 363.91929037627335
-          },
-          "content_hash": "74bb90f27f87307dfc049cfe2988ee5fee478a92f36c034ef59feb4bb9a6b4bf",
-          "text": "Industry support targeting manufacturers"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 809.86,
-            "top": 400.6039975585938,
-            "x1": 937.8580000000005,
-            "bottom": 384.4592903762734
-          },
-          "content_hash": "329c240604c2288d141c095f4d3ff7aa4a31cedfab36cfcc5eae7426e098a373",
-          "text": "Miscellaneous"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 551.6666666666666,
-            "top": 453.2266642252604,
-            "x1": 591.6666666666666,
-            "bottom": 423.55999755859375
-          },
-          "content_hash": "570ee6dcb804e7a42e7d3e0d5914fe7ddcbda93704fc14b308bb1953e0b22841",
-          "text": "88"
-        },
-        {
-          "block_type": "text",
-          "page_number": 13,
-          "bbox": {
-            "x0": 807.0,
-            "top": 481.89333089192706,
-            "x1": 856.0,
-            "bottom": 467.89333089192706
-          },
-          "content_hash": "f9513541f8d981adce4d4b484e0290420d69a41d5310660c040a93d04d764a29",
-          "text": "(CO"
+          "content_hash": "52ae2e0427ef59e22d47dc0ecbad0312ef6637590b9db6b65375d1fb9b7f986c",
+          "text": "SKILL DEVELOPMENT"
         },
         {
           "block_type": "figure",
           "page_number": 13,
           "bbox": {
-            "x0": 797.903564453125,
-            "top": 482.96250915527344,
-            "x1": 856.126708984375,
-            "bottom": 419.8911590576172
-          },
-          "content_hash": "a895306e3d56b9762f859f806f44aa1d2cbb7b9b3e5d4a5d4398f1314f1f83d0",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "figure",
-          "page_number": 13,
-          "bbox": {
-            "x0": 542.09228515625,
-            "top": 491.7153091430664,
-            "x1": 609.1624755859375,
-            "bottom": 423.1744842529297
-          },
-          "content_hash": "a895306e3d56b9762f859f806f44aa1d2cbb7b9b3e5d4a5d4398f1314f1f83d0",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "figure",
-          "page_number": 13,
-          "bbox": {
-            "x0": 106.99055480957031,
-            "top": 496.13773345947266,
-            "x1": 181.3156280517578,
-            "bottom": 425.9201202392578
-          },
-          "content_hash": "a895306e3d56b9762f859f806f44aa1d2cbb7b9b3e5d4a5d4398f1314f1f83d0",
-          "caption": null,
-          "image_base64": null
-        },
-        {
-          "block_type": "figure",
-          "page_number": 13,
-          "bbox": {
-            "x0": 338.9141845703125,
-            "top": 501.28443145751953,
-            "x1": 413.0034484863281,
-            "bottom": 427.98219299316406
+            "x0": 85.025390625,
+            "top": 98.92523193359375,
+            "x1": 153.72398376464844,
+            "bottom": 26.3170166015625
           },
           "content_hash": "a895306e3d56b9762f859f806f44aa1d2cbb7b9b3e5d4a5d4398f1314f1f83d0",
           "caption": null,
@@ -3003,22 +2447,194 @@
           "block_type": "text",
           "page_number": 13,
           "bbox": {
-            "x0": 130.58,
-            "top": 551.4048775585937,
-            "x1": 1016.5525600000003,
-            "bottom": 526.3267657353894
+            "x0": 454.32,
+            "top": 101.06111755859376,
+            "x1": 1009.8435199999999,
+            "bottom": 35.08667689561037
           },
-          "content_hash": "9ea713db883f2e0403e5bd9f02927a5b0ce8dba5f43e89699fe9e454b33f64b5",
-          "text": "Proactive business environment - tailored incentives and support"
+          "content_hash": "9045dc43e235150ca39896c07d8540fe90c69205a7729d565e2639f8fb2755b3",
+          "text": "One Stop Services (OSS) including processing & issuance of permits, licenses, registration certificates, agreements, tax identification number, customs clearance, banking services."
+        },
+        {
+          "block_type": "text",
+          "page_number": 13,
+          "bbox": {
+            "x0": 204.6,
+            "top": 165.36399755859378,
+            "x1": 351.75,
+            "bottom": 149.21929037627336
+          },
+          "content_hash": "1b418b6a5e818f9eacc63197239b3018435c0d0873ece04ea293ddf6528cdf4d",
+          "text": "SUSTAINABILITY"
+        },
+        {
+          "block_type": "text",
+          "page_number": 13,
+          "bbox": {
+            "x0": 454.32,
+            "top": 167.08911755859378,
+            "x1": 997.1034000000003,
+            "bottom": 125.08467689561041
+          },
+          "content_hash": "03b242928e348aef168eeeb8e8ed9d80ed725607c348069e170ce55514ce09cd",
+          "text": "Health stations, fire brigade, expats accommodation and 24 hours security services"
         },
         {
           "block_type": "figure",
           "page_number": 13,
           "bbox": {
-            "x0": 14.465003967285156,
-            "top": 580.9289960861206,
-            "x1": 87.7899169921875,
-            "bottom": 522.0441360473633
+            "x0": 88.24250030517578,
+            "top": 176.7547607421875,
+            "x1": 149.2350616455078,
+            "bottom": 119.758056640625
+          },
+          "content_hash": "a895306e3d56b9762f859f806f44aa1d2cbb7b9b3e5d4a5d4398f1314f1f83d0",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 13,
+          "bbox": {
+            "x0": 204.6,
+            "top": 254.11399755859378,
+            "x1": 331.7879999999999,
+            "bottom": 216.3692903762734
+          },
+          "content_hash": "012655c00df603dc95ce8dd9903b441392bab4964953b974ca28916cfdf450f3",
+          "text": "VERTICALY INTEGERATED"
+        },
+        {
+          "block_type": "text",
+          "page_number": 13,
+          "bbox": {
+            "x0": 454.32,
+            "top": 257.0891175585938,
+            "x1": 1008.1893200000001,
+            "bottom": 191.1146768956104
+          },
+          "content_hash": "a85e54101d184dc5fdfd0f7a513803f3804fc5e533084d04cc93b331b0e99ddb",
+          "text": "Dedicated power with own sub-station and state of the art waste treatment facilities with a dedicated park administration and support system"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 13,
+          "bbox": {
+            "x0": 83.58287811279297,
+            "top": 265.25787353515625,
+            "x1": 154.26434326171875,
+            "bottom": 202.44659423828125
+          },
+          "content_hash": "a895306e3d56b9762f859f806f44aa1d2cbb7b9b3e5d4a5d4398f1314f1f83d0",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 13,
+          "bbox": {
+            "x0": 204.6,
+            "top": 340.5339975585938,
+            "x1": 285.6,
+            "bottom": 302.78929037627336
+          },
+          "content_hash": "482b2504327e30d0459dacdfd0ce9b47d1bbe5ba19efeee34fd67322304cc6ca",
+          "text": "EXPORT ORINTED"
+        },
+        {
+          "block_type": "text",
+          "page_number": 13,
+          "bbox": {
+            "x0": 454.32,
+            "top": 347.10911755859377,
+            "x1": 1005.0592799999996,
+            "bottom": 281.13467689561037
+          },
+          "content_hash": "8958952d3b8343dc959284f90780fe1d6dc3494deeb91ca2db78f1ab203490f5",
+          "text": "Ready for plug-and-play , equipped with all the necessary infrastructure including waste water treatment plants with joint calibration"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 13,
+          "bbox": {
+            "x0": 93.82684326171875,
+            "top": 347.7477722167969,
+            "x1": 143.90184020996094,
+            "bottom": 290.24285888671875
+          },
+          "content_hash": "a895306e3d56b9762f859f806f44aa1d2cbb7b9b3e5d4a5d4398f1314f1f83d0",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 13,
+          "bbox": {
+            "x0": 204.6,
+            "top": 423.0939975585938,
+            "x1": 352.722,
+            "bottom": 385.34929037627336
+          },
+          "content_hash": "58d3c885f7590953052cc7aa819b813a5ce3ef9b3c2c90cbd5ca380a0df1240c",
+          "text": "SECTOR SPECIALIZATION"
+        },
+        {
+          "block_type": "text",
+          "page_number": 13,
+          "bbox": {
+            "x0": 454.32,
+            "top": 437.1291175585938,
+            "x1": 1021.53224,
+            "bottom": 371.1506226193673
+          },
+          "content_hash": "aa7c6bc87a6283fe6f6169930ca1aca5bb39fd9d61d08f0dfda47fc4295348be",
+          "text": "Located along strategic economic corridors, connected to ports by electric driven railway lines and asphalt roads with Close proximity to abundant labor force"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 13,
+          "bbox": {
+            "x0": 103.3983383178711,
+            "top": 441.5902099609375,
+            "x1": 134.7661895751953,
+            "bottom": 367.73146057128906
+          },
+          "content_hash": "a895306e3d56b9762f859f806f44aa1d2cbb7b9b3e5d4a5d4398f1314f1f83d0",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 13,
+          "bbox": {
+            "x0": 57.408,
+            "top": 514.4228775585938,
+            "x1": 367.22508,
+            "bottom": 447.24319667461594
+          },
+          "content_hash": "347c192cf474a297f1a14d3fbf487e1095958167824feb1a7b98f7e2e9f08fd7",
+          "text": "Industrial park key characteristics"
+        },
+        {
+          "block_type": "text",
+          "page_number": 13,
+          "bbox": {
+            "x0": 425.11,
+            "top": 514.4228775585938,
+            "x1": 502.47087999999997,
+            "bottom": 483.9631966746159
+          },
+          "content_hash": "fc23a01fae104496e2f7474b629ba529eeb095dda545522102884a25eff8dcbf",
+          "text": "\u2026\u2026."
+        },
+        {
+          "block_type": "figure",
+          "page_number": 13,
+          "bbox": {
+            "x0": 14.417413711547852,
+            "top": 580.8575468063354,
+            "x1": 87.67879486083984,
+            "bottom": 522.9808959960938
           },
           "content_hash": "a895306e3d56b9762f859f806f44aa1d2cbb7b9b3e5d4a5d4398f1314f1f83d0",
           "caption": null,
@@ -3035,46 +2651,313 @@
           "block_type": "text",
           "page_number": 14,
           "bbox": {
-            "x0": 652.0618489583334,
-            "top": 128.06801350911456,
-            "x1": 693.6827799479166,
-            "bottom": 115.30373128255206
+            "x0": 111.31,
+            "top": 51.575997558593826,
+            "x1": 302.73999999999995,
+            "bottom": 38.122074906660146
           },
-          "content_hash": "89acd3d97b3b2697173cc33b0a58f97ad8909e9af944b8117543abd77ff8d2c8",
-          "text": "MHCHSK"
+          "content_hash": "67e374b36a1690d66cc33f06064074fba8c625537d88c73e4864d3dfa0a29186",
+          "text": "Full export duty exemption"
         },
         {
           "block_type": "text",
           "page_number": 14,
           "bbox": {
-            "x0": 731.0349934895834,
-            "top": 169.55194091796875,
-            "x1": 757.1814778645834,
-            "bottom": 140.83229573567706
+            "x0": 111.31,
+            "top": 81.57599755859383,
+            "x1": 250.82499999999993,
+            "bottom": 68.12207490666015
           },
-          "content_hash": "e7f33b500d36678f9277defce930b1db2cc86be70415fe03e21031b6af0917f8",
-          "text": "MAERSK"
+          "content_hash": "26e608fd1876c7bd3ae22b45c32d2b68529e2d519c4d2aa98e3bbb6ed69936ed",
+          "text": "Loss carry forward"
         },
         {
           "block_type": "text",
           "page_number": 14,
           "bbox": {
-            "x0": 720.896484375,
-            "top": 272.7299397786458,
-            "x1": 729.9677734375,
-            "bottom": 263.6885579427083
+            "x0": 813.12,
+            "top": 117.61746955859383,
+            "x1": 999.6599999999997,
+            "bottom": 14.122074906660146
           },
-          "content_hash": "11256630a43fefa451aa063192cf761191b87f4f8a11375eb5405418a5fd826b",
-          "text": "X"
+          "content_hash": "666752e032404a17d47687e6fe1ab9b4de5cbee97ce295dc06377fdc52746d62",
+          "text": "One-Stop Shop Service under the EIC - including pre-establishment licensing and registration and post-establishment after-care services"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 347.78,
+            "top": 153.59999755859383,
+            "x1": 530.825,
+            "bottom": 50.122074906660146
+          },
+          "content_hash": "47aa935cb59b12ccc486485d122b9815a6c4c4845207e7bae3e875435dbfae4f",
+          "text": "Relaxed Industrial park land regime - 60-80 years charge-free lease for IP Developers, discounted lease rate for IP Enterprises"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 566.71,
+            "top": 153.59999755859383,
+            "x1": 747.055,
+            "bottom": 104.14202063041705
+          },
+          "content_hash": "686ecab1c129e8bcdf32597d43ef4ccfa6ed76c7faefd68f3cd012998f3b744e",
+          "text": "Regional regulatory harmonization underway to catalyze regional trade"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 813.12,
+            "top": 165.59999755859383,
+            "x1": 967.9649999999998,
+            "bottom": 134.14607490666015
+          },
+          "content_hash": "4e5d582bf53250307a5fdffe455631d83ed4bbcfd8bbfdd3cf34e09b47ff6231",
+          "text": "Facilitation of market linkages"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 111.31,
+            "top": 201.59999755859383,
+            "x1": 307.7049999999999,
+            "bottom": 98.14202063041705
+          },
+          "content_hash": "1149a695dc8431c1601c0999ca9bdf612b2eb8981b39533c666cdba648144130",
+          "text": "Exemption from duties and other taxes on imports of machinery, equipment, construction materials, spare parts, raw materials and vehicles"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 347.78,
+            "top": 201.59999755859383,
+            "x1": 537.0799999999997,
+            "bottom": 170.14607490666015
+          },
+          "content_hash": "9ba98ebe97467f635cc9eaea5647f063891a8bf13238be4f0af0653b18da1878",
+          "text": "Guarantee for repatriation of funds"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 566.71,
+            "top": 201.59999755859383,
+            "x1": 711.895,
+            "bottom": 170.14607490666015
+          },
+          "content_hash": "32cb3db7a182c5bd143e1f75930db54088338173e483a7e818d2400d7549f0a9",
+          "text": "Fast-track medicine registration"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 813.12,
+            "top": 231.6374695585938,
+            "x1": 1003.8449999999999,
+            "bottom": 182.14607490666015
+          },
+          "content_hash": "5e74468600e27b8b9d5b606f8e0861f6b5e5f219ff63b84fc7af67ba0f167841",
+          "text": "Multiple entry visas for share holders and general managers"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 347.78,
+            "top": 249.6199975585938,
+            "x1": 482.8399999999999,
+            "bottom": 218.16202063041703
+          },
+          "content_hash": "1bb114d7d234684542a41bd70d094300127f370591192dce64525c9d13716c76",
+          "text": "Guarantee against expropriation"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 566.71,
+            "top": 249.6199975585938,
+            "x1": 738.5695359999997,
+            "bottom": 218.16202063041703
+          },
+          "content_hash": "6c86742214cc6d9d9171e643c8dea761af65a48e5ed60c9e5859e2fc8f62c998",
+          "text": "Potential for long term procurement guarantee."
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 111.31,
+            "top": 267.6199975585938,
+            "x1": 287.9649999999999,
+            "bottom": 218.16202063041703
+          },
+          "content_hash": "b57f2dd49f7845fa0e125a24e9e4043d3f28c4af5c1416836f6f3f226aec8b32",
+          "text": "Exemption from income tax up to 8 - 10 years for enterprises inside IPs,"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 111.31,
+            "top": 333.6199975585938,
+            "x1": 291.025,
+            "bottom": 284.16607490666007
+          },
+          "content_hash": "f41fa900e650ef5b6c2d0ccdf593bedf111cc2738c63d55e70ad5948205e7015",
+          "text": "Exemption from income tax up to 15 years for Industry Park Developer,"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 347.78,
+            "top": 333.6199975585938,
+            "x1": 526.8499999999999,
+            "bottom": 266.16607490666007
+          },
+          "content_hash": "9b976e8777b97ad6ee16c53b1d7a93c73c7f56e8a2347e7a3dd7a74a109d2e7c",
+          "text": "Customs facilitation through bonded export factory and similar other schemes"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 566.71,
+            "top": 333.6199975585938,
+            "x1": 755.6049999999998,
+            "bottom": 266.16607490666007
+          },
+          "content_hash": "e715883eefdde8ee5bc57e3820dbf9819cb8e3d271b294b23fb0289af16906e9",
+          "text": "Public procurement: 25% price preference and 30% prepayment for firms manufacturing in Ethiopia,"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 813.12,
+            "top": 333.6199975585938,
+            "x1": 1004.735,
+            "bottom": 248.16607490666013
+          },
+          "content_hash": "68baea934edc3589758133ff40eca9772e6596ec45637142035145641b6da15f",
+          "text": "Expedited visa procedure expedited procedure of securing entry, work permit and certificate of residency"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 111.31,
+            "top": 401.1139975585938,
+            "x1": 302.83,
+            "bottom": 363.3692903762734
+          },
+          "content_hash": "4c573edc2d66fbb22503653c319ffbe22451de1f659aa01ee1134b36207e5a22",
+          "text": "Fiscal Incentives tailored to investment"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 334.44,
+            "top": 401.7014695585938,
+            "x1": 525.9600000000002,
+            "bottom": 363.91929037627335
+          },
+          "content_hash": "1b970dc3215fa275f198e9e950c68932f366620ad66803f1d1f28581acf8614a",
+          "text": "Non-fiscal Incentives tailored to investment"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 555.65,
+            "top": 401.7014695585938,
+            "x1": 785.5461199999999,
+            "bottom": 363.91929037627335
+          },
+          "content_hash": "4d56a81c0584a0cb449d704a6df428c1cc2969ed9658f76221bf2a536b3fddd6",
+          "text": "Industry support targeting manufacturers"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 809.86,
+            "top": 400.6039975585938,
+            "x1": 937.8580000000005,
+            "bottom": 384.4592903762734
+          },
+          "content_hash": "33d6a89ffe3d92884c494cf798c457e06f8853f216b1818d049618524c233b99",
+          "text": "Miscellaneous"
+        },
+        {
+          "block_type": "text",
+          "page_number": 14,
+          "bbox": {
+            "x0": 550.0,
+            "top": 455.8933308919271,
+            "x1": 600.3333333333334,
+            "bottom": 422.89333089192706
+          },
+          "content_hash": "28e4229a0d26434a55e3fc1055e7d3ec3f4be6b9d4314e85a2f62f1c56b09a33",
+          "text": "86"
         },
         {
           "block_type": "figure",
           "page_number": 14,
           "bbox": {
-            "x0": 711.5576171875,
-            "top": 284.1626892089844,
-            "x1": 765.31396484375,
-            "bottom": 232.12246704101562
+            "x0": 797.903564453125,
+            "top": 482.96250915527344,
+            "x1": 856.126708984375,
+            "bottom": 419.8911590576172
+          },
+          "content_hash": "de9ab1c7b1ecf859f6646924644289c184ef75e4aa8358f80588aa141e156ba2",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "figure",
+          "page_number": 14,
+          "bbox": {
+            "x0": 542.09228515625,
+            "top": 491.7153091430664,
+            "x1": 609.1624755859375,
+            "bottom": 423.1744842529297
+          },
+          "content_hash": "de9ab1c7b1ecf859f6646924644289c184ef75e4aa8358f80588aa141e156ba2",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "figure",
+          "page_number": 14,
+          "bbox": {
+            "x0": 106.99055480957031,
+            "top": 496.13773345947266,
+            "x1": 181.3156280517578,
+            "bottom": 425.9201202392578
+          },
+          "content_hash": "de9ab1c7b1ecf859f6646924644289c184ef75e4aa8358f80588aa141e156ba2",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "figure",
+          "page_number": 14,
+          "bbox": {
+            "x0": 338.9141845703125,
+            "top": 501.28443145751953,
+            "x1": 413.0034484863281,
+            "bottom": 427.98219299316406
           },
           "content_hash": "de9ab1c7b1ecf859f6646924644289c184ef75e4aa8358f80588aa141e156ba2",
           "caption": null,
@@ -3084,48 +2967,129 @@
           "block_type": "text",
           "page_number": 14,
           "bbox": {
-            "x0": 720.3628743489584,
-            "top": 283.898681640625,
-            "x1": 761.98388671875,
-            "bottom": 272.7299397786458
+            "x0": 130.58,
+            "top": 551.4048775585937,
+            "x1": 1016.5525600000003,
+            "bottom": 526.3267657353894
           },
-          "content_hash": "861570112def364e4e00ea9c5b80270ad504fa75215e37c38b4b8bdda36ce2f1",
-          "text": "BXXI"
+          "content_hash": "3df5d21a4c362d1671ab82af168aead585abf7cb3a6b3d2e06fbfc0a7d5d89f6",
+          "text": "Proactive business environment - tailored incentives and support"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 14,
+          "bbox": {
+            "x0": 14.465003967285156,
+            "top": 580.9289960861206,
+            "x1": 87.7899169921875,
+            "bottom": 522.0441360473633
+          },
+          "content_hash": "de9ab1c7b1ecf859f6646924644289c184ef75e4aa8358f80588aa141e156ba2",
+          "caption": null,
+          "image_base64": null
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "layout_docling"
+    },
+    {
+      "page_number": 15,
+      "blocks": [
+        {
+          "block_type": "text",
+          "page_number": 15,
+          "bbox": {
+            "x0": 590.6975911458334,
+            "top": 81.26564534505212,
+            "x1": 604.0376383463541,
+            "bottom": 73.81980387369788
+          },
+          "content_hash": "6cec8f725287cb7ede8eb6442b91fcfbeba1ba2e53d02d56653fad5f31a0b915",
+          "text": "ptns"
         },
         {
           "block_type": "text",
-          "page_number": 14,
+          "page_number": 15,
+          "bbox": {
+            "x0": 772.6559244791666,
+            "top": 152.00103759765625,
+            "x1": 789.1975911458334,
+            "bottom": 131.79095458984375
+          },
+          "content_hash": "c20031ca54896a9e0151b117dc44c11859322d0458a061b33afe4ea4c65cabd6",
+          "text": "M3"
+        },
+        {
+          "block_type": "text",
+          "page_number": 15,
+          "bbox": {
+            "x0": 733.7029622395834,
+            "top": 167.95640055338544,
+            "x1": 756.6478678385416,
+            "bottom": 142.42783610026044
+          },
+          "content_hash": "00501c25e53f095d87b9f01aae2dfe4b91222892874769f03a86f2a70783f6ef",
+          "text": "AERSK"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 15,
+          "bbox": {
+            "x0": 711.5576171875,
+            "top": 284.1626892089844,
+            "x1": 765.31396484375,
+            "bottom": 232.12246704101562
+          },
+          "content_hash": "288223d640ae3ef9cebc3dbacf0baf9c9acb3b3a1dd7361056271aaa85b2bc5c",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 15,
+          "bbox": {
+            "x0": 721.9637044270834,
+            "top": 283.36684163411456,
+            "x1": 760.9166666666666,
+            "bottom": 274.32545979817706
+          },
+          "content_hash": "a26fe5f4d63bf682d4fbf5920a7a575bb7f95773919cf497d166d6622b1422ac",
+          "text": "DXXI"
+        },
+        {
+          "block_type": "text",
+          "page_number": 15,
           "bbox": {
             "x0": 792.1,
             "top": 289.2891175585938,
             "x1": 1054.18312,
             "bottom": 247.31467689561038
           },
-          "content_hash": "b4e477b2a58a4a3a09e9bd5ccfd78dd06595d9805a06d4fd39b14327f35af2e4",
+          "content_hash": "c5d8a1fd38441d9b295583ca2a9db4c74561bd598a032882f6b68fe83a84fa1c",
           "text": "35 minutes drive to Modjo dry port through expressway."
         },
         {
           "block_type": "text",
-          "page_number": 14,
+          "page_number": 15,
           "bbox": {
             "x0": 105.82,
             "top": 569.5365895585937,
             "x1": 420.2630079999997,
             "bottom": 527.5146768956104
           },
-          "content_hash": "d071a24e066b588fa4fa5b68bcacbd642c8c3c71bd6e2118f188d39cd8cc1099",
+          "content_hash": "7299a8e3552a86cbf730826d0a96b7578165b3d23573e9d2fca57b406a9d28c0",
           "text": "10 minutes drive from Addis Ababa International Airport."
         },
         {
           "block_type": "figure",
-          "page_number": 14,
+          "page_number": 15,
           "bbox": {
             "x0": 34.916526794433594,
             "top": 573.2444362640381,
             "x1": 92.41474151611328,
             "bottom": 513.3769912719727
           },
-          "content_hash": "de9ab1c7b1ecf859f6646924644289c184ef75e4aa8358f80588aa141e156ba2",
+          "content_hash": "288223d640ae3ef9cebc3dbacf0baf9c9acb3b3a1dd7361056271aaa85b2bc5c",
           "caption": null,
           "image_base64": null
         }
