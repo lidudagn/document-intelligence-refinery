@@ -28,6 +28,7 @@ if os.getenv("GOOGLE_API_KEY") and not os.getenv("GEMINI_API_KEY"):
 from src.models.extracted_document import ExtractedDocument
 from src.agents.chunker import ChunkingEngine
 from src.agents.indexer import PageIndexBuilder
+from src.models.page_index import PageIndex
 from src.agents.vector_store import VectorStoreClient
 from src.agents.fact_table import FactTableExtractor, FactTableDB
 from src.agents.query_agent import QueryAgent
@@ -59,30 +60,47 @@ def run_pipeline(json_path: str, config: dict = None) -> tuple:
 
     print(f"\n--- Processing {doc.document_id} ---")
 
-    # 1. Chunking
-    chunker = ChunkingEngine(config)
-    ldus = chunker.process_document(doc)
-    print(f"[1] Chunking: {len(ldus)} chunks generated")
-
-    # 2. Indexing
-    indexer = PageIndexBuilder(config)
-    page_index = indexer.build_index(doc.document_id, ldus)
-    print(f"[2] Indexing: PageIndex tree built with {len(page_index.root_sections)} root sections")
-
-    # 3. Vector Store
-    vstore = VectorStoreClient(config)
-    vstore.ingest_ldus(doc.document_id, ldus)
-    print(f"[3] Vector Store: LDUs ingested via dedup")
-
-    # 4. FactTable
+    # Path paths
+    index_path = Path(f".refinery/pageindex/{doc.document_id}_index.json")
     fact_db_path = f".refinery/fact_tables/{doc.document_id}.db"
-    extractor = FactTableExtractor(config)
-    facts = extractor.extract_from_ldus(doc.document_id, ldus, fact_db_path)
-    print(f"[4] FactTable: Extracted {len(facts)} structured facts")
     
-    fact_db = FactTableDB(fact_db_path)
+    vstore = VectorStoreClient(config)
     
-    doc_name = getattr(doc, "source_filename", doc.document_id)
+    if index_path.exists() and os.path.exists(fact_db_path):
+        print(f"[*] Found existing PageIndex and FactTable. Skipping heavy processing.")
+        # Load PageIndex
+        with open(index_path, "r") as f:
+            idx_data = json.load(f)
+        page_index = PageIndex(**idx_data)
+        
+        # We don't need to re-chunk or re-ingest if the index and fact table exist.
+        # ldus is not used in batch/interactive/audit modes.
+        ldus = [] 
+        
+        fact_db = FactTableDB(fact_db_path)
+    else:
+        # 1. Chunking
+        chunker = ChunkingEngine(config)
+        ldus = chunker.process_document(doc)
+        print(f"[1] Chunking: {len(ldus)} chunks generated")
+
+        # 2. Indexing
+        indexer = PageIndexBuilder(config)
+        page_index = indexer.build_index(doc.document_id, ldus)
+        print(f"[2] Indexing: PageIndex tree built with {len(page_index.root_sections)} root sections")
+
+        # 3. Vector Store
+        vstore.ingest_ldus(doc.document_id, ldus)
+        print(f"[3] Vector Store: LDUs ingested via dedup")
+
+        # 4. FactTable
+        extractor = FactTableExtractor(config)
+        facts = extractor.extract_from_ldus(doc.document_id, ldus, fact_db_path)
+        print(f"[4] FactTable: Extracted {len(facts)} structured facts")
+        
+        fact_db = FactTableDB(fact_db_path)
+    
+    doc_name = os.path.basename(doc.source_path) if doc.source_path else doc.document_id
     return doc.document_id, doc_name, ldus, page_index, vstore, fact_db
 
 
