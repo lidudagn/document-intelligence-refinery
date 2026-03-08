@@ -33,6 +33,11 @@ try:
 except ImportError:
     LANGGRAPH_AVAILABLE = False
 
+try:
+    from tenacity import retry, wait_exponential, stop_after_attempt, retry_if_exception_type
+except ImportError:
+    pass
+
 
 # ---------------------------------------------------------------------------
 # State
@@ -59,6 +64,7 @@ class QueryState(TypedDict, total=False):
 _NUMERIC_PATTERNS = re.compile(
     r"(how much|how many|total|sum|amount|revenue|income|expense|cost|"
     r"profit|loss|tax|budget|capital|expenditure|billion|million|"
+    r"financial|highlight|numerical|performance|metric|trend|report|"
     r"\$|etb|birr|\d+[.,]\d+|\d{4,})",
     re.IGNORECASE,
 )
@@ -253,7 +259,12 @@ class QueryAgent:
             return []
 
         tree_text = ""
-        for sec in page_index.root_sections:
+        # Filter out noisy 1-word sections and limit to top segments for navigation
+        valid_sections = [
+            s for s in page_index.root_sections 
+            if len(s.title.split()) > 1 or s.title in ["Introduction", "Vision", "Mission", "Profile", "CONTENTS"]
+        ]
+        for sec in valid_sections:
             tree_text += f"- {sec.title} (pages {sec.page_start}-{sec.page_end})\n"
             tree_text += f"  Summary: {sec.summary}\n"
             tree_text += f"  Entities: {', '.join(sec.key_entities)}\n\n"
@@ -268,7 +279,9 @@ Return ONLY valid JSON: {{"relevant_sections": ["Title 1", "Title 2"]}}"""
         cached = self.cache.get(self.model, prompt)
         if cached:
             try:
-                return self._parse_json_response(cached).get("relevant_sections", [])
+                res = self._parse_json_response(cached)
+                if isinstance(res, list): return res
+                return res.get("relevant_sections", [])
             except Exception:
                 pass
 
@@ -277,11 +290,13 @@ Return ONLY valid JSON: {{"relevant_sections": ["Title 1", "Title 2"]}}"""
                 model=self.model,
                 messages=[{"role": "user", "content": prompt}],
                 response_format={"type": "json_object"},
-                timeout=10,
+                timeout=60,
             )
             content = response.choices[0].message.content
             self.cache.put(self.model, prompt, content)
-            return self._parse_json_response(content).get("relevant_sections", [])
+            res = self._parse_json_response(content)
+            if isinstance(res, list): return res
+            return res.get("relevant_sections", [])
         except Exception as e:
             logger.warning(f"PageIndex traversal failed: {e}")
             return []
@@ -354,20 +369,38 @@ Return ONLY valid JSON: {{"relevant_sections": ["Title 1", "Title 2"]}}"""
         else:
             return []
 
-        # Section boost
+        # Section boost and Page Bias
+        is_summary_query = any(w in query.lower() for w in ["summary", "objective", "overview", "highlight", "overall"])
+        
         for item in merged:
-            section = item.get("metadata", {}).get("parent_section", "")
+            meta = item.get("metadata", {})
+            section = meta.get("parent_section", "")
+            
+            # Base fused score
+            base_score = item.get("fused_score", item.get("score", 0))
+            
+            # Section boost
             if priority_sections and section in priority_sections:
-                item["score"] = item.get("fused_score", item.get("score", 0)) * self.section_boost
-            else:
-                item["score"] = item.get("fused_score", item.get("score", 0))
+                base_score *= self.section_boost
+                
+            # Page Bias: Boost early pages for summary queries
+            if is_summary_query:
+                try:
+                    # page_refs is comma string like "1,2"
+                    first_page = int(meta.get("page_refs", "999").split(",")[0])
+                    if first_page <= 15:
+                        base_score *= 1.3 # Boost early pages for summaries
+                except Exception:
+                    pass
 
-            # Penalize tiny fragments that lack enough context for synthesis
+            # Penalize tiny fragments
             content_len = len(item.get("content", ""))
             if content_len < 50:
-                item["score"] *= 0.3  # heavily deprioritize fragments
+                base_score *= 0.3
             elif content_len < 100:
-                item["score"] *= 0.6  # mild penalty for short chunks
+                base_score *= 0.6
+                
+            item["score"] = base_score
 
         merged.sort(key=lambda x: x.get("score", 0), reverse=True)
         return merged[:self.top_k]
@@ -484,9 +517,9 @@ Return ONLY valid JSON: {{"relevant_sections": ["Title 1", "Title 2"]}}"""
         if len(evidence_text) > self.max_tokens * 4:  # rough char-to-token ratio
             evidence_text = evidence_text[:self.max_tokens * 4]
 
-        prompt = f"""Based ONLY on the following evidence, answer the query.
-For every claim, cite the source [Source N, page X].
-If the evidence is insufficient, say "Information not found in the document."
+        prompt = f"""Based ONLY on the following evidence, answer the query in a clear and helpful manner.
+For every claim, cite its source using [Source N, page X]. 
+If the evidence provided is completely insufficient to answer the query, say "Information not found in the document."
 
 Query: {query}
 
@@ -510,7 +543,7 @@ Answer:"""
                 response = completion(
                     model=self.model,
                     messages=[{"role": "user", "content": prompt}],
-                    timeout=30,
+                    timeout=60,
                 )
                 answer_text = response.choices[0].message.content
                 self.cache.put(self.model, prompt, answer_text)

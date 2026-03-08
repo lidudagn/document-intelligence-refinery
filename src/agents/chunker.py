@@ -1,6 +1,7 @@
 import hashlib
 import json
 import logging
+import re
 from typing import List, Optional, Any
 
 from src.models.ldu import LDU, ChunkType, BoundingBox
@@ -40,6 +41,23 @@ class ChunkingEngine:
         self.config = config.get("chunking", {})
         self.max_tokens = self.config.get("max_tokens_per_chunk", 512)
         self.validator = ChunkValidator()
+
+    # --- Cross-reference patterns (Rule 5) ---
+    _XREF_PATTERN = re.compile(
+        r"(?:see|refer\s+to|as\s+(?:shown|described|noted)\s+in)\s+"
+        r"(Table|Figure|Section|Appendix|Annex|Chart|Exhibit)\s+"
+        r"([A-Z0-9][A-Z0-9.\-]*)",
+        re.IGNORECASE,
+    )
+
+    @staticmethod
+    def _is_list_item(text: str) -> bool:
+        """Detect if text begins with a list marker (numbered or bulleted)."""
+        stripped = text.strip()
+        # 1. or 1) or (1) or a) or a. or (a) or i. or ii.
+        if re.match(r'^(?:\d+[.)]|\([a-z0-9]+\)|[a-z][.)\s]|[ivxlc]+[.)\s]|[-•●▪▸➤])', stripped, re.IGNORECASE):
+            return True
+        return False
         
     def _compute_hash(self, page_refs: List[int], bbox: Optional[BoundingBox], text: str) -> str:
         """
@@ -130,21 +148,27 @@ class ChunkingEngine:
         current_chunk_tokens = 0
         current_chunk_pages = set()
         current_chunk_bbox: Optional[BoundingBox] = None
+        current_chunk_type: ChunkType = ChunkType.TEXT
+        
+        def _page_ref(page_number: int) -> int:
+            """Convert 0-indexed page numbers to 1-indexed for LDU."""
+            return page_number + 1
         
         def flush_text_chunk():
-            nonlocal current_chunk_text, current_chunk_tokens, current_chunk_pages, current_chunk_bbox
+            nonlocal current_chunk_text, current_chunk_tokens, current_chunk_pages, current_chunk_bbox, current_chunk_type
             if not current_chunk_text:
                 return
                 
             merged_text = "\n".join(current_chunk_text)
-            c_hash = self._compute_hash(sorted(list(current_chunk_pages)), current_chunk_bbox, merged_text)
+            page_refs_1indexed = sorted(list(current_chunk_pages))
+            c_hash = self._compute_hash(page_refs_1indexed, current_chunk_bbox, merged_text)
             
             ldu = LDU(
                 chunk_id=f"{doc.document_id}_chk_{len(ldus)}",
                 document_id=doc.document_id,
                 content=merged_text,
-                chunk_type=ChunkType.TEXT,
-                page_refs=sorted(list(current_chunk_pages)),
+                chunk_type=current_chunk_type,
+                page_refs=page_refs_1indexed,
                 bounding_box=current_chunk_bbox,
                 parent_section=active_parent_section,
                 token_count=current_chunk_tokens,
@@ -157,16 +181,58 @@ class ChunkingEngine:
             current_chunk_tokens = 0
             current_chunk_pages = set()
             current_chunk_bbox = None
+            current_chunk_type = ChunkType.TEXT
 
         for page in doc.pages:
+            page_1idx = _page_ref(page.page_number)
             # Pre-processing pass: merge consecutive layout text fragments
             merged_blocks = self._merge_text_blocks(page.blocks)
             
-            for block in merged_blocks:
+            for idx, block in enumerate(merged_blocks):
                 
-                # Handling Tables (Rule 1: tables must not split)
+                # -----------------------------------------------------------
+                # Rule 2: Figure Captions bind to parent figure
+                # -----------------------------------------------------------
+                if block.block_type == "figure":
+                    flush_text_chunk()
+                    caption = getattr(block, "caption", None) or ""
+                    # Look ahead for caption-like text block
+                    if not caption and idx + 1 < len(merged_blocks):
+                        next_block = merged_blocks[idx + 1]
+                        next_text = getattr(next_block, "text", "")
+                        if next_block.block_type == "text" and next_text.strip():
+                            first_line = next_text.strip().split("\n")[0]
+                            if re.match(r'^(?:Figure|Fig\.?|Image|Photo|Diagram|Chart)\s', first_line, re.IGNORECASE):
+                                caption = next_text.strip()
+                    
+                    fig_content = caption if caption else "[Figure]"
+                    bbox_obj = None
+                    if hasattr(block, "bbox") and block.bbox:
+                        bbox_obj = BoundingBox(
+                            x0=min(block.bbox.x0, block.bbox.x1), top=min(block.bbox.top, block.bbox.bottom),
+                            x1=max(block.bbox.x0, block.bbox.x1), bottom=max(block.bbox.top, block.bbox.bottom)
+                        )
+                    c_hash = self._compute_hash([page_1idx], bbox_obj, fig_content)
+                    ldu = LDU(
+                        chunk_id=f"{doc.document_id}_chk_{len(ldus)}",
+                        document_id=doc.document_id,
+                        content=fig_content,
+                        chunk_type=ChunkType.FIGURE_CAPTION,
+                        page_refs=[page_1idx],
+                        bounding_box=bbox_obj,
+                        parent_section=active_parent_section,
+                        token_count=len(fig_content.split()),
+                        content_hash=c_hash,
+                        metadata={"has_caption": bool(caption)}
+                    )
+                    ldus.append(ldu)
+                    continue
+                
+                # -----------------------------------------------------------
+                # Rule 1: Tables must not split
+                # -----------------------------------------------------------
                 if block.block_type == "table":
-                    flush_text_chunk() # Flush pending text before a table
+                    flush_text_chunk()
                     
                     table_text = ""
                     if hasattr(block, "headers") and block.headers:
@@ -182,16 +248,16 @@ class ChunkingEngine:
                             x1=max(block.bbox.x0, block.bbox.x1), bottom=max(block.bbox.top, block.bbox.bottom)
                         )
                     
-                    c_hash = self._compute_hash([page.page_number], bbox_obj, table_text)
+                    c_hash = self._compute_hash([page_1idx], bbox_obj, table_text)
                     ldu = LDU(
                         chunk_id=f"{doc.document_id}_chk_{len(ldus)}",
                         document_id=doc.document_id,
                         content=table_text,
                         chunk_type=ChunkType.TABLE,
-                        page_refs=[page.page_number],
+                        page_refs=[page_1idx],
                         bounding_box=bbox_obj,
                         parent_section=active_parent_section,
-                        token_count=len(table_text.split()), # rough estimate
+                        token_count=len(table_text.split()),
                         content_hash=c_hash,
                         metadata={"raw_headers": getattr(block, "headers", []), "raw_rows": getattr(block, "rows", [])}
                     )
@@ -206,12 +272,11 @@ class ChunkingEngine:
                 # Heuristic: Detect Headers (very short, uppercase or Title Case)
                 words = text.split()
                 if len(words) < 10 and (text.isupper() or text.istitle()):
-                    flush_text_chunk() # Flush previous chunk
+                    flush_text_chunk()
                     active_parent_section = text.strip()
-                    # We start a NEW chunk for this header and subsequent text
                     current_chunk_text.append(text)
                     current_chunk_tokens += int(len(words) * 1.3)
-                    current_chunk_pages.add(page.page_number)
+                    current_chunk_pages.add(page_1idx)
                     if hasattr(block, "bbox") and block.bbox:
                         b = block.bbox
                         if current_chunk_bbox is None:
@@ -219,14 +284,43 @@ class ChunkingEngine:
                                 x0=min(b.x0, b.x1), top=min(b.top, b.bottom), 
                                 x1=max(b.x0, b.x1), bottom=max(b.top, b.bottom)
                             )
-                        else:
-                            # Usually this is the first block, so it just sets it
-                            pass
-                            
-                    flush_text_chunk() # Immediately flush the header as its OWN chunk 
-                                       # so that subsequent body text is split!
+                    flush_text_chunk()
                     continue
-                    
+                
+                # -----------------------------------------------------------
+                # Rule 3: Numbered lists stay grouped
+                # -----------------------------------------------------------
+                if self._is_list_item(text):
+                    # If we have a non-list chunk pending, flush it first
+                    if current_chunk_text and current_chunk_type != ChunkType.LIST:
+                        flush_text_chunk()
+                    current_chunk_type = ChunkType.LIST
+                    est_tokens = int(len(words) * 1.3)
+                    if current_chunk_tokens + est_tokens > self.max_tokens:
+                        flush_text_chunk()
+                        current_chunk_type = ChunkType.LIST
+                    current_chunk_text.append(text)
+                    current_chunk_tokens += est_tokens
+                    current_chunk_pages.add(page_1idx)
+                    if hasattr(block, "bbox") and block.bbox:
+                        b = block.bbox
+                        if current_chunk_bbox is None:
+                            current_chunk_bbox = BoundingBox(
+                                x0=min(b.x0, b.x1), top=min(b.top, b.bottom),
+                                x1=max(b.x0, b.x1), bottom=max(b.top, b.bottom)
+                            )
+                        else:
+                            current_chunk_bbox.x0 = min(current_chunk_bbox.x0, b.x0)
+                            current_chunk_bbox.top = min(current_chunk_bbox.top, b.top)
+                            current_chunk_bbox.x1 = max(current_chunk_bbox.x1, b.x1)
+                            current_chunk_bbox.bottom = max(current_chunk_bbox.bottom, b.bottom)
+                    continue
+                
+                # --- Regular text block ---
+                # If we were accumulating list items, flush them
+                if current_chunk_type == ChunkType.LIST:
+                    flush_text_chunk()
+                
                 # rough token estimate (1 word ~= 1.3 tokens)
                 est_tokens = int(len(words) * 1.3)
                 
@@ -235,7 +329,7 @@ class ChunkingEngine:
                     
                 current_chunk_text.append(text)
                 current_chunk_tokens += est_tokens
-                current_chunk_pages.add(page.page_number)
+                current_chunk_pages.add(page_1idx)
                 
                 # Expand bounding box
                 if hasattr(block, "bbox") and block.bbox:
@@ -251,9 +345,40 @@ class ChunkingEngine:
                         current_chunk_bbox.x1 = max(current_chunk_bbox.x1, b.x1)
                         current_chunk_bbox.bottom = max(current_chunk_bbox.bottom, b.bottom)
                         
-        flush_text_chunk() # final flush
+        flush_text_chunk()  # final flush
+        
+        # -----------------------------------------------------------
+        # Rule 5: Cross-reference resolution (post-pass)
+        # -----------------------------------------------------------
+        self._resolve_cross_references(ldus)
         
         if self.config.get("enforce_rules", True):
             self.validator.validate(ldus, self.config)
             
         return ldus
+
+    def _resolve_cross_references(self, ldus: List[LDU]) -> None:
+        """Rule 5: Detect cross-references like 'See Table 3' and link LDUs."""
+        # Build a lookup: section/table/figure title fragments -> chunk_id
+        title_index = {}
+        for ldu in ldus:
+            if ldu.chunk_type == ChunkType.TABLE:
+                title_index[f"table_{ldu.chunk_id}"] = ldu.chunk_id
+            elif ldu.chunk_type == ChunkType.FIGURE_CAPTION:
+                title_index[f"figure_{ldu.chunk_id}"] = ldu.chunk_id
+            if ldu.parent_section:
+                title_index[ldu.parent_section.lower().strip()] = ldu.chunk_id
+        
+        for ldu in ldus:
+            matches = self._XREF_PATTERN.findall(ldu.content)
+            for ref_type, ref_id in matches:
+                ref_key = f"{ref_type.lower()}_{ref_id.lower()}"
+                # Try to find a matching LDU by approximate key
+                for title_key, target_id in title_index.items():
+                    if ref_key in title_key or ref_id.lower() in title_key:
+                        if target_id != ldu.chunk_id:
+                            ldu.relationships.append({
+                                "id": target_id,
+                                "type": f"references_{ref_type.lower()}"
+                            })
+                            break

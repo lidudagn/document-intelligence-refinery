@@ -19,17 +19,18 @@ def test_chunking_deterministic_hash(chunker):
         source_path="x.pdf",
         pages=[
             ExtractedPage(
-                page_number=1,
+                page_number=0,  # 0-indexed (real extraction uses 0-indexed)
                 strategy_used="fast_text",
                 blocks=[
-                    TextBlock(page_number=1, text="Hello world", content_hash="x", bbox=BoundingBox(x0=0, top=0, x1=10, bottom=10))
+                    TextBlock(page_number=0, text="Hello world", content_hash="x", bbox=BoundingBox(x0=0, top=0, x1=10, bottom=10))
                 ]
             )
         ]
     )
     ldus = chunker.process_document(doc)
     assert len(ldus) == 1
-    # Hash should be stable for exact identical inputs
+    # Chunker converts 0-indexed -> 1-indexed, so page_refs=[1]
+    assert ldus[0].page_refs == [1]
     assert ldus[0].content_hash == chunker._compute_hash([1], BoundingBox(x0=0, top=0, x1=10, bottom=10), "Hello world")
 
 def test_tables_must_not_split(chunker):
@@ -39,11 +40,11 @@ def test_tables_must_not_split(chunker):
         source_path="x.pdf",
         pages=[
             ExtractedPage(
-                page_number=1,
+                page_number=0,
                 strategy_used="fast_text",
                 blocks=[
                     TableBlock(
-                        page_number=1,
+                        page_number=0,
                         headers=["A", "B"],
                         rows=[["1", "2"] * 20], # make it large
                         content_hash="y"
@@ -55,6 +56,7 @@ def test_tables_must_not_split(chunker):
     ldus = chunker.process_document(doc)
     assert len(ldus) == 1
     assert ldus[0].chunk_type == ChunkType.TABLE
+    assert ldus[0].page_refs == [1]  # 0-indexed -> 1-indexed
     
 def test_headers_propagate(chunker):
     """Rule 4: Section headers become parent_section metadata."""
@@ -63,17 +65,16 @@ def test_headers_propagate(chunker):
         source_path="x.pdf",
         pages=[
             ExtractedPage(
-                page_number=1,
+                page_number=0,
                 strategy_used="fast_text",
                 blocks=[
-                    TextBlock(page_number=1, text="INTRODUCTION", content_hash="h1"), # Header heuristic trigger
-                    TextBlock(page_number=1, text="This is the first paragraph.", content_hash="p1")
+                    TextBlock(page_number=0, text="INTRODUCTION", content_hash="h1"),
+                    TextBlock(page_number=0, text="This is the first paragraph.", content_hash="p1")
                 ]
             )
         ]
     )
     ldus = chunker.process_document(doc)
-    # The header triggers a flush, so "INTRODUCTION" should be captured.
-    # The subsequent text will have parent_section="INTRODUCTION"
     assert len(ldus) == 2
     assert ldus[1].parent_section == "INTRODUCTION"
+    assert all(ldu.page_refs == [1] for ldu in ldus)

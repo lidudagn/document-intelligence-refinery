@@ -82,7 +82,7 @@ class PageIndexBuilder:
                 model=self.model,
                 messages=[{"role": "user", "content": prompt}],
                 response_format={"type": "json_object"},
-                timeout=10 # Fail fast if API hangs
+                timeout=60 # Increased for OpenRouter stability
             )
             
             content = response.choices[0].message.content
