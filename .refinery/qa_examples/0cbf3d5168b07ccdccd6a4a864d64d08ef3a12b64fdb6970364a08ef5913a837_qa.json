@@ -1,0 +1,270 @@
+{
+  "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+  "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+  "qa_pairs": [
+    {
+      "answer": "Based on the provided evidence, it is difficult to determine the overall summary or primary objective of the document. The evidence consists of excerpts from the \"NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2024\" of the Commercial Bank of Ethiopia [Source 5, page 49] [Source 6, page 59], which discuss accounting policies related to financial assets and liabilities [Source 5, page 49] [Source 6, page 59], and events after the reporting period [Source 4, page 160].\n\nHowever, without the entire document or a more comprehensive overview, it is impossible to provide a well informed summary/objective.\n",
+      "query_text": "What is the overall summary or primary objective of this document?",
+      "citations": [
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 43,
+          "bbox": [
+            36.0,
+            277.7,
+            561.9,
+            819.4
+          ],
+          "content_hash": "944009d981ac126422521f6190c452c0a77ea8b5c34ee733837d79247e8416a8",
+          "extracted_text": "\u00c2  Fair value through other comprehensive income (FVOCI); \u00c2  Fair value through profit or loss (FVTPL); or \u00c2  Designated at FVTPL. Classification of debt instruments is determined based on: (i) The business model under which the asset is held; and (ii) The contractual cash flow characteristics of the instrument. Business model assessment Business model assessment involves determining how financial assets are managed in order to generate cash flows. The Group\u2019s business model assessment is based "
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 42,
+          "bbox": [
+            36.0,
+            532.7,
+            561.9,
+            792.0
+          ],
+          "content_hash": "633fefbf4f2b2c7ff1749400af70ff6bb300803d40b9490d9e2419ab1dc3acc3",
+          "extracted_text": "\u00c2  Fair value through other comprehensive income (FVOCI); \u00c2  Fair value through profit or loss (FVTPL); \u00c2  Elected at fair value through other comprehensive income (equities only); or \u00c2  Designated at FVTPL. Financial assets include both debt and equity instruments. A financial asset is measured at amortised cost if it meets both of the following conditions and is not designated as at FVTPL: \u00c2  The asset is held within a business model whose objective is to hold assets to collect contractual cas"
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 46,
+          "bbox": [
+            36.0,
+            176.0,
+            561.9,
+            341.2
+          ],
+          "content_hash": "f9455e60be10d69c0cf96e6b30adfc9d9b9c7d7fcf43d2d483c7559effdf6345",
+          "extracted_text": "Equity instruments measured at FVOCI At initial recognition, there is an irrevocable option for the Group to classify non-trading equity instruments at FVOCI. This election is used for certain equity investments for strategic or longer-term investment purposes. This election is made on an instrument-by-instrument basis and is not available to equity instruments that are held for trading purposes. Gains and losses on these instruments including when derecognized/sold are recorded in OCI and are n"
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 160,
+          "bbox": [
+            36.0,
+            144.9,
+            561.9,
+            185.7
+          ],
+          "content_hash": "b7e21bf72e93efa2de204798bf1933a8c6ce9b65bf1d465c80088144d6c6125e",
+          "extracted_text": "There are no material facts or circumstances that have occurred between the accounting date and the issuance of this financial statement that require adjustments. However, it is important to note the following events that occurred after the reporting period:"
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 49,
+          "bbox": [
+            36.0,
+            53.2,
+            561.9,
+            819.4
+          ],
+          "content_hash": "5a25a4fe7a1f5d4c067b2c6a553354e3c94531243c854f7675036da2bc01609e",
+          "extracted_text": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2024 (4) SIGNIFICANT ACCOUNTING POLICIES  - continued (c)  Financial assets and financial liabilitie - continued financial assets carried at FVOCI are credit-impaired. A financial asset is \u2018credit-impaired\u2019 when one or more events that have a detrimental impact on the estimated future cash flows of the financial asset have occurred. Evidence that a financial asset is credit-impaired includes the following observable data: "
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 59,
+          "bbox": [
+            36.0,
+            53.2,
+            561.9,
+            390.6
+          ],
+          "content_hash": "4ac0dbf54fb5a9651de862115adc921dc3343b89bd53375fc86da83ba504d225",
+          "extracted_text": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2024 (4) SIGNIFICANT ACCOUNTING POLICIES  - continued (w) New standards, amendments and interpretations - continued the assets transferred do not meet the definition of a business, a partial gain to the extent of unrelated investors\u2019 interests in the associate or joint venture is recognised. The definition of a business is crucial in determining the extent of the gain to be recognised. When a parent loses control of a subs"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.481,
+      "retrieval_method": "hybrid_search+structured_query",
+      "evidence_bundle_hash": "9cf67dcf29b5a1f78f303775c72f32942ec53037e3cca93e142c624b528bb5b6"
+    },
+    {
+      "answer": "The document mentions \"HIGHLIGHTS OF CBE\u2019S FINANCIAL STATEMENTS\" [Source 1, page 4]. However, the details of these highlights are not provided in the given text. The document also contains a SQL fact that states the Group's share of total comprehensive income is 47,052,414 [SQL Fact, page 98].\n",
+      "query_text": "What are the key financial or numerical highlights mentioned?",
+      "citations": [
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 4,
+          "bbox": [
+            68.1,
+            432.0,
+            312.7,
+            444.0
+          ],
+          "content_hash": "0adfae38be38475c13365eae40091ca9087e86bee8947c70e2efe479e5886a45",
+          "extracted_text": "2  HIGHLIGHTS OF CBE\u2019S FINANCIAL STATEMENTS"
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 46,
+          "bbox": [
+            36.0,
+            364.4,
+            561.9,
+            791.3
+          ],
+          "content_hash": "0818b1e3d7f573e2cdb119bda3d46e82323a6436ab1eb6e67b6a049669f56c62",
+          "extracted_text": "Financial assets are not reclassified subsequent to their initial recognition, except in the period after the Group changes its business model for managing financial assets. Classification and measurement of financial liabilities The Group classifies its financial liabilities, other than financial guarantees and loan commitments, as measured at amortised cost. (iii) Derecognition Financial assets: The Group derecognizes a financial asset when the contractual rights to the cash flows from the fin"
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 130,
+          "bbox": [
+            54.1,
+            60.7,
+            116.7,
+            490.0
+          ],
+          "content_hash": "58e4bfafe52fbdd73bcfa67b48598983536e7d259e2fa8ba7f64e96b621ada0f",
+          "extracted_text": "NOTES TO THE SEPARATE FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2024\nThe table below shows the carrying amounts and fair values of financial assets and financial liabilities, including their levels in the"
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 47,
+          "bbox": [
+            36.0,
+            53.2,
+            561.9,
+            819.4
+          ],
+          "content_hash": "0f3b847644407bfb9040af81e762c1e4593dcd1d7329a6196acc968d32ede0f6",
+          "extracted_text": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2024 (4) SIGNIFICANT ACCOUNTING POLICIES  - continued (c)  Financial assets and financial liabilitie - continued (iv) Modifications of financial assets and financial liabilities Financial assets If the terms of a financial asset are modified, the Group evaluates whether the cash flows of the modified asset are substantially different. If the cash flows are substantially different, then the contractual rights to cash flows "
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 45,
+          "bbox": [
+            36.0,
+            53.2,
+            561.9,
+            675.7
+          ],
+          "content_hash": "a8fa7f260f22866b869a64e7349d6b18c5d57fb57abb12773f358f0a3d96ce5f",
+          "extracted_text": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2024 (4) SIGNIFICANT ACCOUNTING POLICIES  - continued (c)  Financial assets and financial liabilitie - continued unrealized gains and losses on debt instruments measured at FVOCI are recorded in other comprehensive income (OCI), unless the instrument is designated in a fair value hedge relationship. When designated in a fair value hedge relationship, any changes in fair value due to changes in the hedged risk are recognize"
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 31,
+          "bbox": [
+            42.3,
+            501.2,
+            530.3,
+            760.2
+          ],
+          "content_hash": "c5ae6f6cde076dc29a524233cbab6aa6f1af4cb0bc639d5b995c78f328fe63cb",
+          "extracted_text": "The engagement partner on the audit resulting in this independent auditor's report is Woizero Banchiayehu Tamirat.\nFrom the matters communicated with those charged with governance, we determine those matters that were of most significance in the audit of the financial statements of the current period and are therefore the key audit matters. We describe these matters in our auditor's report unless law or regulation precludes public disclosure about the matter or when, in extremely rare circumstan"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.477,
+      "retrieval_method": "hybrid_search+structured_query",
+      "evidence_bundle_hash": "47b9a80ce2d712506f6791461a6958a73985d3fd2ed48a5164b56507693b2b4d"
+    },
+    {
+      "answer": "Based on the provided documents, the main risks and challenges identified are:\n\n*   **Operational Risk:** The risk of direct or indirect loss arising from issues related to processes, personnel, technology, infrastructure, and external factors such as legal and regulatory requirements [Source 1, page 85] and [Source 6, page 127]. Notably, this risk stems from all of the bank's operations and is faced by all business units [Source 1, page 85] and [Source 6, page 127].\n\n*   **Interest Rate Risk:** The risk of losses arising from adverse movements in interest rates [Source 3, page 121].\n\n*   **Risk related to Loans and Advances:** There is a risk that loans and advances may be given without proper managerial approval or may be inaccurately recorded [Source 5, page 28].\n",
+      "query_text": "What are the main risks, challenges, or recommendations identified?",
+      "citations": [
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 85,
+          "bbox": [
+            36.0,
+            102.5,
+            561.9,
+            780.2
+          ],
+          "content_hash": "be289e7c5ef33f25ea167145d72b9282c54c41cb6d9a506ca87c02972ceee974",
+          "extracted_text": "(d) Operational Risk Management Operational risk is the risk of direct or indirect loss arising from a wide variety of causes associated with the Group\u2019s processes, personnel, technology and infrastructure and from external factors other than credit, market and liquidity risks such as those arising from legal and regulatory requirements and generally accepted standards of corporate behavior. The Group seeks to ensure that key operational risks are managed in a timely and effective manner through"
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 46,
+          "bbox": [
+            36.0,
+            364.4,
+            561.9,
+            791.3
+          ],
+          "content_hash": "0818b1e3d7f573e2cdb119bda3d46e82323a6436ab1eb6e67b6a049669f56c62",
+          "extracted_text": "Financial assets are not reclassified subsequent to their initial recognition, except in the period after the Group changes its business model for managing financial assets. Classification and measurement of financial liabilities The Group classifies its financial liabilities, other than financial guarantees and loan commitments, as measured at amortised cost. (iii) Derecognition Financial assets: The Group derecognizes a financial asset when the contractual rights to the cash flows from the fin"
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 121,
+          "bbox": [
+            36.0,
+            673.2,
+            561.9,
+            777.2
+          ],
+          "content_hash": "6ab2b5038780753f1457a0c7e694a5edeb207a26308a88c5ae934e8be6c9a009",
+          "extracted_text": "The interest rate risk is the exposure of the financial position of the Bank to any losses arising from adverse movements in interest rates. The Bank monitors the sensitivity of changes in interest rates, and determines the balance structure, different item terms and investment strategies. The table below summarizes the exposure to interest rate risks. Included in the table below are the Bank\u2019s assets and liabilities at carrying amounts, categorized by the earlier of contractual re-pricing or ma"
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 42,
+          "bbox": [
+            36.0,
+            53.2,
+            561.9,
+            510.4
+          ],
+          "content_hash": "b2c4eb8840b33eb39734902daa96d5a04b7873d39644595f208600999a14814b",
+          "extracted_text": "NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS FOR THE YEAR ENDED 30 JUNE 2024 (4) SIGNIFICANT ACCOUNTING POLICIES  - continued (b) Foreign currency - continued currency. The loans granted and liabilities contracted are in Ethiopian Birr, which is the currency that predominates in the economic environment where the Group operates. Similarly, the main cash flows for settled goods and services, taxes and other obligations are in Birr. For entities incorporated in Ethiopia the legal currency is the"
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 28,
+          "bbox": [
+            103.2,
+            163.3,
+            498.5,
+            342.8
+          ],
+          "content_hash": "ee7f3a14324b0f29f8e889251435d8355d80fdc116e31dfaea467b4604942462",
+          "extracted_text": "For a sample of disbursements made during the year, we checked the approval by the appropriate level of management and checked that all formalities necessary before disbursement of loans and advances had been fulfilled.We test checked loan agreements and legal documents to verify the terms and conditions of the loans and advances.We obtained an analysis of loans and verified that theyhad been classified in correct categories and we considered thevalue of collateral available against each loanfor"
+        },
+        {
+          "document_id": "0cbf3d5168b07ccdccd6a4a864d64d08ef3a12b64fdb6970364a08ef5913a837",
+          "document_name": "CBE ANNUAL REPORT 2023-24.pdf",
+          "page_number": 127,
+          "bbox": [
+            36.0,
+            70.5,
+            561.9,
+            786.9
+          ],
+          "content_hash": "d31b06a96badb54ce6eaa981eb03456976b4537e0effc0ad482b54713b1fa675",
+          "extracted_text": "(29) Financial Risk Review (continued) (d) Operational Risk Management Operational risk is the risk of direct or indirect loss arising from a wide variety of causes associated with the Bank\u2019s processes, personnel, technology and infrastructure and from external factors other than credit, market and liquidity risks such as those arising from legal and regulatory requirements and generally accepted standards of corporate behavior. The Bank seeks to ensure that key operational risks are managed in "
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.559,
+      "retrieval_method": "hybrid_search",
+      "evidence_bundle_hash": "990ac16d4826ce4dd45812135b376243aa2654cdccbb4bea1efd324dc0089dd3"
+    }
+  ]
+}

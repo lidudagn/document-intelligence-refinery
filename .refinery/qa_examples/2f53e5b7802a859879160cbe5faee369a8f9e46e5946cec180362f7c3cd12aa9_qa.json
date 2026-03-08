@@ -1,0 +1,270 @@
+{
+  "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+  "document_name": "fta_performance_survey_final_report_2022.pdf",
+  "qa_pairs": [
+    {
+      "answer": "The document describes the Enhancing Shared Prosperity through Equitable Services (ESPES) program in Ethiopia, which aims to improve equitable access to basic services and strengthen accountability systems at the decentralized level [Source 1, page 10]. One component of this program is Financial Transparency and Accountability (FTA), and the document presents an assessment of the effectiveness and impact of the FTA initiative [Source 1, page 10, Source 5, page 21]. The assessment aims to draw lessons from the FTA experience and provide guidance for future strategic direction to improve the initiative in government institutions [Source 5, page 21].\n",
+      "query_text": "What is the overall summary or primary objective of this document?",
+      "citations": [
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 10,
+          "bbox": [
+            72.0,
+            109.7,
+            526.4,
+            793.1
+          ],
+          "content_hash": "2e469b94611755058631036e1310e58d5c1786735001ddaaf53830aca10c2def",
+          "extracted_text": "Background:  Protection  of  Basic  Services  program  has  been  under  implementation  in Ethiopia since 2006 with the aims of expanding citizens\u2019 access to basic services particularly in education, health, water supply, sanitation, agriculture and rural roads, and improving the quality of these services. Enhancing Shared Prosperity through Equitable Services (ESPES) program is the current iteration of the program and has been operational since 2015. The overall  objective  of  the  program  i"
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 3,
+          "bbox": [
+            72.0,
+            106.1,
+            525.5,
+            189.5
+          ],
+          "content_hash": "3b73febc4067cec0b86a9af83a7791c734a4cc125ebdb7b21d9ecc56217066ae",
+          "extracted_text": "List of Figures ........................................................................................................................................ iii List of Tables .......................................................................................................................................... v Acknowledgements ................................................................................................................................ vi Acronyms ............................."
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 3,
+          "bbox": [
+            83.1,
+            232.1,
+            525.5,
+            279.5
+          ],
+          "content_hash": "5d271737bf334e530d8de5c30216e9400c8279de685f9128b9267e89aa95f802",
+          "extracted_text": "1.2. Objective of the assessment ......................................................................................................... 4 1.3. Scope of the study ........................................................................................................................ 5 1.4. Brief overview of FTA Program in Ethiopia ............................................................................... 6"
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 10,
+          "bbox": [
+            72.0,
+            74.0,
+            200.7,
+            88.0
+          ],
+          "content_hash": "93a6c18a5e0f7b172f5e0eb46dd5677a14245b1617092802dc04dc98d54ccf29",
+          "extracted_text": "Executive Summary"
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 21,
+          "bbox": [
+            72.0,
+            150.3,
+            526.2,
+            265.4
+          ],
+          "content_hash": "487f91acc5d34927cb063c4835844f61181b8f5d52e50f6263f0422d81d0e2d5",
+          "extracted_text": "1.2. Objective of the assessment The  overall  objective  of  the  assessment  is  to  carry  out  an  independent  and  systematic assessment of the effectiveness and impact of the FTA initiative in Ethiopia by comparing the current  implementation  status  with  baseline  and  previous  performance  survey  data  and studies and to draw lessons from experience and provide guidance to the future strategic direction that would help deepen the initiative in government institutions."
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 118,
+          "bbox": [
+            65.2,
+            76.6,
+            782.5,
+            490.2
+          ],
+          "content_hash": "2ccdf0324f9f4be96bea034c9ee697ee285dbc18b9c6503a262ca6ea28f184ba",
+          "extracted_text": "No. | Specific Objectives | Some questions | Data Sources\n1 | To review the implementation progress of the FTA initiative at federal and sub-national level | \uf0b7 Is there an active team, committee, officer or employee at the office that is specifically assigned to ensure proper implementation of the FTA sub-component of the PBS at federal and sub-national level? \uf0b7 What are the main strengths/ successes of the FTA initiatives? \uf0b7 What are the main challenges to implement the FTA initiatives? \uf0b7 What "
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.603,
+      "retrieval_method": "hybrid_search+structured_query",
+      "evidence_bundle_hash": "83c6ea796db91269960a8b8008d389b776811290fc7f175a02385400c5a597a0"
+    },
+    {
+      "answer": "*   At the national level, 56% are literate [Source 3, page 53]\n*   74 percent of those from urban areas are literate [Source 3, page 53]\n*   46 percent of those from rural areas are literate [Source 3, page 53]\n*   Transparency Score = 139 [SQL Fact, page 112]\n*   R-squared = 0.237 [SQL Fact, page 89]\n*   Distance to nearest court (walking distance) = -0.000799*** [SQL Fact, page 89]\n*   Distance to nearest court (walking distance) = -0.00203*** [SQL Fact, page 89]\n",
+      "query_text": "What are the key financial or numerical highlights mentioned?",
+      "citations": [
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 52,
+          "bbox": [
+            72.0,
+            49.4,
+            526.4,
+            266.7
+          ],
+          "content_hash": "af4c166da09994beabb54208451d2635c1e9c3119260bab329b987716d7c6e36",
+          "extracted_text": "35\nApart from the main challenges mentioned in section 3.1.6 that relates to the unprecedented shocks the country faced, implementation of FTA by the federal budgetary institution is also hampered by the following issues. These include limited awareness creation activities for key stakeholders  (staffs  and  outside  stakeholders)  organization  level,  resistance  to  provide financial information to the public (e.g. the procurement process and audit findings) lack of clear  definitions  of  wh"
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 30,
+          "bbox": [
+            72.0,
+            288.9,
+            526.3,
+            330.3
+          ],
+          "content_hash": "f58fcf60bc19101e4f95ebb962f3227a7aea04b3d688c2ae0546ac67765037dc",
+          "extracted_text": "Table 2: Key informant interviews\nIn-depth  interviews  with  key  informants  were  conducted  at  federal,  regional,  woreda,  and kebele levels using interview guide. Participants for key informant interviews were those who have  been  working  or  had  a  role  in  FTA  project  execution.  Key  informants  are  the followings:"
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 52,
+          "bbox": [
+            72.0,
+            58.9,
+            526.4,
+            694.9
+          ],
+          "content_hash": "28ff4b0bbe56d1025dd2aee9b0e218af81f75f4c3c756c0919bab04981f51a24",
+          "extracted_text": "Figure 23: Level of engagement in the budgeting process\nstakeholders feel that key stakeholders are highly engaged in the budget planning phase. The awareness  level  and  capacity  of  the  stakeholders  as  well  as  the  commitments  of  the institutions  are  mentioned  as  the  major  hurdle  that  limits  stakeholders'  participation  in  the process.\n36\nInformation on literacy, the ability to read and write in at least one language, was col\u00adlected for  all  respondents.  Because  the  abi"
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 118,
+          "bbox": [
+            65.2,
+            76.6,
+            782.5,
+            490.2
+          ],
+          "content_hash": "2ccdf0324f9f4be96bea034c9ee697ee285dbc18b9c6503a262ca6ea28f184ba",
+          "extracted_text": "No. | Specific Objectives | Some questions | Data Sources\n1 | To review the implementation progress of the FTA initiative at federal and sub-national level | \uf0b7 Is there an active team, committee, officer or employee at the office that is specifically assigned to ensure proper implementation of the FTA sub-component of the PBS at federal and sub-national level? \uf0b7 What are the main strengths/ successes of the FTA initiatives? \uf0b7 What are the main challenges to implement the FTA initiatives? \uf0b7 What "
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 120,
+          "bbox": [
+            72.0,
+            74.0,
+            771.1,
+            546.5
+          ],
+          "content_hash": "5c7d49754deb529d69aaee4a3c2d34adcfe72db3fecc9d789200f175696f9540",
+          "extracted_text": "inequalities  and  promoting  more  reducing gender inequalities and promoting more equal relations  \uf0b7 Survey equal relations between women and  between women and men related to FTA initiative?  \uf0b7 Key Informant Interview men related to FTA initiative.  \uf0b7  Do the citizens\u2019/ CSOs\u2019 views have been listened by government  \uf0b7 Focus Group Discussion officials, employees and their committees? If no why? Identify  \uf0b7 Case Study social and cultural constraints, particularly related to gender. \uf0b7  Have citiz"
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 47,
+          "bbox": [
+            72.0,
+            696.6,
+            526.4,
+            748.3
+          ],
+          "content_hash": "1c801716f3994e47bba1164e2d24ef1c11f9e6714fa82b592a78a1f2d242e2a4",
+          "extracted_text": "Federal  institutions  are  expected  to  be  aware  of  the  FTA  initiatives,  provide  budgetary information,  and  engage  their  key  stakeholders  in  the  budget  planning  process.  The achievements so far in these areas are presented below."
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.481,
+      "retrieval_method": "hybrid_search+structured_query",
+      "evidence_bundle_hash": "ad441319a73b765a65b5c89d11c0eda00ad0bc286609074dc77257a014741122"
+    },
+    {
+      "answer": "The main risks, challenges, and recommendations identified in the provided documents are:\n\n**Risks/Challenges:**\n\n*   **Lack of awareness and follow-up:** Lack of awareness and limited regular follow-up explains why the findings and recommendations of previous monitoring and evaluations were not implemented [Source 1, page 101].\n*   **General recommendations:** Some recommendations are too general to be useful for regions/city administrative and `woredas` [Source 1, page 101].\n*   **Recommendations outside the scope:** Some recommendations go beyond the scope of FTA initiatives [Source 1, page 101].\n*   **Security situations and COVID-19:** Security situations and the COVID-19 pandemic limit the movement of people, hamper economic activities, and expose citizens to hardship [Source 2, page 45]. This also shifted the priority of the local government to emergency responses [Source 2, page 45].\n*   **Turnover and structural changes:** Turnover of skilled and trained staff and frequent structural changes are challenges [Source 2, page 45].\n*   **Low morale:** Low moral is a challenge [Source 2, page 45].\n*   **Resistance to providing financial information:** Resistance to provide financial information to the public [Source 3, page 52].\n*   **Lack of clear definitions:** Lack of clear definitions of key stakeholders for a given federal institution [Source 3, page 52].\n*   **Tendency to fall back on the status quo:** Tendency to fall back on the status quo or following the old way of doing things [Source 3, page 52]\n*   **Impact of the pandemic:** The impact of the pandemic on the economy is significant and has the potential to derail progress made in increasing accountability and transparency [Source 4, page 17].\n\n**Recommendations:**\n\n*   **More resources to regain lost ground:** More resources are needed to attenuate the impact of the pandemic and other shocks and recover lost ground [Source 4, page 17].\n*   **Encourage women's participation:** Enhance women's participation in accessing budget information, budget process awareness, pre-budget discussions, and BLT training [Source 4, page 17].\n*   **Create a favorable environment for the media:** Create a favorable environment for the media to hold officials accountable [Source 5, page 110].\n",
+      "query_text": "What are the main risks, challenges, or recommendations identified?",
+      "citations": [
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 101,
+          "bbox": [
+            72.0,
+            73.5,
+            526.4,
+            793.1
+          ],
+          "content_hash": "fab166c7e5f9ca26751b655dbcb2fb77870f16e2db1971b2eae962287ebc4471",
+          "extracted_text": "Lack  of  awareness  and  limited  regular  follow-up  explains  why  the  findings  and recommendations of the previous monitoring and evaluation were not implemented. The other challenges in applying the findings of the previous evaluations are that some of the recommendations are too general to be useful for regions/city administrative and woredas. For instance, in 2016, one of the recommendations was to reads as \u2015\u2026emphasis should be given to areas that can bring positive changes on the lives"
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 45,
+          "bbox": [
+            72.0,
+            58.9,
+            526.4,
+            793.1
+          ],
+          "content_hash": "09755e5673be22815428b89e99bd7a8d5960bd45dc5b9aaf4978e10ea71b8b3e",
+          "extracted_text": "10 These are the minimum level of expected services in terms of quality, process, time and cost that the local government commits to deliver to its client. These is a separate standard for different sectors (Education, health, water and Agriculture) and federal budgetary institutions. 11 \u12e8\u134b\u12ed\u1293\u1295\u1235 \u1283\u120b\u134a\u1290\u1275\u1295 \u1260\u12a0\u130d\u1263\u1261 \u1263\u1208\u1218\u12c8\u1323\u1275 \u12e8\u121a\u12c8\u1230\u12f1 \u12a0\u1235\u1270\u12f3\u12f0\u122b\u12ca \u12a5\u122d\u121d\u1303\u12ce\u127d \u1218\u1218\u122a\u12eb \u1241\u1325\u122d 49/2009 28\n29\nThe  main  implementation  challenges  were  the  security  situations  of  the  country  and  the COVID-19 pandemic. These unprecedented sh"
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 52,
+          "bbox": [
+            72.0,
+            49.4,
+            526.4,
+            266.7
+          ],
+          "content_hash": "af4c166da09994beabb54208451d2635c1e9c3119260bab329b987716d7c6e36",
+          "extracted_text": "35\nApart from the main challenges mentioned in section 3.1.6 that relates to the unprecedented shocks the country faced, implementation of FTA by the federal budgetary institution is also hampered by the following issues. These include limited awareness creation activities for key stakeholders  (staffs  and  outside  stakeholders)  organization  level,  resistance  to  provide financial information to the public (e.g. the procurement process and audit findings) lack of clear  definitions  of  wh"
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 17,
+          "bbox": [
+            90.0,
+            589.7,
+            526.4,
+            714.7
+          ],
+          "content_hash": "fbf42fc3e345733ac514c496e6047cb19e007b3b1e973b2713f9d4ad4ef55f33",
+          "extracted_text": "\uf0b7 More  resources  to  regain  the  ground  you've  lost  due  to  COVID-19  and  other shocks: The  impact  of  the  pandemic  on  the  economy  is  significant.  It  has  also  a potential  to  derail  the  progress  made  over  the  years  with  regard  to  increasing  the accountability  and  transparency  of  the  local  government.  Thus,  more  resource  is needed to attenuate the impact of the pandemic and the other shocks and recover lost ground.\n\uf0b7 Encourage  women's  participation: Enh"
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 110,
+          "bbox": [
+            117.0,
+            266.9,
+            526.4,
+            318.7
+          ],
+          "content_hash": "a024a7f670fa3ac7a6e87a437b99301cb6e83a6fd3026781b83198cd50e20ad1",
+          "extracted_text": "Create favorable environment for the media (both public and private) to holding officials  accountable  (e.g.  use  of  investigative  journalism  to  expose  misuse  of resources)."
+        },
+        {
+          "document_id": "2f53e5b7802a859879160cbe5faee369a8f9e46e5946cec180362f7c3cd12aa9",
+          "document_name": "fta_performance_survey_final_report_2022.pdf",
+          "page_number": 100,
+          "bbox": [
+            72.0,
+            73.5,
+            526.4,
+            793.1
+          ],
+          "content_hash": "eb719c9a3016c37265a1fe548002ef0835e3add2dbf04fb4de396b50838b9f83",
+          "extracted_text": "One of the keys goals of M&E is to identify gaps as they arise and make timely amendments to achieve the desired results. The implication is that apart from identifying gaps, M&E also provides inputs and priority areas that need to be improved or amended to achieve the project goal. In light of this, both at regional/city administration and woreda levels, those who are responsible for the implementation of FTA were asked to what extent they incorporated recommendations and suggestions made by pr"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.771,
+      "retrieval_method": "hybrid_search",
+      "evidence_bundle_hash": "d6f3c78c7d0f68e21477b8767e013ad50ac0d2e7e38daf5e1977d1cfc7924e98"
+    }
+  ]
+}

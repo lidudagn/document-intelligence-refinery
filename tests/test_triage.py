@@ -1,7 +1,7 @@
 import pytest
 from src.agents.triage import TriageAgent
 from src.models import PageMetrics
-from src.models.profile import OriginType, LayoutComplexity, DomainHint, ExtractionCost
+from src.models.profile import OriginType, LayoutComplexity, ExtractionCost
 
 @pytest.fixture
 def triage_agent():
@@ -71,7 +71,7 @@ def test_domain_hint_financial(triage_agent):
     ]
     # Hits: "income statement" (5), "revenue" (5), "fiscal" (5), "jurisdiction" (5 for legal, but financial is 15 -> wins)
     domain, conf = triage_agent._detect_domain(metrics)
-    assert domain == DomainHint.FINANCIAL
+    assert domain == "financial"
     assert round(conf, 2) > 0.0 # Just assert we got a valid confidence measurement
 
 def test_cost_routing_escalation(triage_agent):
@@ -116,5 +116,5 @@ def test_domain_activation_fallback(triage_agent):
         PageMetrics(page_number=1, char_density=0.02, image_area_ratio=0.0, table_count=0, column_count=1, whitespace_ratio=0.5, has_text_layer=True, text_sample="Just a small revenue mention."),
     ]
     domain, conf = triage_agent._detect_domain(metrics)
-    assert domain == DomainHint.GENERAL
+    assert domain == "general"
     assert conf == 0.0

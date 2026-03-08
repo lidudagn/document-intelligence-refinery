@@ -1,7 +1,7 @@
 import json, sys, logging
 from pathlib import Path
 from src.models.profile import DocumentProfile
-from src.agents.extractor import ExtractionRouter
+from src.agents.router import ExtractionRouter
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s | %(name)s | %(message)s")
 logger = logging.getLogger("run_single")

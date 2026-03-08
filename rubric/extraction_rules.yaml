@@ -14,6 +14,35 @@ triage:
     routing_origin_threshold: 0.60
     routing_layout_threshold: 0.70
     domain_activation_threshold: 10
+  domains:
+    financial:
+      revenue: 5
+      fiscal: 5
+      balance sheet: 5
+      tax expenditure: 4
+      income statement: 5
+      audit: 3
+    legal:
+      whereas: 5
+      hereby: 4
+      jurisdiction: 5
+      affidavit: 5
+      plaintiff: 5
+      statute: 3
+    technical:
+      architecture: 4
+      protocol: 4
+      latency: 5
+      system design: 5
+      api: 4
+      bandwidth: 3
+    medical:
+      patient: 5
+      diagnosis: 5
+      clinical: 4
+      symptoms: 4
+      treatment: 3
+      syndrome: 5
 
 extraction:
   fast_text:
@@ -23,3 +52,52 @@ extraction:
     budget_warning_threshold: 0.08
   routing:
     escalate_on_confidence_below: 0.65
+
+chunking:
+  max_tokens_per_chunk: 512
+  enforce_rules: true
+  constitution:
+    - name: tables_must_not_split
+      description: Table rows and headers must remain in the same LDU
+    - name: figures_must_include_caption
+      description: Figure captions must be stored with their parent figure chunk
+    - name: list_items_grouped
+      description: Consecutive list items are grouped until token limit
+    - name: headers_propagate_to_children
+      description: Section headers propagate as metadata to child chunks
+    - name: preserve_spatial_order
+      description: Blocks must be chunked following page reading order
+
+vector_store:
+  engine: chromadb
+  embedding_model: all-MiniLM-L6-v2
+  deduplicate_by_hash: true
+
+query_agent:
+  llm_model: "openrouter/google/gemini-2.0-flash-001"
+  max_synthesis_tokens: 6000
+  section_boost_factor: 1.5
+  top_k_retrieval: 10
+  max_chunks_for_synthesis: 6
+  min_retrieval_confidence: 0.3
+  sql_direct_answer: true
+  verify_answers: false
+
+fact_table:
+  extraction_mode: "heuristic_first"
+  numeric_parse_symbols: ["$", "€", "£", ",", "%", "ETB"]
+
+caching:
+  enabled: true
+  cache_dir: ".refinery/cache"
+  cache_targets:
+    - pageindex_summaries
+    - fact_extraction
+    - synthesis
+    - audits
+    - embeddings
+
+audit:
+  run_by_default: false
+  min_verification_confidence: 0.4
+  require_multi_source: true

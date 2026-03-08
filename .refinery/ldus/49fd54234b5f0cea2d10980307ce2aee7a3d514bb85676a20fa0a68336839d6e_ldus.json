@@ -1,0 +1,3392 @@
+[
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_0",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "ETHIOPIAN STATISTICAL SERVICE",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 185.35,
+      "top": 42.91999999999996,
+      "x1": 430.95799999999997,
+      "bottom": 60.91999999999996
+    },
+    "parent_section": "ETHIOPIAN STATISTICAL SERVICE",
+    "token_count": 3,
+    "content_hash": "d268870d781a634d16c1138c1a4a2fe1f8812a1231e0f53b855a11d5f26ba683",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_1",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 239.14,
+      "top": 65.0,
+      "x1": 377.168,
+      "bottom": 83.0
+    },
+    "parent_section": "Statistical Bulletin",
+    "token_count": 2,
+    "content_hash": "68e9213ebe7e2e5260bc52df130623659d770697f0c73aced0766d1df99a1abe",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_2",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "MONTHLY NEWS RELEASE",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 216.79,
+      "top": 100.02200000000005,
+      "x1": 391.379504,
+      "bottom": 116.12599999999998
+    },
+    "parent_section": "MONTHLY NEWS RELEASE",
+    "token_count": 3,
+    "content_hash": "dd22b5851c95ef6a4af076b00c1cb174cd47b94004f0531f3d5c0f9f33429185",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_3",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "INFLATION REPORT ON AUGUST, EFY 2017",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 161.59,
+      "top": 129.35000000000002,
+      "x1": 450.20408,
+      "bottom": 145.42999999999995
+    },
+    "parent_section": "INFLATION REPORT ON AUGUST, EFY 2017",
+    "token_count": 7,
+    "content_hash": "6651c430b764e65f7f98b9e555f77813da8e0193e9b6dcd3f004bd0a81de6123",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_4",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Issue No. 26/2017   August EFY2017  Page 1",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 215.11,
+      "top": 157.37,
+      "x1": 561.74224,
+      "bottom": 169.37
+    },
+    "parent_section": "INFLATION REPORT ON AUGUST, EFY 2017",
+    "token_count": 9,
+    "content_hash": "9cbc6ecfcc47f53c657e92355aaefe69d685f211064e3e364339722b9046d76f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_5",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "1.  Summary",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 166.39,
+      "top": 179.67200000000003,
+      "x1": 246.13134399999998,
+      "bottom": 193.61599999999999
+    },
+    "parent_section": "1.  Summary",
+    "token_count": 2,
+    "content_hash": "9f0448dfecc84ac63ba031eb4b78286f35fb4774ce81c5f624d9789172c9e6e6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_6",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "The Consumer Price Index (CPI), a key economic statistics, is surveyed, analyzed, and made available  Content\nto data users on a monthly basis. The year-on-year, general inflation rate (annual percentage change) in the country stood at 13.6 percent for the month of August EFY2017. A year earlier (in August EFY2016), the rate was 17.2 per-",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 39.624,
+      "top": 206.59000000000003,
+      "x1": 575.13904,
+      "bottom": 271.63
+    },
+    "parent_section": "1.  Summary",
+    "token_count": 70,
+    "content_hash": "7055ff27b401d6d5606eda0f013424ca1216b0ccbf4c05169f98543acfc2672b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_7",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Summary  \u2022",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 38.904,
+      "top": 270.172,
+      "x1": 114.321344,
+      "bottom": 284.116
+    },
+    "parent_section": "Summary  \u2022",
+    "token_count": 2,
+    "content_hash": "d627f39b15eab35fbadaa9721e9cdc4a3271b0016f5330ccaa33d6b4db1b1a76",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_8",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "cent. The month-on-month general inflation rate increased by 1.1 percent for the month of August- Year-on-Year Gen- \u2022  EFY2017. It was 1.2 percent in August EFY2016. eral, Food & Non-\nGeneral inflation encompasses of two main divisions and twenty-one groups of expenditures. These\nfood Inflation\ndivisions registered the following price changes during the month of August EFY2017 compared with \u2022  Month-on-Month  August EFY2016.",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 38.904,
+      "top": 279.77200000000005,
+      "x1": 574.98104,
+      "bottom": 362.86
+    },
+    "parent_section": "Summary  \u2022",
+    "token_count": 80,
+    "content_hash": "4388601f5436635199714d2f51102276b34fbf032df1300375865e7c2a64e333",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_9",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "General, Food &",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 56.904,
+      "top": 365.52,
+      "x1": 139.044,
+      "bottom": 377.52
+    },
+    "parent_section": "General, Food &",
+    "token_count": 3,
+    "content_hash": "7594d72dacf668d586ef346e334ee0e945e19db1d0d8b35b64aa8b5d075d2a23",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_10",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Non-food Inflation   2. Food & Non-alcoholic Beverages and Non-Food Inflation (Year-on-Year) The year-on-year inflation and the month-to-month inflation rates helps to gauge the current infla-",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 56.904,
+      "top": 378.0,
+      "x1": 573.0508799999999,
+      "bottom": 415.44
+    },
+    "parent_section": "General, Food &",
+    "token_count": 32,
+    "content_hash": "5dd71ddc099fe39b5c1bfe604dd3d66c70c970d05812fffcd186c5b59fd96313",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_11",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "\u2022  12-Month Moving",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 38.904,
+      "top": 414.24,
+      "x1": 140.48064,
+      "bottom": 425.28
+    },
+    "parent_section": "\u2022  12-Month Moving",
+    "token_count": 3,
+    "content_hash": "bafe32f537045ec17c1e00bbc8d6d329a11998b090e101a9d89f76c85c15be2b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_12",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "tion trajectory, as they capture short-term fluctuations in prices and provides an immediate indicator",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 159.91,
+      "top": 423.6,
+      "x1": 575.36976,
+      "bottom": 433.68
+    },
+    "parent_section": "\u2022  12-Month Moving",
+    "token_count": 18,
+    "content_hash": "f05ac757dea6281ad8ca2d4534cbef7bbb726b97695bffda1609017629bf555a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_13",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Average General,",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 56.904,
+      "top": 427.68,
+      "x1": 136.64592,
+      "bottom": 438.71999999999997
+    },
+    "parent_section": "Average General,",
+    "token_count": 2,
+    "content_hash": "72b58a8fd6322d93015a77dff4e7d2b95a122de7cf4097bcbf842563f0ef7064",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_14",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Food and Non-food  of inflationary pressures. Particularly, the month-to-month is also crucial for monitoring changes in",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 56.904,
+      "top": 441.102,
+      "x1": 575.4380719999999,
+      "bottom": 452.166
+    },
+    "parent_section": "Average General,",
+    "token_count": 20,
+    "content_hash": "5ee3f475cb0b4fd95142de23d82506428ad5b92b6654898a584622fe60e8085b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_15",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Inflation",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 56.904,
+      "top": 454.58000000000004,
+      "x1": 96.83904,
+      "bottom": 465.62
+    },
+    "parent_section": "Inflation",
+    "token_count": 1,
+    "content_hash": "ac389d8d568079bb698ff9b49d5350ef578bb41b5195190f58fc2363a7844fae",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_16",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "consumer prices and identifying any sudden spikes or declines in inflation.",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 159.91,
+      "top": 460.34,
+      "x1": 465.16808,
+      "bottom": 470.41999999999996
+    },
+    "parent_section": "Inflation",
+    "token_count": 14,
+    "content_hash": "9040a2d8ed4a828465c71fcaa644706baff6fa366b3da96e768f92fdf6b0c732",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_17",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "\u2022  Annual Infla-",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 38.904,
+      "top": 478.82,
+      "x1": 128.75904000000003,
+      "bottom": 492.74
+    },
+    "parent_section": "\u2022  Annual Infla-",
+    "token_count": 3,
+    "content_hash": "661dc6e7efc4a522d4dc6d7a4ddd763e20d579acd8ddb34cc97b694f52f3b585",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_18",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "tion trend   Food & Non-alcoholic Beverages index The year-on-year inflation rate, also known as the annual inflation rate, measures the percentage change",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 56.904,
+      "top": 495.86,
+      "x1": 575.2552000000001,
+      "bottom": 525.5
+    },
+    "parent_section": "\u2022  Annual Infla-",
+    "token_count": 28,
+    "content_hash": "61ff7bb50428faa563dfc472e7b641d30ef9677d9d3ab4f23c82bc55b0b22231",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_19",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Glossary",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 56.904,
+      "top": 536.69,
+      "x1": 111.67592,
+      "bottom": 550.61
+    },
+    "parent_section": "Glossary",
+    "token_count": 1,
+    "content_hash": "a1b10579b15d550baeb9ef0ad35c15bc91d958deacf2cc78bdeb865ce5296796",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_20",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "in overall price levels from one year to the same month in the previous year. Accordingly, the year-on-year",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 158.21,
+      "top": 533.45,
+      "x1": 575.5192,
+      "bottom": 543.05
+    },
+    "parent_section": "Glossary",
+    "token_count": 23,
+    "content_hash": "f2c1ea2b79f728baa9d719ce455e37fb3fd8bd20ed8399efa2162a4453089de7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_21",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "\u2022 inflation rate of the Food and Non-alcoholic component of the CPI, for the month of August 2017 EFY stood at 12.7%. This implies that the CPI of Food and Non-Alcoholic Beverages has, on average, increased by 12.7% compared to August EFY2016. The major contributing factors for the rise of food inflation for August EFY2017 was the observed increase in the average prices of major food commodities such as bread and cereals decreased by (-1.9%), vegetables increased by (19.3%), meat increased by (12.1%), Sugar, jam, hon- ey & chocolate increased by (15.1%),  Milk, Cheese and Eggs  increased by (12.7%), Oils and Fats increased by (23.1%), Fruit increased by (16.6%),  and Food products n.e.c increased by (22.8%).",
+    "chunk_type": "list",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 38.904,
+      "top": 539.2272800000001,
+      "x1": 577.1156,
+      "bottom": 664.75
+    },
+    "parent_section": "Glossary",
+    "token_count": 150,
+    "content_hash": "99b9e72a1e03652d95fb2b0f6ed8ecc5a480ec6d2041bcb2199113b4b196f081",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_22",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "YOUR RELIABLE DATA SOURCE  www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 182.95,
+      "top": 729.78,
+      "x1": 561.5920000000001,
+      "bottom": 742.29168
+    },
+    "parent_section": "Glossary",
+    "token_count": 6,
+    "content_hash": "ebd1de0f985077d859495b5b7732c9d74f8352098440c34a5f1ad90426f16eda",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_23",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "YOUR RELIABLE DATA SOURCE",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 182.95,
+      "top": 50.12893557251914,
+      "x1": 370.9008,
+      "bottom": 60.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 5,
+    "content_hash": "3d966b25dab176446d7400687ae02f6017c5a65b13bce37afa3cbccb2084e5f8",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_24",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 477.53,
+      "top": 50.67719083969462,
+      "x1": 558.482,
+      "bottom": 61.89599999999996
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 1,
+    "content_hash": "a61ab8948b13c054fb2a9d88528bf0925c1b038169c58d9ab60b8c4c3d1b2b9e",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_25",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Month/Year | General | Food | Non - Food\nAugust EFY2009 - August EFY2010 | 14.4 | 13.4 | 15.9\nTable 1: General, Food and Non - August EFY 2010 - AugustEFY2011 | Inflation Rate (%, 12.6 | August 13.1 | August EFY201 7 11.9\nAugust EFY2011 - August EFY2012 | 19.9 | 23.3 | 15.9\nAugust EFY2012 - August EFY2013 | 20.2 | 23.2 | 16.4\nAugust EFY2013 - August EFY2014 | 33.8 | 40.3 | 25.2\nAugust EFY2014 - August EFY2015 | 32.5 | 31.7 | 33.9\nAugust EFY2015 - August EFY2016 | 26.6 | 28.1 | 24.3\nAugust EFY2016 - August EFY2017 | 16.0 | 16.2 | 15.8\nAugust - EFY 2016 | 17.2 | 18.8 | 14.7\nSeptember | 17.5 | 19.6 | 14.4\nOctober | 16.1 | 19.2 | 11.6\nNovember | 16.9 | 18.5 | 14.5\nDecember | 17.0 | 18.7 | 14.4\nJanuary | 15.5 | 15.8 | 15.0\nFebruary | 15.0 | 14.6 | 15.6\nMarch | 13.5 | 11.7 | 16.2\nApril | 14.4 | 12.2 | 17.9\nMay | 14.4 | 12.1 | 17.8\nJune | 13.9 | 11.7 | 17.3\nJuly | 13.7 | 12.1 | 16.1\nAugust - EFY 2017 | 13.6 | 12.7 | 15.1\n",
+    "chunk_type": "table",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 43.54956817626953,
+      "top": 64.1627197265625,
+      "x1": 573.0427856445312,
+      "bottom": 571.7949066162109
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 208,
+    "content_hash": "43969c3303f6b3d91ee695ac8d3c27cfb71806e400932cb0128d1e655f70ac4f",
+    "metadata": {
+      "raw_headers": [
+        "Month/Year",
+        "General",
+        "Food",
+        "Non - Food"
+      ],
+      "raw_rows": [
+        [
+          "August EFY2009 - August EFY2010",
+          "14.4",
+          "13.4",
+          "15.9"
+        ],
+        [
+          "Table 1: General, Food and Non - August EFY 2010 - AugustEFY2011",
+          "Inflation Rate (%, 12.6",
+          "August 13.1",
+          "August EFY201 7 11.9"
+        ],
+        [
+          "August EFY2011 - August EFY2012",
+          "19.9",
+          "23.3",
+          "15.9"
+        ],
+        [
+          "August EFY2012 - August EFY2013",
+          "20.2",
+          "23.2",
+          "16.4"
+        ],
+        [
+          "August EFY2013 - August EFY2014",
+          "33.8",
+          "40.3",
+          "25.2"
+        ],
+        [
+          "August EFY2014 - August EFY2015",
+          "32.5",
+          "31.7",
+          "33.9"
+        ],
+        [
+          "August EFY2015 - August EFY2016",
+          "26.6",
+          "28.1",
+          "24.3"
+        ],
+        [
+          "August EFY2016 - August EFY2017",
+          "16.0",
+          "16.2",
+          "15.8"
+        ],
+        [
+          "August - EFY 2016",
+          "17.2",
+          "18.8",
+          "14.7"
+        ],
+        [
+          "September",
+          "17.5",
+          "19.6",
+          "14.4"
+        ],
+        [
+          "October",
+          "16.1",
+          "19.2",
+          "11.6"
+        ],
+        [
+          "November",
+          "16.9",
+          "18.5",
+          "14.5"
+        ],
+        [
+          "December",
+          "17.0",
+          "18.7",
+          "14.4"
+        ],
+        [
+          "January",
+          "15.5",
+          "15.8",
+          "15.0"
+        ],
+        [
+          "February",
+          "15.0",
+          "14.6",
+          "15.6"
+        ],
+        [
+          "March",
+          "13.5",
+          "11.7",
+          "16.2"
+        ],
+        [
+          "April",
+          "14.4",
+          "12.2",
+          "17.9"
+        ],
+        [
+          "May",
+          "14.4",
+          "12.1",
+          "17.8"
+        ],
+        [
+          "June",
+          "13.9",
+          "11.7",
+          "17.3"
+        ],
+        [
+          "July",
+          "13.7",
+          "12.1",
+          "16.1"
+        ],
+        [
+          "August - EFY 2017",
+          "13.6",
+          "12.7",
+          "15.1"
+        ]
+      ]
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_26",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Beginning from August -EFY 2016 the magnitude of the inflation rate steadily declined overtime. In August EFY -2017 General inflation was 13.6% as compared to the one observed in August -EFY2016.",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 50.184,
+      "top": 600.07,
+      "x1": 564.47824,
+      "bottom": 631.27
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 40,
+    "content_hash": "bca4969125f7743021eaab983da8d76a0a8e15f089e30ca7b68c9cab42f641a1",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_27",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Issue No. 26/2017",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 64.104,
+      "top": 642.79,
+      "x1": 152.59632,
+      "bottom": 652.8699999999999
+    },
+    "parent_section": "Issue No. 26/2017",
+    "token_count": 3,
+    "content_hash": "84d7d1361112360d7487ed299af6a509a6f16a9abb5bea9c3e3b20fbcd102006",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_28",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Page 2",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 513.55,
+      "top": 646.4655496232508,
+      "x1": 551.18224,
+      "bottom": 655.1552800000001
+    },
+    "parent_section": "Page 2",
+    "token_count": 2,
+    "content_hash": "673a29e4537818a8fe09d18965b6cc9de1d8734c19742e75c47a93ae1adc3b54",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_29",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 185.35,
+      "top": 709.0,
+      "x1": 426.334,
+      "bottom": 749.08
+    },
+    "parent_section": "Page 2",
+    "token_count": 6,
+    "content_hash": "2a5ba1c2b425fe59b0ffa61842d69e3bab2655780206f57fc4d059ed0f2301fb",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_30",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 39.09336471557617,
+      "top": 662.4629821777344,
+      "x1": 160.7614288330078,
+      "bottom": 782.3297119140625
+    },
+    "parent_section": "Page 2",
+    "token_count": 1,
+    "content_hash": "74dfe683a6df47406c25fbc8d9267adeab839314eff4277e891a5910b76c7cb5",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_31",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "YOUR RELIABLE DATA SOURCE",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 182.95,
+      "top": 50.12893557251914,
+      "x1": 370.9008,
+      "bottom": 60.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 5,
+    "content_hash": "c36220dedcdd0f593ed1b6366432c2e34355ce11c7206f8665d45fd5628ab7e6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_32",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "www.ess.gov.et\nAs can be seen from the above figure, both the non - food year - on - year inflation rate and Food inflation rate in- creased in August - ETY2017  as compared to last month. The Non - Food inflation increased by 15.1 percent during the same period. Particularly, Alcoholic Beverages and Tobacco increased by (13.6%); Housing, water, electricity & other fuel component increased by (11.4%); Furnishings, household equipment & routine maintenance of the House increased by (13.7%); Health decreased by ( - 0.4%); Transport increased by ( 48.2%); Communication in- creased by ( 8.5%); Education increased by ( 11.3%); Restaurants and hotels increased by (16.6%) and Miscellane- ous goods and services increased by (21.8%) have contributed for the rise in non - food inflation rate in August EFY2017.\nNon - Food Inflation and  Alcoholic Beverages (Year - on - Year)\nFoodNon-Food\nreb Aug-EFY2016 sep",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 39.384,
+      "top": 50.67719083969462,
+      "x1": 558.482,
+      "bottom": 332.0
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 187,
+    "content_hash": "86a7a27de9c43810c75476a9edc9422b98cfbed8be2fd775b0be017a285e1336",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_33",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Zov",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 199.33333333333334,
+      "top": 329.0,
+      "x1": 226.66666666666666,
+      "bottom": 333.3333333333333
+    },
+    "parent_section": "Zov",
+    "token_count": 1,
+    "content_hash": "cff21eb1edadb741331b09679584fe3d1db0167e381ee216a7742dd02e50d159",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_34",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Jan",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 267.66666666666663,
+      "top": 332.0,
+      "x1": 290.33333333333337,
+      "bottom": 332.6666666666667
+    },
+    "parent_section": "Jan",
+    "token_count": 1,
+    "content_hash": "e2207eac541efea4f5f45a5cc4b06f220e87e8fe38c39e06cf6d838078b768f0",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_35",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Mar",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 329.6666666666667,
+      "top": 329.3333333333333,
+      "x1": 356.3333333333333,
+      "bottom": 334.3333333333333
+    },
+    "parent_section": "Mar",
+    "token_count": 1,
+    "content_hash": "8ad9d803c940460c1aad792b7993d095696a3ba1f7f78b5292c41a1f3dd6f6ea",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_36",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "May",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 394.6666666666667,
+      "top": 327.6666666666667,
+      "x1": 420.3333333333333,
+      "bottom": 333.6666666666667
+    },
+    "parent_section": "May",
+    "token_count": 1,
+    "content_hash": "e1993f6193fd7821fea25db6567bdf118cc3bc69b26fef617b09ea31450e5894",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_37",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "June",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 426.0,
+      "top": 325.0,
+      "x1": 455.6666666666667,
+      "bottom": 334.3333333333333
+    },
+    "parent_section": "June",
+    "token_count": 1,
+    "content_hash": "f1811b423dcf17a30e024973ab7236aa026437345849895b4873096f38a7ddaa",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_38",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "July",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 459.6666666666667,
+      "top": 328.6666666666667,
+      "x1": 485.3333333333333,
+      "bottom": 333.0
+    },
+    "parent_section": "July",
+    "token_count": 1,
+    "content_hash": "5cb89e4c20936e84e7372504ed54ec61f029d202a140f7545a7478627bab2737",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_39",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Aug-EFY2017",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 470.3333333333333,
+      "top": 297.0,
+      "x1": 524.6666666666667,
+      "bottom": 337.3333333333333
+    },
+    "parent_section": "July",
+    "token_count": 1,
+    "content_hash": "ed86afdb9ffdb4f45597d194eb3c7352ec19a537b7e6193faf5fb12acee4b258",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_40",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "5.0\n10.0 11.9 12.2 12.1 11.7 12.1 12.7\n14.6 11.6 15.8\n15.0\n14.3 18.9 19.2 184.418.4 15.0 15.1 19.6 15.6 16.1 16.2\n17.8 17.3 20.0 17.9",
+    "chunk_type": "list",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 79.0,
+      "top": 392.0,
+      "x1": 524.6666666666667,
+      "bottom": 529.3333333333333
+    },
+    "parent_section": "July",
+    "token_count": 32,
+    "content_hash": "2f11aba3bbb3ef7846c849cd1adcc57dbcea5f46fbbc22fb827ed682ccf68bb6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_41",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Year-on-Year CPl lnflation",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 196.33333333333334,
+      "top": 565.0,
+      "x1": 352.6666666666667,
+      "bottom": 577.3333333333334
+    },
+    "parent_section": "July",
+    "token_count": 3,
+    "content_hash": "9c03a73078f9241dbf72a95bbaadb92dc3a8e01ba9282a7d7463851f0cf0cb42",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_42",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "25.0",
+    "chunk_type": "list",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 79.66666666666666,
+      "top": 575.3333333333334,
+      "x1": 102.0,
+      "bottom": 586.3333333333334
+    },
+    "parent_section": "July",
+    "token_count": 1,
+    "content_hash": "3c59aa0482e2e21c7c4d3888f3dbcec0471bee12d75288803e0b12c6f9ee5b36",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_43",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Fig 1: Food and Non - Food Inflation (%, Year - on - Year), August EFY2016 - August EFY2017",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 100.37,
+      "top": 610.15,
+      "x1": 499.87256,
+      "bottom": 621.1899999999999
+    },
+    "parent_section": "July",
+    "token_count": 24,
+    "content_hash": "5425cbc55477eee49d531a073e4fc2486f0be31c65b4f543e554ae041fb17c63",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_44",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Issue No. 26/2017",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 82.344,
+      "top": 644.0655496232507,
+      "x1": 180.23224000000002,
+      "bottom": 652.75528
+    },
+    "parent_section": "Issue No. 26/2017",
+    "token_count": 3,
+    "content_hash": "2ff117f23c81f7be745ed2347f7857de004a17e21f4630c7813cd5f28127c14b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_45",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Page 3",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 513.55,
+      "top": 646.4655496232508,
+      "x1": 551.18224,
+      "bottom": 655.1552800000001
+    },
+    "parent_section": "Page 3",
+    "token_count": 2,
+    "content_hash": "00b05310fc8c0d52050e2bab88afef701d8162284afe5bb6093b1997527dc324",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_46",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 31.993833541870117,
+      "top": 77.44207763671875,
+      "x1": 555.609375,
+      "bottom": 657.8768005371094
+    },
+    "parent_section": "Page 3",
+    "token_count": 1,
+    "content_hash": "3a15c72d6b45f9e19cb3ef17faf9acf6939cf12d31750eb50994e85f884be423",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_47",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 185.35,
+      "top": 709.0,
+      "x1": 426.334,
+      "bottom": 749.08
+    },
+    "parent_section": "Page 3",
+    "token_count": 6,
+    "content_hash": "3d50bcd2b55bdb1e21a51dc64d5349fb82ee44cf93dde9021e1242f79dbf35e5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_48",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 38.8934326171875,
+      "top": 661.4809417724609,
+      "x1": 160.82418823242188,
+      "bottom": 782.377420425415
+    },
+    "parent_section": "Page 3",
+    "token_count": 1,
+    "content_hash": "9b93d1186488b3e4a7066032a85d305f15f904694a879cb71b5b5df7a360b4a2",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_49",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "ETHIOPIAN STATISTICAL SERVICE",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 185.35,
+      "top": 42.91999999999996,
+      "x1": 430.95799999999997,
+      "bottom": 60.91999999999996
+    },
+    "parent_section": "ETHIOPIAN STATISTICAL SERVICE",
+    "token_count": 3,
+    "content_hash": "b075e3eff04c163992311ea39d733a3082e72400a58383d13e61be7c8f7078ac",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_50",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 239.14,
+      "top": 65.0,
+      "x1": 377.168,
+      "bottom": 83.0
+    },
+    "parent_section": "Statistical Bulletin",
+    "token_count": 2,
+    "content_hash": "d42ca4128c2ad83af8f45f13e456115f000429a4fb0e5c3a7c8019608f22dbb8",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_51",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Issue No. 26/2017   Page 4",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 55.224,
+      "top": 142.52839999999992,
+      "x1": 551.18224,
+      "bottom": 153.3284
+    },
+    "parent_section": "Issue No. 26/2017   Page 4",
+    "token_count": 6,
+    "content_hash": "74c08e8c771b0ae55ea6525c0bbcd5fe30416a2b0a444d5b2e75fb278dba64b7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_52",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Major sub divisions in the food and non-food commodities (year-on-Year). When we look at major division of food and non-food commodities, which holds large share in the commodity basket, the magnitude of Food and Non-alcoholic beverages inflation rate at August EFY2017 showed 12.7% as compared to the same month in the previous year.  From Food and Non-Alcoholic Beverage aspect, the highest weight is hoed by Bread and Cereals, Vegetables, Other-Food products, Non-Alcoholic Beverage, and Meat; whose inflation at August EFY2017 is recorded  a decrease for Bread & Cereals (-1.9%); Vegetables increased by (19.3%); Other-Food products (Food products not elsewhere classified) increased by (22.8%); Meat increased by (12.1%) and Non-Alcoholic Beverages & coffee in- creased by (56.0%). Similarly, during August 2017 EFY the year-on-year inflation rate of the major Non- Food items of Housing, Water, Elec- tricity, Gas, & Other Fuels increased by (11.4%);  Restaurants and Hotels increased by (16.6%); Alcoholic Beverag- es & Tobacco increased by (13.6%); Furnishings, Household Equipment & Routine Household Maintenance of the House increased by (13.7%) and Clothing and Footwear increased by (17.5%).\nTable 2. Major sub divisions in the food and non-food commodities (year-on-Year). CPI Items  Items Wight in CPI  % change on Year-on-Year Infla- % change in Month-to- (%)  tion August EFY2016 compared  Month inflation July with August EFY2017  EFY2017 compared to Au- gust EFY2017 Major Food and Non-Alcoholic Beverage",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.664,
+      "top": 168.16999999999996,
+      "x1": 545.11736,
+      "bottom": 499.46
+    },
+    "parent_section": "Issue No. 26/2017   Page 4",
+    "token_count": 293,
+    "content_hash": "1354565b0fa0971fe6f636da174f5cc52f4841a86a03b1a15604e282f6a560be",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_53",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "53.5  12.7  1.5",
+    "chunk_type": "list",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 252.82,
+      "top": 495.14,
+      "x1": 507.86199999999997,
+      "bottom": 507.14
+    },
+    "parent_section": "Issue No. 26/2017   Page 4",
+    "token_count": 3,
+    "content_hash": "026fdbe6f6f0aff280f0bf0c6396dade15a47046ccca8296735219b68d22a0e6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_54",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "components Bread and Cereals  17.1  -1.9  0.7",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.664,
+      "top": 501.86,
+      "x1": 506.22808,
+      "bottom": 532.3399999999999
+    },
+    "parent_section": "Issue No. 26/2017   Page 4",
+    "token_count": 9,
+    "content_hash": "bf1f00f30cc62a2a6c5d347e19772edc966be858e316a4f651f3ea2b2b5dfe99",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_55",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Vegetables  12.3  19.3  2.3",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.664,
+      "top": 535.8068000000001,
+      "x1": 507.23224,
+      "bottom": 546.53
+    },
+    "parent_section": "Vegetables  12.3  19.3  2.3",
+    "token_count": 5,
+    "content_hash": "ba40a3f2da160644f2fc736f3264011e5f591c39c75c533922c358704652bada",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_56",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Other-Food products  5.6  22.8  1.3",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.664,
+      "top": 550.4467999999999,
+      "x1": 506.22808,
+      "bottom": 561.1700000000001
+    },
+    "parent_section": "Vegetables  12.3  19.3  2.3",
+    "token_count": 6,
+    "content_hash": "7e88f67b4fdad6a0d2f25ecc3d8d135e6d688321e5d5faa89dbaaeb4dc75b1d0",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_57",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Non-Alcoholic Beverage  5.1  56.0  4.7",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.664,
+      "top": 565.3268,
+      "x1": 507.23224,
+      "bottom": 576.05
+    },
+    "parent_section": "Non-Alcoholic Beverage  5.1  56.0  4.7",
+    "token_count": 6,
+    "content_hash": "834a81b701b0b78856b16af2736e29f86081aef18cba0ecfd044794038aec424",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_58",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "4.1  12.1  0.3  Meat",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.664,
+      "top": 581.6468,
+      "x1": 506.22808,
+      "bottom": 592.37
+    },
+    "parent_section": "4.1  12.1  0.3  Meat",
+    "token_count": 5,
+    "content_hash": "d391c2d7b27ba1fdc5149da284663c1371ba837caeb30cff11aa9c3feefdac79",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_59",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Major Non-Food   Components  46.5  15.1  0.5",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.664,
+      "top": 601.01,
+      "x1": 507.86199999999997,
+      "bottom": 613.01
+    },
+    "parent_section": "Major Non-Food   Components  46.5  15.1  0.5",
+    "token_count": 7,
+    "content_hash": "e999e52e69be7c68e55a843e874cbcba924b033c259b31076b4be8bbd7e4a1c8",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_60",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "11.4  Housing, Water, Electricity, Gas and Other Fuels  16.8  0.6 5.7  17.5  1.3  Clothing and Footwear Restaurants and Hotels  5.3  16.6  0.0 Alcoholic Beverages and Tobacco  4.9  13.6  -0.4 Furnishings, Household Equipment and Routine  4.7  13.7  0.7",
+    "chunk_type": "list",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.664,
+      "top": 621.9868,
+      "x1": 507.66808,
+      "bottom": 706.398
+    },
+    "parent_section": "Major Non-Food   Components  46.5  15.1  0.5",
+    "token_count": 48,
+    "content_hash": "49fbce175ec39b0626ade03cd3de56a4388a30ef7800a13ff41688231ac011f1",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_61",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "YOUR RELIABLE DATA SOURCE  www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 182.95,
+      "top": 729.78,
+      "x1": 561.5920000000001,
+      "bottom": 742.29168
+    },
+    "parent_section": "Major Non-Food   Components  46.5  15.1  0.5",
+    "token_count": 6,
+    "content_hash": "943065897c24fe76ec027b8012ad97d3281fad80a74ad163c4ea2404dd6851a8",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_62",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "YOUR RELIABLE DATA SOURCE",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 182.95,
+      "top": 50.12893557251914,
+      "x1": 370.9008,
+      "bottom": 60.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 5,
+    "content_hash": "2c7bf5307b6138130130dd817bd75a77568ab7a7b10ee0e0c16c34852f62d2b8",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_63",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "www.ess.gov.et\nIn August EFY2017, among the food components of the CPI, Meat increased by (0.3%), Fish and sea food increased by (0.0%), Milk, Cheese and Eggs increased by (1.0%), Oils and Fats increased by (1.7%), Food products n.e.c increased by (1.3%) and Non -Alcoholic beverages and coffee increased by (4.7%) on the month to month basis.\nMonth -to -Month Inflation of Food and Non -alcoholic Beverages :",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 46.824,
+      "top": 50.67719083969462,
+      "x1": 568.1283999999999,
+      "bottom": 285.34000000000003
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 86,
+    "content_hash": "a59e17e9bf6a5fb68c17efbc621dc015459fe32441a4685d145297f7a92b908f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_64",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Month | General month-to-month inflation\nAugust - EFY 2016 | 1.2\nSeptember | 2.4\nOctober | 0.9\nNovember | - 0.8\nDecember | 0.8\nJanuary | 0.6\nFebruary | 0.5\nMarch | 2.7\nApril | 0.1\nMay | 0.2\nJune | 0.5\nJuly | 1.3\nAugust - EFY 2017 | 1.1\n",
+    "chunk_type": "table",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 86.60653686523438,
+      "top": 319.0040283203125,
+      "x1": 488.23358154296875,
+      "bottom": 527.735595703125
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 51,
+    "content_hash": "3d06399597bc51d03902266cda2658a57fa246610b5110d2761bae6944752321",
+    "metadata": {
+      "raw_headers": [
+        "Month",
+        "General month-to-month inflation"
+      ],
+      "raw_rows": [
+        [
+          "August - EFY 2016",
+          "1.2"
+        ],
+        [
+          "September",
+          "2.4"
+        ],
+        [
+          "October",
+          "0.9"
+        ],
+        [
+          "November",
+          "- 0.8"
+        ],
+        [
+          "December",
+          "0.8"
+        ],
+        [
+          "January",
+          "0.6"
+        ],
+        [
+          "February",
+          "0.5"
+        ],
+        [
+          "March",
+          "2.7"
+        ],
+        [
+          "April",
+          "0.1"
+        ],
+        [
+          "May",
+          "0.2"
+        ],
+        [
+          "June",
+          "0.5"
+        ],
+        [
+          "July",
+          "1.3"
+        ],
+        [
+          "August - EFY 2017",
+          "1.1"
+        ]
+      ]
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_65",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Table 3: General Inflation Rate (%, Month -to -Month), July EFY2016 -August EFY2017\nThe month -to -month general inflation rate for August EFY2017 has increased by 1.1 percent compared to what was observed last month. During the same month, the food and non -alcoholic component of the inflation increased by at 1.5 percent whereas the non -food component for its part increased by 0.5 percent .\nMonth -to -Month Inflation Rate",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 43.704,
+      "top": 536.21,
+      "x1": 553.087792,
+      "bottom": 631.9300000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 90,
+    "content_hash": "cfbd13eb3721bf1a175b8fa8aa46128fd372d38e7f77d5c3a9167147aa2179dd",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_66",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Issue No. 26/2017",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 44.904,
+      "top": 664.2255496232508,
+      "x1": 142.77224,
+      "bottom": 672.91528
+    },
+    "parent_section": "Issue No. 26/2017",
+    "token_count": 3,
+    "content_hash": "4b22a2411b9b598077a3b11be55933d9029d7e423576a9af07769e9c6fe459d1",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_67",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Page 5",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 531.79,
+      "top": 664.7055496232507,
+      "x1": 569.42224,
+      "bottom": 673.39528
+    },
+    "parent_section": "Page 5",
+    "token_count": 2,
+    "content_hash": "f1020f21a930dc74e1388d88f3d504df4e858227c55682bdcc8cf602e323c53e",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_68",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 185.35,
+      "top": 709.0,
+      "x1": 426.334,
+      "bottom": 749.08
+    },
+    "parent_section": "Page 5",
+    "token_count": 6,
+    "content_hash": "feb292a87f155a607cf0dabfbcf3108a4428ad9a427cdf740f56d7f0fcab690b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_69",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 38.77862548828125,
+      "top": 676.4295120239258,
+      "x1": 160.82302856445312,
+      "bottom": 782.3432722091675
+    },
+    "parent_section": "Page 5",
+    "token_count": 1,
+    "content_hash": "a12fb66d17977d79acdb8d06493944a8b96ec31dafb4a83d79c65dfb23685be5",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_70",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "YOUR RELIABLE DATA SOURCE",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 182.95,
+      "top": 50.12893557251914,
+      "x1": 370.9008,
+      "bottom": 60.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 5,
+    "content_hash": "be0a5b1955fa0d1cc9827b5972b5312ddbade01e5d9f7d845707ab5f42ae0b3a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_71",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "www.ess.gov.et\n12 m1",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 82.0,
+      "top": 50.67719083969462,
+      "x1": 558.482,
+      "bottom": 98.66666666666674
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 3,
+    "content_hash": "37471b097c33f45ef497b9b7d2864e829c409b143d250be88413b29ebd2f5577",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_72",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Food",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 293.66666666666663,
+      "top": 114.66666666666674,
+      "x1": 315.3333333333333,
+      "bottom": 124.0
+    },
+    "parent_section": "Food",
+    "token_count": 1,
+    "content_hash": "3054e5cb76db50e1654738796e6f68f1563852fd21b59fae6fb1643d993d5047",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_73",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Non-Food",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 373.6666666666667,
+      "top": 114.33333333333326,
+      "x1": 416.6666666666667,
+      "bottom": 124.33333333333326
+    },
+    "parent_section": "Non-Food",
+    "token_count": 1,
+    "content_hash": "e8ad4a569c2b62bc79e8309c1558b21fab822433b8ae818a606abe6b1b61f526",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_74",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "(1.1)",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 179.66666666666666,
+      "top": 121.66666666666674,
+      "x1": 203.33333333333334,
+      "bottom": 135.33333333333326
+    },
+    "parent_section": "Non-Food",
+    "token_count": 1,
+    "content_hash": "2a10e5771a8b9ee36e73a92785561e632d02638322c9711760955b1c255395f2",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_75",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "1.6",
+    "chunk_type": "list",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 215.33333333333334,
+      "top": 135.0,
+      "x1": 232.33333333333334,
+      "bottom": 145.0
+    },
+    "parent_section": "Non-Food",
+    "token_count": 1,
+    "content_hash": "d98da4a12bd68034b8835e9c83461d99f1f36ef564843e69139cb85da2d3ed11",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_76",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Nov",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 206.0,
+      "top": 181.0,
+      "x1": 226.33333333333334,
+      "bottom": 181.33333333333337
+    },
+    "parent_section": "Nov",
+    "token_count": 1,
+    "content_hash": "6fcc9f16b3983259a7f9c29f3558f3ba67de0d0eb240153ec3c4bfd6c6b1c066",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_77",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Dec",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 237.0,
+      "top": 177.33333333333337,
+      "x1": 260.66666666666663,
+      "bottom": 182.33333333333337
+    },
+    "parent_section": "Dec",
+    "token_count": 1,
+    "content_hash": "bf4a0f8e1ada41a4b7d0f0e0718ccdd6f713e91f6b5c2dd4a5113a82c0b1a09a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_78",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "jan",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 272.33333333333337,
+      "top": 180.33333333333337,
+      "x1": 294.0,
+      "bottom": 180.66666666666663
+    },
+    "parent_section": "Dec",
+    "token_count": 1,
+    "content_hash": "e0f1c5124660be7f9d10fc853c2c38c9a206c5d83723addb67f1bfe48991fe38",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_79",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Feb",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 303.6666666666667,
+      "top": 179.66666666666663,
+      "x1": 326.0,
+      "bottom": 181.0
+    },
+    "parent_section": "Feb",
+    "token_count": 1,
+    "content_hash": "046737fb8b855034aa962eed34c5338c0e40126ab63af68fa5c0d5fab6ecc888",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_80",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Mar",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 333.6666666666667,
+      "top": 176.66666666666663,
+      "x1": 360.0,
+      "bottom": 182.33333333333337
+    },
+    "parent_section": "Mar",
+    "token_count": 1,
+    "content_hash": "208c34fc0687f1394a19cb08b28a5c9be2f21e99b9bf0cdd8d770f9384b8a60c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_81",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "um1",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 430.0,
+      "top": 179.66666666666663,
+      "x1": 465.6666666666667,
+      "bottom": 184.0
+    },
+    "parent_section": "Mar",
+    "token_count": 1,
+    "content_hash": "01b36d00a413781b3f92607ac36356666123a894fa58b96c1cdc663a6b85affd",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_82",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Juy",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 468.0,
+      "top": 174.66666666666663,
+      "x1": 488.6666666666667,
+      "bottom": 184.66666666666663
+    },
+    "parent_section": "Juy",
+    "token_count": 1,
+    "content_hash": "4bb1c50f5bae79b47efb3dfbceec194ba6301bb1d443b0dfe5d3b2ff89525793",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_83",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Aug-EFY2017",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 477.6666666666667,
+      "top": 146.66666666666674,
+      "x1": 530.3333333333333,
+      "bottom": 184.33333333333337
+    },
+    "parent_section": "Juy",
+    "token_count": 1,
+    "content_hash": "01da12b5b31f72ebfd61dd0cbefb7509ac5f3e51f1fc3665124e450d0e29f598",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_84",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "(No.0)",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 400.0,
+      "top": 172.0,
+      "x1": 437.3333333333333,
+      "bottom": 188.0
+    },
+    "parent_section": "(No.0)",
+    "token_count": 1,
+    "content_hash": "2ebfb9fe498e0ac98b18c314320d565998ad221f9df91f69de300be88e9d2489",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_85",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "0.5 0.5 (0.1) 0.7\n0.2 1:2\n0.4\n1.0 1.4 0.8\n1.7\n1.5 2.0 1.7\n2.2\n2.5\n3.0\n4.0 Month-to-Month CPl Inflation",
+    "chunk_type": "list",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 87.33333333333334,
+      "top": 209.0,
+      "x1": 527.6666666666667,
+      "bottom": 390.3333333333333
+    },
+    "parent_section": "(No.0)",
+    "token_count": 23,
+    "content_hash": "4cdbebbe9c2b8abdd69fafa5a053885867a80c806ede2c8eb1f08013d42ecb20",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_86",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Fig 2: Food and Non -Food Inflation (%, Month -to -Month), July EFY2017 -August EFY2017",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 55.85713195800781,
+      "top": 99.6094970703125,
+      "x1": 537.1060791015625,
+      "bottom": 406.6087646484375
+    },
+    "parent_section": "(No.0)",
+    "token_count": 15,
+    "content_hash": "9dbb29a7bc2d0d12da5982efe7c7e496cc0111af23332e0fac43aaf73f7e6181",
+    "metadata": {
+      "has_caption": true
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_87",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Fig 2: Food and Non -Food Inflation (%, Month -to -Month), July EFY2017 -August EFY2017\nLooking at non -food items, the month -to -month comparison was observed for Alcoholic beverages and tobacco decreased by ( -0.4%), Clothing and Footwear increased by (1.3%) , Furniture, Furnishing, household equipment and routine maintenance of the house  increased by (0.6%), Housing, water, Electricity, gas and other fuels increased by (0.7%) , Transport increased by (0.4%), Recreation and culture increased by (1.6%) , and Hotel and Restaurants increased by (0.0%), Health decreased by (0.5%), Communication increased by (0.1%) , and Miscellaneous Goods and Services increased by (1.3%) during the month.\nNon -Food Inflation (%, Month -to -Month)",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 46.824,
+      "top": 427.22,
+      "x1": 545.0720799999998,
+      "bottom": 612.3100000000001
+    },
+    "parent_section": "(No.0)",
+    "token_count": 145,
+    "content_hash": "91e0958cb504fbbbd96e9f7515e2efbce927640977e74991344dd8b01a197336",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_88",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Issue No. 26/2017",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 55.224,
+      "top": 640.2255496232508,
+      "x1": 153.09224,
+      "bottom": 648.91528
+    },
+    "parent_section": "Issue No. 26/2017",
+    "token_count": 3,
+    "content_hash": "29acaa0c289413e0d60f4b04922658e11396e1749da15bdf54e49e6f0f2bafec",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_89",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Page 6",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 513.55,
+      "top": 644.7855496232507,
+      "x1": 551.18224,
+      "bottom": 653.47528
+    },
+    "parent_section": "Page 6",
+    "token_count": 2,
+    "content_hash": "0768bc6563fbb436b06460dc0aa3aff8b1c8551450006c414ad73dc00a73c334",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_90",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 185.35,
+      "top": 709.0,
+      "x1": 426.334,
+      "bottom": 749.08
+    },
+    "parent_section": "Page 6",
+    "token_count": 6,
+    "content_hash": "d0c850dd34916804082323ce6245797bb80dcb481f37dc8ab5071747954658a1",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_91",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 38.79931640625,
+      "top": 661.3044586181641,
+      "x1": 160.74472045898438,
+      "bottom": 782.2920112609863
+    },
+    "parent_section": "Page 6",
+    "token_count": 1,
+    "content_hash": "dd3d75f021fd1d3a8e3ed8b2338f1f57173f2321ed49d551caa0e97f1fa8d9fb",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_92",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "YOUR RELIABLE DATA SOURCE",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 182.95,
+      "top": 50.12893557251914,
+      "x1": 370.9008,
+      "bottom": 60.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 5,
+    "content_hash": "3cd76158429b71617d3b23f60d7956f7f26cfce3f8dbf1437628bb81207b8570",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_93",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 477.53,
+      "top": 50.67719083969462,
+      "x1": 558.482,
+      "bottom": 61.89599999999996
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 1,
+    "content_hash": "9def249ce8c70c1125e988d8fd639d48079c0238b6d3db158970c5568d4843b5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_94",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Month | 12 Months moving Average Overall CPI | 12 - Month Moving Average overall Inflation\nAugust - EFY2016 | 438.9 | 24.7\nSeptember | 444.9 | 23.8\nOctober | 451.5 | 22.9\nNovember | 457.5 | 22.0\nDecember | 463.4 | 21.0\nJanuary | 469.0 | 19.9\nFebruary | 474.4 | 18.9\nMarch | 479.5 | 17.9\nApril | 484.9 | 17.1\nMay | 490.3 | 16.5\nJune | 495.6 | 16.0\nJuly | 500.9 | 15.6\nAugust - EFY2017 | 506.2 | 15.3\n",
+    "chunk_type": "table",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 69.08711242675781,
+      "top": 120.85638427734375,
+      "x1": 548.8912963867188,
+      "bottom": 457.83953857421875
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 85,
+    "content_hash": "f2ba6d4eeb0f3b861631dd1c8b110007bdf239cafebf0336f5212074d7fa6e98",
+    "metadata": {
+      "raw_headers": [
+        "Month",
+        "12 Months moving Average Overall CPI",
+        "12 - Month Moving Average overall Inflation"
+      ],
+      "raw_rows": [
+        [
+          "August - EFY2016",
+          "438.9",
+          "24.7"
+        ],
+        [
+          "September",
+          "444.9",
+          "23.8"
+        ],
+        [
+          "October",
+          "451.5",
+          "22.9"
+        ],
+        [
+          "November",
+          "457.5",
+          "22.0"
+        ],
+        [
+          "December",
+          "463.4",
+          "21.0"
+        ],
+        [
+          "January",
+          "469.0",
+          "19.9"
+        ],
+        [
+          "February",
+          "474.4",
+          "18.9"
+        ],
+        [
+          "March",
+          "479.5",
+          "17.9"
+        ],
+        [
+          "April",
+          "484.9",
+          "17.1"
+        ],
+        [
+          "May",
+          "490.3",
+          "16.5"
+        ],
+        [
+          "June",
+          "495.6",
+          "16.0"
+        ],
+        [
+          "July",
+          "500.9",
+          "15.6"
+        ],
+        [
+          "August - EFY2017",
+          "506.2",
+          "15.3"
+        ]
+      ]
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_95",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Table 4. Overall CPI and 12 -month moving average Overall Inflation rate August  EEFY2017\nThe 12 -month moving average figures provides a broader perspective on inflation trends over a longer period. As it is indicated in Table below the country level overall inflation rate (annual change based on 12  months  Moving  Average ) was 15.3 percent in August EFY2017 as compared to the one observed in a similar period a year ago. Since EFY2016 inflation has been relatively eased in the country.\n3:  12 -Month Moving Average General, Food and Non -food Inflation",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 50.904,
+      "top": 477.38,
+      "x1": 559.0132,
+      "bottom": 607.03
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 120,
+    "content_hash": "1dc5654a38c12277aae00da0fb599f79df131a9a1654c7786f0489009780e0ac",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_96",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Page 7",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 522.19,
+      "top": 646.4655496232508,
+      "x1": 559.82224,
+      "bottom": 655.1552800000001
+    },
+    "parent_section": "Page 7",
+    "token_count": 2,
+    "content_hash": "0574b69982a547acae0046dff8cb6fcbca7621be0477fb2b4a1cb1829f26c9d6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_97",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 185.35,
+      "top": 709.0,
+      "x1": 426.334,
+      "bottom": 749.08
+    },
+    "parent_section": "Page 7",
+    "token_count": 6,
+    "content_hash": "6327f36401ddd2707fe3f75f7d084284c88bdbe8d1cf6462b645e33616f2d02c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_98",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 38.93009948730469,
+      "top": 663.1881408691406,
+      "x1": 160.71356201171875,
+      "bottom": 782.135443687439
+    },
+    "parent_section": "Page 7",
+    "token_count": 1,
+    "content_hash": "464b2b5a9fa85ebbd6b73925b5da2845433a4416aeacf1c31ecbac1d0cf8f34a",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_99",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "YOUR RELIABLE DATA SOURCE",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 182.95,
+      "top": 50.12893557251914,
+      "x1": 370.9008,
+      "bottom": 60.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 5,
+    "content_hash": "ebc2e08abd38cc49515c13b6403bfd1953c2fb4b4ad0d7dec6693224728bb15d",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_100",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 477.53,
+      "top": 50.67719083969462,
+      "x1": 558.482,
+      "bottom": 61.89599999999996
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 1,
+    "content_hash": "8fedeefb6da06ffaf8d8acdb81ab1dcfa82e28a7914346fbe2b5526c2055f16a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_101",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Month | 12 - month moving average Food Inflation | 12 - month moving average Non - Food Infla- tion\nAugust - EFY2016 | 26.7 | 21.7\nSeptember | 26.1 | 20.4\nOctober | 25.1 | 19.0\nNovember | 24.4 | 18.4\nDecember | 23.5 | 17.5\nJanuary | 22.1 | 16.7\nFebruary | 20.8 | 16.1\nMarch | 19.3 | 15.7\nApril | 18.1 | 15.7\nMay | 17.0 | 15.7\nJune | 16.2 | 15.8\nJuly | 15.5 | 15.8\nAugust - EFY2017 | 15.0 | 15.9\n",
+    "chunk_type": "table",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 40.632965087890625,
+      "top": 159.3695068359375,
+      "x1": 547.9498901367188,
+      "bottom": 466.6948547363281
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 89,
+    "content_hash": "018602434b02c157d02347f5d897256b388125db0609d41517955d2e7d818657",
+    "metadata": {
+      "raw_headers": [
+        "Month",
+        "12 - month moving average Food Inflation",
+        "12 - month moving average Non - Food Infla- tion"
+      ],
+      "raw_rows": [
+        [
+          "August - EFY2016",
+          "26.7",
+          "21.7"
+        ],
+        [
+          "September",
+          "26.1",
+          "20.4"
+        ],
+        [
+          "October",
+          "25.1",
+          "19.0"
+        ],
+        [
+          "November",
+          "24.4",
+          "18.4"
+        ],
+        [
+          "December",
+          "23.5",
+          "17.5"
+        ],
+        [
+          "January",
+          "22.1",
+          "16.7"
+        ],
+        [
+          "February",
+          "20.8",
+          "16.1"
+        ],
+        [
+          "March",
+          "19.3",
+          "15.7"
+        ],
+        [
+          "April",
+          "18.1",
+          "15.7"
+        ],
+        [
+          "May",
+          "17.0",
+          "15.7"
+        ],
+        [
+          "June",
+          "16.2",
+          "15.8"
+        ],
+        [
+          "July",
+          "15.5",
+          "15.8"
+        ],
+        [
+          "August - EFY2017",
+          "15.0",
+          "15.9"
+        ]
+      ]
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_102",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Table 5: 12 -month moving average Food and Non -Food Inflation rate (August EFY2016 -August  EFY2017) Baseline: Dec, EFY2009= 100\nDis -aggregated, 12 -month moving average food inflation increased by 15.0 percent as compared to the one observed a year ago and non -food inflation rate increased by 15.9 percent in August EFY2017 as compared to the one observed in August EFY2016.\n12 -month moving average Food and Non -Food Inflation rate (August EFY2016 -August EFY2017)",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 45.864,
+      "top": 474.98,
+      "x1": 557.46104,
+      "bottom": 597.4300000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 98,
+    "content_hash": "352cfb09297f48d6d52f78c6c3fc23c896fdc098e0d2a494943e59bd2cdf9de4",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_103",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Issue No. 26/2017",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 57.624,
+      "top": 646.4655496232508,
+      "x1": 155.49224,
+      "bottom": 655.1552800000001
+    },
+    "parent_section": "Issue No. 26/2017",
+    "token_count": 3,
+    "content_hash": "be60d46350821e106eb42508979f5d21e6b91a8f0f2cef57b84e9809cd2cfedd",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_104",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Page 8",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 522.19,
+      "top": 646.4655496232508,
+      "x1": 559.82224,
+      "bottom": 655.1552800000001
+    },
+    "parent_section": "Page 8",
+    "token_count": 2,
+    "content_hash": "dcfddc90b6847a12b9963253f23b2d5608f4e56bda30e90980e25ededa868663",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_105",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 185.35,
+      "top": 709.0,
+      "x1": 426.334,
+      "bottom": 749.08
+    },
+    "parent_section": "Page 8",
+    "token_count": 6,
+    "content_hash": "5d1c86bf6ef4e33ce6b5655fefcadb89f58c6dd5dc039a7f567e7cd909b7b232",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_106",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 38.93492126464844,
+      "top": 662.8383483886719,
+      "x1": 160.7197723388672,
+      "bottom": 782.3936243057251
+    },
+    "parent_section": "Page 8",
+    "token_count": 1,
+    "content_hash": "c7c07004008aca8411355309dcfd1b75848b78240e7f19154d2388265c214663",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_107",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "ETHIOPIAN STATISTICAL SERVICE",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 185.35,
+      "top": 42.91999999999996,
+      "x1": 430.95799999999997,
+      "bottom": 60.91999999999996
+    },
+    "parent_section": "ETHIOPIAN STATISTICAL SERVICE",
+    "token_count": 3,
+    "content_hash": "17179f1a0517398cf3911173f7a71166a1a8a957ebb0bad2c4a8d9e313834d06",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_108",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 239.14,
+      "top": 65.0,
+      "x1": 377.168,
+      "bottom": 83.0
+    },
+    "parent_section": "Statistical Bulletin",
+    "token_count": 2,
+    "content_hash": "535c7fb27d94c1ab9134c6d0ea0acdff01eb37e1c9c6536059a202fca2e8d234",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_109",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Issue No. 26/2017   Page 9",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 57.624,
+      "top": 136.0483999999999,
+      "x1": 559.82224,
+      "bottom": 146.12839999999994
+    },
+    "parent_section": "Issue No. 26/2017   Page 9",
+    "token_count": 6,
+    "content_hash": "76d13162d51295b978f8f15ba5d6f84d74c5afa6583ef7863979f6948d52a5d0",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_110",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Recent Improvements in  CPI  Price survey\nThe monthly consumer price data collection first started in Addis Ababa in 1963 (1955 E.C).  The consumer price survey which started in the capital city helped to prepare Consumer Price Index (CPI) for the city of Addis Ababa which was used as an indicator of national price movement for long time periods. Starting from December 2000 GC, CPI coverage expanded to 9 regions and 2 city administrations. Through this approach a number of zones were first selected and in each zone two Woredas were selected. From the 2 Woredas a list of 8 markets were prepared and ranked by size (population), importance of the market, wide variety of goods sold and, use of the market by both urban and rural households. From each zone two urban markets were selected for price data collection. However, these 120 markets selected  25 years ago and become less representative given the fast growth in regional towns and cities in terms of population, economic activities, and the creation of new administrative structures. Furthermore, complaints were raised by stakeholders from time to time that the CPI cover- age has been limited to 120 urban markets for a quarter of a century in-spite of big structural and economic changes in the country. This led the Ethiopian Statistics Service to review data collection sample markets that are representative following a consistent ap- proach applied to select the existing 120 markets.  This exercise led to the selection of  80 new markets. This makes a total of 200 markets (120 old markets and 80 new markets) for price survey. To see what effect the new market selection could have on the CPI series, Pilot Surveys were conducted in the newly selected 80 markets starting from August 2024. In the subsequent piloting exercis- es conducted for one year CPI results showed negligible differences between 120 markets and the combined 200 markets.",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 65.544,
+      "top": 174.41000000000008,
+      "x1": 557.7796960000001,
+      "bottom": 541.28312
+    },
+    "parent_section": "Issue No. 26/2017   Page 9",
+    "token_count": 410,
+    "content_hash": "61a3bc2178e9057d9c102616c06e939fbd2d60a35eeff716f82eb90a21cdccdd",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_111",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "This exercise was a milestone for the next CPI re-basing which is planned for December 2025=100 using the weights to be derived from 2017EFY National Integrated Household Survey.  Furthermore, these 80 new markets are important in order to include the four newly emerged regional sates of Sidama, South, South West and Central Ethiopia for the future CPI compilation. Accordingly, the ESS has decided to do the price data collection and CPI production using the combined 200 markets(120 old+80 new) starting from May 2025.\nYOUR RELIABLE DATA SOURCE  www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 65.544,
+      "top": 563.6276,
+      "x1": 561.5920000000001,
+      "bottom": 742.29168
+    },
+    "parent_section": "Issue No. 26/2017   Page 9",
+    "token_count": 113,
+    "content_hash": "278841a75a3f60c49bad08bd1e50bc12cd961cf59da79797a49127095666085c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_112",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "YOUR RELIABLE DATA SOURCE",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 182.95,
+      "top": 50.12893557251914,
+      "x1": 370.9008,
+      "bottom": 60.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 5,
+    "content_hash": "21870d66f73d7d9a44cccce0192d2298aa4a5d56b834723672293e6480453d91",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_113",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "www.ess.gov.et\nThe average annual general inflation rate for the country stood at (16.0 %) in EFY2017 compared to (26.6 %) in EFY2016 . The past three years were unfavorable for the households, due to high inflation in the country. Specially, in the year EFY2014 and EFY2015, the inflation rate has been over 30 percent for most months. Internal and external factors forced the inflation to be at higher level; COVID19, internal conflict, and Russia -Ukraine War were the major factors.\n2007 9107 9107 t07 9107 7107 107 0107 6007 8007 2007 9007 5007",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 50.904,
+      "top": 50.67719083969462,
+      "x1": 562.38544,
+      "bottom": 206.66666666666674
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 119,
+    "content_hash": "62844e07f7ec68667644eafea368890628c1bd11cfa58e55a2e21cc86d1c619b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_114",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "7.0\n8.1 7.7\n9.7\n12.6\n13.9\n16.0\n17.4\n19.9 20.1\n26.6\n32.6\n33.7",
+    "chunk_type": "list",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 69.66666666666667,
+      "top": 292.66666666666663,
+      "x1": 539.6666666666667,
+      "bottom": 483.0
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 13,
+    "content_hash": "88de2f7b5f4893adb52bfd07afecf30c4f4825530b4a7e2d7bbf970a142d7da0",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_115",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Fig 3: Average Annual General inflation in Ethiopia since Ethiopian EFY2005 (Year -on -Year)",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 62.0490608215332,
+      "top": 205.6751708984375,
+      "x1": 543.7522583007812,
+      "bottom": 522.9954833984375
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 14,
+    "content_hash": "d21bf5bab3e13075f5623fb35442dfeaef70fe2f9636475de8a9c217060c6580",
+    "metadata": {
+      "has_caption": true
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_116",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Fig 3: Average Annual General inflation in Ethiopia since Ethiopian EFY2005 (Year -on -Year)\nRelatively low and reduction in inflation rate was observed between 2005 and 2009. Since EFY2010 inflation rate stick to double digit.",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 61.464,
+      "top": 544.13,
+      "x1": 553.4689119999998,
+      "bottom": 569.09
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 45,
+    "content_hash": "37805785e7f61858c3c7edcdc76dd1e1a064e410e612e37f6118697d439473dc",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_117",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "4. Annual Inflation trend",
+    "chunk_type": "list",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 55.464,
+      "top": 618.25,
+      "x1": 211.65359999999993,
+      "bottom": 633.37
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 5,
+    "content_hash": "9e7cdfd7b08a774704b380339c7e6b58c6b78c563af41172bbdac7f202b09a18",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_118",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Page 10",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 517.87,
+      "top": 646.9455496232507,
+      "x1": 561.74224,
+      "bottom": 655.63528
+    },
+    "parent_section": "Page 10",
+    "token_count": 2,
+    "content_hash": "a4d5774324102696f0bd1d1337e55d35b9ec5860970bf966f6b4644334c72735",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_119",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Issue No. 26/2017",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 50.904,
+      "top": 649.3455496232508,
+      "x1": 148.77224,
+      "bottom": 658.0352800000001
+    },
+    "parent_section": "Issue No. 26/2017",
+    "token_count": 3,
+    "content_hash": "acafabf616760ec94ef9b587150468847bcdeeb14689da0ee99afc5350703ef5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_120",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 185.35,
+      "top": 709.0,
+      "x1": 426.334,
+      "bottom": 749.08
+    },
+    "parent_section": "Issue No. 26/2017",
+    "token_count": 6,
+    "content_hash": "12ade584811331a1240ad07bb93a08731db8f45d353904ab09491bb9012b1025",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_121",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 39.085784912109375,
+      "top": 662.9180297851562,
+      "x1": 160.76153564453125,
+      "bottom": 782.3690118789673
+    },
+    "parent_section": "Issue No. 26/2017",
+    "token_count": 1,
+    "content_hash": "aa49f0bc1f74a5d3a4a491e251967b31269b629cfb74eddf9812c01347726345",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_122",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "YOUR RELIABLE DATA SOURCE",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 182.95,
+      "top": 50.12893557251914,
+      "x1": 370.9008,
+      "bottom": 60.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 5,
+    "content_hash": "3b254d372d8bbd98f4c5c712990cd8af45c8d338ad7770b8b31576d19ca4a039",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_123",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "www.ess.gov.et\nThe average annual food inflation rate for the country stood at (16.2 %) in EFY2017 compared to (28.1 %) in EFY2016, about tweleve percentage point reduction compared to last year figure . But since 2010 the in- flation rate stacked at double digit.\n207 9107 907 107 9107 7107 1007 0107 6007 8007 2007 9007 5007",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 58.66666666666667,
+      "top": 50.67719083969462,
+      "x1": 558.482,
+      "bottom": 238.33333333333326
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 72,
+    "content_hash": "08447da3b273523cd8d616b94f6e9f2d12afec52e5b98c2df1eeaed750c2dbcb",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_124",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "5.9\n7.2 7.4\n11.3\n13.2\n13.513.1\n16.2\n23.323.1\n28.1\n31.8\n40.2",
+    "chunk_type": "list",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 60.33333333333333,
+      "top": 320.6666666666667,
+      "x1": 545.0,
+      "bottom": 559.3333333333334
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 11,
+    "content_hash": "3ae5b00e0269e1880546a786efcf8478d92163ecadb194064f11fc3769ff76d7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_125",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Fig 4: Average Annual Food Inflation in Ethiopia since EFY2005 (Year - on -",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 118.85,
+      "top": 612.3100000000001,
+      "x1": 447.30824,
+      "bottom": 623.35
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 18,
+    "content_hash": "4cd31a654a3f09f319347d4170f6cc96880687a1187db54f05f6f55b8e763170",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_126",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Year)",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 447.29,
+      "top": 612.3100000000001,
+      "x1": 471.36823999999996,
+      "bottom": 623.35
+    },
+    "parent_section": "Year)",
+    "token_count": 1,
+    "content_hash": "ecc10682c17b1516e1d5ce64e98ed50937dd44315a6642e06107c74609956fd7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_127",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Issue No. 26/2017",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 57.624,
+      "top": 644.5455496232507,
+      "x1": 155.49224,
+      "bottom": 653.23528
+    },
+    "parent_section": "Issue No. 26/2017",
+    "token_count": 3,
+    "content_hash": "5e6dfbe96979c6e384315574375783b5283782fe68c7d109b2c9a56d684d71d0",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_128",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Page 11",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 517.87,
+      "top": 646.4655496232508,
+      "x1": 561.74224,
+      "bottom": 655.1552800000001
+    },
+    "parent_section": "Page 11",
+    "token_count": 2,
+    "content_hash": "f8a7af57e8f379b9a505466538773ab5a0f5b42faa3b31d10850c07372f7264a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_129",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 42.347415924072266,
+      "top": 74.3155517578125,
+      "x1": 565.4395751953125,
+      "bottom": 658.4276428222656
+    },
+    "parent_section": "Page 11",
+    "token_count": 1,
+    "content_hash": "e78beb5db1bf5c59a9f25a3001c82963c0528ae9c70c149ed97503754784324f",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_130",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 185.35,
+      "top": 709.0,
+      "x1": 426.334,
+      "bottom": 749.08
+    },
+    "parent_section": "Page 11",
+    "token_count": 6,
+    "content_hash": "572693a44ddce3d7499713700ebbae17d3e1928cb9a17dd9774aaef0dfc28a37",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_131",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 39.02894592285156,
+      "top": 661.8693389892578,
+      "x1": 160.88735961914062,
+      "bottom": 782.4363822937012
+    },
+    "parent_section": "Page 11",
+    "token_count": 1,
+    "content_hash": "f2c410178e0370c3966c2a745f9d552428eacf97ee9a7cd1f3b12d39152ceb93",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_132",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "YOUR RELIABLE DATA SOURCE",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 182.95,
+      "top": 50.12893557251914,
+      "x1": 370.9008,
+      "bottom": 60.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 5,
+    "content_hash": "d5c7a15151eca3951962e5c1dae75d634a3dc7d38669258ad9267ec1d7a9f3ce",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_133",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "www.ess.gov.et\nThe average annual non - food inflation rate for the country stood at (15.8 %) in EFY2017 compared to (24.3 %) in EFY2016. Non - food inflation movement, in the past ten year is divided into two. Between 2005 and 2009 non - food inflation showed reduction and since then the rate demonstrate increasing trend until 2015. This is could be attached to Birr devaluation against USD, Russia - Ukraine War, and increase of international price of gasoline, as most of non - food items are imported or utilize imported raw materials. Relative easing of the non - food inflation for EFY2016 and 2017 is observed as a result of tight monetary policy in place to reduce bank credit.\n2007 9107 9107 t107 9107 7107 1107 0107 6007 8007 2007 9007 5007",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 52.824,
+      "top": 50.67719083969462,
+      "x1": 561.42544,
+      "bottom": 248.0
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 171,
+    "content_hash": "acf752384e5cec3391cd4c53da854b3d80294d54457b6f1fc1943e5ef50e8ddb",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_134",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "7.4\n8.0 8.0\n10.6\n12.0\n15.0\n15.8 15.8\n16.4 15.8\n24.3\n25.0\n33.8",
+    "chunk_type": "list",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 66.66666666666667,
+      "top": 342.6666666666667,
+      "x1": 542.0,
+      "bottom": 542.0
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 13,
+    "content_hash": "ba0b829588c4fe6d830558004c05da660e63358077424225ede1398aa51266dd",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_135",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Fig 5: Average Annual Non",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 109.97,
+      "top": 601.27,
+      "x1": 230.49368,
+      "bottom": 612.31
+    },
+    "parent_section": "Fig 5: Average Annual Non",
+    "token_count": 6,
+    "content_hash": "1df93c46efe9e345b55d1cd9bf9cc7947a6ee4f5f0e8c54a1f453f019d5a327c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_136",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "- Food Inflation in Ethiopia since EFY2005 (Year - on -",
+    "chunk_type": "list",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 230.5,
+      "top": 601.27,
+      "x1": 460.98824,
+      "bottom": 612.31
+    },
+    "parent_section": "Fig 5: Average Annual Non",
+    "token_count": 14,
+    "content_hash": "614c59cb04ac3ae10c2f15a2ac31984491db42baaf0eb4ff2cd1ba91719fecda",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_137",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Year)",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 460.97,
+      "top": 601.27,
+      "x1": 485.04823999999996,
+      "bottom": 612.31
+    },
+    "parent_section": "Year)",
+    "token_count": 1,
+    "content_hash": "1b463e70ea0596f898c39cfa13b2414da2931239ee01b7e3f3a42cd91357b47f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_138",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Issue No. 26/2017",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 57.624,
+      "top": 644.5455496232507,
+      "x1": 155.49224,
+      "bottom": 653.23528
+    },
+    "parent_section": "Issue No. 26/2017",
+    "token_count": 3,
+    "content_hash": "754fa14519726bc85efee411cb0d60024fff5e8d75304360b92787a57819eee6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_139",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Page 12",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 517.87,
+      "top": 646.4655496232508,
+      "x1": 561.74224,
+      "bottom": 655.1552800000001
+    },
+    "parent_section": "Page 12",
+    "token_count": 2,
+    "content_hash": "35851ef75c9687a9eedeb58a5dc4906a81fc29e661d2a6974f2c7d51bf02540c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_140",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 42.420005798339844,
+      "top": 76.9112548828125,
+      "x1": 565.8033447265625,
+      "bottom": 660.9871520996094
+    },
+    "parent_section": "Page 12",
+    "token_count": 1,
+    "content_hash": "bf4008d185a53734db9234f5657755061fa31aa3e4840c56efc47f8220337d2b",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_141",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 185.35,
+      "top": 709.0,
+      "x1": 426.334,
+      "bottom": 749.08
+    },
+    "parent_section": "Page 12",
+    "token_count": 6,
+    "content_hash": "58e966eb76fd2c674f1067bb3ff642baab2ee0363ce0d55e63cc2af470b18f6f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_142",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 39.02706527709961,
+      "top": 662.8032531738281,
+      "x1": 160.91770935058594,
+      "bottom": 782.5186634063721
+    },
+    "parent_section": "Page 12",
+    "token_count": 1,
+    "content_hash": "9702c37546e7eec043a60c3aba75a2db5d8c13389b4c7b6fcf4b7818b2e38be4",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_143",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "YOUR RELIABLE DATA SOURCE",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 182.95,
+      "top": 50.12893557251914,
+      "x1": 370.9008,
+      "bottom": 60.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 5,
+    "content_hash": "f321d56ad0bccf342672c9d00f05458568ebedbd4945a5b280c4d5342ad88066",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_144",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "www.ess.gov.et\nIndex reference period (December EFY2009=100): The period with which all other periods are compared (the period for which the value of the CPI is set at 100).\nMonth -to -Month  percentage  change: The  monthly  percentage change is the change in the index of the relevant month  compared  with  the  index  of  the  previous  month expressed as a percentage.\nYou can visit us on the Website at: http://www.ess.gov.et/\nYear -on -Year  percentage  change: The  Yearly  percentage change is the change in the index of the relevant month of the  current  year  compared  with  the  index  of  the  same month in the previous year expressed as a percentage.\nNon -food  Inflation :  inflation  which  covers  all  non -food items within the scope of the inflation.\nPostal address : 1143\nFood Inflation : inflation which covers all food items within the scope of the inflation.\nEmail: alemteferig@gmail.com alemayehu.teferi@ess.gov.et\nGeneral Inflation : The highest level of aggregation of inflation which covers all the items within the scope of the inflation.\nTelephone number +251 111 568464",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 46.584,
+      "top": 50.67719083969462,
+      "x1": 558.482,
+      "bottom": 551.09
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE",
+    "token_count": 219,
+    "content_hash": "3c3ad2033d470ed3e37ee70d66cc407789b220c757c14c0cfc5edbefc28e648f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_145",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "5.  GLOSSARY",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 249.7,
+      "top": 610.8100000000001,
+      "x1": 333.13216000000006,
+      "bottom": 625.9300000000001
+    },
+    "parent_section": "5.  GLOSSARY",
+    "token_count": 2,
+    "content_hash": "a571f3f7b4f39a1bee8d6030fbc465fcd7501c073c757c1e48330379b77b0ac2",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_146",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Enquiries",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 80.184,
+      "top": 618.97,
+      "x1": 138.018,
+      "bottom": 634.09
+    },
+    "parent_section": "Enquiries",
+    "token_count": 1,
+    "content_hash": "029127c8b41a0f041a23555c75438e08c837ed6833513ab20f16e81ad7bf6073",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_147",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Page 13",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 507.31,
+      "top": 646.4655496232508,
+      "x1": 551.18224,
+      "bottom": 655.1552800000001
+    },
+    "parent_section": "Page 13",
+    "token_count": 2,
+    "content_hash": "afba7c07ffcd7d642b1402495938c60c7b6dc6fb49082cc5ff4eee52a0815da0",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_148",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "Issue No. 26/2017",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 224.5,
+      "top": 649.5855496232507,
+      "x1": 322.36224,
+      "bottom": 658.27528
+    },
+    "parent_section": "Issue No. 26/2017",
+    "token_count": 3,
+    "content_hash": "4759042b125ab431c66463723c3ddcae8a099c1ac3d5fcab4c1292219c4bdf19",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_149",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 185.35,
+      "top": 709.0,
+      "x1": 426.334,
+      "bottom": 749.08
+    },
+    "parent_section": "Issue No. 26/2017",
+    "token_count": 6,
+    "content_hash": "282903630d86f95ea7e8484e1506e87646ff2903517b7774a2fa5a70173f20af",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e_chk_150",
+    "document_id": "49fd54234b5f0cea2d10980307ce2aee7a3d514bb85676a20fa0a68336839d6e",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 38.91932678222656,
+      "top": 661.7257232666016,
+      "x1": 160.71714782714844,
+      "bottom": 782.0752201080322
+    },
+    "parent_section": "Issue No. 26/2017",
+    "token_count": 1,
+    "content_hash": "743e4af63758b10862ed53d9e69711abf966bd742cc2a04c828d885d1a397156",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  }
+]

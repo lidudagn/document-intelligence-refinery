@@ -12,9 +12,9 @@ from src.models.extracted_document import (
     TextBlock, TableBlock, BoundingBox, ExtractedPage, ExtractedDocument,
 )
 from src.models.profile import (
-    DocumentProfile, OriginType, LayoutComplexity, DomainHint, ExtractionCost,
+    DocumentProfile, OriginType, LayoutComplexity, ExtractionCost,
 )
-from src.agents.extractor import ExtractionRouter, ExtractionValidator
+from src.agents.router import ExtractionRouter, ExtractionValidator
 from src.strategies.vision_augmented import BudgetGuard, BudgetExceededError
 
 # ---------------------------------------------------------------------------
@@ -32,7 +32,7 @@ def _make_profile(**overrides) -> DocumentProfile:
         origin_type=OriginType.NATIVE_DIGITAL,
         layout_complexity=LayoutComplexity.SINGLE_COLUMN,
         language="en",
-        domain_hint=DomainHint.GENERAL,
+        domain_hint="general",
         extraction_cost=ExtractionCost.FAST_TEXT_SUFFICIENT,
         confidence_scores={"origin_conf": 0.9, "layout_conf": 0.9, "lang_conf": 0.9},
     )

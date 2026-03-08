@@ -3,109 +3,361 @@
   "source_path": "data/data/2013-E.C-Procurement-information.pdf",
   "pages": [
     {
-      "page_number": 0,
-      "blocks": [
-        {
-          "block_type": "text",
-          "page_number": 0,
-          "bbox": null,
-          "content_hash": "7d32484be476113ef367dbc07a46044ece794376341b4868bc48231d7d0eb181",
-          "text": "\u12a0\u1263\u122a 5.1 \u1260\u121b\u1235\u1273\u12c8\u1242\u12eb \u1220\u120c\u12f3 \u12e8\u121a\u1208\u1320\u134d \u1208\u1205\u12dd\u1265 \u12ed\u134b \u12e8\u121a\u12f0\u1228\u130d \u12e8\u1328\u1228\u1273/\u130d\u12e5\n\u12c9\u12f5\u12f5\u122d \u12c9\u1324\u1275 \u121b\u1235\u1273\u12c8\u1242\u12eb \u12ed\u12d8\u1275"
-        },
-        {
-          "block_type": "text",
-          "page_number": 0,
-          "bbox": null,
-          "content_hash": "499f02e492698eaeb3e7f60a1990b1a90524211b38f6d017f8450a9bd9b16b58",
-          "text": "\u12a8\u12a0\u1295\u12f5 \u12a0\u1245\u122b\u1262"
-        },
-        {
-          "block_type": "text",
-          "page_number": 0,
-          "bbox": null,
-          "content_hash": "0f308a51884d4a4bf0a48a800d3acf7206fcd362602a503f7a44e9af2c55ce0e",
-          "text": "1. \u12e8\u130d\u12e5 \u1348\u133b\u121a\u12c9 \u1218/\u1264\u1275 \u1235\u121d \u1361\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12a2\u1295\u1268\u1235\u1275\u1218\u1295\u1275 \u12ae\u121a\u123d\u1295\n2. \u12e8\u130d\u12e5\u12c9 \u12d3\u12ed\u1290\u1275\u1361\u12d5\u1243(\u12e8\u12a2\u1295\u1268\u1235\u1275\u1218\u1295\u1275 \u134d\u1243\u12f5 \u121d\u1235\u1322\u122b\u12ca \u1205\u1275\u1218\u1275)\n3. \u12e8\u130d\u12e5 \u12d8\u12f4\u1361\u12a8\u12a0\u1295\u12f5 \u12a0\u1245\u122b\u1262\n4. \u1260\u12c9\u12f5\u12f5\u1229 \u12a0\u1238\u1293\u134a \u1206\u1296 \u12e8\u1270\u1218\u1228\u1320\u12c9\u1361\u1265\u122d\u1203\u1295\u1293 \u1220\u120b\u121d \u121b\u1270\u121a\u12eb \u12f5\u122d\u1305\u1275\n5. \u12c9\u1209 \u12e8\u1270\u1348\u1228\u1218\u1260\u1275/\u12e8\u130d\u12e5 \u1275\u12d5\u12db\u12dd \u12e8\u1270\u1220\u1320\u1260\u1275 \u130a\u12dc\u1361\u1273\u1205\u1233\u1235 4/ 2013\u12d3.\u121d\n6. \u12e8\u12c9\u1209 \u1320\u1245\u120b\u120b \u12cb\u130b\u1361640,780.00"
-        },
-        {
-          "block_type": "text",
-          "page_number": 0,
-          "bbox": null,
-          "content_hash": "18a6d4015b5cff72bcfa0f3580a910362aea1c21c29c2cd962ec5eae355693f6",
-          "text": "\u12cd\u1235\u1295 \u1328\u1228\u1273"
-        },
-        {
-          "block_type": "text",
-          "page_number": 0,
-          "bbox": null,
-          "content_hash": "34943c4c5db1fc930434df3d1b01cc0a27542054c497180773d4ade73c7c4be2",
-          "text": "1. \u12e8\u130d\u12e5 \u1348\u133b\u121a\u12c9 \u1218/\u1264\u1275 \u1235\u121d \u1361\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12a2\u1295\u1268\u1235\u1275\u1218\u1295\u1275 \u12ae\u121a\u123d\u1295\n2. \u12e8\u130d\u12e5\u12c9 \u12d3\u12ed\u1290\u1275\u1361\u12e8\u1206\u1274\u120d \u12a0\u1308\u120d\u130d\u120e\u1275\n3. \u12e8\u130d\u12e5 \u12d8\u12f4\u1361\u12c9\u1235\u1295 \u1328\u1228\u1273\n4. \u1260\u12c9\u12f5\u12f5\u1229 \u12a0\u1238\u1293\u134a \u1206\u1296 \u12e8\u1270\u1218\u1228\u1320\u12c9\u1361\u1200\u12eb\u1275 \u122c\u1300\u1295\u1232\n5. \u12c9\u1209 \u12e8\u1270\u1348\u1228\u1218\u1260\u1275/\u12e8\u130d\u12e5 \u1275\u12d5\u12db\u12dd \u12e8\u1270\u1220\u1320\u1260\u1275 \u130a\u12dc\u1361\u1325\u122d 1/ 2012\u12d3.\u121d\n6. \u12e8\u12c9\u1209 \u1320\u1245\u120b\u120b \u12cb\u130b\u1361482,228.46"
-        },
-        {
-          "block_type": "text",
-          "page_number": 0,
-          "bbox": null,
-          "content_hash": "0775178a0788627e9762cf44b37fcc4820b107bc2d08efd9c474ed502d3aed86",
-          "text": "\u130d\u120d\u133d \u1328\u1228\u1273"
-        },
-        {
-          "block_type": "text",
-          "page_number": 0,
-          "bbox": null,
-          "content_hash": "d7f64e2ed1f6c1b627b5ceb1d82f214f053af204b76de95b24f73a4b6f45991d",
-          "text": "1. \u12e8\u130d\u12e5 \u1348\u133b\u121a\u12c9 \u1218/\u1264\u1275 \u1235\u121d \u1361\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12a2\u1295\u1268\u1235\u1275\u1218\u1295\u1275 \u12ae\u121a\u123d\u1295\n2. \u12e8\u130d\u12e5\u12c9 \u12d3\u12ed\u1290\u1275\u1361\u12e8\u130b\u122b\u12e5 \u12a0\u1308\u120d\u130d\u120e\u1275\n3. \u12e8\u1328\u1228\u1273 \u1218\u1208\u12eb \u1241\u1325\u122d\u1361006/2011\n4. \u12e8\u130d\u12e5 \u12d8\u12f4\u1361\u130d\u120d\u133d \u1328\u1228\u1273\n5. \u1260\u12c9\u12f5\u12f5\u1229 \u12a0\u1238\u1293\u134a \u1206\u1296 \u12e8\u1270\u1218\u1228\u1320\u12c9\u1361\u1308\u1290\u1275 \u12c8\u1295\u12f5\u121b\u1308\u129d \u12e8\u130b\u122b\u12e5 \u12a0\u1308\u120d\u130d\u120e\u1275\n6. \u12c9\u1209 \u12e8\u1270\u1348\u1228\u1218\u1260\u1275/\u12e8\u130d\u12e5 \u1275\u12d5\u12db\u12dd \u12e8\u1270\u1220\u1320\u1260\u1275 \u130a\u12dc\u1361\u1220\u1294 1/ 2011\u12d3.\u121d\n7. \u12e8\u12c9\u1209 \u1320\u1245\u120b\u120b \u12cb\u130b\u1361375,400.00"
-        },
-        {
-          "block_type": "text",
-          "page_number": 0,
-          "bbox": null,
-          "content_hash": "afc30ea6e6995c83b57a35f3728a0010cce02379bd049ea9d3aabbc92dce87c2",
-          "text": "1. \u12e8\u130d\u12e5 \u1348\u133b\u121a\u12c9 \u1218/\u1264\u1275 \u1235\u121d \u1361\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12a2\u1295\u1268\u1235\u1275\u1218\u1295\u1275 \u12ae\u121a\u123d\u1295\n2. \u12e8\u130d\u12e5\u12c9 \u12d3\u12ed\u1290\u1275\u1361\u12d5\u1243(\u12e8\u134e\u1276 \u12ae\u1352 \u121b\u123d\u1295\u1293 \u1355\u122a\u1295\u1270\u122d)\n3. \u12e8\u1328\u1228\u1273 \u1218\u1208\u12eb \u1241\u1325\u122d\u1361\u12e8\u121b\u12d5\u1240\u134d \u130d\u12e5\n4. \u12e8\u130d\u12e5 \u12d8\u12f4\u1361\u12d3\u1208\u121d \u12a0\u1240\u134d \u130d\u120d\u133d \u1328\u1228\u1273\n5. \u1260\u12c9\u12f5\u12f5\u1229 \u12a0\u1238\u1293\u134a \u1206\u1296 \u12e8\u1270\u1218\u1228\u1320\u12c9\u1361\u1293\u123d\u1293\u120d \u121b\u122d\u12ac\u1270\u122d"
-        }
-      ],
-      "page_confidence": 0.9,
-      "strategy_used": "vision_vlm"
-    },
-    {
       "page_number": 1,
       "blocks": [
         {
-          "block_type": "text",
+          "block_type": "figure",
           "page_number": 1,
-          "bbox": null,
-          "content_hash": "3141047a0df297de867eaa4ab401ba574a7f96b4f90a63faf3a454816be6ed14",
-          "text": "6. \u12c9\u1209 \u12e8\u1270\u1348\u1228\u1218\u1260\u1275/\u12e8\u130d\u12e5 \u1275\u12d5\u12db\u12dd \u12e8\u1270\u1220\u1320\u1260\u1275 \u130a\u12dc\u1361\u1325\u122d 11/ 2011\u12d3.\u121d\n7. \u12e8\u12c9\u1209 \u1320\u1245\u120b\u120b \u12cb\u130b\u1361175,000.00"
+          "bbox": {
+            "x0": 53.26963424682617,
+            "top": 128.79193115234375,
+            "x1": 173.1233673095703,
+            "bottom": 76.20867919921875
+          },
+          "content_hash": "b19a0df819ea7d173a2364b69e8e17af55ac7bf9edf0c9fa372d2d470a8d7fcf",
+          "caption": null,
+          "image_base64": null
         },
         {
           "block_type": "text",
           "page_number": 1,
-          "bbox": null,
-          "content_hash": "977d8a60a1225958529d4ce6fc8fef8512d4442241eeba187489a514dd7de0e5",
-          "text": "1. \u12e8\u130d\u12e5 \u1348\u133b\u121a\u12c9 \u1218/\u1264\u1275 \u1235\u121d \u1361\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12a2\u1295\u1268\u1235\u1275\u1218\u1295\u1275 \u12ae\u121a\u123d\u1295\n2. \u12e8\u130d\u12e5\u12c9 \u12d3\u12ed\u1290\u1275\u1361\u12d5\u1243(\u1204\u126a \u12f2\u12e9\u1272 \u1355\u122a\u1295\u1270\u122d)\n3. \u12e8\u1328\u1228\u1273 \u1218\u1208\u12eb \u1241\u1325\u122d\u1361\u12e8\u121b\u12d5\u1240\u134d \u130d\u12e5\n4. \u12e8\u130d\u12e5 \u12d8\u12f4\u1361\u12d3\u1208\u121d \u12a0\u1240\u134d \u130d\u120d\u133d \u1328\u1228\u1273\n5. \u1260\u12c9\u12f5\u12f5\u1229 \u12a0\u1238\u1293\u134a \u1206\u1296 \u12e8\u1270\u1218\u1228\u1320\u12c9\u1361\u12a0\u120d\u1273 \u12ae\u121d\u1352\u12e9\u1274\u12ad\n6. \u12c9\u1209 \u12e8\u1270\u1348\u1228\u1218\u1260\u1275/\u12e8\u130d\u12e5 \u1275\u12d5\u12db\u12dd \u12e8\u1270\u1220\u1320\u1260\u1275 \u130a\u12dc\u1361\u12e8\u12ab\u1272\u1275 04/ 2013\u12d3.\u121d\n7. \u12e8\u12c9\u1209 \u1320\u1245\u120b\u120b \u12cb\u130b\u1361115,000.00"
+          "bbox": {
+            "x0": 401.6808675130208,
+            "top": 162.49232991536462,
+            "x1": 406.3319091796875,
+            "bottom": 142.97784423828125
+          },
+          "content_hash": "f99a07fbed257458e2a63d87bde263fd546453e19461fe5088d4dce39bee2357",
+          "text": "IAF"
         },
         {
           "block_type": "text",
           "page_number": 1,
-          "bbox": null,
-          "content_hash": "aeaba2cf55b2c834f651ce457859274e228905d61d4ea74db54427519d118155",
-          "text": "1. \u12e8\u130d\u12e5 \u1348\u133b\u121a\u12c9 \u1218/\u1264\u1275 \u1235\u121d \u1361\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12a2\u1295\u1268\u1235\u1275\u1218\u1295\u1275 \u12ae\u121a\u123d\u1295\n2. \u12e8\u130d\u12e5\u12c9 \u12d3\u12ed\u1290\u1275\u1361\u12e8\u1205\u1275\u1218\u1275 \u12a0\u1308\u120d\u130d\u120e\u1275\n3. \u12e8\u1328\u1228\u1273 \u1218\u1208\u12eb \u1241\u1325\u122d\u1361001/2013\n4. \u12e8\u130d\u12e5 \u12d8\u12f4\u1361\u130d\u120d\u133d \u1328\u1228\u1273\n5. \u1260\u12c9\u12f5\u12f5\u1229 \u12a0\u1238\u1293\u134a \u1206\u1296 \u12e8\u1270\u1218\u1228\u1320\u12c9\u1361\u1260\u12d5\u121d\u1290\u1275 \u121b\u1270\u121a\u12eb\n6. \u12c9\u1209 \u12e8\u1270\u1348\u1228\u1218\u1260\u1275/\u12e8\u130d\u12e5 \u1275\u12d5\u12db\u12dd \u12e8\u1270\u1220\u1320\u1260\u1275 \u130a\u12dc\u1361\u121a\u12eb\u12dd\u12eb 15/ 2013\u12d3.\u121d\n7. \u12e8\u12c9\u1209 \u1320\u1245\u120b\u120b \u12cb\u130b\u13611,242,000.00"
+          "bbox": {
+            "x0": 104.85984293619792,
+            "top": 163.34075927734375,
+            "x1": 384.3451741536458,
+            "bottom": 150.18975830078125
+          },
+          "content_hash": "8a87c2b712bd7a94bf9fe40fdeddb739b89d489f35b0cf9ffdec0d164e4b65b1",
+          "text": "N@ AP0m@: 9ch"
         },
         {
           "block_type": "text",
           "page_number": 1,
-          "bbox": null,
-          "content_hash": "45bb4eb1103d5fd7228f7b97564273eaa3780f0005497a064ed6f3479e87a872",
-          "text": "1. \u12e8\u130d\u12e5 \u1348\u133b\u121a\u12c9 \u1218/\u1264\u1275 \u1235\u121d \u1361\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12a2\u1295\u1268\u1235\u1275\u1218\u1295\u1275 \u12ae\u121a\u123d\u1295\n2. \u12e8\u130d\u12e5\u12c9 \u12d3\u12ed\u1290\u1275\u1361\u12e8\u1218\u12aa\u1293 \u1218\u1208\u12cb\u12c8\u132b \u12d5\u1243\u12ce\u127d\n3. \u12e8\u1328\u1228\u1273 \u1218\u1208\u12eb \u1241\u1325\u122d\u1361001/2013\n4. \u12e8\u130d\u12e5 \u12d8\u12f4\u1361\u130d\u120d\u133d \u1328\u1228\u1273\n5. \u1260\u12c9\u12f5\u12f5\u1229 \u12a0\u1238\u1293\u134a \u1206\u1296 \u12e8\u1270\u1218\u1228\u1320\u12c9\u1361\u1243\u120d\u12a0\u1265 \u1308/\u12aa\u12f3\u1295 \u12a0\u1235\u1218\u132a\n6. \u12c9\u1209 \u12e8\u1270\u1348\u1228\u1218\u1260\u1275/\u12e8\u130d\u12e5 \u1275\u12d5\u12db\u12dd \u12e8\u1270\u1220\u1320\u1260\u1275 \u130a\u12dc\u1361\u121a\u12eb\u12dd\u12eb 15/ 2013\u12d3.\u121d\n7. \u12e8\u12c9\u1209 \u1320\u1245\u120b\u120b \u12cb\u130b\u1361635,800.00"
+          "bbox": {
+            "x0": 105.2826639811198,
+            "top": 182.00677490234375,
+            "x1": 304.85463460286456,
+            "bottom": 167.15879313151038
+          },
+          "content_hash": "41133e6afe3fadf370fcda88042bdfc84c42f4ff263d80a760908537144ce486",
+          "text": "PH:9\u4e2d"
         },
         {
           "block_type": "text",
           "page_number": 1,
-          "bbox": null,
-          "content_hash": "8725ec97dea6bd7ac744e1314662d19b3951041bc9ad45a5ebdf8096befe3f62",
-          "text": "1. \u12e8\u130d\u12e5 \u1348\u133b\u121a\u12c9 \u1218/\u1264\u1275 \u1235\u121d \u1361\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12a2\u1295\u1268\u1235\u1275\u1218\u1295\u1275 \u12ae\u121a\u123d\u1295\n2. \u12e8\u130d\u12e5\u12c9 \u12d3\u12ed\u1290\u1275\u1361\u12e8\u1205\u1275\u1218\u1275 \u12a0\u1308\u120d\u130d\u120e\u1275\n3. \u12e8\u1328\u1228\u1273 \u1218\u1208\u12eb \u1241\u1325\u122d\u1361001/2013\n4. \u12e8\u130d\u12e5 \u12d8\u12f4\u1361\u130d\u120d\u133d \u1328\u1228\u1273\n5. \u1260\u12c9\u12f5\u12f5\u1229 \u12a0\u1238\u1293\u134a \u1206\u1296 \u12e8\u1270\u1218\u1228\u1320\u12c9\u1361\u1260\u12d5\u121d\u1290\u1275 \u121b\u1270\u121a\u12eb\n6. \u12c9\u1209 \u12e8\u1270\u1348\u1228\u1218\u1260\u1275 \u12e8\u130d\u12e5 \u1275\u12d5\u12db\u12dd \u12e8\u1270\u1220\u1320\u1260\u1275 \u130a\u12dc\u1361\u121a\u12eb\u12dd\u12eb 15/ 2013\u12d3.oli\u122b\u1232\n7. \u12e8\u12c9\u1209 \u1320\u1245\u120b\u120b \u12cb\u130b\u13611,242,000.00"
+          "bbox": {
+            "x0": 104.43702189127605,
+            "top": 198.97585042317712,
+            "x1": 298.0894775390625,
+            "bottom": 186.67327880859375
+          },
+          "content_hash": "f9f340f686c8dd47a4c96af8e89946c27210761cdb039749512ed46ffc9f9f45",
+          "text": "P6bATC:P\u4e2d"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 1,
+          "bbox": {
+            "x0": 391.12762451171875,
+            "top": 206.1602783203125,
+            "x1": 526.9511108398438,
+            "bottom": 72.0208740234375
+          },
+          "content_hash": "b19a0df819ea7d173a2364b69e8e17af55ac7bf9edf0c9fa372d2d470a8d7fcf",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 104.85984293619792,
+            "top": 218.91453043619788,
+            "x1": 361.9355875651042,
+            "bottom": 202.36964925130212
+          },
+          "content_hash": "6da99aff4c3df211a27782d2f91e879636cd8eed4395dbe9ba324c041052ca24",
+          "text": "P9:0(T6)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 105.2826639811198,
+            "top": 236.30784098307288,
+            "x1": 436.7750651041667,
+            "bottom": 223.15679931640625
+          },
+          "content_hash": "91c4953ac7c9d496c61cc9bb6a20b8cf9ea831ce43380352c9429dcc449350ef",
+          "text": "1.\uff1a"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 104.85984293619792,
+            "top": 290.6089070638021,
+            "x1": 280.33095296223956,
+            "bottom": 275.33673095703125
+          },
+          "content_hash": "2a2357d420621c25b16f2593532403726cab706e8e97baf2b27224aedf06408e",
+          "text": "P@M44 P2:375,400.00"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 104.01420084635417,
+            "top": 309.6991170247396,
+            "x1": 438.8892008463542,
+            "bottom": 294.8511759440104
+          },
+          "content_hash": "a63ba17d76456b539aeedf2bbbb8cd10e33d02b328f867da4865dfe5d6dd82b2",
+          "text": "6.@/m21/ 201.9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 103.5913798014323,
+            "top": 327.51666259765625,
+            "x1": 473.5605875651042,
+            "bottom": 313.5171915690104
+          },
+          "content_hash": "5fb626bda0c4310263982f095b47356879efe19119c240b13f179efac81b5cdf",
+          "text": "0@0:@2"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 104.01420084635417,
+            "top": 345.33420817057294,
+            "x1": 243.54545084635416,
+            "bottom": 330.06203206380206
+          },
+          "content_hash": "7012816a42ae9841b297192799e5245aebf98b8312df860a87eae22347266ffa",
+          "text": "PH:"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 103.5913798014323,
+            "top": 362.72751871744794,
+            "x1": 276.5255533854167,
+            "bottom": 348.72804768880206
+          },
+          "content_hash": "af1ddf498dc3c517cf14fa3904fd1f9d2b0f9e6a65d1e29a07fcebf1d64450c9",
+          "text": "P\u4e2dC:006/2011"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 104.01420084635417,
+            "top": 381.81776936848956,
+            "x1": 295.1297200520833,
+            "bottom": 367.81825764973956
+          },
+          "content_hash": "8cf5ea20cc184327bf8139fdc06c6bd23044b2b18a360ee7ca650fa652dea9af",
+          "text": "2.P"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 104.43702189127605,
+            "top": 399.21107991536456,
+            "x1": 435.5066324869792,
+            "bottom": 386.06003824869794
+          },
+          "content_hash": "91c4953ac7c9d496c61cc9bb6a20b8cf9ea831ce43380352c9429dcc449350ef",
+          "text": "1.\uff1a"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 266.37782796223956,
+            "top": 426.78582763671875,
+            "x1": 334.45216878255206,
+            "bottom": 411.93788655598956
+          },
+          "content_hash": "41527850465b359035fdae271125a0ba1caa3c6596e465289bf264896342a393",
+          "text": "b\u5c0f"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 104.43702189127605,
+            "top": 453.51214599609375,
+            "x1": 279.4853108723958,
+            "bottom": 439.08839925130206
+          },
+          "content_hash": "d01e11c90498483935df2369550abd6885f173cbe1d745e8f47571bc34c104b6",
+          "text": "6.P@m4 2:482,228.46"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 102.74573771158855,
+            "top": 472.60235595703125,
+            "x1": 441.4261067708333,
+            "bottom": 457.33017985026044
+          },
+          "content_hash": "70d43c330dbb6496e02c7f769a77cdea51f2177579239eeff709557d69eec95e",
+          "text": "@P6\u2229/ PWMN 2H:TC1/ 2012%.9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 102.74573771158855,
+            "top": 490.41990152994794,
+            "x1": 363.2040608723958,
+            "bottom": 475.57196044921875
+          },
+          "content_hash": "d3851623496e5d953c07e822c2774781a93661c3e7c3c7f3d0f1e8655111bb4a",
+          "text": "N@AP0M@:06"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 103.16855875651042,
+            "top": 508.23744710286456,
+            "x1": 242.6998087565104,
+            "bottom": 493.81374104817706
+          },
+          "content_hash": "e84f3e1a2bd485ffad8bc20356a63611898b6b89cdb80ebb050b15d2672b2fd0",
+          "text": "PH:@ \u5c0f"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 102.74573771158855,
+            "top": 526.4792073567708,
+            "x1": 292.59279378255206,
+            "bottom": 512.479715983073
+          },
+          "content_hash": "8cf5ea20cc184327bf8139fdc06c6bd23044b2b18a360ee7ca650fa652dea9af",
+          "text": "2.P"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 103.16855875651042,
+            "top": 544.7209879557292,
+            "x1": 435.5066324869792,
+            "bottom": 530.7214762369792
+          },
+          "content_hash": "91c4953ac7c9d496c61cc9bb6a20b8cf9ea831ce43380352c9429dcc449350ef",
+          "text": "1.\uff1a"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 266.37782796223956,
+            "top": 573.5684204101562,
+            "x1": 333.6065266927083,
+            "bottom": 556.599344889323
+          },
+          "content_hash": "913bb0902877db538711bd253542fac3254474162f89629a22912acaa22bb3bc",
+          "text": "\u2460 B\u5c0f"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 103.5913798014323,
+            "top": 598.5978393554688,
+            "x1": 278.21685791015625,
+            "bottom": 584.5983276367188
+          },
+          "content_hash": "3212ed7ba19872e97bc6eaecabbb887288bab8c1f78f6eeaa35fb8cf3e752bca",
+          "text": "6.P@m942:640,780.00"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 101.9000956217448,
+            "top": 617.6880493164062,
+            "x1": 460.453125,
+            "bottom": 602.4158732096354
+          },
+          "content_hash": "f6cc441cffaf1126282d4cd45b5ec1f2dde4c0d830de4fbb87b48214295637e2",
+          "text": "@/wm2:4/ 2013.9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 101.47727457682292,
+            "top": 653.7473551432291,
+            "x1": 251.15625,
+            "bottom": 639.3236287434896
+          },
+          "content_hash": "857d29908506d73825ed047afbbb05d1bfb080a997921513c662f7fda8a66932",
+          "text": "PH:h\u4e2d"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 102.32291666666667,
+            "top": 672.4133605957031,
+            "x1": 435.929443359375,
+            "bottom": 657.1411743164062
+          },
+          "content_hash": "a5bf71ec6b46a4ac9cce89777e4d6627657a390521850f89047caabf64d322e9",
+          "text": "P\uff1a()"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 103.16855875651042,
+            "top": 690.2308959960938,
+            "x1": 433.8153483072917,
+            "bottom": 675.8071695963541
+          },
+          "content_hash": "91c4953ac7c9d496c61cc9bb6a20b8cf9ea831ce43380352c9429dcc449350ef",
+          "text": "1.\uff1a"
+        },
+        {
+          "block_type": "text",
+          "page_number": 1,
+          "bbox": {
+            "x0": 212.679443359375,
+            "top": 744.9561971028646,
+            "x1": 384.3451741536458,
+            "bottom": 730.532480875651
+          },
+          "content_hash": "4ffc44ce53dc71e7c765cd3bb39a9104db56e1eb560a1cdd1bd3e4424537d665",
+          "text": "@C @m n0 eH"
         }
       ],
       "page_confidence": 0.9,
-      "strategy_used": "vision_vlm"
+      "strategy_used": "layout_docling"
     },
     {
       "page_number": 2,
@@ -113,97 +365,716 @@
         {
           "block_type": "text",
           "page_number": 2,
-          "bbox": null,
-          "content_hash": "77b72a37dbb69ce87bdf78842da5e9cab846c9e29a12d7efb7ee320603729d6d",
-          "text": "\u12e8\u12cd\u120d \u12a0\u1348\u133b\u1338\u121d"
+          "bbox": {
+            "x0": 430.4327392578125,
+            "top": 107.76698811848962,
+            "x1": 438.4663899739583,
+            "bottom": 91.64638264973962
+          },
+          "content_hash": "7ad2924d86af705e07635ea336bd93a4ba29c48fdcba6099ae157a4f8ce9abb9",
+          "text": "The"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 2,
+          "bbox": {
+            "x0": 46.58211135864258,
+            "top": 135.48944091796875,
+            "x1": 182.7089080810547,
+            "bottom": 86.41217041015625
+          },
+          "content_hash": "cbaff5538c317526fb622f65f6ab6f7b3591f9d9f00771ec6d15128ae2928d26",
+          "caption": null,
+          "image_base64": null
         },
         {
           "block_type": "text",
           "page_number": 2,
-          "bbox": null,
-          "content_hash": "73a55a4910cc68c7a328c5d2683bf49d5540c680d6789d8850ef26de87054e6f",
-          "text": "\u12a0\u1263\u122a 5.2 \u1260\u121b\u1235\u1273\u12c8\u1242\u12eb \u1220\u120c\u12f3 \u12e8\u121a\u1208\u1320\u134d \u1208\u1205\u12dd\u1265 \u12ed\u134b \u12e8\u121a\u12f0\u1228\u130d \u12e8\u12c9\u120d \u12a0\u1348\u133b\u1338\u121d"
+          "bbox": {
+            "x0": 105.70548502604167,
+            "top": 155.70465087890625,
+            "x1": 287.94175211588544,
+            "bottom": 141.28098551432288
+          },
+          "content_hash": "2b9de7d1fd53dd0d90534d6898ae6e3a7b308484bfc027e0d5b9466ccf91b32f",
+          "text": "P@AM\u4e2d44 P2:1,242,000.00"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 2,
+          "bbox": {
+            "x0": 413.0426025390625,
+            "top": 182.6597900390625,
+            "x1": 547.317138671875,
+            "bottom": 48.294921875
+          },
+          "content_hash": "cbaff5538c317526fb622f65f6ab6f7b3591f9d9f00771ec6d15128ae2928d26",
+          "caption": null,
+          "image_base64": null
         },
         {
           "block_type": "text",
           "page_number": 2,
-          "bbox": null,
-          "content_hash": "018d1e418c9344f186e257280c04ad75065dd5019ae8ecc08e9465cc44d315e4",
-          "text": "\u1218\u1228\u1303 \u121b\u1235\u1273\u12c8\u1242\u12eb \u12ed\u12d8\u1275"
+          "bbox": {
+            "x0": 105.70548502604167,
+            "top": 210.42999267578125,
+            "x1": 244.81392415364584,
+            "bottom": 196.00624593098962
+          },
+          "content_hash": "eb934e2a1487476e2bd19ace48d2dde4654be1051a21884f94ddf70e864e063a",
+          "text": "PH:A6"
         },
         {
           "block_type": "text",
           "page_number": 2,
-          "bbox": null,
-          "content_hash": "35273fe1c72f68a97701806850e4eb01210e09a9581982a5557cb8e7ba9da503",
-          "text": "1. \u12e8\u12c9\u1209 \u1320/\u12cb\u130b \u1361913560"
+          "bbox": {
+            "x0": 104.85984293619792,
+            "top": 227.82330322265625,
+            "x1": 277.37119547526044,
+            "bottom": 213.39955647786462
+          },
+          "content_hash": "3ed26d15d101afb8fd16e6b81f10e3898d94e235e2e73698c73f695e5f6dccfe",
+          "text": "P6 AP \u4e2dTC:001/2013"
         },
         {
           "block_type": "text",
           "page_number": 2,
-          "bbox": null,
-          "content_hash": "dce29a6ed1dc689640484fdfee21fe685091b47d144d7c95f762e8bbf72407ee",
-          "text": "2. \u12c9\u1209 \u1232\u1320\u1293\u1240\u1245 \u12e8\u1270\u12a8\u1348\u1208 \u1320\u1245\u120b\u120b \u1308\u1295\u12d8\u1265\u1361913560"
+          "bbox": {
+            "x0": 105.2826639811198,
+            "top": 246.91351318359375,
+            "x1": 304.4318033854167,
+            "bottom": 233.33823649088538
+          },
+          "content_hash": "f88bd2d318e5db2e642cebcfb5331d02ccaaf26a8d8374940dd9e7deeef623c2",
+          "text": "2.P"
         },
         {
           "block_type": "text",
           "page_number": 2,
-          "bbox": null,
-          "content_hash": "7c28ba512c03dfe805d9a290813281dbdaef8c90326ae7aaf8704aa4e9cfe3f5",
-          "text": "3. \u1260\u12c9\u1209 \u1218\u1220\u1228\u1275 \u130d\u12e5\u12c9 \u12e8\u121a\u1320\u1293\u1240\u1245\u1260\u1275 \u130a\u12dc\u1361\u12a8\u1325\u122d 1/2013\u12d3.\u121d-\u1273\u1205\u1233\u1235 30/2013\u12d3.\u121d"
+          "bbox": {
+            "x0": 105.70548502604167,
+            "top": 264.30682373046875,
+            "x1": 436.7750651041667,
+            "bottom": 251.58001708984375
+          },
+          "content_hash": "3b924ea97c625d8abc4e52ba1d19fec1ee1552381b3fe52f6259be822deccb98",
+          "text": "1.\uff1a"
         },
         {
           "block_type": "text",
           "page_number": 2,
-          "bbox": null,
-          "content_hash": "2a218dd367e5f1743140df8ce7edc458a09c38e0bdaa1c47a4b2268a788b9fc7",
-          "text": "4. \u12c9\u1209 \u12e8\u1270\u1320\u1293\u1240\u1245\u1260\u1275 \u130a\u12dc\u1361\u1273\u1205\u1233\u1235 30/2013\u12d3.\u121d"
+          "bbox": {
+            "x0": 104.43702189127605,
+            "top": 300.36614990234375,
+            "x1": 280.7537841796875,
+            "bottom": 285.9424031575521
+          },
+          "content_hash": "08b29cec93fcdf466a8ae1a8cb3e1ecc7bebb25d1ba06eea5a70ed64213ebc01",
+          "text": "P@ M\u4e2d4A P2:635,800.00"
         },
         {
           "block_type": "text",
           "page_number": 2,
-          "bbox": null,
-          "content_hash": "773238ff608ae23c4bf67aef2656ef3fb898bbab1d152d8b0f508a4b3ac1d293",
-          "text": "5. \u12e8\u12c9\u120d \u12a0\u1348\u133b\u1338\u1219 \u1201\u1294\u1273 \u1260\u12a0\u132d\u1229\u1361 \u12e8\u1325\u1260\u1243\u1293 \u12e8\u133d\u12f3\u1275 \u12a0\u1308\u120d\u130d\u120e\u1275 \u12a5\u12e8\u1230\u1320 \u12eb\u1208 \u12f5\u122d\u1305\u1275 \u1290\u12c9 \u12c9\u1209 \u1260\u12a0\u1325\u130b\u1262 \u1201\u1294\u1273 \u1270\u1320\u1293\u124b\u120d\u1361\u1361"
+          "bbox": {
+            "x0": 104.43702189127605,
+            "top": 319.45635986328125,
+            "x1": 469.7552083333333,
+            "bottom": 304.1841837565104
+          },
+          "content_hash": "51566bb065253d7a561daa61933f15dc30b10bf8473d08712d04e807b86d9d33",
+          "text": "@/m2:15/ 2013.9"
         },
         {
           "block_type": "text",
           "page_number": 2,
-          "bbox": null,
-          "content_hash": "7192b0cad9309d514a325926af5feab6b069fd750b19364b88bb888a9d637339",
-          "text": "1. \u12e8\u12c9\u1209 \u1320/\u12cb\u130b \u13611.2 \u121a\u120a\u12ee\u1295"
+          "bbox": {
+            "x0": 104.43702189127605,
+            "top": 336.42543538411456,
+            "x1": 425.35888671875,
+            "bottom": 322.42596435546875
+          },
+          "content_hash": "66c793c518d78976feed211ac0995bef0bae0355407d72e6a373c9839d13ec89",
+          "text": "m:7/"
         },
         {
           "block_type": "text",
           "page_number": 2,
-          "bbox": null,
-          "content_hash": "a7559cc51b2882a9f2d2a9e7590fd7fd42662119b11fac184ff39fb09a0e6f2e",
-          "text": "2. \u12c9\u1209 \u1232\u1320\u1293\u1240\u1245 \u12e8\u121a\u12a8\u1348\u120d \u1320\u1245\u120b\u120b \u1308\u1295\u12d8\u1265\u13611.2 \u121a\u120a\u12ee\u1295"
+          "bbox": {
+            "x0": 104.01420084635417,
+            "top": 355.51568603515625,
+            "x1": 243.96826171875,
+            "bottom": 339.81927490234375
+          },
+          "content_hash": "cbce28347bbb919ded596aa134fc008aab16c67b0f382000c901c3d93911cd8f",
+          "text": "PH:"
         },
         {
           "block_type": "text",
           "page_number": 2,
-          "bbox": null,
-          "content_hash": "b299e849a995f493371d05fd8842dad976f2be0c048b02c462748b1399b9689d",
-          "text": "3. \u1260\u12c9\u1209 \u1218\u1220\u1228\u1275 \u130d\u12e5\u12c9 \u12e8\u121a\u1320\u1293\u1240\u1245\u1260\u1275 \u130a\u12dc\u1361\u12a8\u130d\u1295\u1266\u1275 1/2013\u12d3.\u121d-\u1273\u1205\u1233\u1235 30/20149."
+          "bbox": {
+            "x0": 104.43702189127605,
+            "top": 372.06052652994794,
+            "x1": 276.94838460286456,
+            "bottom": 357.63682047526044
+          },
+          "content_hash": "95dd437f37570303d092eab4dce64ea94578668b1040dfdf116ddc7bb32699b8",
+          "text": "P \u4e2dTC:001/2013"
         },
         {
           "block_type": "text",
           "page_number": 2,
-          "bbox": null,
-          "content_hash": "0332bc18925982491eca0058fb68fa56e242b02b88b5566763a84fbfdaf10ca8",
-          "text": "4. \u12c9\u1209 \u12e8\u121a\u1320\u1293\u1240\u1245\u1260\u1275 \u130a\u12dc\u1361\u1205\u12f3\u122d /2014\u12d3.\u121d"
+          "bbox": {
+            "x0": 104.43702189127605,
+            "top": 391.15073649088544,
+            "x1": 336.9890950520833,
+            "bottom": 377.57550048828125
+          },
+          "content_hash": "d4898061847d6924709f3248c32ed4344fe477d37c7b17ce079332a930a08195",
+          "text": "2.P\uff1ah"
         },
         {
           "block_type": "text",
           "page_number": 2,
-          "bbox": null,
-          "content_hash": "09653f35b128be6f66f8ca288612d8db5cfd00a04ff1982ca4dca590b38e3cd7",
-          "text": "5. \u12e8\u12c9\u120d \u12a0\u1348\u133b\u1338\u1219 \u1201\u1294\u1273 \u1260\u12a0\u132d\u1229\u1361 \u12e8\u121a\u12f2\u12eb \u12a0\u1308\u120d\u130d\u120e\u1275 (\u12a0\u132b\u132d\u122d \u121b\u1235\u1273\u12c8\u1242\u12eb\u12ce\u127d)"
+          "bbox": {
+            "x0": 104.85984293619792,
+            "top": 408.96828206380206,
+            "x1": 436.3522542317708,
+            "bottom": 395.81724039713544
+          },
+          "content_hash": "3b924ea97c625d8abc4e52ba1d19fec1ee1552381b3fe52f6259be822deccb98",
+          "text": "1.\uff1a"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 104.01420084635417,
+            "top": 444.60337320963544,
+            "x1": 285.4048258463542,
+            "bottom": 429.33119710286456
+          },
+          "content_hash": "de069911105edbcd2169d684b1fd5b6aaa9f060c28849be01a8eaf54aca7fc14",
+          "text": "P@ M\u4e2d4A P2:1,242,000.00"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 103.5913798014323,
+            "top": 463.69358317057294,
+            "x1": 468.9095458984375,
+            "bottom": 448.42140706380206
+          },
+          "content_hash": "d6768383e3197ba8040378146114f1e48991393036e5f2fdab568c0a2d3f890e",
+          "text": "6.@/wm2:15/ 2013.9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 103.5913798014323,
+            "top": 480.66269938151044,
+            "x1": 386.4592692057292,
+            "bottom": 467.51165771484375
+          },
+          "content_hash": "7aa7820d4f9118880a0e2e9d6e0589784dc5ac7674f602bb4ffbe13148210d49",
+          "text": "0m:"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 104.01420084635417,
+            "top": 498.90443929036456,
+            "x1": 242.6998087565104,
+            "bottom": 484.48073323567706
+          },
+          "content_hash": "57f6db2348f2484159c3261f7ad135aaaf98c1381ea6aeb039a108b274cc6a6d",
+          "text": "PH:A 6"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 103.16855875651042,
+            "top": 516.2977701822917,
+            "x1": 275.25710042317706,
+            "bottom": 502.2982584635417
+          },
+          "content_hash": "4be20749253bfafcda9741f3604b9c8da329155e6b4734dd188639ffb2a73370",
+          "text": "P  \u4e2dTC:001/2013"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 103.5913798014323,
+            "top": 535.3879801432292,
+            "x1": 302.7405192057292,
+            "bottom": 521.812723795573
+          },
+          "content_hash": "f88bd2d318e5db2e642cebcfb5331d02ccaaf26a8d8374940dd9e7deeef623c2",
+          "text": "2.P"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 103.5913798014323,
+            "top": 553.6297607421875,
+            "x1": 435.5066324869792,
+            "bottom": 539.6302490234375
+          },
+          "content_hash": "3b924ea97c625d8abc4e52ba1d19fec1ee1552381b3fe52f6259be822deccb98",
+          "text": "1.\uff1a"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 102.74573771158855,
+            "top": 607.506591796875,
+            "x1": 272.29734293619794,
+            "bottom": 593.0828857421875
+          },
+          "content_hash": "2a3dd74a125870b35d909847391465376a7bc404298b417b031dca20dbe90b5f",
+          "text": "P@ M\u4e2d44 P2:115,000.00"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 102.74573771158855,
+            "top": 626.5968221028646,
+            "x1": 466.3726399739583,
+            "bottom": 612.173095703125
+          },
+          "content_hash": "106b7e8003ec9ecf200776b1de9fa3abe5c80a0dd1f36d9664d95c465cf07432",
+          "text": "6.@6/wm2:04/2013.9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 102.32291666666667,
+            "top": 643.56591796875,
+            "x1": 383.0767008463542,
+            "bottom": 630.4148763020834
+          },
+          "content_hash": "bb98537f2e0711dc691e44140254a8c3f4b86174b4be13393867aee9c82dfc13",
+          "text": "5.@m9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 102.32291666666667,
+            "top": 662.6561279296875,
+            "x1": 303.16335042317706,
+            "bottom": 647.8081868489584
+          },
+          "content_hash": "630ac3b0dd440610517b987a8c8f999623d6c020181b3dc47d7d7c8bd4164fa6",
+          "text": "P H:9 \u4e2d"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 101.9000956217448,
+            "top": 679.6252136230469,
+            "x1": 295.97536214192706,
+            "bottom": 666.8983968098959
+          },
+          "content_hash": "3ef5045e6f850635d7cb90a903aedbd4dead185df71a0ee66aaf17a30c9e1962",
+          "text": "3.6A:P"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 101.9000956217448,
+            "top": 699.1396687825521,
+            "x1": 323.45880126953125,
+            "bottom": 683.4432576497396
+          },
+          "content_hash": "e357825367f0f031ef42cd220987a696cf44e693dba51d98f37ebdf76609aff0",
+          "text": "P:(T)"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 102.74573771158855,
+            "top": 716.9572041829427,
+            "x1": 434.6609700520833,
+            "bottom": 702.9577128092448
+          },
+          "content_hash": "3b924ea97c625d8abc4e52ba1d19fec1ee1552381b3fe52f6259be822deccb98",
+          "text": "1.\uff1a"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 102.32291666666667,
+            "top": 752.1680603027344,
+            "x1": 273.98862711588544,
+            "bottom": 737.7443339029948
+          },
+          "content_hash": "9767ff7cbb498880bfcf40303326dcaf0ced3d6e31008d9ea829bac5bebdc404",
+          "text": "P@ M\u4e2d4A P2:175,000.00"
+        },
+        {
+          "block_type": "text",
+          "page_number": 2,
+          "bbox": {
+            "x0": 102.74573771158855,
+            "top": 771.2582855224609,
+            "x1": 440.1576741536458,
+            "bottom": 756.4103342692057
+          },
+          "content_hash": "dbd87a37d0c3c42eeb9afab1b3a180af840f4abc85c53660341362ee5afa022c",
+          "text": "6.@2\uff1aC/201.9"
         }
       ],
       "page_confidence": 0.9,
-      "strategy_used": "vision_vlm"
+      "strategy_used": "layout_docling"
+    },
+    {
+      "page_number": 3,
+      "blocks": [
+        {
+          "block_type": "figure",
+          "page_number": 3,
+          "bbox": {
+            "x0": 385.11285400390625,
+            "top": 209.689453125,
+            "x1": 521.1328735351562,
+            "bottom": 74.275634765625
+          },
+          "content_hash": "d4489a4978b0fd1af68940960afaed10bac09d4dc6b4cd8bafa70a4d1c455c30",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 118.39014689127605,
+            "top": 273.63983154296875,
+            "x1": 206.75992838541666,
+            "bottom": 263.0341593424479
+          },
+          "content_hash": "00c0d5293c38c47dc7bd8741cc2c50562defc783105fa207c33e23c2b82ede99",
+          "text": "\u03a6---x1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 118.39014689127605,
+            "top": 273.63983154296875,
+            "x1": 206.75992838541666,
+            "bottom": 263.0341593424479
+          },
+          "content_hash": "00c0d5293c38c47dc7bd8741cc2c50562defc783105fa207c33e23c2b82ede99",
+          "text": "\u03a6---x1"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 368.2779134114583,
+            "top": 276.1852010091146,
+            "x1": 487.5137125651042,
+            "bottom": 263.0341593424479
+          },
+          "content_hash": "0fb92e80f189546f85d7e88d670fc2fd48131263d696c93846dc72e471dcbba3",
+          "text": "---8013"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 368.2779134114583,
+            "top": 276.1852010091146,
+            "x1": 487.5137125651042,
+            "bottom": 263.0341593424479
+          },
+          "content_hash": "0fb92e80f189546f85d7e88d670fc2fd48131263d696c93846dc72e471dcbba3",
+          "text": "---8013"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 3,
+          "bbox": {
+            "x0": 120.1346435546875,
+            "top": 281.57525634765625,
+            "x1": 205.18997192382812,
+            "bottom": 256.73175048828125
+          },
+          "content_hash": "d4489a4978b0fd1af68940960afaed10bac09d4dc6b4cd8bafa70a4d1c455c30",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "figure",
+          "page_number": 3,
+          "bbox": {
+            "x0": 369.8150939941406,
+            "top": 286.6610107421875,
+            "x1": 492.6914978027344,
+            "bottom": 258.86505126953125
+          },
+          "content_hash": "d4489a4978b0fd1af68940960afaed10bac09d4dc6b4cd8bafa70a4d1c455c30",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 121.3499043782552,
+            "top": 308.42645263671875,
+            "x1": 165.74620564778647,
+            "bottom": 296.5480753580729
+          },
+          "content_hash": "69a0bfca0b636f20f2f53a9bb89b7bf02df744919481cf544f91d3a0a907456d",
+          "text": "6C"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 121.3499043782552,
+            "top": 308.42645263671875,
+            "x1": 165.74620564778647,
+            "bottom": 296.5480753580729
+          },
+          "content_hash": "69a0bfca0b636f20f2f53a9bb89b7bf02df744919481cf544f91d3a0a907456d",
+          "text": "6C"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 372.928955078125,
+            "top": 308.42645263671875,
+            "x1": 406.3319091796875,
+            "bottom": 293.5785115559896
+          },
+          "content_hash": "a6f85690816f84dbf2acfe174fbd037e8913d1a69fb3e9af6271ae69dcc154ad",
+          "text": "6C-"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 372.928955078125,
+            "top": 308.42645263671875,
+            "x1": 406.3319091796875,
+            "bottom": 293.5785115559896
+          },
+          "content_hash": "a6f85690816f84dbf2acfe174fbd037e8913d1a69fb3e9af6271ae69dcc154ad",
+          "text": "6C-"
+        },
+        {
+          "block_type": "figure",
+          "page_number": 3,
+          "bbox": {
+            "x0": 120.0587158203125,
+            "top": 316.8896484375,
+            "x1": 207.01828002929688,
+            "bottom": 294.41802978515625
+          },
+          "content_hash": "d4489a4978b0fd1af68940960afaed10bac09d4dc6b4cd8bafa70a4d1c455c30",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "figure",
+          "page_number": 3,
+          "bbox": {
+            "x0": 371.5807800292969,
+            "top": 330.22686767578125,
+            "x1": 526.8799438476562,
+            "bottom": 293.6846923828125
+          },
+          "content_hash": "d4489a4978b0fd1af68940960afaed10bac09d4dc6b4cd8bafa70a4d1c455c30",
+          "caption": null,
+          "image_base64": null
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 365.7410074869792,
+            "top": 344.90997314453125,
+            "x1": 401.258056640625,
+            "bottom": 331.75893147786456
+          },
+          "content_hash": "bcf2ff7d55c2d31484f84652a1a3cd0c6a4098e03c9a3b478b7d1f7e72694aa9",
+          "text": "SabU"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 119.65861002604167,
+            "top": 381.39353434244794,
+            "x1": 166.16902669270834,
+            "bottom": 365.69712320963544
+          },
+          "content_hash": "2bc7765366c38014271c2982c29039581587a14375fd58d7e1bb42910c318a4d",
+          "text": "PH2g@"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 388.5733642578125,
+            "top": 380.12082926432294,
+            "x1": 463.4128824869792,
+            "bottom": 366.12135823567706
+          },
+          "content_hash": "91ebfba66d59943d3d4c40233e55f1c7870ef1c63cb1d161cb9ddc2b948d60a0",
+          "text": "a\u4e2da.2A"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 101.9000956217448,
+            "top": 435.27036539713544,
+            "x1": 429.5871175130208,
+            "bottom": 419.14975992838544
+          },
+          "content_hash": "00f45aa3d17f31acd4d4464a8b4632afbcb59247591332b735e60f8964218b60",
+          "text": "5.P\uff1aP"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 101.9000956217448,
+            "top": 453.51214599609375,
+            "x1": 327.2642008463542,
+            "bottom": 437.81573486328125
+          },
+          "content_hash": "246fbbba30cc7ef3d1cfab47abfff64c955e5ebd92e397a883c5050e7e7323ba",
+          "text": "@Pm2H:UC /2014%.9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 100.63162231445312,
+            "top": 490.41990152994794,
+            "x1": 472.7149658203125,
+            "bottom": 456.90594482421875
+          },
+          "content_hash": "045ff74952d5454f139a5e3da97bf7dccb2ec5b56b85f55d8bd897e117485e2c",
+          "text": "N@ u@Pm2H:h01/2013.-U 30/2014%.gD"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 101.47727457682292,
+            "top": 507.81321207682294,
+            "x1": 381.8082275390625,
+            "bottom": 491.69260660807294
+          },
+          "content_hash": "fa76a83d23a1d68f825d44f94d059bb4023ffdacd78ed80a2a042d6e62e81cd5",
+          "text": "@m\u4e2dPh6m7:1.2AP"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 102.74573771158855,
+            "top": 523.5096232096355,
+            "x1": 258.34421793619794,
+            "bottom": 511.20703125
+          },
+          "content_hash": "89156f90b8cc8d9d0b31ae3048edc70fa5c59fe0f6149745acc3a4775bb896da",
+          "text": "1.PMM/2:1.2A"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 101.9000956217448,
+            "top": 597.7493693033854,
+            "x1": 473.5605875651042,
+            "bottom": 582.9014282226562
+          },
+          "content_hash": "dda53ccbd2779d556d7303e4633afcc05ce6772982e830f5b4ba06b662f0220c",
+          "text": "5.\uff1a"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 101.47727457682292,
+            "top": 616.839599609375,
+            "x1": 344.5998942057292,
+            "bottom": 600.7189737955729
+          },
+          "content_hash": "7564aaa0aeb4b5069c42d96e50948ebdaabeb04a11374a1edd149592b2868c5b",
+          "text": "@ PMS\u4e2d02H:U 30/2013%.9"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 100.20880126953125,
+            "top": 653.7473551432291,
+            "x1": 457.4933675130208,
+            "bottom": 620.2334187825521
+          },
+          "content_hash": "527ef5d7460a3d39a4392be8cb5bbdf1e08ba9b9705c51aa3a482af501ab0836",
+          "text": "N@ awr@ Pmn 2H:hTC 1/2013.-U 30/2013%.9D"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 101.054443359375,
+            "top": 671.5649007161459,
+            "x1": 356.8617350260417,
+            "bottom": 654.1715901692709
+          },
+          "content_hash": "0915c6e9692e3a2221398ae955209b216439fe85e3878c3b6088a2d7abeeb90e",
+          "text": "@ mS\u4e2d\u4e2d P+h6A M\u4e2d4 7H:913560"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 102.32291666666667,
+            "top": 688.1097615559896,
+            "x1": 239.74005126953125,
+            "bottom": 673.68603515625
+          },
+          "content_hash": "08124926339f2756969134089a2b970fe03272ccf3d7879500a2a9e737549dd6",
+          "text": "1.P@M/2:913560"
+        },
+        {
+          "block_type": "text",
+          "page_number": 3,
+          "bbox": {
+            "x0": 259.61269124348956,
+            "top": 771.2582855224609,
+            "x1": 337.83473714192706,
+            "bottom": 756.4103342692057
+          },
+          "content_hash": "a8a1db68edc37d89069de244179a95eb2b00d659763fe66c8815e5e96c0fffc4",
+          "text": "P@-A h68890"
+        }
+      ],
+      "page_confidence": 0.9,
+      "strategy_used": "layout_docling"
     }
   ]
 }

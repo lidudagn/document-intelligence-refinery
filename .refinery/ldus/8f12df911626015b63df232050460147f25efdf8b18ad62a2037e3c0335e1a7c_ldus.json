@@ -1,0 +1,4812 @@
+[
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_0",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "ETHIOPIAN STATISTICAL SERVICE",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 185.3,
+      "top": 42.89999999999998,
+      "x1": 430.738,
+      "bottom": 60.89999999999998
+    },
+    "parent_section": "ETHIOPIAN STATISTICAL SERVICE",
+    "token_count": 3,
+    "content_hash": "71c8edb4274d441ee0c72dafc3c2b54c32b8c767ff19a9af7df6aee965fc551d",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_1",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 239.09,
+      "top": 64.98000000000002,
+      "x1": 376.978,
+      "bottom": 82.98000000000002
+    },
+    "parent_section": "Statistical Bulletin",
+    "token_count": 2,
+    "content_hash": "8d1c937de022c747c16fed235bf60bea96d7443e84a089db85076f7914612ae9",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_2",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "MONTHLY NEWS RELEASE",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 216.89,
+      "top": 100.00999999999999,
+      "x1": 391.39696000000004,
+      "bottom": 115.97000000000003
+    },
+    "parent_section": "MONTHLY NEWS RELEASE",
+    "token_count": 3,
+    "content_hash": "c78ad817002d394f7a5369767bca628799c933d8114b7097adeb0dd93a961a15",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_3",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "INFLATION REPORT ON SEPTEMBER, EFY 2018",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 149.3,
+      "top": 129.40999999999997,
+      "x1": 462.79696,
+      "bottom": 145.37
+    },
+    "parent_section": "INFLATION REPORT ON SEPTEMBER, EFY 2018",
+    "token_count": 7,
+    "content_hash": "17bc8395924e7d947fa0e7e7ad2b816edd012e9ad424fa8c4003018f5b1b71be",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_4",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Issue No. 27/2018   September EFY2018  Page 1",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 215.21,
+      "top": 157.42999999999995,
+      "x1": 561.58888,
+      "bottom": 169.31000000000006
+    },
+    "parent_section": "INFLATION REPORT ON SEPTEMBER, EFY 2018",
+    "token_count": 9,
+    "content_hash": "ea06b4b5d008df6b7b41e762179c8e4d78570848e20f23f7717db921fac2f611",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_5",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "1.  Summary",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 166.34,
+      "top": 179.81000000000006,
+      "x1": 246.22304,
+      "bottom": 193.85000000000002
+    },
+    "parent_section": "1.  Summary",
+    "token_count": 2,
+    "content_hash": "1a02cf2e4b794439dfb49deb2d278f5cec10e12708a20ca087380c93fb3c5fc1",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_6",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "The Consumer Price Index (CPI), a key economic statistics, is surveyed, analyzed, and made available  Content\nto data users on a monthly basis. The year-on-year, general inflation rate (annual percentage change) in the country stood at 13.2 percent for the month of September EFY2018. A year earlier (in September EFY2016), the rate was",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 39.6,
+      "top": 206.51,
+      "x1": 575.1101199999999,
+      "bottom": 271.46000000000004
+    },
+    "parent_section": "1.  Summary",
+    "token_count": 68,
+    "content_hash": "7e9333f2ac881630fd4aaff571f0db3ebd29470e955d29a4afb18dcf9c69f227",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_7",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Summary  \uf0b7",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 38.88,
+      "top": 270.32000000000005,
+      "x1": 114.19304,
+      "bottom": 284.36
+    },
+    "parent_section": "Summary  \uf0b7",
+    "token_count": 2,
+    "content_hash": "2a127aa21574dc3726de34b9d243cf08b0d8bed8e07b090874012688ae442b6a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_8",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "17.5 percent. The month-on-month general inflation rate increased by 2.0 percent for the month of Year-on-Year Gen- \uf0b7  September-EFY2018. It was 2.4 percent in September EFY2017. eral, Food & Non-",
+    "chunk_type": "list",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 38.88,
+      "top": 279.74,
+      "x1": 574.9677999999999,
+      "bottom": 323.33
+    },
+    "parent_section": "Summary  \uf0b7",
+    "token_count": 39,
+    "content_hash": "db5c323a12ba2df3c68fa7ff89151904547ad7e11ac613e26d4a1136657d60e5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_9",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "General inflation encompasses of two main divisions and twenty-one groups of expenditures. These\nfood Inflation\ndivisions registered the following price changes during the month of September EFY2018 compared \uf0b7  Month-on-Month  with September EFY2017.",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 38.88,
+      "top": 316.34,
+      "x1": 575.03692,
+      "bottom": 362.93
+    },
+    "parent_section": "Summary  \uf0b7",
+    "token_count": 41,
+    "content_hash": "f7c00c8e88699014491ff6da9ba751656daea4144ed7c0f90eef20357f5b1e7f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_10",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "General, Food &",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 56.88,
+      "top": 365.57,
+      "x1": 139.224,
+      "bottom": 377.57
+    },
+    "parent_section": "General, Food &",
+    "token_count": 3,
+    "content_hash": "eacb4e609cefeb110d2f86aba98642e76972ec5ec744a902c9362a9d72ffe29b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_11",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Non-food Inflation   2. Food & Non-alcoholic Beverages and Non-Food Inflation (Year-on-Year) The year-on-year inflation and the month-to-month inflation rates helps to gauge the current infla-",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 56.88,
+      "top": 378.17,
+      "x1": 572.9449600000002,
+      "bottom": 415.1
+    },
+    "parent_section": "General, Food &",
+    "token_count": 32,
+    "content_hash": "d557fa1b1d62376984bbb31e00f9d1c0be7f10c34a848a2164c15ded6e973e9a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_12",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "\uf0b7  12-Month Moving",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 38.88,
+      "top": 414.41,
+      "x1": 140.61167999999998,
+      "bottom": 425.45
+    },
+    "parent_section": "\uf0b7  12-Month Moving",
+    "token_count": 3,
+    "content_hash": "7c03611f8fe4433a362e450a206c008c5337c0314e69f5dc7dc36863e559953b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_13",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "tion trajectory, as they capture short-term fluctuations in prices and provides an immediate indicator",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 159.98,
+      "top": 423.38,
+      "x1": 575.14868,
+      "bottom": 433.34000000000003
+    },
+    "parent_section": "\uf0b7  12-Month Moving",
+    "token_count": 18,
+    "content_hash": "72068a8bf0a3aa7ffb0cc1350172bd168031c5e6f09d96a74bfe8356ee205140",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_14",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Average General,",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 56.88,
+      "top": 427.85,
+      "x1": 136.51152000000002,
+      "bottom": 438.89
+    },
+    "parent_section": "Average General,",
+    "token_count": 2,
+    "content_hash": "311b3211d7aff3178b76786fbd5df5513f11610a9e41e4e0fac9fce078976e4e",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_15",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Food and Non-food  of inflationary pressures. Particularly, the month-to-month is also crucial for monitoring changes in",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 56.88,
+      "top": 441.31,
+      "x1": 575.1826,
+      "bottom": 452.34999999999997
+    },
+    "parent_section": "Average General,",
+    "token_count": 20,
+    "content_hash": "62f6a188b719ee1486e80b872fd9e9d6a9cadae7c667128b2acc5360ddffea62",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_16",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Inflation",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 56.88,
+      "top": 454.75,
+      "x1": 96.71904,
+      "bottom": 465.78999999999996
+    },
+    "parent_section": "Inflation",
+    "token_count": 1,
+    "content_hash": "746cdcd35e53eb4d6964a9016ad52d26b17d9a6ba5a332a4d697327ec20e468d",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_17",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "consumer prices and identifying any sudden spikes or declines in inflation.",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 159.98,
+      "top": 460.11999999999995,
+      "x1": 465.28096,
+      "bottom": 470.08
+    },
+    "parent_section": "Inflation",
+    "token_count": 14,
+    "content_hash": "5d76539af9b33cd36af60e94215f34abd783a5b0a76dec4c166b2aed23ffbdc4",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_18",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "\uf0b7  Annual Infla-",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 38.88,
+      "top": 478.78000000000003,
+      "x1": 129.10176,
+      "bottom": 492.82
+    },
+    "parent_section": "\uf0b7  Annual Infla-",
+    "token_count": 3,
+    "content_hash": "93e2afefa129ebd603e82109a376d9b8b6d3839776840b0d2d509d29d6686620",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_19",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "tion trend   Food & Non-alcoholic Beverages index The year-on-year inflation rate, also known as the annual inflation rate, measures the percentage change",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 56.88,
+      "top": 495.94000000000005,
+      "x1": 574.973,
+      "bottom": 525.4
+    },
+    "parent_section": "\uf0b7  Annual Infla-",
+    "token_count": 28,
+    "content_hash": "61688f6317616a1ae86be31eeebd89f0f2d7bf7b0ecd41056d2529317234d3b5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_20",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Glossary",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 56.88,
+      "top": 536.62,
+      "x1": 111.67304,
+      "bottom": 550.66
+    },
+    "parent_section": "Glossary",
+    "token_count": 1,
+    "content_hash": "e1baf4b0718bf4d2487373202beccd1f207f44c6c91b4124452cf9b5f529e1a3",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_21",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "in overall price levels from one year to the same month in the previous year. Accordingly, the year-on-year\n\uf0b7 inflation rate of the Food and Non-alcoholic component of the CPI, for the month of September 2018 EFY stood at 12.1%. This implies that the CPI of Food and Non-Alcoholic Beverages has, on average, increased by 12.1% compared to September EFY2016. The major contributing factors for the rise of food inflation for September EFY2018 was the observed increase in the average prices of major food commodities such as bread and cereals decreased by (-2.0%), vegetables increased by (15.3%), meat increased by (16.1%), Sug- ar, jam, honey & chocolate increased by (20.5%),  Milk, Cheese and Eggs  increased by (14.5%), Oils and Fats increased by (19.5%), Fruit increased by (17.8%),  and Food products n.e.c increased by (21.9%).\nTele: +251 111 568464  YOUR RELIABLE DATA SOURCE          Website: www.ess.gov.et\n+251 111 564226",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 38.88,
+      "top": 533.3199999999999,
+      "x1": 575.3548,
+      "bottom": 750.576
+    },
+    "parent_section": "Glossary",
+    "token_count": 189,
+    "content_hash": "6f2fc688a6902769bd893585f49985182862a2e426d0f28851f26f5ebaaf442a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_22",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "\u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303                P.O.Box\u1361 1143",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 207.41,
+      "top": 744.876,
+      "x1": 543.436,
+      "bottom": 762.876
+    },
+    "parent_section": "\u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303                P.O.Box\u1361 1143",
+    "token_count": 5,
+    "content_hash": "62c6102493114271ee39093d3bc7c528454640a4c397f9d2493a00a56483f349",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_23",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 115131",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 752.976,
+      "x1": 149.27504,
+      "bottom": 764.016
+    },
+    "parent_section": "\u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303                P.O.Box\u1361 1143",
+    "token_count": 3,
+    "content_hash": "c3607009f2984cbfea45212566c7bc0ae524011fdc0b3ad73ac7c1e6e1931aa2",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_24",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fax:  +251 111 115470",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 766.416,
+      "x1": 149.0022936512,
+      "bottom": 777.456
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 5,
+    "content_hash": "d054c016d4d9116cc46f40a39ad19b0c9a7be4f1ca53df86509a1c67152b4f43",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_25",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fax:  +251 111 115470",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 14.543999999999983,
+      "x1": 149.0022936512,
+      "bottom": 25.583999999999946
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 5,
+    "content_hash": "ce36f534bd03ac0076489a4e8906717f34aac7aee908d388fe4910c250c77c76",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_26",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 115131",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 27.984000000000037,
+      "x1": 149.27504,
+      "bottom": 39.024
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 3,
+    "content_hash": "422bb06e51f088ea062cb1cb10f951316fc0a0727aa5b9a340b8e1aa38159a55",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_27",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "P.O.Box\u1361 1143",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 34.8371908396947,
+      "x1": 539.99420395,
+      "bottom": 46.05600000000004
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 2,
+    "content_hash": "ca3f0e0311070f9d3332c1a18fb0f04c91276d3c87397c4a3b5f14ab0b6401f3",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_28",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 564226",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 41.42399999999998,
+      "x1": 149.27504,
+      "bottom": 52.46399999999994
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 3,
+    "content_hash": "f85e9ac7248fceae0dc95bab729834c4940288b5290b169f150506a3e96a3e1a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_29",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Website",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 51.60375903614454,
+      "x1": 476.38300000000004,
+      "bottom": 62.039999999999964
+    },
+    "parent_section": "Website",
+    "token_count": 1,
+    "content_hash": "e01ac8aa3b2d2451b3024fb3128c3f58ff3bcb508ae5bde5583d6ac055683c34",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_30",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": ": www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 476.5,
+      "top": 51.157190839694636,
+      "x1": 569.272,
+      "bottom": 62.375999999999976
+    },
+    "parent_section": "Website",
+    "token_count": 2,
+    "content_hash": "2fc8c4f5f6bd5571e5b711ca2155245f88c59b79b9ba6ddab49e6540a26dcd1f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_31",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Tele: +251 111 568464",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 54.86400000000003,
+      "x1": 149.27504,
+      "bottom": 65.904
+    },
+    "parent_section": "Tele: +251 111 568464",
+    "token_count": 5,
+    "content_hash": "e3005f027b907183d9a5b53ca6ccdf7321f30e3e80e5f80e539532ac24d148f2",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_32",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 183.02,
+      "top": 30.3536385542169,
+      "x1": 373.67416000000003,
+      "bottom": 63.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 7,
+    "content_hash": "4e5f67531a83aef2155c60de2746f074f95cf934b2013f59573e179bda319a30",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_33",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Month/Year | General | Food | Non-Food\nJuly EFY2009 - June EFY2010 | 14.4 | 13.4 | 15.9\nJuly EFY 2010 - JuneEFY2011 | 12.6 | 13.1 | 11.9\nTable 1: General, Food and Non-Food July EFY2011 - June EFY2012 | Rate (%, Year-on-Year) 19.9 | September 23.3 | September EFY201 15.9\nJuly EFY2012 - June EFY2013 | 20.2 | 23.2 | 16.4\nJuly EFY2013 - June EFY2014 | 33.8 | 40.3 | 25.2\nJuly EFY2014 - June EFY2015 | 32.5 | 31.7 | 33.9\nJuly EFY2015 - June EFY2016 | 26.6 | 28.1 | 24.3\nJuly EFY2016 - June EFY2017 | 16.0 | 16.2 | 15.8\nSeptember- EFY 2017 | 17.5 | 19.6 | 14.4\nOctober | 16.1 | 19.2 | 11.6\nNovember | 16.9 | 18.5 | 14.5\nDecember | 17.0 | 18.7 | 14.4\nJanuary | 15.5 | 15.8 | 15.0\nFebruary | 15.0 | 14.6 | 15.6\nMarch | 13.5 | 11.7 | 16.2\nApril | 14.4 | 12.2 | 17.9\nMay | 14.4 | 12.1 | 17.8\nJune | 13.9 | 11.7 | 17.3\nJuly | 13.7 | 12.1 | 16.1\nAugust | 13.6 | 12.7 | 15.1\nSeptember-EFY 2018 | 13.2 | 12.1 | 14.8\n",
+    "chunk_type": "table",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 46.5073356628418,
+      "top": 82.0450439453125,
+      "x1": 570.560302734375,
+      "bottom": 589.3709411621094
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 201,
+    "content_hash": "3f6b23bc036f1b7b2b05c2cfd72d9ec9366999189b992b87ec6525188701a1c0",
+    "metadata": {
+      "raw_headers": [
+        "Month/Year",
+        "General",
+        "Food",
+        "Non-Food"
+      ],
+      "raw_rows": [
+        [
+          "July EFY2009 - June EFY2010",
+          "14.4",
+          "13.4",
+          "15.9"
+        ],
+        [
+          "July EFY 2010 - JuneEFY2011",
+          "12.6",
+          "13.1",
+          "11.9"
+        ],
+        [
+          "Table 1: General, Food and Non-Food July EFY2011 - June EFY2012",
+          "Rate (%, Year-on-Year) 19.9",
+          "September 23.3",
+          "September EFY201 15.9"
+        ],
+        [
+          "July EFY2012 - June EFY2013",
+          "20.2",
+          "23.2",
+          "16.4"
+        ],
+        [
+          "July EFY2013 - June EFY2014",
+          "33.8",
+          "40.3",
+          "25.2"
+        ],
+        [
+          "July EFY2014 - June EFY2015",
+          "32.5",
+          "31.7",
+          "33.9"
+        ],
+        [
+          "July EFY2015 - June EFY2016",
+          "26.6",
+          "28.1",
+          "24.3"
+        ],
+        [
+          "July EFY2016 - June EFY2017",
+          "16.0",
+          "16.2",
+          "15.8"
+        ],
+        [
+          "September- EFY 2017",
+          "17.5",
+          "19.6",
+          "14.4"
+        ],
+        [
+          "October",
+          "16.1",
+          "19.2",
+          "11.6"
+        ],
+        [
+          "November",
+          "16.9",
+          "18.5",
+          "14.5"
+        ],
+        [
+          "December",
+          "17.0",
+          "18.7",
+          "14.4"
+        ],
+        [
+          "January",
+          "15.5",
+          "15.8",
+          "15.0"
+        ],
+        [
+          "February",
+          "15.0",
+          "14.6",
+          "15.6"
+        ],
+        [
+          "March",
+          "13.5",
+          "11.7",
+          "16.2"
+        ],
+        [
+          "April",
+          "14.4",
+          "12.2",
+          "17.9"
+        ],
+        [
+          "May",
+          "14.4",
+          "12.1",
+          "17.8"
+        ],
+        [
+          "June",
+          "13.9",
+          "11.7",
+          "17.3"
+        ],
+        [
+          "July",
+          "13.7",
+          "12.1",
+          "16.1"
+        ],
+        [
+          "August",
+          "13.6",
+          "12.7",
+          "15.1"
+        ],
+        [
+          "September-EFY 2018",
+          "13.2",
+          "12.1",
+          "14.8"
+        ]
+      ]
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_34",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Beginning from September-EFY 2016 the magnitude of the inflation rate steadily declined overtime. In September EFY-2018 General inflation was 13.2% as compared to the one observed in September- EFY2017.",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 39.0,
+      "top": 599.62,
+      "x1": 568.9750400000004,
+      "bottom": 630.8199999999999
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 37,
+    "content_hash": "0897b4918c15322e1ecf2bde8d6d7956bdabb7f442c8cbeadd4fc37468aaba87",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_35",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Issue No. 27/2018",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 64.2,
+      "top": 642.73,
+      "x1": 155.75096,
+      "bottom": 652.69
+    },
+    "parent_section": "Issue No. 27/2018",
+    "token_count": 3,
+    "content_hash": "6fe55107e0dadd976603a98af944a73f8c16e69bed9b1fe5b2b4562a0286e405",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_36",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Page 2",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 513.46,
+      "top": 653.4760787944025,
+      "x1": 550.90888,
+      "bottom": 662.0623599999999
+    },
+    "parent_section": "Page 2",
+    "token_count": 2,
+    "content_hash": "2cd8575790b4a84e8bce2fc90c81dd2801ba39b2ad8cfc6195216151f9addfd0",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_37",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 185.3,
+      "top": 709.02,
+      "x1": 430.738,
+      "bottom": 749.1
+    },
+    "parent_section": "Page 2",
+    "token_count": 6,
+    "content_hash": "75160c83a5631053e35b8b56fa4b31cecb5e8d2dadcc1d1146724ff978be698c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_38",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 38.38044738769531,
+      "top": 666.9126968383789,
+      "x1": 160.7179718017578,
+      "bottom": 782.0257587432861
+    },
+    "parent_section": "Page 2",
+    "token_count": 1,
+    "content_hash": "519398854686b2f744536ff79da19731186d7ebc2403028c7dbca23d5d908190",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_39",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fax:  +251 111 115470",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 14.543999999999983,
+      "x1": 149.0022936512,
+      "bottom": 25.583999999999946
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 5,
+    "content_hash": "58b28c7ebb29de50aa6f8e3497b9074f9c4193292580a0c4cb5811367d6382d6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_40",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 115131",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 27.984000000000037,
+      "x1": 149.27504,
+      "bottom": 39.024
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 3,
+    "content_hash": "c96aa2845d2308d5bffd7ba9e95ce8379f55eadd48dee13ca4eace199495ac05",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_41",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "P.O.Box\u1361 1143",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 34.8371908396947,
+      "x1": 539.99420395,
+      "bottom": 46.05600000000004
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 2,
+    "content_hash": "3f50ef5fa0c00aa21831c9b65d34e5a6a0a5e7b82f1d6d294fcb2bdde279109d",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_42",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 564226",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 41.42399999999998,
+      "x1": 149.27504,
+      "bottom": 52.46399999999994
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 3,
+    "content_hash": "b5d9040c8c3c3dbb93e953a1b13bfb5c0b9171de653158eab3be174cccc44db6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_43",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Website",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 51.60375903614454,
+      "x1": 476.38300000000004,
+      "bottom": 62.039999999999964
+    },
+    "parent_section": "Website",
+    "token_count": 1,
+    "content_hash": "c402fbafd02da93aedf4c3f639c791e12ad31d457dfae517dab873d24e93da63",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_44",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": ": www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 476.5,
+      "top": 51.157190839694636,
+      "x1": 569.272,
+      "bottom": 62.375999999999976
+    },
+    "parent_section": "Website",
+    "token_count": 2,
+    "content_hash": "c60002993a975e72c635624ba39b733049ee5c2882bc1f4bd09cfeb48d5b604e",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_45",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Tele: +251 111 568464",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 54.86400000000003,
+      "x1": 149.27504,
+      "bottom": 65.904
+    },
+    "parent_section": "Tele: +251 111 568464",
+    "token_count": 5,
+    "content_hash": "d015e06f06150b9b23bc7f64553e8100e80dfd0790b5f18f491677dacc3feb85",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_46",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 183.02,
+      "top": 30.3536385542169,
+      "x1": 373.67416000000003,
+      "bottom": 63.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 7,
+    "content_hash": "6a6f8d672cb2b968c1af5bc4219a58f00aa0edaafcb1f3043d097958371b5a21",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_47",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "As can be seen from the above figure, both the non-food year-on-year inflation rate and Food inflation rate increased in September-ETY2018. The Non-Food inflation increased by 14.8 percent during the same period. Particularly, Alcoholic Beverages and Tobacco increased by (18.4%); Housing, water, electricity & other fuel component increased by (12.9%); Furnishings, household equipment & routine maintenance of the House increased by (13.5%); Health decreased by ( -0.6%); Transport increased by ( 40.3%); Communication increased by ( 7.8%); Education increased by ( 5.8%); Restaurants and hotels increased by (11.1%) and Miscellaneous goods and services increased by (20.9%) have contributed for the rise in non-food inflation rate in September EFY2018.\nNon-Food Inflation and  Alcoholic Beverages (Year-on-Year)",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 39.48,
+      "top": 135.98000000000002,
+      "x1": 548.3509600000003,
+      "bottom": 256.37
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 147,
+    "content_hash": "cce390458f226c64c6a94ca4f3a76ff200b050d4176ee31c5e30acef7a87f7e5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_48",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Food",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 257.66666666666663,
+      "top": 332.0,
+      "x1": 288.0,
+      "bottom": 341.3333333333333
+    },
+    "parent_section": "Food",
+    "token_count": 1,
+    "content_hash": "673417f29a4da2defe95455067f892272e652d96717240012ea17ace3e05c907",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_49",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "\u2014Non-Food",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 305.33333333333337,
+      "top": 331.6666666666667,
+      "x1": 359.3333333333333,
+      "bottom": 342.0
+    },
+    "parent_section": "\u2014Non-Food",
+    "token_count": 1,
+    "content_hash": "999042cc1c080526f1c053bf8363759790d99934033a90d2c8ab60b3b44b5c30",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_50",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Sept-EFY2017",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 105.0,
+      "top": 331.0,
+      "x1": 152.0,
+      "bottom": 362.33333333333337
+    },
+    "parent_section": "\u2014Non-Food",
+    "token_count": 1,
+    "content_hash": "b7728f4d4f5413992a52e75ce94feacf42f16bc0df67ab22f2f486d555eb37f1",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_51",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Feb",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 281.33333333333337,
+      "top": 358.33333333333337,
+      "x1": 298.33333333333337,
+      "bottom": 361.66666666666663
+    },
+    "parent_section": "Feb",
+    "token_count": 1,
+    "content_hash": "92e59c743efa99ae36cccacba8ace4894ed752ca2853a4eb9556ef4a2e01190e",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_52",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "June",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 396.0,
+      "top": 358.66666666666663,
+      "x1": 419.6666666666667,
+      "bottom": 359.66666666666663
+    },
+    "parent_section": "June",
+    "token_count": 1,
+    "content_hash": "3784f60d927bcd730e1c78e32af661d004ef2db3f7d840e4d084aedd54a49def",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_53",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Aug",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 458.3333333333333,
+      "top": 359.66666666666663,
+      "x1": 477.6666666666667,
+      "bottom": 359.66666666666663
+    },
+    "parent_section": "Aug",
+    "token_count": 1,
+    "content_hash": "bbeab6dea610d2792cbc0e80b9a8d969b330f1411d239e405d9bb8d509799338",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_54",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Sept-EFY2018",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 460.6666666666667,
+      "top": 331.0,
+      "x1": 507.3333333333333,
+      "bottom": 362.33333333333337
+    },
+    "parent_section": "Aug",
+    "token_count": 1,
+    "content_hash": "915da3bded38b3f21201fae8339811e493f7acaf0726b2d68ef14fde263318ca",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_55",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "5.0\n10.0 11.9 12.1 12.7\n11.6 14.6\n15.8 15.0 14.3 14.4 14.4 15.0 15.114.8 18.5 18.7 15.6 19.2 16.2 16.1 19.6 17.3 17.9 17.8 20.0\n25.0 Year-on-YearCPlInflation",
+    "chunk_type": "list",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 102.66666666666667,
+      "top": 410.0,
+      "x1": 514.6666666666667,
+      "bottom": 584.0
+    },
+    "parent_section": "Aug",
+    "token_count": 33,
+    "content_hash": "c75ebea2b30122ee50a343174848e462b3a4b9d376d2485e37bfcc8fc9d1a066",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_56",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fig 1: Food and Non-Food Inflation (%, Year-on-Year), September EFY2017 - September EFY2018",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 81.1003189086914,
+      "top": 322.11187744140625,
+      "x1": 518.113525390625,
+      "bottom": 605.3036651611328
+    },
+    "parent_section": "Aug",
+    "token_count": 13,
+    "content_hash": "59eb1c33877299160298294f79c91a11e0c6bab43b929e9558f6a62695a6f6d9",
+    "metadata": {
+      "has_caption": true
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_57",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fig 1: Food and Non-Food Inflation (%, Year-on-Year), September EFY2017 - September EFY2018",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 81.744,
+      "top": 609.94,
+      "x1": 520.75504,
+      "bottom": 620.98
+    },
+    "parent_section": "Aug",
+    "token_count": 16,
+    "content_hash": "f13d08474215449e088e7c9f9e03260277754165fc353d05c0d16acf9e498989",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_58",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Issue No. 27/2018",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 82.344,
+      "top": 643.5160787944026,
+      "x1": 180.14888,
+      "bottom": 652.10236
+    },
+    "parent_section": "Issue No. 27/2018",
+    "token_count": 3,
+    "content_hash": "32ed3789771f646aee18f15da61d5c9afec804491d697da2536752c760840e9e",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_59",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Page 3",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 513.46,
+      "top": 645.9160787944026,
+      "x1": 550.90888,
+      "bottom": 654.50236
+    },
+    "parent_section": "Page 3",
+    "token_count": 2,
+    "content_hash": "161e5399065da1f84f3dc64ff668cc0536b03778202d639c7a3ed3eefe43a7e7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_60",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 185.3,
+      "top": 709.02,
+      "x1": 430.738,
+      "bottom": 749.1
+    },
+    "parent_section": "Page 3",
+    "token_count": 6,
+    "content_hash": "afb6fae4292d5b9aab92e14d9e2092efe16b329eeb6cbc696fac8594184bb3d3",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_61",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 38.14378356933594,
+      "top": 661.6651763916016,
+      "x1": 160.740966796875,
+      "bottom": 782.1139059066772
+    },
+    "parent_section": "Page 3",
+    "token_count": 1,
+    "content_hash": "7bb30f3a93577791f5b07c4fd11e331177b64f86670a8950bbcd3b6d6a85595d",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_62",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "ETHIOPIAN STATISTICAL SERVICE",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 185.3,
+      "top": 42.89999999999998,
+      "x1": 430.738,
+      "bottom": 60.89999999999998
+    },
+    "parent_section": "ETHIOPIAN STATISTICAL SERVICE",
+    "token_count": 3,
+    "content_hash": "fffc6df64200f47d5efd6dd3c7907757be503418d0498c559cc82cd405924aef",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_63",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 239.09,
+      "top": 64.98000000000002,
+      "x1": 376.978,
+      "bottom": 82.98000000000002
+    },
+    "parent_section": "Statistical Bulletin",
+    "token_count": 2,
+    "content_hash": "89e8d556d9f65250e18da32669b9a76e67374852335c4f09b83dc1efa2de30c9",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_64",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Issue No. 27/2018   Page 4",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 55.2,
+      "top": 143.07079999999996,
+      "x1": 550.90888,
+      "bottom": 153.75080000000003
+    },
+    "parent_section": "Issue No. 27/2018   Page 4",
+    "token_count": 6,
+    "content_hash": "a3bdf15cc7552c5bede66acf556ebe1f51413f61d908962853ff831098bd12ec",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_65",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Major sub divisions in the food and non-food commodities (year-on-Year). When we look at major division of food and non-food commodities, which holds large share in the commodity basket, the magnitude of Food and Non-alcoholic beverages inflation rate at September EFY2018 showed 12.1% as compared to the same month in the previous year.  From Food and Non-Alcoholic Beverage aspect, the highest weight is hoed by Bread and Cereals, Vegetables, Other-Food products, Non-Alcoholic Beverage, and Meat; whose inflation at September EFY2018 has recorded  a decrease for Bread & Cereals (-2.0%); Vegetables increased by (15.3%); Other-Food products (Food products not elsewhere classified) increased by (21.9%); Meat increased by (16.1%) and Non-Alcoholic Beverages & coffee increased by (56.5%). Similarly, during September 2018 EFY the year-on-year inflation rate of the major Non- Food items of Housing, Water, Electricity, Gas, & Other Fuels increased by (12.9%);  Restaurants and Hotels increased by (11.1%); Alcoholic Bev- erages & Tobacco increased by (18.4%); Furnishings, Household Equipment & Routine Household Maintenance of the House increased by (13.5%) and Clothing and Footwear increased by (16.0%).\nTable 2. Major sub divisions in the food and non-food commodities (year-on-Year). CPI Items  Items Wight in CPI  % change on Year-on-Year Infla- % change in Month-to- (%)  tion September EFY2017 com- Month inflation August pared with September EFY2018  EFY2017 compared to Sep- tember EFY2018 Major Food and Non-Alcoholic Beverage",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.64,
+      "top": 168.14,
+      "x1": 548.5421200000001,
+      "bottom": 499.6
+    },
+    "parent_section": "Issue No. 27/2018   Page 4",
+    "token_count": 292,
+    "content_hash": "977359d047dd683b0310f2728803253c7b563e0cbcbf27fad705597d6502bf7a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_66",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "53.5  12.1  1.9",
+    "chunk_type": "list",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 252.77,
+      "top": 495.07,
+      "x1": 507.892,
+      "bottom": 507.07
+    },
+    "parent_section": "Issue No. 27/2018   Page 4",
+    "token_count": 3,
+    "content_hash": "c747c4db505aceab8460e4da3836c7a93905fd08db0634a4dd177aaa93f99913",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_67",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "components 17.1  -2.0  1.1  Bread and Cereals",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.64,
+      "top": 501.88,
+      "x1": 506.11096000000003,
+      "bottom": 532.0
+    },
+    "parent_section": "Issue No. 27/2018   Page 4",
+    "token_count": 9,
+    "content_hash": "0ccf0550ac00e9b4d974edceb54ab038388ea115025c7634076e0a82adcf6735",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_68",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Vegetables  12.3  15.3  2.1",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.64,
+      "top": 535.6816,
+      "x1": 507.22888,
+      "bottom": 546.28
+    },
+    "parent_section": "Vegetables  12.3  15.3  2.1",
+    "token_count": 5,
+    "content_hash": "578ddcf405d8f8bd8ffb234d2be1a71619918fdd99588331e8bd8367905ff5f9",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_69",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Other-Food products  5.6  21.9  2.0",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.64,
+      "top": 550.3216,
+      "x1": 506.11096000000003,
+      "bottom": 561.04
+    },
+    "parent_section": "Vegetables  12.3  15.3  2.1",
+    "token_count": 6,
+    "content_hash": "9114d3a8c90c1fb5f009e569ab11d45935067d2510542174c7b0ebaa665bc3c4",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_70",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Non-Alcoholic Beverage  5.1  56.5  3.3",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.64,
+      "top": 565.0816,
+      "x1": 507.22888,
+      "bottom": 575.8
+    },
+    "parent_section": "Non-Alcoholic Beverage  5.1  56.5  3.3",
+    "token_count": 6,
+    "content_hash": "72b96daa51cd2c89938a0f42e4d8e6f745a5fdbe4f733cf30c9ab6042444e767",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_71",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "4.1  16.1  4.2  Meat",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.64,
+      "top": 581.4016,
+      "x1": 506.11096000000003,
+      "bottom": 592.12
+    },
+    "parent_section": "4.1  16.1  4.2  Meat",
+    "token_count": 5,
+    "content_hash": "ba2e14eb36cc95be33b1c62b5948e9b16931d62f52d9b447a7e0e362554184e6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_72",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Major Non-Food   Components  46.5  14.8  2.0",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.64,
+      "top": 600.8199999999999,
+      "x1": 507.772,
+      "bottom": 612.8199999999999
+    },
+    "parent_section": "Major Non-Food   Components  46.5  14.8  2.0",
+    "token_count": 7,
+    "content_hash": "c83d9051d36605259d5d110a1b599cd8dc5c129e8d3849e017a81cd75ad964e4",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_73",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "12.9  Housing, Water, Electricity, Gas and Other Fuels  16.8  2.7 Clothing and Footwear  5.7  16.0  1.1 Restaurants and Hotels  5.3  11.1  3.6 Alcoholic Beverages and Tobacco  4.9  18.4  1.3 Furnishings, Household Equipment and Routine  4.7  13.5  0.8",
+    "chunk_type": "list",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 44.64,
+      "top": 621.8716,
+      "x1": 506.11096000000003,
+      "bottom": 706.026
+    },
+    "parent_section": "Major Non-Food   Components  46.5  14.8  2.0",
+    "token_count": 48,
+    "content_hash": "86fdc28d44b46c537aa3b6b532953fde3bf1ca37e0b003f1354c6674385a3715",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_74",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Tele: +251 111 568464  YOUR RELIABLE DATA SOURCE          Website: www.ess.gov.et\n+251 111 564226",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 726.096,
+      "x1": 569.272,
+      "bottom": 750.576
+    },
+    "parent_section": "Major Non-Food   Components  46.5  14.8  2.0",
+    "token_count": 16,
+    "content_hash": "141046e1d540fd046782a1f9884c65677c7cf8e07066cfe00424374b6e7ceeda",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_75",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "\u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303                P.O.Box\u1361 1143",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 207.41,
+      "top": 744.876,
+      "x1": 543.436,
+      "bottom": 762.876
+    },
+    "parent_section": "\u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303                P.O.Box\u1361 1143",
+    "token_count": 5,
+    "content_hash": "2736996b0fb0a5feec7863be7f394358b6e4b29933a56ca28ea07d1ba1c64858",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_76",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 115131",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 752.976,
+      "x1": 149.27504,
+      "bottom": 764.016
+    },
+    "parent_section": "\u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303                P.O.Box\u1361 1143",
+    "token_count": 3,
+    "content_hash": "cc26bece39eb7902148dd42469d9911f8bba3e34fb5b9242a946d53ad899a51a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_77",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fax:  +251 111 115470",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 766.416,
+      "x1": 149.0022936512,
+      "bottom": 777.456
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 5,
+    "content_hash": "effa3132b94f94426cd52173399f75a210ef4773bddf75f665ff4545dec1d68d",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_78",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fax:  +251 111 115470",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 14.543999999999983,
+      "x1": 149.0022936512,
+      "bottom": 25.583999999999946
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 5,
+    "content_hash": "a2931c84757f2359405275614781c52dc8a3a3a268151deb1d208dc2e1dc2f0b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_79",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 115131",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 27.984000000000037,
+      "x1": 149.27504,
+      "bottom": 39.024
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 3,
+    "content_hash": "fbf55b343dc188317ed1b39d3ff1697271ba2012a75ef6387f01f17eb7284e3b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_80",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "P.O.Box\u1361 1143",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 34.8371908396947,
+      "x1": 539.99420395,
+      "bottom": 46.05600000000004
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 2,
+    "content_hash": "8c14f4e66f64bda7089ac4376ec5191662e96c6cfdcd23fb294deb2619cb2ac2",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_81",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 564226",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 41.42399999999998,
+      "x1": 149.27504,
+      "bottom": 52.46399999999994
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 3,
+    "content_hash": "b9354e04a4ce131e404d65253c7a54762e84cb1511837edd730ffada94bee127",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_82",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Website",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 51.60375903614454,
+      "x1": 476.38300000000004,
+      "bottom": 62.039999999999964
+    },
+    "parent_section": "Website",
+    "token_count": 1,
+    "content_hash": "58662a13faf609234a3be27bae4850939001509efe82af8f0c61d3ca7179f288",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_83",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": ": www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 476.5,
+      "top": 51.157190839694636,
+      "x1": 569.272,
+      "bottom": 62.375999999999976
+    },
+    "parent_section": "Website",
+    "token_count": 2,
+    "content_hash": "c2603f215a58c6506067f7917bba5fb7cf12a766ac28b400196b147a3e273b56",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_84",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Tele: +251 111 568464",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 54.86400000000003,
+      "x1": 149.27504,
+      "bottom": 65.904
+    },
+    "parent_section": "Tele: +251 111 568464",
+    "token_count": 5,
+    "content_hash": "087763b54d117399650332e2ff45457ed8a983b587ea18dee911a7ee11f6516b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_85",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 183.02,
+      "top": 30.3536385542169,
+      "x1": 373.67416000000003,
+      "bottom": 63.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 7,
+    "content_hash": "141f0fc757ced6ed52e5156f8729f30cc63354f70976b8cdc05d0eab3a479fdc",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_86",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "In  September EFY2018, among the food components of the CPI, Meat increased by (4.2%), Fish  and  sea  food  increased  by (0.8%), Milk, Cheese and Eggs increased by (2.3%), Oils and Fats increased by (1.8%), Food products n.e.c increased by (2.0%) and Non-Alcoholic beverages and coffee increased by (3.0%) on the month to month basis.\nMonth-to-Month Inflation of Food and Non-alcoholic Beverages :",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 46.92,
+      "top": 228.64999999999998,
+      "x1": 567.9269200000003,
+      "bottom": 285.41
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 80,
+    "content_hash": "bbc66f4de7c63f1316eb8051e4460ebff9ec57ae34c38177f537f84b6ddb5701",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_87",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Month | General month-to-month inflation\nSeptember- EFY 2017 | 2.4\nOctober | 0.9\nNovember | -0.8\nDecember | 0.8\nJanuary | 0.6\nFebruary | 0.5\nMarch | 2.7\nApril | 0.1\nMay | 0.2\nJune | 0.5\nJuly | 1.3\nAugust | 1.1\nSeptember-EFY 2018 | 2.0\n",
+    "chunk_type": "table",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 86.69905853271484,
+      "top": 318.4698791503906,
+      "x1": 488.17193603515625,
+      "bottom": 527.7420349121094
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 47,
+    "content_hash": "7f68e04e8618bb25ffc6859634174c6b9479357bf022025e9cf7104e54415938",
+    "metadata": {
+      "raw_headers": [
+        "Month",
+        "General month-to-month inflation"
+      ],
+      "raw_rows": [
+        [
+          "September- EFY 2017",
+          "2.4"
+        ],
+        [
+          "October",
+          "0.9"
+        ],
+        [
+          "November",
+          "-0.8"
+        ],
+        [
+          "December",
+          "0.8"
+        ],
+        [
+          "January",
+          "0.6"
+        ],
+        [
+          "February",
+          "0.5"
+        ],
+        [
+          "March",
+          "2.7"
+        ],
+        [
+          "April",
+          "0.1"
+        ],
+        [
+          "May",
+          "0.2"
+        ],
+        [
+          "June",
+          "0.5"
+        ],
+        [
+          "July",
+          "1.3"
+        ],
+        [
+          "August",
+          "1.1"
+        ],
+        [
+          "September-EFY 2018",
+          "2.0"
+        ]
+      ]
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_88",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Table 3: General Inflation Rate (%, Month-to-Month), August EFY2017 - September EFY2018\nThe month-to-month general inflation rate for September EFY2018 has increased by 2.0 percent compared to what was observed last month. During the same month, the food  and  non-alcoholic component of the inflation increased by at 1.9 percent whereas the non-food component for its part increased by 2.0 percent .\nMonth-to-Month Inflation Rate",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 43.8,
+      "top": 536.02,
+      "x1": 555.2994399999999,
+      "bottom": 631.99
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 81,
+    "content_hash": "fa9ca8fc86b69e411c9a4b84d2824ad8d5755efac47084bf832f97e9a2e02303",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_89",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Issue No. 27/2018",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 45.0,
+      "top": 663.6760787944025,
+      "x1": 142.82888,
+      "bottom": 672.26236
+    },
+    "parent_section": "Issue No. 27/2018",
+    "token_count": 3,
+    "content_hash": "57a1d9a4f176d8d462e16d82de9743a2683d99f68a0f79e3ea7ea50ab5d3fe71",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_90",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Page 5",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 531.7,
+      "top": 664.2760787944026,
+      "x1": 569.14888,
+      "bottom": 672.86236
+    },
+    "parent_section": "Page 5",
+    "token_count": 2,
+    "content_hash": "24d12d37408f60ea35afd1affbdb602052829b46bc0fec6346344393de3f39a6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_91",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 185.3,
+      "top": 709.02,
+      "x1": 430.738,
+      "bottom": 749.1
+    },
+    "parent_section": "Page 5",
+    "token_count": 6,
+    "content_hash": "7616fe02eebadb6332780b97ff641970bb6be63cdd35b70078a30edc7a23bf1b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_92",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 37.98646926879883,
+      "top": 676.4837799072266,
+      "x1": 160.80770874023438,
+      "bottom": 782.2130880355835
+    },
+    "parent_section": "Page 5",
+    "token_count": 1,
+    "content_hash": "eaf51e926e9358b77fbee5a967ebc9d9419cf8919547ed80016619d11ee31566",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_93",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fax:  +251 111 115470",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 14.543999999999983,
+      "x1": 149.0022936512,
+      "bottom": 25.583999999999946
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 5,
+    "content_hash": "d09c06b1353181780e7ab052926b543b0bbe68ed95dbe499c71b3b1246de6662",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_94",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 115131",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 27.984000000000037,
+      "x1": 149.27504,
+      "bottom": 39.024
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 3,
+    "content_hash": "edcbd3b82b4e8fa1146c1cfb184638069bcc48ba4cfc5d0017edcd8c8f72e41c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_95",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "P.O.Box\u1361 1143",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 34.8371908396947,
+      "x1": 539.99420395,
+      "bottom": 46.05600000000004
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 2,
+    "content_hash": "c3e6e045646f3235833892c9bcef9d82db6af1db2e834fa76758ac53e72cd47a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_96",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 564226",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 41.42399999999998,
+      "x1": 149.27504,
+      "bottom": 52.46399999999994
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 3,
+    "content_hash": "84589c671e299ffffc99a1c199721d9dbf0366d1b501325382ffc28cdbafc56a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_97",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Website",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 51.60375903614454,
+      "x1": 476.38300000000004,
+      "bottom": 62.039999999999964
+    },
+    "parent_section": "Website",
+    "token_count": 1,
+    "content_hash": "a12840d88c7f52e0470313892572b26f37d287ac037a1346982ec0422b50f924",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_98",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": ": www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 476.5,
+      "top": 51.157190839694636,
+      "x1": 569.272,
+      "bottom": 62.375999999999976
+    },
+    "parent_section": "Website",
+    "token_count": 2,
+    "content_hash": "d69e2cdc2e7d7e229a6bd1dd3e4fff3318adabbc86ed5c95f58e472cba8aee96",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_99",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Tele: +251 111 568464",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 54.86400000000003,
+      "x1": 149.27504,
+      "bottom": 65.904
+    },
+    "parent_section": "Tele: +251 111 568464",
+    "token_count": 5,
+    "content_hash": "a4799ed9c1b3fa37d11a6a78580689d093a76fb56372a23fd6974abc6f05e7de",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_100",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 183.02,
+      "top": 30.3536385542169,
+      "x1": 373.67416000000003,
+      "bottom": 63.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 7,
+    "content_hash": "03207f40c6f805e2bda20dec95a86b679ad5535068df0f0564bf11e6b8b9298c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_101",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "(2.0)",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 79.0,
+      "top": 155.66666666666663,
+      "x1": 99.0,
+      "bottom": 166.33333333333337
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 1,
+    "content_hash": "71ff3faead3bc26670df7178fcc413f32c27dc027d98d5dd8b4b30d634582ce7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_102",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Food",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 277.33333333333337,
+      "top": 165.0,
+      "x1": 298.33333333333337,
+      "bottom": 173.33333333333337
+    },
+    "parent_section": "Food",
+    "token_count": 1,
+    "content_hash": "f6ca3162572ee12ac978c321e09a38fd10410a58a577a3c4c8403af0a655e62f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_103",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Non-Food",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 348.6666666666667,
+      "top": 165.66666666666663,
+      "x1": 389.3333333333333,
+      "bottom": 173.66666666666663
+    },
+    "parent_section": "Non-Food",
+    "token_count": 1,
+    "content_hash": "b177cd67c4d558575fb23af6d0c2e024da8c2e9466af4ed3207d6a48c8687cc0",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_104",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "(1.1) (.6)",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 140.66666666666669,
+      "top": 183.66666666666663,
+      "x1": 191.66666666666666,
+      "bottom": 186.66666666666663
+    },
+    "parent_section": "Non-Food",
+    "token_count": 2,
+    "content_hash": "9e2088731d5228065d05d98bd27ad65b41c0f90f43d6ab31714357128c778967",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_105",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Dec",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 197.0,
+      "top": 219.0,
+      "x1": 217.0,
+      "bottom": 221.33333333333337
+    },
+    "parent_section": "Dec",
+    "token_count": 1,
+    "content_hash": "7047434ed9e50a4315b2d2dacf8bf8e4556d1cdf9f6815350eb7a757b663aa20",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_106",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Feb",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 257.0,
+      "top": 219.33333333333337,
+      "x1": 276.0,
+      "bottom": 221.33333333333337
+    },
+    "parent_section": "Feb",
+    "token_count": 1,
+    "content_hash": "f3f28187f04306396d7d03519e7258c7286b142a05a63fc221560c7ab0d2593f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_107",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Mar",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 286.0,
+      "top": 219.33333333333337,
+      "x1": 306.3333333333333,
+      "bottom": 219.66666666666663
+    },
+    "parent_section": "Mar",
+    "token_count": 1,
+    "content_hash": "b1b879fbe11b8486c266e224360a47f170cf24b5c2bd0866969af9a31db0c91a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_108",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "July",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 408.6666666666667,
+      "top": 219.0,
+      "x1": 424.6666666666667,
+      "bottom": 221.0
+    },
+    "parent_section": "July",
+    "token_count": 1,
+    "content_hash": "4c9fcec6663602baffd1b8eb915cd6fbd8d4e9978c6794ca32f7cb6ebe7e9fb7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_109",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Aug",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 437.0,
+      "top": 218.0,
+      "x1": 457.0,
+      "bottom": 221.66666666666663
+    },
+    "parent_section": "Aug",
+    "token_count": 1,
+    "content_hash": "26a7e6fc7a272b71b535a4b402b50f1069591de0413006ce7c09c9b739b58fcc",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_110",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Nov",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 167.0,
+      "top": 216.66666666666663,
+      "x1": 186.33333333333334,
+      "bottom": 224.0
+    },
+    "parent_section": "Nov",
+    "token_count": 1,
+    "content_hash": "f0fff055205b262051f5cdcd900f99f9903f33cf6ec2145679bc62b41753d080",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_111",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Jan",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 232.0,
+      "top": 215.0,
+      "x1": 242.66666666666666,
+      "bottom": 225.0
+    },
+    "parent_section": "Jan",
+    "token_count": 1,
+    "content_hash": "34bfc37e4e74f2062aaa50cd5c368dff5058ef54798f15262fb9df125caf7066",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_112",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Jurfe1",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 371.3333333333333,
+      "top": 218.33333333333337,
+      "x1": 403.6666666666667,
+      "bottom": 222.66666666666663
+    },
+    "parent_section": "Jurfe1",
+    "token_count": 1,
+    "content_hash": "3c9822cad15ea6b877946a8e89f6da2b9a35e4b13d875fbb53f836dca98fbec3",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_113",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Sept-EFY2018",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 440.6666666666667,
+      "top": 192.0,
+      "x1": 487.6666666666667,
+      "bottom": 223.33333333333337
+    },
+    "parent_section": "Jurfe1",
+    "token_count": 1,
+    "content_hash": "db368aed856996d6c512c957e4b2ba87b671d6b83c137747ff6e47568f58abce",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_114",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "6.5 0.5 (0.1) 0.7 0.2 3:2 0.4 1.0 1.4 0.8\n2.0 2. 1.5 2.0 1.7 1.9\n2.2 2.5 3.0",
+    "chunk_type": "list",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 83.0,
+      "top": 244.0,
+      "x1": 490.0,
+      "bottom": 342.0
+    },
+    "parent_section": "Jurfe1",
+    "token_count": 23,
+    "content_hash": "f9c8bacf0dee997aadadd20642a3a5873988d0b67b64b3fb913ba8b0106a500c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_115",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Month-to-Month CPl Inflation",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 188.33333333333334,
+      "top": 371.3333333333333,
+      "x1": 361.6666666666667,
+      "bottom": 382.3333333333333
+    },
+    "parent_section": "Jurfe1",
+    "token_count": 3,
+    "content_hash": "02fc4d8d3e04f3a150c960dd7364477d7f473d6b00d5c11a1b8d9bfb80ddfec8",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_116",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 57.8096923828125,
+      "top": 154.77178955078125,
+      "x1": 497.87115478515625,
+      "bottom": 389.85736083984375
+    },
+    "parent_section": "Jurfe1",
+    "token_count": 1,
+    "content_hash": "5fb75adb71c84ab090e141e7c8c97fd41f67fad3a3c8ca6a396fff32eb9f3493",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_117",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "4.0",
+    "chunk_type": "list",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 83.0,
+      "top": 379.3333333333333,
+      "x1": 97.33333333333334,
+      "bottom": 388.0
+    },
+    "parent_section": "Jurfe1",
+    "token_count": 1,
+    "content_hash": "ec47afe62ed94285177788e911ec3e48f0e9dafc67cf0528bdf0181d4e9dce2d",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_118",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fig 2: Food and Non-Food Inflation (%, Month-to-Month), August EFY2017 - September EFY2018\nLooking at non-food items, the month-to-month comparison was observed for Alcoholic beverages and tobacco increased by (1.3%), Clothing and Footwear increased by (1.1%) ,  Furniture, Furnishing, household equipment and routine maintenance of the house  increased by (0.8%), Housing, water, Electricity, gas and other fuels increased by (2.7%) , Transport increased by (1.1%), Recreation and culture increased by (1.6%) , and Hotel and Restaurants increased by (3.6%), Health increased by (3.0%), Communication increased by (1.1%) , and Miscellaneous Goods and Services increased by (0.9%) during the month.\nNon-Food Inflation (%, Month-to-Month)",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 46.8,
+      "top": 426.91,
+      "x1": 545.0944,
+      "bottom": 612.46
+    },
+    "parent_section": "Jurfe1",
+    "token_count": 132,
+    "content_hash": "a272190746fa6e5626d2800432a81ef791e1ecf5d156068e0b9bc40f860b37c4",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_119",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Issue No. 27/2018",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 55.2,
+      "top": 639.7960787944025,
+      "x1": 153.02888,
+      "bottom": 648.38236
+    },
+    "parent_section": "Issue No. 27/2018",
+    "token_count": 3,
+    "content_hash": "c6fae06a2599b4b90d7c04e6ad6e7362f37ea640924ba90866d551869c042b62",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_120",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Page 6",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 513.46,
+      "top": 644.3560787944025,
+      "x1": 550.90888,
+      "bottom": 652.9423599999999
+    },
+    "parent_section": "Page 6",
+    "token_count": 2,
+    "content_hash": "be573334ceb1e5816e9be91b908fb0b136fc732ffc1207cc595b6b4f24471ae8",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_121",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 185.3,
+      "top": 709.02,
+      "x1": 430.738,
+      "bottom": 749.1
+    },
+    "parent_section": "Page 6",
+    "token_count": 6,
+    "content_hash": "ae682efb6b9fa64f5562d284be0aea68f3212a308552fd17c0308b517f47745c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_122",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 37.953346252441406,
+      "top": 661.1341247558594,
+      "x1": 160.66700744628906,
+      "bottom": 782.0572462081909
+    },
+    "parent_section": "Page 6",
+    "token_count": 1,
+    "content_hash": "0f8d54e48a85b2328c6799d84396b0962cb0b9a1c2a846dcb983e59c6a42f98c",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_123",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fax:  +251 111 115470",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 14.543999999999983,
+      "x1": 149.0022936512,
+      "bottom": 25.583999999999946
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 5,
+    "content_hash": "417dc4f961709a4a98cdf0052e91a1c4ed26ebc1a2e9a3a13f3b4be73af4c5bd",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_124",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 115131",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 27.984000000000037,
+      "x1": 149.27504,
+      "bottom": 39.024
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 3,
+    "content_hash": "4972f7ed70ea77f3431c06a6a277acae86561957653ff663703432572095d0da",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_125",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "P.O.Box\u1361 1143",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 34.8371908396947,
+      "x1": 539.99420395,
+      "bottom": 46.05600000000004
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 2,
+    "content_hash": "82ed7aa3d1634b82e5f1fb9b1a8873ae794b8e18a94d430a13d93fd94cc1cb09",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_126",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 564226",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 41.42399999999998,
+      "x1": 149.27504,
+      "bottom": 52.46399999999994
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 3,
+    "content_hash": "dfa717b873723f2548e7cb9cabd39a3bd426ad46c9d38eb9e4db095fdf0827c7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_127",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Website",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 51.60375903614454,
+      "x1": 476.38300000000004,
+      "bottom": 62.039999999999964
+    },
+    "parent_section": "Website",
+    "token_count": 1,
+    "content_hash": "552fe8e56cbd580a30aedd23ce224a8d9e1e66e13187131a8137543a73c8c7d0",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_128",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": ": www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 476.5,
+      "top": 51.157190839694636,
+      "x1": 569.272,
+      "bottom": 62.375999999999976
+    },
+    "parent_section": "Website",
+    "token_count": 2,
+    "content_hash": "1b653fb6e25282af4647ed1d314d451abc9ad3c3721f8bf9a0d1d204156aaac6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_129",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Tele: +251 111 568464",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 54.86400000000003,
+      "x1": 149.27504,
+      "bottom": 65.904
+    },
+    "parent_section": "Tele: +251 111 568464",
+    "token_count": 5,
+    "content_hash": "e8603adeb679610827190e29de4839ad4730c34ec193182bf1f7a99fbce882bd",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_130",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 183.02,
+      "top": 30.3536385542169,
+      "x1": 373.67416000000003,
+      "bottom": 63.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 7,
+    "content_hash": "cc071ed683202072fe210fd578b606234f0afa1414b7453c5c008dc27de747a9",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_131",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Month | 12 Months moving Average Overall CPI | 12-Month Moving Average overall Inflation\nSeptember -EFY2017 | 444.9 | 23.8\nOctober | 451.5 | 22.9\nNovember | 457.5 | 22.0\nDecember | 463.4 | 21.0\nJanuary | 469.0 | 19.9\nFebruary | 474.4 | 18.9\nMarch | 479.5 | 17.9\nApril | 484.9 | 17.1\nMay | 490.3 | 16.5\nJune | 495.6 | 16.0\nJuly | 500.9 | 15.6\nAugust | 506.2 | 15.3\nSeptember-EFY2018 | 511.4 | 15.0\n",
+    "chunk_type": "table",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 69.39173889160156,
+      "top": 120.99847412109375,
+      "x1": 548.8726196289062,
+      "bottom": 457.80206298828125
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 80,
+    "content_hash": "e33ecfc03d90ca982931d3bb6eb1cfbbb46618e0a1138936e1c81de1c4dd1bb0",
+    "metadata": {
+      "raw_headers": [
+        "Month",
+        "12 Months moving Average Overall CPI",
+        "12-Month Moving Average overall Inflation"
+      ],
+      "raw_rows": [
+        [
+          "September -EFY2017",
+          "444.9",
+          "23.8"
+        ],
+        [
+          "October",
+          "451.5",
+          "22.9"
+        ],
+        [
+          "November",
+          "457.5",
+          "22.0"
+        ],
+        [
+          "December",
+          "463.4",
+          "21.0"
+        ],
+        [
+          "January",
+          "469.0",
+          "19.9"
+        ],
+        [
+          "February",
+          "474.4",
+          "18.9"
+        ],
+        [
+          "March",
+          "479.5",
+          "17.9"
+        ],
+        [
+          "April",
+          "484.9",
+          "17.1"
+        ],
+        [
+          "May",
+          "490.3",
+          "16.5"
+        ],
+        [
+          "June",
+          "495.6",
+          "16.0"
+        ],
+        [
+          "July",
+          "500.9",
+          "15.6"
+        ],
+        [
+          "August",
+          "506.2",
+          "15.3"
+        ],
+        [
+          "September-EFY2018",
+          "511.4",
+          "15.0"
+        ]
+      ]
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_132",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Table 4. Overall CPI and 12-month moving average Overall Inflation rate September  EEFY2018\nThe 12-month moving average figures provides a broader perspective on inflation trends over a longer period. As it is indicated in Table below the country level overall inflation rate (annual change based on 12  months  Moving  Average )  was 15.0 percent in September EFY2018 as compared to the one observed in a similar period a year ago. Since EFY2016 inflation has been relatively eased in the country.\n3:  12-Month Moving Average General, Food and Non-food Inflation",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 50.88,
+      "top": 477.19,
+      "x1": 559.14184,
+      "bottom": 606.79
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 114,
+    "content_hash": "c89d1035001793210ec1220475d1049cbccbb3fc8aa52a2f8cad26da4bdbf151",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_133",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Page 7",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 522.22,
+      "top": 645.9160787944026,
+      "x1": 559.66888,
+      "bottom": 654.50236
+    },
+    "parent_section": "Page 7",
+    "token_count": 2,
+    "content_hash": "4569fc569af559c68cf312f633003528ce55b863f70a241e3f7a93135b43b9a1",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_134",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 185.3,
+      "top": 709.02,
+      "x1": 430.738,
+      "bottom": 749.1
+    },
+    "parent_section": "Page 7",
+    "token_count": 6,
+    "content_hash": "9c8366f02c075bd5ecebf1ae3331537a71d4948b0bffc8bd6e811e60747dd4d7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_135",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 38.196250915527344,
+      "top": 663.2866668701172,
+      "x1": 160.6891632080078,
+      "bottom": 781.9756603240967
+    },
+    "parent_section": "Page 7",
+    "token_count": 1,
+    "content_hash": "5a2229288524e13d9abea1f4bc882e2c0013c7bdaa69e7a3d9ec45f67e03dd08",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_136",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fax:  +251 111 115470",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 14.543999999999983,
+      "x1": 149.0022936512,
+      "bottom": 25.583999999999946
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 5,
+    "content_hash": "cb418e945680b1de3d162f97f58bf09ea1d37de8d613eb0f7704ff3a5b958094",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_137",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 115131",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 27.984000000000037,
+      "x1": 149.27504,
+      "bottom": 39.024
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 3,
+    "content_hash": "ab8b3d9982d8aa2533f5f53d15b4ddb70d6779f7ccfb9940fc5dc5dc32d77730",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_138",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "P.O.Box\u1361 1143",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 34.8371908396947,
+      "x1": 539.99420395,
+      "bottom": 46.05600000000004
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 2,
+    "content_hash": "710d871c53c5e74f7e3c53b11752af8c512dd79295030ce0e41118549e386272",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_139",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 564226",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 41.42399999999998,
+      "x1": 149.27504,
+      "bottom": 52.46399999999994
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 3,
+    "content_hash": "6b90e2d8f42d4fa2ddb5e6949875d6a5f5874505210e9aecb8f57d6cd48ea148",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_140",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Website",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 51.60375903614454,
+      "x1": 476.38300000000004,
+      "bottom": 62.039999999999964
+    },
+    "parent_section": "Website",
+    "token_count": 1,
+    "content_hash": "4b4b433a91affd87c6ad67c5397c06d6ea05e012ef65a9a1f318eeffcef20eaa",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_141",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": ": www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 476.5,
+      "top": 51.157190839694636,
+      "x1": 569.272,
+      "bottom": 62.375999999999976
+    },
+    "parent_section": "Website",
+    "token_count": 2,
+    "content_hash": "a5d8358f5e087d1cdcf0d0c11e84f305e227c8344ccec5d06c5998ccafcdf7e8",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_142",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Tele: +251 111 568464",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 54.86400000000003,
+      "x1": 149.27504,
+      "bottom": 65.904
+    },
+    "parent_section": "Tele: +251 111 568464",
+    "token_count": 5,
+    "content_hash": "cacced242939c34bb7f29b9fd384fff40998c0f4f14168b424fef2f02eecad3a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_143",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 183.02,
+      "top": 30.3536385542169,
+      "x1": 373.67416000000003,
+      "bottom": 63.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 7,
+    "content_hash": "85aabb383400d488db1ffa331fe80638d4dd62fb7c2af1d887a94e08c6bb9405",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_144",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Month | 12-month moving average Food Inflation | 12-month moving average Non-Food Infla- tion\nSeptember -EFY2017 | 26.1 | 20.4\nOctober | 25.1 | 19.0\nNovember | 24.4 | 18.4\nDecember | 23.5 | 17.5\nJanuary | 22.1 | 16.7\nFebruary | 20.8 | 16.1\nMarch | 19.3 | 15.7\nApril | 18.1 | 15.7\nMay | 17.0 | 15.7\nJune | 16.2 | 15.8\nJuly | 15.5 | 15.8\nAugust | 15.0 | 15.9\nSeptember-EFY2018 | 14.4 | 15.9\n",
+    "chunk_type": "table",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 40.03445053100586,
+      "top": 164.1890869140625,
+      "x1": 547.979736328125,
+      "bottom": 466.4430236816406
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 80,
+    "content_hash": "85ba3a2cbbca7dc4faa13bbcba9f5a89cc2d61827a212e3d20437e30d4762501",
+    "metadata": {
+      "raw_headers": [
+        "Month",
+        "12-month moving average Food Inflation",
+        "12-month moving average Non-Food Infla- tion"
+      ],
+      "raw_rows": [
+        [
+          "September -EFY2017",
+          "26.1",
+          "20.4"
+        ],
+        [
+          "October",
+          "25.1",
+          "19.0"
+        ],
+        [
+          "November",
+          "24.4",
+          "18.4"
+        ],
+        [
+          "December",
+          "23.5",
+          "17.5"
+        ],
+        [
+          "January",
+          "22.1",
+          "16.7"
+        ],
+        [
+          "February",
+          "20.8",
+          "16.1"
+        ],
+        [
+          "March",
+          "19.3",
+          "15.7"
+        ],
+        [
+          "April",
+          "18.1",
+          "15.7"
+        ],
+        [
+          "May",
+          "17.0",
+          "15.7"
+        ],
+        [
+          "June",
+          "16.2",
+          "15.8"
+        ],
+        [
+          "July",
+          "15.5",
+          "15.8"
+        ],
+        [
+          "August",
+          "15.0",
+          "15.9"
+        ],
+        [
+          "September-EFY2018",
+          "14.4",
+          "15.9"
+        ]
+      ]
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_145",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Table 5: 12-month moving average Food and Non-Food Inflation rate (September EFY2017 - September EFY2018)\nDis-aggregated, 12-month moving average food inflation increased by 14.4 percent as compared to the one observed a year ago and non-food inflation rate increased by 15.9 percent in September EFY2018 as compared to the one observed in September EFY2017.\n12-month moving average Food and Non-Food Inflation rate (September EFY2017 - September EFY2018)",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 45.84,
+      "top": 475.15000000000003,
+      "x1": 557.3663200000003,
+      "bottom": 597.34
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 85,
+    "content_hash": "cca7ce1d5c4bca6521fc40582695d462ec297c7e8df4a533862cd89790d5c92a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_146",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Issue No. 27/2018",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 57.6,
+      "top": 645.9160787944026,
+      "x1": 155.42888,
+      "bottom": 654.50236
+    },
+    "parent_section": "Issue No. 27/2018",
+    "token_count": 3,
+    "content_hash": "33320d0fad22cc99b6166580d47027b34aba3dd906522639457c415312204b16",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_147",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Page 8",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 522.22,
+      "top": 645.9160787944026,
+      "x1": 559.66888,
+      "bottom": 654.50236
+    },
+    "parent_section": "Page 8",
+    "token_count": 2,
+    "content_hash": "1d94621fa87f137ff1d106a7c1f376036bb2d4faef0c76f7521ee829efbef0e5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_148",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 185.3,
+      "top": 709.02,
+      "x1": 430.738,
+      "bottom": 749.1
+    },
+    "parent_section": "Page 8",
+    "token_count": 6,
+    "content_hash": "9105355050489db2029b47bfeb2db6399ccf6b0185c2813fe8b40b92d4ade718",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_149",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 38.177589416503906,
+      "top": 663.1138153076172,
+      "x1": 160.66744995117188,
+      "bottom": 782.1832761764526
+    },
+    "parent_section": "Page 8",
+    "token_count": 1,
+    "content_hash": "669eef50b7dbc8d44a8c255995ae7b8e318577c726c3d00dc770507d6407cc7f",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_150",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "ETHIOPIAN STATISTICAL SERVICE",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 185.3,
+      "top": 42.89999999999998,
+      "x1": 430.738,
+      "bottom": 60.89999999999998
+    },
+    "parent_section": "ETHIOPIAN STATISTICAL SERVICE",
+    "token_count": 3,
+    "content_hash": "359e7d66bff198025c3d9d54d2a368e4c0b151898819558aa5423e02bc694a3a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_151",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 239.09,
+      "top": 64.98000000000002,
+      "x1": 376.978,
+      "bottom": 82.98000000000002
+    },
+    "parent_section": "Statistical Bulletin",
+    "token_count": 2,
+    "content_hash": "7ba4187bb57d1ad15dc0120d6024b40acdc97e2f890d4ed43abc1ec3ac2fa656",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_152",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Issue No. 27/2018   Page 9",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 57.6,
+      "top": 136.71079999999995,
+      "x1": 559.66888,
+      "bottom": 146.67079999999999
+    },
+    "parent_section": "Issue No. 27/2018   Page 9",
+    "token_count": 6,
+    "content_hash": "fe60cf3b1e18ab5c61a367fb8a28f1e8b9856c4137724e34d0d320cb48cb4ea5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_153",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Recent Improvements in  CPI  Price survey\nThe monthly consumer price data collection first started in Addis Ababa in 1963 (1955 E.C).  The consumer price survey which started in the capital city helped to prepare Consumer Price Index (CPI) for the city of Addis Ababa which was used as an indicator of national price movement for long time periods. Starting from December 2000 GC, CPI coverage expanded to 9 regions and 2 city administrations. Through this approach a number of zones were first selected and in each zone two Woredas were selected. From the 2 Woredas a list of 8 markets were prepared and ranked by size (population), importance of the market, wide variety of goods sold and, use of the market by both urban and rural households. From each zone two urban markets were selected for price data collection. However, these 120 markets selected  25 years ago and become less representative given the fast growth in regional towns and cities in terms of population, economic activities, and the creation of new administrative structures. Furthermore, complaints were raised by stakeholders from time to time that the CPI cover- age has been limited to 120 urban markets for a quarter of a century in-spite of big structural and economic changes in the country. This led the Ethiopian Statistics Service to review data collection sample markets that are representative following a consistent ap- proach applied to select the existing 120 markets.  This exercise led to the selection of  80 new markets. This makes a total of 200 markets (120 old markets and 80 new markets) for price survey. To see what effect the new market selection could have on the CPI series, Pilot Surveys were conducted in the newly selected 80 markets starting from September 2024. In the subsequent piloting ex- ercises conducted for one year CPI results showed negligible differences between 120 markets and the combined 200 markets.",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 65.52,
+      "top": 174.5,
+      "x1": 557.61268,
+      "bottom": 541.06
+    },
+    "parent_section": "Issue No. 27/2018   Page 9",
+    "token_count": 410,
+    "content_hash": "519fe301b0619ba695cff276c292dd92feb6f0ebfff934d131f2534db68cceb5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_154",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "This exercise was a milestone for the next CPI re-basing which is planned for December 2025=100 using the weights to be derived from 2017 EFY National Integrated Household Survey.  Furthermore, these 80 new markets are important in order to include the four newly emerged regional sates of Sidama, South, South West and Central Ethiopia for the future CPI compilation. Accordingly, the ESS has decided to do the price data collection and CPI production using the combined 200 markets(120 old+80 new) starting from May 2025.\nTele: +251 111 568464  YOUR RELIABLE DATA SOURCE          Website: www.ess.gov.et\n+251 111 564226",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 563.5,
+      "x1": 569.272,
+      "bottom": 750.576
+    },
+    "parent_section": "Issue No. 27/2018   Page 9",
+    "token_count": 125,
+    "content_hash": "3dfa3e09859f012de526ae75b398dc16eac177c808cea736cc548161c8f37b39",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_155",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "\u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303                P.O.Box\u1361 1143",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 207.41,
+      "top": 744.876,
+      "x1": 543.436,
+      "bottom": 762.876
+    },
+    "parent_section": "\u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303                P.O.Box\u1361 1143",
+    "token_count": 5,
+    "content_hash": "667ef3eeb3306be1b0b4818f0287243553fe60e72698971b101db66d6840e054",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_156",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 115131",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 752.976,
+      "x1": 149.27504,
+      "bottom": 764.016
+    },
+    "parent_section": "\u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303                P.O.Box\u1361 1143",
+    "token_count": 3,
+    "content_hash": "1ac415a0b51efec7c3c7eb274b3bd685c6802ea670a2a9fa448ab774053f10da",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_157",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fax:  +251 111 115470",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 766.416,
+      "x1": 149.0022936512,
+      "bottom": 777.456
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 5,
+    "content_hash": "9cbde35d45ab41ef2bc9f6bb93d13d63881b8bdc1b5942a451445bcea2dcd0fa",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_158",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fax:  +251 111 115470",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 14.543999999999983,
+      "x1": 149.0022936512,
+      "bottom": 25.583999999999946
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 5,
+    "content_hash": "a2da4d6caec32ab9afb6fa4f24347773657b41ffc923cbf5ffed6b5325b26318",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_159",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 115131",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 27.984000000000037,
+      "x1": 149.27504,
+      "bottom": 39.024
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 3,
+    "content_hash": "b81c66aa3a4a3617ae3accb4b452494f8cee28545c21c945142ce4f09321c654",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_160",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "P.O.Box\u1361 1143",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 34.8371908396947,
+      "x1": 539.99420395,
+      "bottom": 46.05600000000004
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 2,
+    "content_hash": "3719ebb292c9eed32b5505a581ac8523fcbfe305c18736e67b194451f15707eb",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_161",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 564226",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 41.42399999999998,
+      "x1": 149.27504,
+      "bottom": 52.46399999999994
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 3,
+    "content_hash": "9b2aa348e1ce09646024983947e6d4ea9597d81fd2c86323b556498aba8cf876",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_162",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Website",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 51.60375903614454,
+      "x1": 476.38300000000004,
+      "bottom": 62.039999999999964
+    },
+    "parent_section": "Website",
+    "token_count": 1,
+    "content_hash": "8e3640a0245cf7fc955b21a067cbe335b6ca5eb2f304eacb4d649c9d4f26aac3",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_163",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": ": www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 476.5,
+      "top": 51.157190839694636,
+      "x1": 569.272,
+      "bottom": 62.375999999999976
+    },
+    "parent_section": "Website",
+    "token_count": 2,
+    "content_hash": "534b7f249c6cb6453e96158de991dec473f33e39aae8558dc0c63b2da7cb82a2",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_164",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Tele: +251 111 568464",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 54.86400000000003,
+      "x1": 149.27504,
+      "bottom": 65.904
+    },
+    "parent_section": "Tele: +251 111 568464",
+    "token_count": 5,
+    "content_hash": "ffaae93ca84369d6f59b6f31d8a4eb622a8f62db7a23d20e9a2b9e7f5b7b0e20",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_165",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 183.02,
+      "top": 30.3536385542169,
+      "x1": 373.67416000000003,
+      "bottom": 63.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 7,
+    "content_hash": "51f60ce395dac4fb82ca396ca2e688d53556f68832d88064d948c3fd5113eba2",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_166",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "The average annual general inflation rate for the country stood at (16.0 %) in EFY2017 compared to (26.6 %) in EFY2016 . The past three years were unfavorable for the households, due to high inflation in the country. Specially, in the year EFY2014 and EFY2015, the inflation rate has been over 30 percent for most months. Internal and external factors forced the inflation to be at higher level; COVID19, internal conflict, and Russia-Ukraine War were the major factors.\n2007 9107 9107 t07 9107 7107 107 0107 6007 8007 2007 9007 5007",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 50.88,
+      "top": 97.10400000000004,
+      "x1": 562.2721600000002,
+      "bottom": 206.66666666666674
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 117,
+    "content_hash": "196db3201bf1d83ee5e5072944317c310b6514e5bb1668cd4059b0cb60c9becd",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_167",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "7.0\n8.1 7.7\n9.7\n12.6\n13.9\n16.0\n17.4\n19.9 20.1\n26.6\n32.6\n33.7",
+    "chunk_type": "list",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 69.66666666666667,
+      "top": 292.66666666666663,
+      "x1": 539.6666666666667,
+      "bottom": 483.0
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 13,
+    "content_hash": "88de2f7b5f4893adb52bfd07afecf30c4f4825530b4a7e2d7bbf970a142d7da0",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_168",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fig 3: Average Annual General inflation in Ethiopia since Ethiopian EFY2005 (Year-on-Year)",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 62.129730224609375,
+      "top": 205.671142578125,
+      "x1": 543.8583374023438,
+      "bottom": 522.939208984375
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 12,
+    "content_hash": "9878a418bddcb37d759a5f4190d9796d5b5f8a489354903d24f0909ce235311e",
+    "metadata": {
+      "has_caption": true
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_169",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fig 3: Average Annual General inflation in Ethiopia since Ethiopian EFY2005 (Year-on-Year)\nRelatively low and reduction in inflation rate was observed between 2005 and 2009. Since EFY2010 inflation rate stick to double digit.",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 61.56,
+      "top": 544.3,
+      "x1": 553.5169599999999,
+      "bottom": 569.14
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 42,
+    "content_hash": "c6589bb3227e0b0d576ea05d7b8295446749e73909221b6213c00fdd9b5793e6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_170",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "4. Annual Inflation trend",
+    "chunk_type": "list",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 55.56,
+      "top": 618.19,
+      "x1": 215.0,
+      "bottom": 633.19
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 5,
+    "content_hash": "cca1444c5dbae4985ea11e31dc6adb5222164c6fea7dd0c5e4bb8b3693ab294a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_171",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Page 10",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 518.02,
+      "top": 646.5160787944026,
+      "x1": 561.58888,
+      "bottom": 655.10236
+    },
+    "parent_section": "Page 10",
+    "token_count": 2,
+    "content_hash": "4a3afd17a38a86e7657f2a37d00e9ce00c92ba7cc37bf5119b45e9150edb4ad3",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_172",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Issue No. 27/2018",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 50.88,
+      "top": 649.0360787944026,
+      "x1": 148.70888,
+      "bottom": 657.62236
+    },
+    "parent_section": "Issue No. 27/2018",
+    "token_count": 3,
+    "content_hash": "eb7ecbf485296ce36b9db4efaf6e0c8bef23378ca8d35c3b9e6ded99574a705e",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_173",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 185.3,
+      "top": 709.02,
+      "x1": 430.738,
+      "bottom": 749.1
+    },
+    "parent_section": "Issue No. 27/2018",
+    "token_count": 6,
+    "content_hash": "f31fe4c3242d4da226884d8e748de7f271d95758aa7fb54fd6d1c6ce853e7fc4",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_174",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 38.2600212097168,
+      "top": 663.2741546630859,
+      "x1": 160.72776794433594,
+      "bottom": 782.1597204208374
+    },
+    "parent_section": "Issue No. 27/2018",
+    "token_count": 1,
+    "content_hash": "86a056aed79f616cf403c90a9638004862ccd08ad8c1f6c11ede35aed8526172",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_175",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fax:  +251 111 115470",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 14.543999999999983,
+      "x1": 149.0022936512,
+      "bottom": 25.583999999999946
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 5,
+    "content_hash": "0bc83db00ca1e0c08c5566b7b769b1d6c8bb485260b3261aa3f596e8fc216a9c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_176",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 115131",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 27.984000000000037,
+      "x1": 149.27504,
+      "bottom": 39.024
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 3,
+    "content_hash": "254bcea0542a246649c891b8a5ddca4508b051103132a1ddc6696393d887030b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_177",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "P.O.Box\u1361 1143",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 34.8371908396947,
+      "x1": 539.99420395,
+      "bottom": 46.05600000000004
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 2,
+    "content_hash": "773b0c80f85b4e4fee6d9a72a5533a8e13c5b9c4c22d8a0fe36bfce0a6159840",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_178",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 564226",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 41.42399999999998,
+      "x1": 149.27504,
+      "bottom": 52.46399999999994
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 3,
+    "content_hash": "c8a213e9d4f6538a80b6b5199ab28f71d7b93248a84ccebe405a4da4e1512634",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_179",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Website",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 51.60375903614454,
+      "x1": 476.38300000000004,
+      "bottom": 62.039999999999964
+    },
+    "parent_section": "Website",
+    "token_count": 1,
+    "content_hash": "5bf6d39d7cacb0e39e0a70b73fad8648ff25437bfc280be01a4b4a542b9f0f74",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_180",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": ": www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 476.5,
+      "top": 51.157190839694636,
+      "x1": 569.272,
+      "bottom": 62.375999999999976
+    },
+    "parent_section": "Website",
+    "token_count": 2,
+    "content_hash": "d1aece101ef542912da7d08061ab5c114f7b0375f9fc168c973b78992fd23862",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_181",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Tele: +251 111 568464",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 54.86400000000003,
+      "x1": 149.27504,
+      "bottom": 65.904
+    },
+    "parent_section": "Tele: +251 111 568464",
+    "token_count": 5,
+    "content_hash": "235639b51162e0b83c2eb303d3d373f5f5bb787fadf710a2f5551e0a53a299e1",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_182",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 183.02,
+      "top": 30.3536385542169,
+      "x1": 373.67416000000003,
+      "bottom": 63.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 7,
+    "content_hash": "b21e42beaa31567096e39131056625558fa431b542cc6350f66236bdebf72e64",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_183",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "The average annual food inflation rate for the country stood at (16.2 %) in EFY2017 compared to (28.1 %) in EFY2016, about tweleve percentage point reduction compared to last year figure . But since 2010 the in- flation rate stacked at double digit.\n207 9107 907 107 9107 7107 1007 0107 6007 8007 2007 9007 5007",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 58.66666666666667,
+      "top": 139.70000000000005,
+      "x1": 545.8014400000002,
+      "bottom": 238.33333333333326
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 71,
+    "content_hash": "d20d5e50f8f4c8f80730885fc24da7bbf4bbbdbfce5212b9b7aa21811951b525",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_184",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "5.9\n7.2 7.4\n11.3\n13.2\n13.513.1\n16.2\n23.323.1\n28.1\n31.8\n40.2",
+    "chunk_type": "list",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 60.33333333333333,
+      "top": 320.6666666666667,
+      "x1": 545.0,
+      "bottom": 559.3333333333334
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 11,
+    "content_hash": "3ae5b00e0269e1880546a786efcf8478d92163ecadb194064f11fc3769ff76d7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_185",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fig 4: Average Annual Food Inflation in Ethiopia since EFY2005 (Year-on-Year)",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 118.94,
+      "top": 612.46,
+      "x1": 471.50823999999994,
+      "bottom": 623.5
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 14,
+    "content_hash": "bf94e8a694c549684bdaaf7886c45a3a841ad17c4630aeebcab320cb3a5ce093",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_186",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Issue No. 27/2018",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 57.6,
+      "top": 643.9960787944026,
+      "x1": 155.42888,
+      "bottom": 652.58236
+    },
+    "parent_section": "Issue No. 27/2018",
+    "token_count": 3,
+    "content_hash": "f953040b95214d0919a104530c812168d140ac066c6273b3ecae9c3ccbbdbf72",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_187",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Page 11",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 518.02,
+      "top": 645.9160787944026,
+      "x1": 561.58888,
+      "bottom": 654.50236
+    },
+    "parent_section": "Page 11",
+    "token_count": 2,
+    "content_hash": "8e5019acba727cf8ec2bbd22d71d00b32cc09784d9ff88f51c9b7dce65c0551b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_188",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 42.254886627197266,
+      "top": 73.46795654296875,
+      "x1": 565.4474487304688,
+      "bottom": 658.6317596435547
+    },
+    "parent_section": "Page 11",
+    "token_count": 1,
+    "content_hash": "25ae65b62c2c5dc1a98d2c7d9cd013937b555753358a29ba381ac5eb145e9fdc",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_189",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 185.3,
+      "top": 709.02,
+      "x1": 430.738,
+      "bottom": 749.1
+    },
+    "parent_section": "Page 11",
+    "token_count": 6,
+    "content_hash": "1843c0948fe1e1acc6f116fe699339bbb578dcc50ab502cef81eef6b3269dc6c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_190",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 38.27383041381836,
+      "top": 662.4113159179688,
+      "x1": 160.87440490722656,
+      "bottom": 782.2794895172119
+    },
+    "parent_section": "Page 11",
+    "token_count": 1,
+    "content_hash": "804580ea9b637efc827d581d2ac5ee8662b04bb24c78e4d1f711de0018971c77",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_191",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fax:  +251 111 115470",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 14.543999999999983,
+      "x1": 149.0022936512,
+      "bottom": 25.583999999999946
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 5,
+    "content_hash": "af8e48743ab3fa88c3edb474d195661a32cf25b423c4eb43113a54129e99bbd5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_192",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 115131",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 27.984000000000037,
+      "x1": 149.27504,
+      "bottom": 39.024
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 3,
+    "content_hash": "16c41f2b20d6bca258c5175e176435cbbd37540db245e757eb1a321a36eab22a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_193",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "P.O.Box\u1361 1143",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 34.8371908396947,
+      "x1": 539.99420395,
+      "bottom": 46.05600000000004
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 2,
+    "content_hash": "1a2babc4d50c947abd688f96b44cce4760728d2c5e31dbdcaa20865f35b3f6b9",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_194",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 564226",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 41.42399999999998,
+      "x1": 149.27504,
+      "bottom": 52.46399999999994
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 3,
+    "content_hash": "6e3b84d8e10aca2d75a57a7f7e7ee13b778c5197ea187b3e008b2bbab7248251",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_195",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Website",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 51.60375903614454,
+      "x1": 476.38300000000004,
+      "bottom": 62.039999999999964
+    },
+    "parent_section": "Website",
+    "token_count": 1,
+    "content_hash": "e22bdd75f32f15d0167eb6094971037820ce7f32fa0d4280f1adc57c51c70750",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_196",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": ": www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 476.5,
+      "top": 51.157190839694636,
+      "x1": 569.272,
+      "bottom": 62.375999999999976
+    },
+    "parent_section": "Website",
+    "token_count": 2,
+    "content_hash": "66a6f93929318de11f9b59697a9a87c5a9717b257805ade37186353e003c5e00",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_197",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Tele: +251 111 568464",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 54.86400000000003,
+      "x1": 149.27504,
+      "bottom": 65.904
+    },
+    "parent_section": "Tele: +251 111 568464",
+    "token_count": 5,
+    "content_hash": "0d479b66c9ab78ac902ee99fcd45e51526cbf22b5a1247f97fc27e1ef0d53441",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_198",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 183.02,
+      "top": 30.3536385542169,
+      "x1": 373.67416000000003,
+      "bottom": 63.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 7,
+    "content_hash": "8ee9bcebc12ce94a376d66de61e8974363dab12e6727e5fb1fb69a0a18613e48",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_199",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "The average annual non-food inflation rate for the country stood at (15.8 %) in EFY2017 compared to (24.3 %) in EFY2016. Non-food inflation movement, in the past ten year is divided into two. Between 2005 and 2009 non- food inflation showed reduction and since then the rate demonstrate increasing trend until 2015. This is could be attached to Birr devaluation against USD, Russia-Ukraine War, and increase of international price of gasoline, as most of non-food items are imported or utilize imported raw materials. Relative easing of the non-food inflation for EFY2016 and 2017 is observed as a result of tight monetary policy in place to reduce bank credit.\n207 9107 9107 t107 9107 7107 1007 0107 6007 8007 2007 9007 5007",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 52.8,
+      "top": 106.34000000000003,
+      "x1": 561.4350400000001,
+      "bottom": 248.0
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 156,
+    "content_hash": "1d40737f2ef63fe96a69278535434c86747bad8874e4cc669681dccff5bb571b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_200",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "7.4\n8.0 8.0\n10.6\n12.0\n15.0\n15.8 15.8\n16.4 15.8\n24.3\n25.0\n33.8",
+    "chunk_type": "list",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 66.66666666666667,
+      "top": 342.6666666666667,
+      "x1": 542.0,
+      "bottom": 542.0
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 13,
+    "content_hash": "ba0b829588c4fe6d830558004c05da660e63358077424225ede1398aa51266dd",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_201",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fig 5: Average Annual Non-Food Inflation in Ethiopia since EFY2005 (Year-on-Year)",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 110.06,
+      "top": 601.3,
+      "x1": 484.94823999999994,
+      "bottom": 612.3399999999999
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 14,
+    "content_hash": "05534fe0c1e38e4c47e77988483fb964dd061981b4532e126345eaf60cde0407",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_202",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Issue No. 27/2018",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 57.6,
+      "top": 643.9960787944026,
+      "x1": 155.42888,
+      "bottom": 652.58236
+    },
+    "parent_section": "Issue No. 27/2018",
+    "token_count": 3,
+    "content_hash": "164db8dfdf912c038f71455e7de3b7f616ec7062721ee6f18c13c405501c4823",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_203",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Page 12",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 518.02,
+      "top": 645.9160787944026,
+      "x1": 561.58888,
+      "bottom": 654.50236
+    },
+    "parent_section": "Page 12",
+    "token_count": 2,
+    "content_hash": "a0fd4e63e7b7431b54413fd51a51299bcaced8d76218057e252d342c1a4db11e",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_204",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 42.14468765258789,
+      "top": 73.6063232421875,
+      "x1": 565.4065551757812,
+      "bottom": 660.6640014648438
+    },
+    "parent_section": "Page 12",
+    "token_count": 1,
+    "content_hash": "a5ef1283eba969633e0a28670356acaac963378e6a94ac387336d20f0e7f5fb9",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_205",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 185.3,
+      "top": 709.02,
+      "x1": 430.738,
+      "bottom": 749.1
+    },
+    "parent_section": "Page 12",
+    "token_count": 6,
+    "content_hash": "811020b6c6c24ddfdfbe2cae023267cdab6dbc20365e25961a000e0aab5f1cb6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_206",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 38.260623931884766,
+      "top": 663.2286376953125,
+      "x1": 160.89625549316406,
+      "bottom": 782.3637542724609
+    },
+    "parent_section": "Page 12",
+    "token_count": 1,
+    "content_hash": "303d82a570fa6a169f1d45266923fa291132305d3b7b83937bbf148c42019ea6",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_207",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Fax:  +251 111 115470",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 14.543999999999983,
+      "x1": 149.0022936512,
+      "bottom": 25.583999999999946
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 5,
+    "content_hash": "3f8f51908c68ade228a87d5f38c9d00f5495a88481502e6bb28c775347ffd14e",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_208",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 115131",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 27.984000000000037,
+      "x1": 149.27504,
+      "bottom": 39.024
+    },
+    "parent_section": "Fax:  +251 111 115470",
+    "token_count": 3,
+    "content_hash": "88d49d83a3b6c9a1f31b661728330f3c797a636efbb26fa298fd1879a467e4bf",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_209",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "P.O.Box\u1361 1143",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 34.8371908396947,
+      "x1": 539.99420395,
+      "bottom": 46.05600000000004
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 2,
+    "content_hash": "d1c52cbd43c2fc9b3b4a125d68bccad913994f66e31fef4208f9454d2fa296b0",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_210",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "+251 111 564226",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 41.42399999999998,
+      "x1": 149.27504,
+      "bottom": 52.46399999999994
+    },
+    "parent_section": "P.O.Box\u1361 1143",
+    "token_count": 3,
+    "content_hash": "6fba33284e9e5aff01c7360d211c21e2b57ca536451a55427d2377784c4f88a6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_211",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Website",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 383.11,
+      "top": 51.60375903614454,
+      "x1": 476.38300000000004,
+      "bottom": 62.039999999999964
+    },
+    "parent_section": "Website",
+    "token_count": 1,
+    "content_hash": "0fe0c5986c23de03595e1b56ddfd72c659f9617d53999e9c871601e1445f353b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_212",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": ": www.ess.gov.et",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 476.5,
+      "top": 51.157190839694636,
+      "x1": 569.272,
+      "bottom": 62.375999999999976
+    },
+    "parent_section": "Website",
+    "token_count": 2,
+    "content_hash": "04b08dfa8b749164e04f691991bc140c7faf2182e8e35e9b2e45fbf2ae9d39e3",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_213",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Tele: +251 111 568464",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 46.32,
+      "top": 54.86400000000003,
+      "x1": 149.27504,
+      "bottom": 65.904
+    },
+    "parent_section": "Tele: +251 111 568464",
+    "token_count": 5,
+    "content_hash": "a2e1cfb47a17b00e602a827e5705184223277f7980bb3efb0b8a682a81d53323",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_214",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 183.02,
+      "top": 30.3536385542169,
+      "x1": 373.67416000000003,
+      "bottom": 63.45024000000001
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 7,
+    "content_hash": "cc344c77160558d632538e55e0a061ff74cebf37b4ed8dd218ce933b5dae66c7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_215",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "\uf0b7 Index reference period (December EFY2009=100): The period with which all other periods are compared (the period for which the value of the CPI is set at 100).\n\uf0b7 Month-to-Month  percentage  change: The  monthly  percentage change is the change in the index of the relevant month  compared  with  the  index  of  the  previous  month expressed as a percentage.\nYou can visit us on the Website at: http://www.ess.gov.et/\n\uf0b7 Year-on-Year  percentage  change: The  Yearly  percentage change is the change in the index of the relevant month of the  current  year  compared  with  the  index  of  the  same month in the previous year expressed as a percentage.\n\uf0b7 Non-food  Inflation :  inflation  which  covers  all  non-food items within the scope of the inflation.\nPostal address : 1143\n\uf0b7 Food Inflation : inflation which covers all food items within the scope of the inflation.\nEmail: alemteferig@gmail.com alemayehu.teferi@ess.gov.et\nTelephone number +251 111 568464\n\uf0b7 General Inflation : The highest level of aggregation of inflation which covers all the items within the scope of the inflation.",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 46.56,
+      "top": 224.21000000000004,
+      "x1": 535.8688000000002,
+      "bottom": 551.14
+    },
+    "parent_section": "YOUR RELIABLE DATA SOURCE \u1270\u12d3\u121b\u1292 \u12e8\u1218\u1228\u1303",
+    "token_count": 217,
+    "content_hash": "839591869b41e252876bd3bf0a736663fc57a7f6b4d0147758fbd49aa2507955",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_216",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "5.  GLOSSARY",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 249.65,
+      "top": 610.75,
+      "x1": 336.32,
+      "bottom": 625.75
+    },
+    "parent_section": "5.  GLOSSARY",
+    "token_count": 2,
+    "content_hash": "0af6a2727b36ab0dba30933570dd896ab7b6000f2c5a9bf6e0d81ffee827c6ab",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_217",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Enquiries",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 80.184,
+      "top": 619.03,
+      "x1": 141.29,
+      "bottom": 634.03
+    },
+    "parent_section": "Enquiries",
+    "token_count": 1,
+    "content_hash": "4461d1a7a7b1aa1b9c8b7c950d30651e12115dd77b86cf6ed67b07f1b69701ef",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_218",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Page 13",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 507.34,
+      "top": 645.9160787944026,
+      "x1": 550.90888,
+      "bottom": 654.50236
+    },
+    "parent_section": "Page 13",
+    "token_count": 2,
+    "content_hash": "08d5a5d26df4cfa44f28175d2229081de835d6515ba7bc0fafb6a192ee194750",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_219",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "Issue No. 27/2018",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 224.57,
+      "top": 649.2760787944026,
+      "x1": 322.37888000000004,
+      "bottom": 657.86236
+    },
+    "parent_section": "Issue No. 27/2018",
+    "token_count": 3,
+    "content_hash": "01b616d3aa66a80d55f2569310d2cc6ce992746172a8b0a59ab812de4cd79cd6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_220",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "ETHIOPIAN STATISTICAL SERVICE Statistical Bulletin",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 185.3,
+      "top": 709.02,
+      "x1": 430.738,
+      "bottom": 749.1
+    },
+    "parent_section": "Issue No. 27/2018",
+    "token_count": 6,
+    "content_hash": "ca963172a441e9587fd9bc3e5c62a8a3d83481425f7e85f02fb3bb6ca2a175bd",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c_chk_221",
+    "document_id": "8f12df911626015b63df232050460147f25efdf8b18ad62a2037e3c0335e1a7c",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 38.210601806640625,
+      "top": 661.8674926757812,
+      "x1": 160.73228454589844,
+      "bottom": 781.8143367767334
+    },
+    "parent_section": "Issue No. 27/2018",
+    "token_count": 1,
+    "content_hash": "45162d11a1f024ee3df90294df39a4aab60ccbbf610165fe88846d4630cb773d",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  }
+]

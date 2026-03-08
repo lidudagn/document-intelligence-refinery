@@ -1,0 +1,1 @@
+{"model": "openrouter/google/gemini-2.0-flash-001", "response": "{\n  \"relevant_sections\": [\n    \"Executive summary\",\n    \"1. Introduction\",\n    \"3.3 Data\"\n  ]\n}"}

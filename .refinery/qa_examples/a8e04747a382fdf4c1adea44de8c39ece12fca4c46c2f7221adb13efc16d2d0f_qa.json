@@ -1,0 +1,270 @@
+{
+  "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+  "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+  "qa_pairs": [
+    {
+      "answer": "The document is Ethio Telecom's IFRS (International Financial Reporting Standards) financial statements for the year ended 30 June 2021 [Source 3, page 3, section: Q], [Source 6, page 2, section: unknown]. It includes the statement of financial position [Source 3, page 3, section: Q] and the statement of profit or loss and other comprehensive income [Source 6, page 2, section: unknown].\n",
+      "query_text": "What is the overall summary or primary objective of this document?",
+      "citations": [
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 4,
+          "bbox": [
+            89.1,
+            411.1,
+            542.2,
+            731.8
+          ],
+          "content_hash": "c95c3027dbf83744cbd670a1e5da7a3aa9cdca4a436af989d28f15f2ab0bc966",
+          "extracted_text": " | Notes | 30June2021 Birr'ooo | 30June 2020 Birr'ooo\nCash flowsfrom operatingactivities |  |  | \nCashgeneratedfromoperations | 26 | 32,282,876 | 27,302,463\nInterestincomereceived |  | 205,028 | 321,280\nInterest expense paid | 18 | (606,360) | (972,840)\nIncome taxpaid | 10 | (8,841,181) | (8,386,755)\nArrear taxpaid |  | (9,990,128) | \nNetcash(outflow)/inflowfromoperatingactivities |  | 13,050,235 | 18,264,148\nCashflowsfrominvestingactivities |  |  | \nSaleofplacementswithfinancialinstitutions | 1"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 3,
+          "bbox": [
+            85.0,
+            232.5,
+            465.6,
+            735.4
+          ],
+          "content_hash": "8d30a54c4e72185960fb74988c10cfec6b2fbd6d3ecdcd9e9ddbc75c73051355",
+          "extracted_text": " | Notes | 30 June2021 | \nASSETS |  | Birr'ooo | Birr'000\nNoncurrent |  |  | \nassets |  |  | \nProperty,plantandequipment Right of use assets | 11 | 33,286,458 | 35,705,951\nIntangible assets | 12 | 985,374 | 749,256\nOtherassets | 13 | 1,354,309 | 1,953,127\nOtherfinancialassetsatamortisedcost | 14(a) | 6,846 | 25,298\nNotesreceivableatamortisedcost | 14(c) | 7,127,568 | 7,205,098\nDeferred taxAssets | 16(a) | 497,183 | 638,743\n | 10(d) | 1,990,697 | 1,085,423\n |  | 45,248,435 | 47,362,896\nCurrentass"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 3,
+          "bbox": [
+            96.0,
+            750.0,
+            508.7,
+            775.1
+          ],
+          "content_hash": "4c0d2b4641b27fd8f99a8dc28a41a90232c259b34c48dae296efb84292864e08",
+          "extracted_text": "011154123:\n011886129\nEthioTelecom IFRSfinancialstatements Fortheyearended3oJune2021 Statementoffinancialposition"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 2,
+          "bbox": [
+            88.4,
+            370.1,
+            548.1,
+            726.1
+          ],
+          "content_hash": "9df092e449918a2194a161ebd1ddc3ac00bbf3596661d2c86ea4606469897aed",
+          "extracted_text": " | Notes | 30June2021 Birr'ooo | 30 June 2020 Birr'ooo\nRevenuefromcontractswithcustomers |  |  | \nDirectcosts | 5 | 55,499,196 | 47,628,412\nOperatingexpenses | 6(a) | (6,593,213) | (4,492,433)\nNetimpairmentlosses onfinancial and contract assets | 6(b) | (19,415,473) | (15,271,623)\nOtherincome(expense) | 14,16,17 | (713,997) | (89,465)\n | 8 | 73,273 | 848,660\nEarningsbeforeinterest,taxes,depreciation and amortization(EBITDA) |  |  | \n |  | 28,849,786 | 28,623,551\nDepreciationof property,plantande"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 3,
+          "bbox": [
+            82.0,
+            211.7,
+            325.2,
+            235.5
+          ],
+          "content_hash": "bcf62ee0d63928ca244e6314b1e0da500b0e2c206558f2edbb8967eeb8bb23ad",
+          "extracted_text": "TheNotesonpages15to56arean integralpart ofthesefinancialstatements. Thefinancialstatementsonpages11to56isapprovedon07March2022andissignedby:"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 2,
+          "bbox": [
+            97.2,
+            763.6,
+            500.2,
+            784.0
+          ],
+          "content_hash": "8316bb73205e96549e1fdbbdd305ac3c96f4f2936031464bdf5b230aa5db9656",
+          "extracted_text": "0111541235\nEthioTelecom IFRSfinancialstatements Fortheyearended30June 2021 Statementofprofitor loss andothercomprehensiveincome\n011888129"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.812,
+      "retrieval_method": "hybrid_search",
+      "evidence_bundle_hash": "c2b7f0074493d39820d19285a3b2315a2f7eba31b286052a0799de66103b6340"
+    },
+    {
+      "answer": "Key financial or numerical highlights from the provided evidence include:\n\n*   **Cash generated from operations:** Birr'ooo 32,282,876 in 2021 and Birr'ooo 27,302,463 in 2020 [Source 1, page 4].\n*   **Net cash (outflow)/inflow from operating activities:** Birr'ooo 13,050,235 in 2021 and Birr'ooo 18,264,148 in 2020 [Source 1, page 4].\n*   **Revenue from contracts with customers:** Birr'ooo 55,499,196 in 2021 and Birr'ooo 47,628,412 in 2020 [Source 3, page 2].\n*   **Net impairment losses on financial and contract assets:** (19,415,473) in 2021 and (15,271,623) in 2020 [SQL Fact: Netimpairmentlosses onfinancial and contract assets]\n*   **Operating profit:** Birr'ooo 22,496,747 in 2021 and Birr'ooo 22,141,149 in 2020 [Source 3, page 2].\n*   **Profit/(loss) before income tax:** Birr'ooo 12,527,758 in 2021 and Birr'ooo 14,518,340 in 2020 [Source 3, page 2].\n*   **Total Assets:** Birr'ooo 77,218,285 in 2021 and Birr'ooo 78,878,803 in 2020 [Source 2, page 3].\n",
+      "query_text": "What are the key financial or numerical highlights mentioned?",
+      "citations": [
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 4,
+          "bbox": [
+            89.1,
+            411.1,
+            542.2,
+            731.8
+          ],
+          "content_hash": "c95c3027dbf83744cbd670a1e5da7a3aa9cdca4a436af989d28f15f2ab0bc966",
+          "extracted_text": " | Notes | 30June2021 Birr'ooo | 30June 2020 Birr'ooo\nCash flowsfrom operatingactivities |  |  | \nCashgeneratedfromoperations | 26 | 32,282,876 | 27,302,463\nInterestincomereceived |  | 205,028 | 321,280\nInterest expense paid | 18 | (606,360) | (972,840)\nIncome taxpaid | 10 | (8,841,181) | (8,386,755)\nArrear taxpaid |  | (9,990,128) | \nNetcash(outflow)/inflowfromoperatingactivities |  | 13,050,235 | 18,264,148\nCashflowsfrominvestingactivities |  |  | \nSaleofplacementswithfinancialinstitutions | 1"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 3,
+          "bbox": [
+            85.0,
+            232.5,
+            465.6,
+            735.4
+          ],
+          "content_hash": "8d30a54c4e72185960fb74988c10cfec6b2fbd6d3ecdcd9e9ddbc75c73051355",
+          "extracted_text": " | Notes | 30 June2021 | \nASSETS |  | Birr'ooo | Birr'000\nNoncurrent |  |  | \nassets |  |  | \nProperty,plantandequipment Right of use assets | 11 | 33,286,458 | 35,705,951\nIntangible assets | 12 | 985,374 | 749,256\nOtherassets | 13 | 1,354,309 | 1,953,127\nOtherfinancialassetsatamortisedcost | 14(a) | 6,846 | 25,298\nNotesreceivableatamortisedcost | 14(c) | 7,127,568 | 7,205,098\nDeferred taxAssets | 16(a) | 497,183 | 638,743\n | 10(d) | 1,990,697 | 1,085,423\n |  | 45,248,435 | 47,362,896\nCurrentass"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 2,
+          "bbox": [
+            88.4,
+            370.1,
+            548.1,
+            726.1
+          ],
+          "content_hash": "9df092e449918a2194a161ebd1ddc3ac00bbf3596661d2c86ea4606469897aed",
+          "extracted_text": " | Notes | 30June2021 Birr'ooo | 30 June 2020 Birr'ooo\nRevenuefromcontractswithcustomers |  |  | \nDirectcosts | 5 | 55,499,196 | 47,628,412\nOperatingexpenses | 6(a) | (6,593,213) | (4,492,433)\nNetimpairmentlosses onfinancial and contract assets | 6(b) | (19,415,473) | (15,271,623)\nOtherincome(expense) | 14,16,17 | (713,997) | (89,465)\n | 8 | 73,273 | 848,660\nEarningsbeforeinterest,taxes,depreciation and amortization(EBITDA) |  |  | \n |  | 28,849,786 | 28,623,551\nDepreciationof property,plantande"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 3,
+          "bbox": [
+            82.0,
+            211.7,
+            325.2,
+            235.5
+          ],
+          "content_hash": "bcf62ee0d63928ca244e6314b1e0da500b0e2c206558f2edbb8967eeb8bb23ad",
+          "extracted_text": "TheNotesonpages15to56arean integralpart ofthesefinancialstatements. Thefinancialstatementsonpages11to56isapprovedon07March2022andissignedby:"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 3,
+          "bbox": [
+            96.0,
+            750.0,
+            508.7,
+            775.1
+          ],
+          "content_hash": "4c0d2b4641b27fd8f99a8dc28a41a90232c259b34c48dae296efb84292864e08",
+          "extracted_text": "011154123:\n011886129\nEthioTelecom IFRSfinancialstatements Fortheyearended3oJune2021 Statementoffinancialposition"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 2,
+          "bbox": [
+            97.2,
+            763.6,
+            500.2,
+            784.0
+          ],
+          "content_hash": "8316bb73205e96549e1fdbbdd305ac3c96f4f2936031464bdf5b230aa5db9656",
+          "extracted_text": "0111541235\nEthioTelecom IFRSfinancialstatements Fortheyearended30June 2021 Statementofprofitor loss andothercomprehensiveincome\n011888129"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.722,
+      "retrieval_method": "hybrid_search+structured_query",
+      "evidence_bundle_hash": "197ec997e00e877f3682827a1f4eb958b77025517fbdbb24b9c5a29fe2ce58b1"
+    },
+    {
+      "answer": "Information not found in the document.\n",
+      "query_text": "What are the main risks, challenges, or recommendations identified?",
+      "citations": [
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 2,
+          "bbox": [
+            97.2,
+            763.6,
+            500.2,
+            784.0
+          ],
+          "content_hash": "8316bb73205e96549e1fdbbdd305ac3c96f4f2936031464bdf5b230aa5db9656",
+          "extracted_text": "0111541235\nEthioTelecom IFRSfinancialstatements Fortheyearended30June 2021 Statementofprofitor loss andothercomprehensiveincome\n011888129"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 4,
+          "bbox": [
+            89.1,
+            411.1,
+            542.2,
+            731.8
+          ],
+          "content_hash": "c95c3027dbf83744cbd670a1e5da7a3aa9cdca4a436af989d28f15f2ab0bc966",
+          "extracted_text": " | Notes | 30June2021 Birr'ooo | 30June 2020 Birr'ooo\nCash flowsfrom operatingactivities |  |  | \nCashgeneratedfromoperations | 26 | 32,282,876 | 27,302,463\nInterestincomereceived |  | 205,028 | 321,280\nInterest expense paid | 18 | (606,360) | (972,840)\nIncome taxpaid | 10 | (8,841,181) | (8,386,755)\nArrear taxpaid |  | (9,990,128) | \nNetcash(outflow)/inflowfromoperatingactivities |  | 13,050,235 | 18,264,148\nCashflowsfrominvestingactivities |  |  | \nSaleofplacementswithfinancialinstitutions | 1"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 3,
+          "bbox": [
+            81.6,
+            159.1,
+            261.7,
+            168.4
+          ],
+          "content_hash": "1488288ffb121a928e29731881adf5c76f3dd6e854254c22ce5fc17e31655cf9",
+          "extracted_text": "Frehig/or Tararu m\nW/tFrehiwotTamiru ChiefExecutiveOfficer 07March2022"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 4,
+          "bbox": [
+            93.0,
+            764.0,
+            469.8,
+            788.2
+          ],
+          "content_hash": "8692747121dd9ecdd1ead0437b59b08d0ded9e04c2bf5528f9149eeb739ed24e",
+          "extracted_text": "0111541235\nEthioTelecom IFRSfinancialstatements Fortheyearended3oJune2021 Statementofcashflous"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 3,
+          "bbox": [
+            439.3,
+            770.4,
+            443.1,
+            775.5
+          ],
+          "content_hash": "4cd6fa6c4a1650a76ac45157dbaa7e310e118f1165b4652c1ad71218258db521",
+          "extracted_text": "Q"
+        },
+        {
+          "document_id": "a8e04747a382fdf4c1adea44de8c39ece12fca4c46c2f7221adb13efc16d2d0f",
+          "document_name": "2021_Audited_Financial_Statement_Report.pdf",
+          "page_number": 2,
+          "bbox": [
+            251.2,
+            220.8,
+            366.0,
+            333.6
+          ],
+          "content_hash": "e8bd72c2b77783e32fddeb6e55a9e5e3cc26442f9bbe77442858341effafce14",
+          "extracted_text": "[Figure]"
+        }
+      ],
+      "is_verifiable": true,
+      "confidence_level": 0.311,
+      "retrieval_method": "hybrid_search",
+      "evidence_bundle_hash": "f6d92eab4c1096cfbf49f58bccbb01468dac21bd686666823f3ae4ed82f10e4f"
+    }
+  ]
+}

@@ -29,9 +29,20 @@ class BudgetGuard:
     Call reset() before starting a new document.
     """
 
-    def __init__(self, max_usd_per_doc: float = 0.10):
+    def __init__(self, max_usd_per_doc: float = 0.10, warning_threshold: float = 0.80):
         self.max_usd = max_usd_per_doc
+        self.warning_threshold = warning_threshold
         self.current_spend = 0.0
+
+    @property
+    def usage_ratio(self) -> float:
+        """Return current spend as a fraction of the budget (0.0 to 1.0+)."""
+        return self.current_spend / self.max_usd if self.max_usd > 0 else 1.0
+
+    @property
+    def is_budget_tight(self) -> bool:
+        """True when spend exceeds the warning threshold (default 80%)."""
+        return self.usage_ratio >= self.warning_threshold
 
     def check_and_add(self, usd_cost: float):
         """Add cost and raise if budget exceeded."""
@@ -140,11 +151,15 @@ class VisionExtractor(BaseExtractor):
 
         self.client = OpenAI(api_key=api_key, base_url=base_url) if api_key else None
 
-    def _render_page_to_base64(self, pdf_path: str, page_num: int) -> str:
-        """Render a specific PDF page as a PNG image and return as base64."""
+    def _render_page_to_base64(self, pdf_path: str, page_num: int, zoom: float = 2.0) -> str:
+        """Render a specific PDF page as a PNG image and return as base64.
+        
+        Args:
+            zoom: Render scale factor. 2.0 = high quality, 1.0 = lower quality
+                  but ~50% fewer image tokens (and thus ~50% cheaper).
+        """
         doc = fitz.open(pdf_path)
         page = doc.load_page(page_num)
-        zoom = 2.0
         mat = fitz.Matrix(zoom, zoom)
         pix = page.get_pixmap(matrix=mat, alpha=False)
         img_bytes = pix.tobytes("png")
@@ -237,7 +252,18 @@ class VisionExtractor(BaseExtractor):
         warnings: List[str] = []
 
         try:
-            b64_img = self._render_page_to_base64(pdf_path, page_num)
+            # Adaptive resolution: drop to 1x zoom when budget is running low
+            if self.budget_guard.is_budget_tight:
+                zoom = 1.0
+                logger.info(
+                    f"  Budget at {self.budget_guard.usage_ratio:.0%} "
+                    f"(${self.budget_guard.current_spend:.4f}/${self.budget_guard.max_usd:.2f}) "
+                    f"→ switching to low-res mode (zoom=1.0) to conserve budget"
+                )
+            else:
+                zoom = 2.0
+
+            b64_img = self._render_page_to_base64(pdf_path, page_num, zoom=zoom)
 
             # Real API Call
             vlm_extraction, cost = self._call_vlm_api(b64_img)

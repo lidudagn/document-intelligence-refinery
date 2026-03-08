@@ -1,0 +1,3166 @@
+[
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_0",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "ETHIOPIANINVESTMENTCOMMISSION",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 36.28494771321615,
+      "top": 37.12249755859375,
+      "x1": 273.7379150390625,
+      "bottom": 49.35491943359375
+    },
+    "parent_section": "ETHIOPIANINVESTMENTCOMMISSION",
+    "token_count": 1,
+    "content_hash": "2235db11460841f7b29f8c6cfbf498c6a7c6b88f3a5bc7475cc5790848e5bfad",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_1",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 36.636749267578125,
+      "top": 16.25823974609375,
+      "x1": 275.3550720214844,
+      "bottom": 124.0142822265625
+    },
+    "parent_section": "ETHIOPIANINVESTMENTCOMMISSION",
+    "token_count": 1,
+    "content_hash": "51a01feebe549dbb1243abe415822607aef7a1bae724b60161247242b642d8e5",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_2",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "EIC",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 83.77553812662761,
+      "top": 55.73708089192712,
+      "x1": 279.0739339192708,
+      "bottom": 128.59987386067706
+    },
+    "parent_section": "EIC",
+    "token_count": 1,
+    "content_hash": "56f84cc289027bb6f98f169afa0b8becda03c4df09258288b7e155e69a853167",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_3",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Ethiopia",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 96.552,
+      "top": 427.8938217353894,
+      "x1": 309.67668000000003,
+      "bottom": 476.3494695585938
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "4ca9e1ef304cdc3c62590b53c770f0ec805a3b35ca685d7330389c5d61489061",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_4",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Attractive investment opportunities Enablers & support Emerging manufacturing hub in Africa",
+    "chunk_type": "text",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 329.52,
+      "top": 329.1367657353894,
+      "x1": 833.1360000000002,
+      "bottom": 477.00487755859376
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 14,
+    "content_hash": "b38af1bb4426ab521849126df93912f01e62789a46be6ef69e1e47fd9ce5498f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_5",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      2
+    ],
+    "bounding_box": {
+      "x0": 0.0,
+      "top": 171.35787963867188,
+      "x1": 1058.4609375,
+      "bottom": 539.8225479125977
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "158c60419e811b97a4f375f51d8983bc06fad8a19ed65f390f8c1979ab46efff",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_6",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 71.4742431640625,
+      "top": 48.191650390625,
+      "x1": 130.56036376953125,
+      "bottom": 111.10025024414062
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "7ef163029fcdf65c4949071e9a1796e47cbda400186f6481508fce4e3dfba29e",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_7",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Learn Ethiopia's effort in developing the manufacturing sector in general\nPitch potential manufacturing opportunities in Ethiopia & enablers",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 152.3,
+      "top": 70.72667689561035,
+      "x1": 508.37072000000006,
+      "bottom": 172.75467689561037
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 23,
+    "content_hash": "96b495b238b8b3f830dff6281b835816e288affac9bec86514fe80de477e233e",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_8",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 62.589019775390625,
+      "top": 146.3690185546875,
+      "x1": 141.90672302246094,
+      "bottom": 224.02764892578125
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "96f887d4376250a48f1fa49a472364eeadb47fe0a64b9a10c5a49f5919a681b2",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_9",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Link up and network with the international community for soliciting support",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 152.3,
+      "top": 274.7746768956104,
+      "x1": 525.6652400000002,
+      "bottom": 314.3491175585938
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 14,
+    "content_hash": "c29746028072a885d75edac311db187b721aad3d6d299657c86280ab32b54cd5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_10",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 79.27655029296875,
+      "top": 280.80316162109375,
+      "x1": 131.57620239257812,
+      "bottom": 320.5536193847656
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "91bf4f2fad46d26b37861ae29a1375c7f2a0136db571438aab59e2bdf56ad5ae",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_11",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "\u4eba\nCoordination and collaboration to attract FDIs  to Ethiopia",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 77.0,
+      "top": 274.89333089192706,
+      "x1": 476.79448,
+      "bottom": 371.9906226193673
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 11,
+    "content_hash": "c4a555b9e5501c6a96b3559af481ba53c363f5a71a42c8ee802b797caf78aeb0",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_12",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 60.20663833618164,
+      "top": 353.6746520996094,
+      "x1": 139.24954223632812,
+      "bottom": 432.92120361328125
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "9503f1389ec9c133e6e112fb278df7737162d2401f7d67f2016642afb37f3c2d",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_13",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Our Investment Promotion Objectives are:",
+    "chunk_type": "text",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 56.808,
+      "top": 464.02348449782033,
+      "x1": 438.66072000000014,
+      "bottom": 527.3251175585938
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 6,
+    "content_hash": "13eed93814d161384f12f6304a284bb052fb1cbaddcb2c6023732c99904d3d01",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_14",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      3
+    ],
+    "bounding_box": {
+      "x0": 538.5637817382812,
+      "top": 6.482421875,
+      "x1": 1057.9224853515625,
+      "bottom": 595.5599975585938
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "27cbae30e2c7556c5ba26ac0348bc4b9f9291afd3774e4904cdb1d3bef9e4046",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_15",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "3\nGrowing & dynamic Economy, access to East African market\nOpportunities to invest in high value pharmaceutical sector\nBenefit based on tailored enabling environment including specialized parks\n\u8272",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 126.6,
+      "top": 20.63468838732308,
+      "x1": 978.72576,
+      "bottom": 245.89333089192712
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 34,
+    "content_hash": "6aabae99fc662347edce2c0a899ff57ee9b7cac69503b1d2411473136c4f35d6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_16",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 457.48974609375,
+      "top": 260.6673278808594,
+      "x1": 629.28466796875,
+      "bottom": 378.50611877441406
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "ff55c07982abf6450deaceb65f39e957aec6f8113b66ed3770c8ba072a38ba2b",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_17",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 768.450927734375,
+      "top": 247.94061279296875,
+      "x1": 929.7529296875,
+      "bottom": 394.0835723876953
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "b15f878c48cdb90e34379dfc1441d7f3b9a47577b002108406b3b8ba23c77174",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_18",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "\u76ee\u6a02",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 770.3333333333334,
+      "top": 344.55999755859375,
+      "x1": 892.3333333333334,
+      "bottom": 393.8933308919271
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "f9b34ab05443083a09f7175158b7fce4ff4d442744229fbe9070bb03f930129f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_19",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 46.533050537109375,
+      "top": 32.9954833984375,
+      "x1": 406.1413879394531,
+      "bottom": 422.3881530761719
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "8ef84e3f190bc912540673b6ae34052224ca14a427c33503dbd74447b9c99344",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_20",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Investment - Why do business in Ethiopia?",
+    "chunk_type": "text",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 57.408,
+      "top": 477.80914239837284,
+      "x1": 621.6039520000003,
+      "bottom": 508.2903495585938
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 9,
+    "content_hash": "a3ffa297f2feab318074d98db50bcd06f38b6387353c5b0a10b087d43e8dc8e5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_21",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      4
+    ],
+    "bounding_box": {
+      "x0": 14.606060028076172,
+      "top": 522.5870132446289,
+      "x1": 87.87557220458984,
+      "bottom": 580.9828109741211
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "182e11bf8dfd9a1868f921c384a5ab0850d3055e8d9f9e0b8c6d6e6fecf53e02",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_22",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Member of preferential trade agreements and bilateral investment treaties - COMESA, AGOA, etc.",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 513.48,
+      "top": 66.52667689561042,
+      "x1": 1024.1334000000002,
+      "bottom": 108.50111755859382
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 16,
+    "content_hash": "bec5c5a32e603b694ee9e81d519e1b1cbca4c3dff58bc4e720cedcce2f3e52e3",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_23",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 440.28009033203125,
+      "top": 61.0323486328125,
+      "x1": 491.2762451171875,
+      "bottom": 113.81069946289062
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "547d164794ac584773f6d74fa9c5e2a33be87e7392ab56fdd75e91fbdbeb0ed2",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_24",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 439.2548828125,
+      "top": 155.28173828125,
+      "x1": 493.0203552246094,
+      "bottom": 179.81301879882812
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "ffdcb532638d49fbcacab7a2780cfe2aeba40f40d5fe937b3b75bc9a8feda56a",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_25",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Dedicated leadership with a vision to become a manufacturing hub in Africa by 2025.",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 513.48,
+      "top": 152.49467689561038,
+      "x1": 950.0589199999998,
+      "bottom": 194.46911755859378
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 18,
+    "content_hash": "03ff49865c59e351416f9d2b3d04224ed5812824c1fa6a3b3def3a1e99d813d6",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_26",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 441.72509765625,
+      "top": 268.2822265625,
+      "x1": 490.65606689453125,
+      "bottom": 290.7845153808594
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "9e9a2403b3b27383d3bf9fd7b3b1d3a3578e249fbf534047acdbeba0f4cb6b2f",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_27",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Productive labor force with more than 60% of its population between the ages of 15 - 65.\nEthiopia has a clear vision for industrialization that builds off of its rapid growth",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 50.304,
+      "top": 259.8706226193673,
+      "x1": 939.6573999999996,
+      "bottom": 301.8491175585938
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 40,
+    "content_hash": "a063416e7d48d3bcdd09ddc45b7ee4d778c4c2f99f26dab76aac2216c87d5d9e",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_28",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 441.53863525390625,
+      "top": 361.2951354980469,
+      "x1": 491.40966796875,
+      "bottom": 410.3411102294922
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "234f4ab71c7d181ce3feeebb3be8bccdfc4afca361eab9575bc5b784aa3e5c21",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_29",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "One of the top destinations for foreign direct investment standing 5 th in Africa.\nOne of the fastest growing economies with 9.68% average growth over the past 10 years.",
+    "chunk_type": "text",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 506.74,
+      "top": 367.2246768956104,
+      "x1": 1032.17576,
+      "bottom": 474.5946768956104
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 37,
+    "content_hash": "e2384736976e9d8489eacd71728808b227f9a6b11e2d718ebb170daf419e75ef",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_30",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 441.20135498046875,
+      "top": 466.9464874267578,
+      "x1": 493.0402526855469,
+      "bottom": 518.196174621582
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "489f97388e0a4a3a3f81b50638e6df39d9b5c7478efb00279ca2cb4753d1c61e",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_31",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      5
+    ],
+    "bounding_box": {
+      "x0": 14.756312370300293,
+      "top": 522.2823867797852,
+      "x1": 87.82953643798828,
+      "bottom": 581.2906713485718
+    },
+    "parent_section": "Ethiopia",
+    "token_count": 1,
+    "content_hash": "318edee9b8116f054e9954b5a1340c94d8b28d6a7900beca4eabb17fff42e017",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_32",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Floriculture",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 406.7,
+      "top": 30.022676895610402,
+      "x1": 516.83336,
+      "bottom": 47.9971175585938
+    },
+    "parent_section": "Floriculture",
+    "token_count": 1,
+    "content_hash": "da0141e7abd70876c2a4796b455885926951ce3b1c1a876ffd82fa7c8475f00a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_33",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Leather",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 576.46,
+      "top": 38.9506768956104,
+      "x1": 648.9046000000002,
+      "bottom": 56.9251175585938
+    },
+    "parent_section": "Leather",
+    "token_count": 1,
+    "content_hash": "b7817d6b1073d47fcd46d2882fe7715d05040bc303c3472d676d928c870dd247",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_34",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Textile",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 729.22,
+      "top": 136.03467689561035,
+      "x1": 791.2237600000001,
+      "bottom": 154.0091175585938
+    },
+    "parent_section": "Textile",
+    "token_count": 1,
+    "content_hash": "ac55a361ec8dd24984fc79265d00e20ab925d85984a7d34e17a7238c5b52e5c5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_35",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Tourism",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 317.86,
+      "top": 167.4246768956104,
+      "x1": 395.47492000000005,
+      "bottom": 185.39911755859384
+    },
+    "parent_section": "Tourism",
+    "token_count": 1,
+    "content_hash": "cb89fbebd647abe7babd421ed1a6ccef3f5c7ca7729c8e5f056652a0837569bb",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_36",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "X",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 720.6666666666666,
+      "top": 216.89333089192706,
+      "x1": 754.0,
+      "bottom": 260.55999755859375
+    },
+    "parent_section": "X",
+    "token_count": 1,
+    "content_hash": "d58e4620a8d26f1cc0c8d825b2502c36567cb9a060bfd78bcf7fb1e6daf4630c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_37",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Agro-processing",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 656.06,
+      "top": 312.8346768956104,
+      "x1": 816.5334800000003,
+      "bottom": 330.8091175585938
+    },
+    "parent_section": "X",
+    "token_count": 1,
+    "content_hash": "bf938078002374a5562dc5b7e0c4802e096710425df795d8b7a62aabd9a10070",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_38",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Energy",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 316.8,
+      "top": 322.19467689561037,
+      "x1": 384.73560000000003,
+      "bottom": 340.16911755859377
+    },
+    "parent_section": "Energy",
+    "token_count": 1,
+    "content_hash": "c84e10dadac48e64e66129fd1a4e1adcba4d85b6a8041d394b5f5e5d74e138ab",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_39",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "\u7167",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 685.3333333333334,
+      "top": 361.22666422526044,
+      "x1": 711.0,
+      "bottom": 381.89333089192706
+    },
+    "parent_section": "Energy",
+    "token_count": 1,
+    "content_hash": "11175b22c8e13a236d9d2d6c489ec89b704560753e9db4888078a282e4a00297",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_40",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Pharmaceutical",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 446.69,
+      "top": 371.20062261936727,
+      "x1": 594.842576,
+      "bottom": 389.19658955859376
+    },
+    "parent_section": "Pharmaceutical",
+    "token_count": 1,
+    "content_hash": "620e7164fdfa6bb1c736f88f67350e5cb4e84059131490f82b3de7ff540021bf",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_41",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "t",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 320.0,
+      "top": 353.55999755859375,
+      "x1": 376.6666666666667,
+      "bottom": 401.22666422526044
+    },
+    "parent_section": "Pharmaceutical",
+    "token_count": 1,
+    "content_hash": "fd69761dbb8e25b6362ddc34448478d08422aec49a025260ac02bcfe3d968a96",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_42",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Focus Area",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 886.7,
+      "top": 481.9025058458866,
+      "x1": 1006.1060000000002,
+      "bottom": 500.7379975585938
+    },
+    "parent_section": "Focus Area",
+    "token_count": 2,
+    "content_hash": "01083ecfb6be33809e058546616c8c4488a2a1e43cf9fa402b41707af1928255",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_43",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 290.771484375,
+      "top": 33.26336669921875,
+      "x1": 819.6693115234375,
+      "bottom": 502.9813995361328
+    },
+    "parent_section": "Focus Area",
+    "token_count": 1,
+    "content_hash": "077c434431a23ea178c2e305f4796560028a2bd237f1553f469da18a2cb38e36",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_44",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 844.462646484375,
+      "top": 473.44982147216797,
+      "x1": 1001.5992431640625,
+      "bottom": 504.689453125
+    },
+    "parent_section": "Focus Area",
+    "token_count": 1,
+    "content_hash": "6c00631c114cc40941eed67150c5cd83ad0a541dad07574a5ec3341e6e5c16b6",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_45",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Strategic sectors have been identified for investment including pharmaceutical and textile manufacturing",
+    "chunk_type": "text",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 94.248,
+      "top": 514.5127114591463,
+      "x1": 939.7272800000002,
+      "bottom": 573.1948775585938
+    },
+    "parent_section": "Focus Area",
+    "token_count": 15,
+    "content_hash": "ed03f77a6cb857fdb3795c715ee4b773e6b38a0f9d6081bfcc5c5dd584e7a8d7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_46",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      6
+    ],
+    "bounding_box": {
+      "x0": 14.725438117980957,
+      "top": 515.5343322753906,
+      "x1": 86.6947021484375,
+      "bottom": 583.3617906570435
+    },
+    "parent_section": "Focus Area",
+    "token_count": 1,
+    "content_hash": "645a0ebffcea962684d845c3fa27c4f0f5032cbe977165431f0f7320ccf2902d",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_47",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "6\nGrowing Economy, dynamic market with access to East African market\nOpportunities to invest in high value pharmaceutical sector\nBenefit based on tailored enabling environment including specialized parks\n\u8272",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 115.06,
+      "top": 20.63468838732308,
+      "x1": 978.72576,
+      "bottom": 245.89333089192712
+    },
+    "parent_section": "Focus Area",
+    "token_count": 36,
+    "content_hash": "a536956fd505992230b1f350421cf2d5b84348bf82cabc475c3c694ca64b44d5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_48",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 457.471435546875,
+      "top": 260.7454528808594,
+      "x1": 629.5078125,
+      "bottom": 378.8078918457031
+    },
+    "parent_section": "Focus Area",
+    "token_count": 1,
+    "content_hash": "64be16338982a1d4a5489f417b097dc2ccc97aaf70a931c82f34d40988de900c",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_49",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 153.64561462402344,
+      "top": 250.64019775390625,
+      "x1": 334.89227294921875,
+      "bottom": 391.0569610595703
+    },
+    "parent_section": "Focus Area",
+    "token_count": 1,
+    "content_hash": "40f5b2056fc18bba25ef17f4e261a7c71c869f03a96fb1015c6dbabdf77e5b1c",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_50",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 768.6858520507812,
+      "top": 247.91860961914062,
+      "x1": 930.031005859375,
+      "bottom": 394.12794494628906
+    },
+    "parent_section": "Focus Area",
+    "token_count": 1,
+    "content_hash": "7d4c2957a0de887e33339b5770e05b21d0d90dd65a69eeec165fa13b66ee70ab",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_51",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "\u76ee\u6a02\nInvestment - Why do business in Ethiopia?",
+    "chunk_type": "text",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 57.408,
+      "top": 344.55999755859375,
+      "x1": 892.3333333333334,
+      "bottom": 477.80914239837284
+    },
+    "parent_section": "Focus Area",
+    "token_count": 10,
+    "content_hash": "53f7130bd69e64b9650ac7b0694ac1dc9418171d8acd3cf4ad02e28ee6a23e85",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_52",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      7
+    ],
+    "bounding_box": {
+      "x0": 14.689502716064453,
+      "top": 522.5746688842773,
+      "x1": 87.83969116210938,
+      "bottom": 581.0526580810547
+    },
+    "parent_section": "Focus Area",
+    "token_count": 1,
+    "content_hash": "a2a2d44d13a4244a7820b1595ff2b2cf4dc9986b891ea13f13332474d88068c3",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_53",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Potential to serve >$20 billion pharmaceutical market in Africa\nGovernment 10 years expenditure for the sector (15B USD )",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 165.05,
+      "top": 46.39929037627337,
+      "x1": 996.8740000000004,
+      "bottom": 90.30390385693636
+    },
+    "parent_section": "Focus Area",
+    "token_count": 24,
+    "content_hash": "25d65911cb23eaeb5854de69bd3c87fc4ef4e0fa5175ef552d71a06484d53953",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_54",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 115.66632080078125,
+      "top": 91.91671752929688,
+      "x1": 158.090087890625,
+      "bottom": 111.71466064453125
+    },
+    "parent_section": "Focus Area",
+    "token_count": 1,
+    "content_hash": "4551622dfa988063b121bd66f70a454a6211aa1c12601c96547bfb9cef3a0a98",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_55",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Out of pocket expenditure (46% of total expenditure)",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 165.19,
+      "top": 131.80390385693636,
+      "x1": 536.1163599999996,
+      "bottom": 146.1188775585938
+    },
+    "parent_section": "Focus Area",
+    "token_count": 10,
+    "content_hash": "01a19fb689b075f73c105910914be272ce2211c938a97ad120aa7553d1fa14b4",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_56",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 114.33368682861328,
+      "top": 118.16949462890625,
+      "x1": 152.91680908203125,
+      "bottom": 153.961669921875
+    },
+    "parent_section": "Focus Area",
+    "token_count": 1,
+    "content_hash": "e0799409a87ba2b4fcaf74e9c1a42b6d3ab38b0a6913f77c90155d4db8e58427",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_57",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "12% of GDP to health (75% on essential medicines & services)\n$\u2192",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 131.33333333333334,
+      "top": 173.32390385693634,
+      "x1": 610.7103999999997,
+      "bottom": 187.63887755859378
+    },
+    "parent_section": "Focus Area",
+    "token_count": 15,
+    "content_hash": "05b63a9c2e4c7426a591ad15631af515e2afb6839de6f54c365148bff7e0e20f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_58",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 113.67188262939453,
+      "top": 166.6448974609375,
+      "x1": 153.74057006835938,
+      "bottom": 198.5015869140625
+    },
+    "parent_section": "Focus Area",
+    "token_count": 1,
+    "content_hash": "d1a779415f601dcba2a36f9c5e59c11c96d406e474f446b5689785cdda986d6d",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_59",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Strong investment policy focused on pharmaceuticals including tax exemptions, one-stop-shop services and price preference in public procurement",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 718.39,
+      "top": 101.59929037627336,
+      "x1": 1034.8180000000007,
+      "bottom": 204.9379975585938
+    },
+    "parent_section": "Focus Area",
+    "token_count": 22,
+    "content_hash": "20eb0c39ff51a8f3d2ea7ab0bf311ea4a9cbd432f2c9f2292ed676ba7bfff234",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_60",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Import",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 168.53,
+      "top": 215.94390385693634,
+      "x1": 213.76064000000002,
+      "bottom": 230.25887755859378
+    },
+    "parent_section": "Import",
+    "token_count": 1,
+    "content_hash": "531a1cc5424f53e6db5ac6a018e8b72b03a800d668a21554ccb8bda69f2b6ec1",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_61",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 113.6751708984375,
+      "top": 206.12741088867188,
+      "x1": 154.13047790527344,
+      "bottom": 246.59783935546875
+    },
+    "parent_section": "Import",
+    "token_count": 1,
+    "content_hash": "dfecf276a3003bb74223afa0bff6146825d1debea1d95e7f1192f277c628723e",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_62",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Mainly driven by:\nOne of the first African countries to develop a national strategy for pharmaceutical manufacturing\n~ 1 B USD by 2020\n~ 4 B USD by 2030\nEthiopia's pharmaceutical sector market size",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 111.29,
+      "top": 252.8116670392568,
+      "x1": 1026.1960000000006,
+      "bottom": 384.5546768956104
+    },
+    "parent_section": "Import",
+    "token_count": 41,
+    "content_hash": "c6723c4f4982df302b5ef5cc7b682d9feb1bb43dba4123f97e736bb1e32685d3",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_63",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 322.47235107421875,
+      "top": 333.9566955566406,
+      "x1": 452.546142578125,
+      "bottom": 466.14744567871094
+    },
+    "parent_section": "Import",
+    "token_count": 1,
+    "content_hash": "8405c468a908aff4a938ec08cff0a0523d1b860c84262c80f3efd00145154a48",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_64",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 783.662841796875,
+      "top": 324.6871643066406,
+      "x1": 951.0289306640625,
+      "bottom": 493.00433349609375
+    },
+    "parent_section": "Import",
+    "token_count": 1,
+    "content_hash": "1ff7293622bbcdb79b84696fef035afa05c1768dd8ad01f31eeb80dfeb527ebc",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_65",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Pharmaceutical manufacturing sectors is nascent with a potential for growth",
+    "chunk_type": "text",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 96.744,
+      "top": 514.5127114591463,
+      "x1": 621.4133999999999,
+      "bottom": 573.1948775585938
+    },
+    "parent_section": "Import",
+    "token_count": 13,
+    "content_hash": "8f14e2ce23945a8626e34dbb626858684586ef5a0d078aa479ee0e1765ed967a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_66",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      8
+    ],
+    "bounding_box": {
+      "x0": 14.385080337524414,
+      "top": 520.0435104370117,
+      "x1": 86.08209991455078,
+      "bottom": 583.2409257888794
+    },
+    "parent_section": "Import",
+    "token_count": 1,
+    "content_hash": "1539106043199f191accd2787bdcf73fb41b11621068cb42ae0d2152bb3cbbb5",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_67",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Source",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 70.608,
+      "top": 21.239997558593814,
+      "x1": 104.49600000000002,
+      "bottom": 33.239997558593814
+    },
+    "parent_section": "Source",
+    "token_count": 1,
+    "content_hash": "8009022cd9dd2483c2e961173d6bce8984b3031cadcd7284e034f64684b62453",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_68",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": ": Frost & Sullivan, World Bank, National Strategy and Plan of Action for Pharmaceutical Manufacturing",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 104.47,
+      "top": 21.239997558593814,
+      "x1": 598.4259999999999,
+      "bottom": 33.239997558593814
+    },
+    "parent_section": "Source",
+    "token_count": 19,
+    "content_hash": "d16a0e567dce57f9d0ae373c6df5af34dea4ee905f9c2b5df6101c20bb2d06eb",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_69",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Note:",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 70.608,
+      "top": 35.63999755859379,
+      "x1": 101.13600000000001,
+      "bottom": 47.63999755859379
+    },
+    "parent_section": "Note:",
+    "token_count": 1,
+    "content_hash": "68cee6ddda92d68f860b3214b5c8031b50197b5c76dcf42964434bc353a9798a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_70",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "*Forecast",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 100.99,
+      "top": 35.63999755859379,
+      "x1": 150.84999999999997,
+      "bottom": 47.63999755859379
+    },
+    "parent_section": "*Forecast",
+    "token_count": 1,
+    "content_hash": "689ce69591fe0608ed22191d7d722ef06b3fba73392edb4c0ff1076f9aca9ef2",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_71",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "2016F*",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 213.82,
+      "top": 63.971997558593785,
+      "x1": 267.544,
+      "bottom": 81.97199755859378
+    },
+    "parent_section": "2016F*",
+    "token_count": 1,
+    "content_hash": "543dbc2b0030a9408ee879cddc322686cc94af681d0b92f5c464e955a1b6849f",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_72",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "2020F",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 504.14,
+      "top": 64.2599975585938,
+      "x1": 548.8820000000001,
+      "bottom": 82.2599975585938
+    },
+    "parent_section": "2020F",
+    "token_count": 1,
+    "content_hash": "2c08a026236036058f82f6a295c57f4878ae5a7e81c15cd1500d81670b2c2e02",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_73",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "2015",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 154.87,
+      "top": 65.05199755859383,
+      "x1": 191.35600000000002,
+      "bottom": 83.05199755859383
+    },
+    "parent_section": "2020F",
+    "token_count": 1,
+    "content_hash": "d13ff7537fb2599a3fafeaf77dcbabe6b4520123069534b8ce9963e33b807cb5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_74",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "2017F",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 289.87,
+      "top": 65.43599755859384,
+      "x1": 334.612,
+      "bottom": 83.43599755859384
+    },
+    "parent_section": "2017F",
+    "token_count": 1,
+    "content_hash": "7d78558aa71514d2517e5e5350cd0256d04a85b21f3ef849c3d61b64312e9153",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_75",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "2018F",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 361.2,
+      "top": 65.05199755859383,
+      "x1": 405.942,
+      "bottom": 83.05199755859383
+    },
+    "parent_section": "2018F",
+    "token_count": 1,
+    "content_hash": "1d38aea0eaa9e4d697c68256fb08bcb85396ee306fd7398472bf5da9af0f460b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_76",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "2019F",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 432.1,
+      "top": 65.05199755859383,
+      "x1": 476.84200000000004,
+      "bottom": 83.05199755859383
+    },
+    "parent_section": "2019F",
+    "token_count": 1,
+    "content_hash": "911c18f6a5bdc4d95e5bc6e76507472162f37dc9bb40062739bb3f51d8cfce7d",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_77",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "2025F",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 572.98,
+      "top": 65.05199755859383,
+      "x1": 617.722,
+      "bottom": 83.05199755859383
+    },
+    "parent_section": "2025F",
+    "token_count": 1,
+    "content_hash": "93bfc67aac8ab92f44c3da419bbb9ca58f85fb65acc78b39919226ae86a182d1",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_78",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "2030F",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 641.78,
+      "top": 65.05199755859383,
+      "x1": 686.5219999999999,
+      "bottom": 83.05199755859383
+    },
+    "parent_section": "2030F",
+    "token_count": 1,
+    "content_hash": "1297654533da832dfa54c24fe4e8cb16f1b7a2e93ffa7e8dce3c1b0d9ff8b19c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_79",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "0\n500\n450\n517\n595\n684\n1000 787\n905\nEthiopia currently imports ~85% of its pharmaceutical needs -a big gap that is yet to be fulfilled by manufacturing locally\n1500\n2000 1,821\n2500\n3000\n3500\nWith growing population, increased access to health services and a growing middle-class , demand is projected to grow exponentially & reach >3.6 billion by 2030\n3,662\n4000\n(2015-30F), US$ million\nAnnual forecast\nLocal market has been growing steadily at an average of 15% per year\nPharmaceutical market in Ethiopia 5 years forecast",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 73.656,
+      "top": 84.99599755859379,
+      "x1": 1006.3420000000006,
+      "bottom": 462.85285943704685
+    },
+    "parent_section": "2030F",
+    "token_count": 105,
+    "content_hash": "c741ecbe145a26daf71a156fd81a31663fc0c0c9d0fe425e33726cf677879dca",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_80",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 33.24966049194336,
+      "top": 54.112060546875,
+      "x1": 733.1351928710938,
+      "bottom": 490.3724670410156
+    },
+    "parent_section": "2030F",
+    "token_count": 1,
+    "content_hash": "81be9617a6cc22c9ac5f019e903e5044ee04d62348792a2e984874300228d152",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_81",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Ethiopian pharmaceutical market has been growing at 15% per year and is predicted to reach $905 million by 2020",
+    "chunk_type": "text",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 96.744,
+      "top": 514.5127114591463,
+      "x1": 1004.01804,
+      "bottom": 573.1948775585938
+    },
+    "parent_section": "2030F",
+    "token_count": 24,
+    "content_hash": "f3d44cb5224fc5b7878789ca187fad21d502502533237398eb2e0643db412699",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_82",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      9
+    ],
+    "bounding_box": {
+      "x0": 14.396178245544434,
+      "top": 519.9914016723633,
+      "x1": 86.68253326416016,
+      "bottom": 583.1781539916992
+    },
+    "parent_section": "2030F",
+    "token_count": 1,
+    "content_hash": "77b6c80dc1626236a1e5f223e0790e3371f485e6e3ac92086037ca9de5f74962",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_83",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Source : Interviews, market research\nPrevalence of non-communicable diseases: diabetes, cancer, hypertension\nRising healthcare coverage\nHigh burden of communicable diseases: malaria, HIV/AIDS, TB\nAwareness, diagnosis and treatment are increasing\nPrimary health care service coverage reached 100% in 2015\nIncreasing healthcare coverage by government to the large rural population creates growing demand for pharmaceutical products.\nGrowing population\nWith average economic growth of >10% per year, increase in disposable income will influence spending on pharmaceutical products\nSecond-largest population in Africa (>100M, ~8.5% of Africa's population ); growth of 2.3% per year is expected\nKey drivers of pharmaceutical demand in Ethiopia",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 56.784,
+      "top": 19.631997558593753,
+      "x1": 957.7600000000002,
+      "bottom": 440.4799975585938
+    },
+    "parent_section": "2030F",
+    "token_count": 122,
+    "content_hash": "52f0ef279225b45640395b1ca8687869b64f3aebe22e75f8befede9638bc56b2",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_84",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 46.91660690307617,
+      "top": 63.75054931640625,
+      "x1": 234.85784912109375,
+      "bottom": 477.24369049072266
+    },
+    "parent_section": "2030F",
+    "token_count": 1,
+    "content_hash": "140c1cfb07aecb2b59087c02d9badce9d13d4b57bcc7e1aad8e59cfbd7109dbe",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_85",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Large & growing population and rising health care coverage make pharmaceutical manufacturing an attractive endeavor",
+    "chunk_type": "text",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 96.744,
+      "top": 514.5127114591463,
+      "x1": 983.9147999999996,
+      "bottom": 573.1948775585938
+    },
+    "parent_section": "2030F",
+    "token_count": 19,
+    "content_hash": "e6651265a236576db32d05e9b9fb7a68bd2150a6ba214de964b932d89284f5d7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_86",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      10
+    ],
+    "bounding_box": {
+      "x0": 14.541277885437012,
+      "top": 515.9168853759766,
+      "x1": 87.27450561523438,
+      "bottom": 583.1874284744263
+    },
+    "parent_section": "2030F",
+    "token_count": 1,
+    "content_hash": "ce5969bf4e43ed0fcb6b8ebed0cf72c7bac7d2017fede635c30ce2b2a45040fd",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_87",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "-Market access to USA and EU through free trade agreements\n-Components and Trim manufacturing : producing components & decorations such zippers, buttons, plastics, tec.\n-Managed to attract leading global brands such as PVH, H&M, Wuxi and Sunshine,\n-Reliable green energy supply with an estimated cost of 0.04 USD/kWh.\n-Garment manufacturing : producing any article of clothing such as dresses, suits, shirts, trousers\n-Emerging as a regional hub for sourcing /contract manufacturers\n-Booming industry which has grown 7 fold since 2008\n-More than 2.7 million hectare of suitable land availability for cotton cultivation\n-Textile manufacturing: producing any goods prepared by weaving, knitting or felting.",
+    "chunk_type": "list",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 76.512,
+      "top": 60.29529037627333,
+      "x1": 1028.412,
+      "bottom": 235.53929037627336
+    },
+    "parent_section": "2030F",
+    "token_count": 130,
+    "content_hash": "0e8222de9c9e5ffa1d99672b656d416a1848f849833c7fda193e676ec91e87c4",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_88",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "2\n\u516c",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 495.0,
+      "top": 372.55999755859375,
+      "x1": 898.6666666666666,
+      "bottom": 439.2266642252604
+    },
+    "parent_section": "2030F",
+    "token_count": 2,
+    "content_hash": "e1462e725e005c42ef9bb3fe3320524d5d729859887eb98a50ff70bc39ab35c5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_89",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 107.06631469726562,
+      "top": 315.8238830566406,
+      "x1": 280.6860046386719,
+      "bottom": 490.3319854736328
+    },
+    "parent_section": "2030F",
+    "token_count": 1,
+    "content_hash": "6d2d750f15337f77389c909e324ef1dd36dc4d0e5bab8c9a9733d0b499f2f398",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_90",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 426.76666259765625,
+      "top": 315.4366455078125,
+      "x1": 601.7201538085938,
+      "bottom": 490.6936340332031
+    },
+    "parent_section": "2030F",
+    "token_count": 1,
+    "content_hash": "a18fbc2b7b39598a4485bba3d538ef5a0af87436999a1104e9c73d26328b2a13",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_91",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 768.1533813476562,
+      "top": 325.91375732421875,
+      "x1": 941.9253540039062,
+      "bottom": 500.37135314941406
+    },
+    "parent_section": "2030F",
+    "token_count": 1,
+    "content_hash": "b10cbb69d701bc7fbed3f066615213f2495ecd7127605198da84a3000be1f622",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_92",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Ethiopia's textile and garment industry presents unique opportunities to investors",
+    "chunk_type": "text",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 96.744,
+      "top": 514.5127114591463,
+      "x1": 844.76188,
+      "bottom": 573.1948775585938
+    },
+    "parent_section": "2030F",
+    "token_count": 13,
+    "content_hash": "2800b77169b0c0e45eb26223832eaa8e038dd6b53d2f4fd13b64f25fc9521ccb",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_93",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      11
+    ],
+    "bounding_box": {
+      "x0": 14.607871055603027,
+      "top": 519.5979843139648,
+      "x1": 86.76443481445312,
+      "bottom": 583.1835899353027
+    },
+    "parent_section": "2030F",
+    "token_count": 1,
+    "content_hash": "e0bf460a69f642491fabe74b936a38a92e69aba92655be7e40605bedc3182741",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_94",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "11\nGrowing Economy, dynamic market with access to East African market\nOpportunities to invest in high value pharmaceutical sector\nBenefit based on tailored enabling environment",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 115.06,
+      "top": 20.63468838732308,
+      "x1": 978.7255200000001,
+      "bottom": 140.04572131549992
+    },
+    "parent_section": "2030F",
+    "token_count": 31,
+    "content_hash": "2a8d60af9cb035dca38d093ec8b150358606584c3d1e765233e7f100e2b2f2ea",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_95",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 457.39373779296875,
+      "top": 260.6961364746094,
+      "x1": 629.1813354492188,
+      "bottom": 378.3991394042969
+    },
+    "parent_section": "2030F",
+    "token_count": 1,
+    "content_hash": "a5961838160aab0c00437fc77755270892a302fd435e99efca43cef8bfdb3853",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_96",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 153.32177734375,
+      "top": 250.7281494140625,
+      "x1": 334.6531677246094,
+      "bottom": 390.8767395019531
+    },
+    "parent_section": "2030F",
+    "token_count": 1,
+    "content_hash": "fb48c8c851a63d04ca5dc5eeedd5458987c2b73a6c510f120c702ab4bcb72130",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_97",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 768.3220825195312,
+      "top": 247.87387084960938,
+      "x1": 930.5812377929688,
+      "bottom": 394.5960235595703
+    },
+    "parent_section": "2030F",
+    "token_count": 1,
+    "content_hash": "8212de5c174fdd00e3a9ba04fd6257e02e28fbe7674a85682bcd832fc548c8bb",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_98",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "\u76ee\u6a02\nInvestment - Why do business in Ethiopia?",
+    "chunk_type": "text",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 57.408,
+      "top": 344.22666422526044,
+      "x1": 891.3333333333334,
+      "bottom": 477.80914239837284
+    },
+    "parent_section": "2030F",
+    "token_count": 10,
+    "content_hash": "3a6d5767b8020fbd0e5d3a6f0ac6a8fcac683f3494a916c3d038b99c44d7cf9a",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_99",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      12
+    ],
+    "bounding_box": {
+      "x0": 14.562640190124512,
+      "top": 522.5238494873047,
+      "x1": 87.73796081542969,
+      "bottom": 581.0867395401001
+    },
+    "parent_section": "2030F",
+    "token_count": 1,
+    "content_hash": "31b87404cbd2dd7182e3544ab3367fc41460b428bc215652ab99dd84218058cc",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_100",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Waste Treatment Facilities",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 128.09,
+      "top": 42.81619168014072,
+      "x1": 320.289392,
+      "bottom": 55.43058955859385
+    },
+    "parent_section": "Waste Treatment Facilities",
+    "token_count": 3,
+    "content_hash": "550550e03afc9d6da22bf240c375a1c7e46ae8d1eb948284a053699ed154d813",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_101",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Fire Brigade & 24/7 Security Services",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 128.09,
+      "top": 59.62024595638388,
+      "x1": 388.24351999999993,
+      "bottom": 72.21311755859381
+    },
+    "parent_section": "Fire Brigade & 24/7 Security Services",
+    "token_count": 7,
+    "content_hash": "c54d4accaf28628ac850973bd4f277ea4886610164bb8159d57c041513b4f2c3",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_102",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Commercial Building",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 128.09,
+      "top": 76.42024595638384,
+      "x1": 284.33348000000007,
+      "bottom": 89.01311755859382
+    },
+    "parent_section": "Commercial Building",
+    "token_count": 2,
+    "content_hash": "96440af5185ade5da6b224e66f14f797ab70767f48c23b863a85713647e307d7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_103",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "One-Stop Shop Services",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 128.09,
+      "top": 93.22024595638385,
+      "x1": 309.80515999999994,
+      "bottom": 105.81311755859383
+    },
+    "parent_section": "One-Stop Shop Services",
+    "token_count": 3,
+    "content_hash": "85b5d70e0d294812d4e095b57555a70990656d2feac4d9bc27811e2456ff1fa3",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_104",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Police Station",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 128.09,
+      "top": 110.01824595638385,
+      "x1": 241.83440000000007,
+      "bottom": 122.61111755859383
+    },
+    "parent_section": "Police Station",
+    "token_count": 2,
+    "content_hash": "a7fcf4987025c160463f3493fae5df960cf6c92e833540db404e27cca7d0c12d",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_105",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Health Center",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 128.09,
+      "top": 126.81824595638386,
+      "x1": 242.42407999999998,
+      "bottom": 139.4111175585938
+    },
+    "parent_section": "Health Center",
+    "token_count": 2,
+    "content_hash": "6b07d87eed9bcf0f3e62b45029e3613382334231f76dffee8f252c7846d826e5",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_106",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 64.95030975341797,
+      "top": 121.04241943359375,
+      "x1": 120.57017517089844,
+      "bottom": 162.9486083984375
+    },
+    "parent_section": "Health Center",
+    "token_count": 1,
+    "content_hash": "79c203b9062b7924c0d75174140f8ee96dab3a8722dae4c4e1deca31875045c2",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_107",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Industrial park facilities\nLand is available at reasonable lease prices\n177 ha service land for manufacturing\nEstablished on 279 ha of land\nIndustrial park area",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 128.09,
+      "top": 144.00250584588662,
+      "x1": 426.04795999999993,
+      "bottom": 261.0325058458866
+    },
+    "parent_section": "Health Center",
+    "token_count": 29,
+    "content_hash": "a911375f6ac7c3869e02613b7956639c2a3e2a5b5490d785d1db5f87ac8166aa",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_108",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 62.7318229675293,
+      "top": 242.11624145507812,
+      "x1": 120.09559631347656,
+      "bottom": 282.9450988769531
+    },
+    "parent_section": "Health Center",
+    "token_count": 1,
+    "content_hash": "a8d56605281ce3881eadc970f921c1ac140ee89dab7f25d32545a46828946a0e",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_109",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Accessible to skilled labour\n+4 million people live in the city\nPopulation and employment",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 128.09,
+      "top": 327.07824595638385,
+      "x1": 415.16,
+      "bottom": 361.0825058458866
+    },
+    "parent_section": "Health Center",
+    "token_count": 17,
+    "content_hash": "2fd63ca5bf8c8665ebe82cbde207125a6198a7494abbdaff6cdc38a31903937c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_110",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 63.93045425415039,
+      "top": 330.77008056640625,
+      "x1": 123.75576782226562,
+      "bottom": 386.9803161621094
+    },
+    "parent_section": "Health Center",
+    "token_count": 1,
+    "content_hash": "8a3e150779fc07d02509f40b56dd463e11c21eaa5bd7ca77e4a6f4d12bce4c04",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_111",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Addis Ababa; 25 km from city center, 863 Km from Djibouti port and 10 minutes drive from Bole International Airport",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 128.09,
+      "top": 427.12824595638386,
+      "x1": 547.8742000000001,
+      "bottom": 456.5211175585938
+    },
+    "parent_section": "Health Center",
+    "token_count": 26,
+    "content_hash": "1414601ce8995a6bde015ccbe5ec1fea5a2b8b4bb0aca7059eebf49b432ded55",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_112",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "O",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 83.66666666666667,
+      "top": 452.55999755859375,
+      "x1": 102.0,
+      "bottom": 473.22666422526044
+    },
+    "parent_section": "O",
+    "token_count": 1,
+    "content_hash": "06c5ad948043414b695a49e04f9d89fdf35db3d2885e14e3d15803b9cdc8086c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_113",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Location",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 128.09,
+      "top": 461.11250584588663,
+      "x1": 215.51299999999995,
+      "bottom": 479.94799755859384
+    },
+    "parent_section": "Location",
+    "token_count": 1,
+    "content_hash": "ceb70c214fae3174b56314fda5a068663a9d867d4349453aae4a21110175966b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_114",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 71.80586242675781,
+      "top": 425.642578125,
+      "x1": 111.24861145019531,
+      "bottom": 484.260009765625
+    },
+    "parent_section": "Location",
+    "token_count": 1,
+    "content_hash": "5cdf282844f28181574139397a4bd043032cd338e9b9f268a0825497564136d9",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_115",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Kilinto Industrial Park is the first IP specializing in pharmaceuticals",
+    "chunk_type": "text",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 99.0,
+      "top": 514.5127114591463,
+      "x1": 571.6271599999999,
+      "bottom": 573.1948775585938
+    },
+    "parent_section": "Location",
+    "token_count": 13,
+    "content_hash": "dcbfed4fbc20374b22569643cc7bfa2a4713b3de7753bf6d4af92e657880bd88",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_116",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 14.477513313293457,
+      "top": 521.9113006591797,
+      "x1": 86.57952880859375,
+      "bottom": 580.5372352600098
+    },
+    "parent_section": "Location",
+    "token_count": 1,
+    "content_hash": "bab329e6c11f4a5bbaf91f8ca3758c5d5f91d0e51e00a1a78ac2938867be93b5",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_117",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      13
+    ],
+    "bounding_box": {
+      "x0": 574.6498413085938,
+      "top": 8.10968017578125,
+      "x1": 1058.4124755859375,
+      "bottom": 595.5599975585938
+    },
+    "parent_section": "Location",
+    "token_count": 1,
+    "content_hash": "3f6b0e486eae845a139c5e526bd4bd334970d1fb6a42ec0b69ad2755454af707",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_118",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "13",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 964.32,
+      "top": 20.63468838732308,
+      "x1": 978.7257600000002,
+      "bottom": 32.25887755859378
+    },
+    "parent_section": "Location",
+    "token_count": 1,
+    "content_hash": "8787eb2680a5d3c6aa022992aad23df66a694fae12930ff6d5ee6e33b75decbd",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_119",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "SKILL DEVELOPMENT",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 204.6,
+      "top": 45.03129037627332,
+      "x1": 341.61600000000004,
+      "bottom": 82.81746955859376
+    },
+    "parent_section": "SKILL DEVELOPMENT",
+    "token_count": 2,
+    "content_hash": "9fe6cae4f71de406e65784de2e6d4cd82c280220a9bf15e796fcc3684a176f80",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_120",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 85.025390625,
+      "top": 26.3170166015625,
+      "x1": 153.72398376464844,
+      "bottom": 98.92523193359375
+    },
+    "parent_section": "SKILL DEVELOPMENT",
+    "token_count": 1,
+    "content_hash": "25e19b7353c5586f01a3b910e172b404f1ed1d11063f425d6727a3a5bcddcc02",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_121",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "One Stop Services (OSS) including processing & issuance of permits, licenses, registration certificates, agreements, tax identification number, customs clearance, banking services.",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 454.32,
+      "top": 35.08667689561037,
+      "x1": 1009.8435199999999,
+      "bottom": 101.06111755859376
+    },
+    "parent_section": "SKILL DEVELOPMENT",
+    "token_count": 27,
+    "content_hash": "295d5186d6928fd09b898567b4388bd02c9e23303b0701441334849986b32e0b",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_122",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "SUSTAINABILITY",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 204.6,
+      "top": 149.21929037627336,
+      "x1": 351.75,
+      "bottom": 165.36399755859378
+    },
+    "parent_section": "SUSTAINABILITY",
+    "token_count": 1,
+    "content_hash": "00ca49619d677140ca30cc666cc2274ee244cb26c9706bad9096ef3c7da46688",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_123",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Health stations, fire brigade, expats accommodation and 24 hours security services",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 454.32,
+      "top": 125.08467689561041,
+      "x1": 997.1034000000003,
+      "bottom": 167.08911755859378
+    },
+    "parent_section": "SUSTAINABILITY",
+    "token_count": 14,
+    "content_hash": "1427d44188d4ac29eebdc2c1ae427b719c53347019cdb4dcf7815c74bc49d078",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_124",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 88.24250030517578,
+      "top": 119.758056640625,
+      "x1": 149.2350616455078,
+      "bottom": 176.7547607421875
+    },
+    "parent_section": "SUSTAINABILITY",
+    "token_count": 1,
+    "content_hash": "8ae35068c40d77220eb30ad43eaff8ad178b9d32755e35659cd219d821018118",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_125",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "VERTICALY INTEGERATED",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 204.6,
+      "top": 216.3692903762734,
+      "x1": 331.7879999999999,
+      "bottom": 254.11399755859378
+    },
+    "parent_section": "VERTICALY INTEGERATED",
+    "token_count": 2,
+    "content_hash": "f5467e7c8bd26ea54bbd349015a4f7102a221d7be972e33da9ee5f320ea6b236",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_126",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Dedicated power with own sub-station and state of the art waste treatment facilities with a dedicated park administration and support system",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 454.32,
+      "top": 191.1146768956104,
+      "x1": 1008.1893200000001,
+      "bottom": 257.0891175585938
+    },
+    "parent_section": "VERTICALY INTEGERATED",
+    "token_count": 27,
+    "content_hash": "401361d704db4841da2bbc0599047fa62712a26b23b3aee9cfad1aef82a9b1ac",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_127",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 83.58287811279297,
+      "top": 202.44659423828125,
+      "x1": 154.26434326171875,
+      "bottom": 265.25787353515625
+    },
+    "parent_section": "VERTICALY INTEGERATED",
+    "token_count": 1,
+    "content_hash": "44fa8da55f6968106a2e3a34e3c6d0bbfe0e51a45141e3c6cf6a34ff2a16ac07",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_128",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "EXPORT ORINTED",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 204.6,
+      "top": 302.78929037627336,
+      "x1": 285.6,
+      "bottom": 340.5339975585938
+    },
+    "parent_section": "EXPORT ORINTED",
+    "token_count": 2,
+    "content_hash": "6023ad947e4d5a6d266380cbbb8088b8d0e9bc24ad7d81a338b751779d254a9d",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_129",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Ready for plug-and-play , equipped with all the necessary infrastructure including waste water treatment plants with joint calibration",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 454.32,
+      "top": 281.13467689561037,
+      "x1": 1005.0592799999996,
+      "bottom": 347.10911755859377
+    },
+    "parent_section": "EXPORT ORINTED",
+    "token_count": 23,
+    "content_hash": "5402892bca34ec036acba24ef3da6a897cb0de14c7872991ee91d1251446a0f9",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_130",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 93.82684326171875,
+      "top": 290.24285888671875,
+      "x1": 143.90184020996094,
+      "bottom": 347.7477722167969
+    },
+    "parent_section": "EXPORT ORINTED",
+    "token_count": 1,
+    "content_hash": "8452b00b8b08e752a1e493a6cf76328ae93686ea36c3875e72786fbfd62cdc15",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_131",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "SECTOR SPECIALIZATION",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 204.6,
+      "top": 385.34929037627336,
+      "x1": 352.722,
+      "bottom": 423.0939975585938
+    },
+    "parent_section": "SECTOR SPECIALIZATION",
+    "token_count": 2,
+    "content_hash": "9f77efffdd99b1e85f4a1185ca6163c973736fb2c123c227b24edb13f75070e2",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_132",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Located along strategic economic corridors, connected to ports by electric driven railway lines and asphalt roads with Close proximity to abundant labor force",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 454.32,
+      "top": 371.1506226193673,
+      "x1": 1021.53224,
+      "bottom": 437.1291175585938
+    },
+    "parent_section": "SECTOR SPECIALIZATION",
+    "token_count": 29,
+    "content_hash": "1de1d7e9ae2a15c81e77c1e6246007b43644ec81e709bbd87d24b8a72cafbf5d",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_133",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 103.3983383178711,
+      "top": 367.73146057128906,
+      "x1": 134.7661895751953,
+      "bottom": 441.5902099609375
+    },
+    "parent_section": "SECTOR SPECIALIZATION",
+    "token_count": 1,
+    "content_hash": "58bf0b30d6d504ed0b5d09b89907c0e626c8c22d65555413b74aa7ed652365d1",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_134",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Industrial park key characteristics\n\u2026\u2026.",
+    "chunk_type": "text",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 57.408,
+      "top": 447.24319667461594,
+      "x1": 502.47087999999997,
+      "bottom": 514.4228775585938
+    },
+    "parent_section": "SECTOR SPECIALIZATION",
+    "token_count": 6,
+    "content_hash": "b78d64d3ad2b32b1b9df945d5bc665d3446a583e708e70a5dddb5c12c9a0ad79",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_135",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      14
+    ],
+    "bounding_box": {
+      "x0": 14.417413711547852,
+      "top": 522.9808959960938,
+      "x1": 87.67879486083984,
+      "bottom": 580.8575468063354
+    },
+    "parent_section": "SECTOR SPECIALIZATION",
+    "token_count": 1,
+    "content_hash": "da4c1ddd25cc26c2fe4c90e768951520014871a7ae19ffabc6a8d0c328601395",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_136",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Full export duty exemption\nLoss carry forward\nOne-Stop Shop Service under the EIC - including pre-establishment licensing and registration and post-establishment after-care services\nRelaxed Industrial park land regime - 60-80 years charge-free lease for IP Developers, discounted lease rate for IP Enterprises\nRegional regulatory harmonization underway to catalyze regional trade\nFacilitation of market linkages\nExemption from duties and other taxes on imports of machinery, equipment, construction materials, spare parts, raw materials and vehicles\nGuarantee for repatriation of funds\nFast-track medicine registration\nMultiple entry visas for share holders and general managers\nGuarantee against expropriation\nPotential for long term procurement guarantee.\nExemption from income tax up to 8 - 10 years for enterprises inside IPs,\nExemption from income tax up to 15 years for Industry Park Developer,\nCustoms facilitation through bonded export factory and similar other schemes\nPublic procurement: 25% price preference and 30% prepayment for firms manufacturing in Ethiopia,\nExpedited visa procedure expedited procedure of securing entry, work permit and certificate of residency\nFiscal Incentives tailored to investment\nNon-fiscal Incentives tailored to investment\nIndustry support targeting manufacturers",
+    "chunk_type": "text",
+    "page_refs": [
+      15
+    ],
+    "bounding_box": {
+      "x0": 111.31,
+      "top": 38.122074906660146,
+      "x1": 1004.735,
+      "bottom": 363.91929037627335
+    },
+    "parent_section": "SECTOR SPECIALIZATION",
+    "token_count": 218,
+    "content_hash": "ad9eac07263728834969293f6330adaf4499d33c68c550ace87eca6898deaaa7",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_137",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Miscellaneous",
+    "chunk_type": "text",
+    "page_refs": [
+      15
+    ],
+    "bounding_box": {
+      "x0": 809.86,
+      "top": 384.4592903762734,
+      "x1": 937.8580000000005,
+      "bottom": 400.6039975585938
+    },
+    "parent_section": "Miscellaneous",
+    "token_count": 1,
+    "content_hash": "9d146ff48d523956d87419f173cf63af506334808be7c6422fcc31f65cd71c6e",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_138",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "86",
+    "chunk_type": "text",
+    "page_refs": [
+      15
+    ],
+    "bounding_box": {
+      "x0": 550.0,
+      "top": 422.89333089192706,
+      "x1": 600.3333333333334,
+      "bottom": 455.8933308919271
+    },
+    "parent_section": "Miscellaneous",
+    "token_count": 1,
+    "content_hash": "f261967d8be35c44c875a73db7dca38afba271aac31c66e5fbcf6998fed9ae49",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_139",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      15
+    ],
+    "bounding_box": {
+      "x0": 797.903564453125,
+      "top": 419.8911590576172,
+      "x1": 856.126708984375,
+      "bottom": 482.96250915527344
+    },
+    "parent_section": "Miscellaneous",
+    "token_count": 1,
+    "content_hash": "5ecf30c630d84254d1728b068cfe332b8894c3b15e1d4eceb631dacc67df6e61",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_140",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      15
+    ],
+    "bounding_box": {
+      "x0": 542.09228515625,
+      "top": 423.1744842529297,
+      "x1": 609.1624755859375,
+      "bottom": 491.7153091430664
+    },
+    "parent_section": "Miscellaneous",
+    "token_count": 1,
+    "content_hash": "c698114bfa484fe9d83dd1e6cfb78a0e2d23eb358609272438df24b3ea387892",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_141",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      15
+    ],
+    "bounding_box": {
+      "x0": 106.99055480957031,
+      "top": 425.9201202392578,
+      "x1": 181.3156280517578,
+      "bottom": 496.13773345947266
+    },
+    "parent_section": "Miscellaneous",
+    "token_count": 1,
+    "content_hash": "3d00cef3fcffc370ba04a24f6f52237865772de0acdf81c85c6e341d70cf7cbe",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_142",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      15
+    ],
+    "bounding_box": {
+      "x0": 338.9141845703125,
+      "top": 427.98219299316406,
+      "x1": 413.0034484863281,
+      "bottom": 501.28443145751953
+    },
+    "parent_section": "Miscellaneous",
+    "token_count": 1,
+    "content_hash": "148c9ebef7679c31def78e987fc221a39248be968c0a60895e8e380c4b8138a0",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_143",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "Proactive business environment - tailored incentives and support",
+    "chunk_type": "text",
+    "page_refs": [
+      15
+    ],
+    "bounding_box": {
+      "x0": 130.58,
+      "top": 526.3267657353894,
+      "x1": 1016.5525600000003,
+      "bottom": 551.4048775585937
+    },
+    "parent_section": "Miscellaneous",
+    "token_count": 10,
+    "content_hash": "6b53d388a6f335eaeb32129ffec73c5efb1394d2a254a8260ca3fb840f971c73",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_144",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      15
+    ],
+    "bounding_box": {
+      "x0": 14.465003967285156,
+      "top": 522.0441360473633,
+      "x1": 87.7899169921875,
+      "bottom": 580.9289960861206
+    },
+    "parent_section": "Miscellaneous",
+    "token_count": 1,
+    "content_hash": "9d40911235a7511a7cc93c47829ed7545dd3d63971ee201bd6a4aa10d211b461",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_145",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "ptns",
+    "chunk_type": "text",
+    "page_refs": [
+      16
+    ],
+    "bounding_box": {
+      "x0": 590.6975911458334,
+      "top": 73.81980387369788,
+      "x1": 604.0376383463541,
+      "bottom": 81.26564534505212
+    },
+    "parent_section": "Miscellaneous",
+    "token_count": 1,
+    "content_hash": "ccba3cd812af702cce3e11dcf796bcf097946e5340eb3c5c8c729e31a6b377d0",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_146",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "M3",
+    "chunk_type": "text",
+    "page_refs": [
+      16
+    ],
+    "bounding_box": {
+      "x0": 772.6559244791666,
+      "top": 131.79095458984375,
+      "x1": 789.1975911458334,
+      "bottom": 152.00103759765625
+    },
+    "parent_section": "M3",
+    "token_count": 1,
+    "content_hash": "653094cf672b4c60d13f686ddeab78a8ea1cbf8b472c7e2b5034e87b774d401c",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_147",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "AERSK",
+    "chunk_type": "text",
+    "page_refs": [
+      16
+    ],
+    "bounding_box": {
+      "x0": 733.7029622395834,
+      "top": 142.42783610026044,
+      "x1": 756.6478678385416,
+      "bottom": 167.95640055338544
+    },
+    "parent_section": "AERSK",
+    "token_count": 1,
+    "content_hash": "92912ce694b20563bfe3a851a1c29497a560d33865fb086f921a06352d9efd65",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_148",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      16
+    ],
+    "bounding_box": {
+      "x0": 711.5576171875,
+      "top": 232.12246704101562,
+      "x1": 765.31396484375,
+      "bottom": 284.1626892089844
+    },
+    "parent_section": "AERSK",
+    "token_count": 1,
+    "content_hash": "2f2dd9653ecb25ff276ae2f0bd2dea35555c197acf119b6a4a7d8ab6afd7c3fe",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_149",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "DXXI",
+    "chunk_type": "text",
+    "page_refs": [
+      16
+    ],
+    "bounding_box": {
+      "x0": 721.9637044270834,
+      "top": 274.32545979817706,
+      "x1": 760.9166666666666,
+      "bottom": 283.36684163411456
+    },
+    "parent_section": "DXXI",
+    "token_count": 1,
+    "content_hash": "b544284ad15bb54c7d6b27818733204803233cd7b655777a356e84fb90c2278d",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_150",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "35 minutes drive to Modjo dry port through expressway.\n10 minutes drive from Addis Ababa International Airport.",
+    "chunk_type": "text",
+    "page_refs": [
+      16
+    ],
+    "bounding_box": {
+      "x0": 105.82,
+      "top": 247.31467689561038,
+      "x1": 1054.18312,
+      "bottom": 527.5146768956104
+    },
+    "parent_section": "DXXI",
+    "token_count": 21,
+    "content_hash": "3b43b2ca70226dcc234b4b9ef9b3465cdc9d1907d48cdc1ba4d4faefdeffd1ad",
+    "metadata": {},
+    "relationships": []
+  },
+  {
+    "chunk_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243_chk_151",
+    "document_id": "e3010013bc6e99d490e7aaa4259c18d8ec1a0fb1e87c46de099cf9e016223243",
+    "content": "[Figure]",
+    "chunk_type": "figure_caption",
+    "page_refs": [
+      16
+    ],
+    "bounding_box": {
+      "x0": 34.916526794433594,
+      "top": 513.3769912719727,
+      "x1": 92.41474151611328,
+      "bottom": 573.2444362640381
+    },
+    "parent_section": "DXXI",
+    "token_count": 1,
+    "content_hash": "60ccedce3500f4a1fb93a5fcce4b500ce6a795f8a162fce4dd967f3c7ab75918",
+    "metadata": {
+      "has_caption": false
+    },
+    "relationships": []
+  }
+]

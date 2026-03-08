@@ -146,7 +146,7 @@ class LayoutExtractor(BaseExtractor):
 
             if bd["type"] == "text":
                 block = TextBlock(
-                    page_number=page_num,
+                    page_number=page_num + 1,
                     bbox=bbox,
                     text=bd["text"],
                     content_hash=""
@@ -155,7 +155,7 @@ class LayoutExtractor(BaseExtractor):
                 blocks.append(block)
             elif bd["type"] == "table":
                 block = TableBlock(
-                    page_number=page_num,
+                    page_number=page_num + 1,
                     bbox=bbox,
                     headers=bd.get("headers", []),
                     rows=bd.get("rows", []),
@@ -168,7 +168,7 @@ class LayoutExtractor(BaseExtractor):
                 blocks.append(block)
             elif bd["type"] == "figure":
                 block = FigureBlock(
-                    page_number=page_num,
+                    page_number=page_num + 1,
                     bbox=bbox,
                     caption=bd.get("caption"),
                     content_hash=""
@@ -205,7 +205,7 @@ class LayoutExtractor(BaseExtractor):
                 proc.kill()
                 proc.join()
                 return ExtractionResult(
-                    page_number=page_num, blocks=[], confidence_score=0.0,
+                    page_number=page_num + 1, blocks=[], confidence_score=0.0,
                     strategy_used="layout_docling", cost_estimate=0.0,
                     processing_time=time.time() - start_time,
                     warnings=[f"Docling timed out after {DOCLING_PAGE_TIMEOUT}s"]
@@ -214,7 +214,7 @@ class LayoutExtractor(BaseExtractor):
             if proc.exitcode != 0:
                 logger.warning(f"  Docling subprocess crashed on page {page_num} (exit code {proc.exitcode})")
                 return ExtractionResult(
-                    page_number=page_num, blocks=[], confidence_score=0.0,
+                    page_number=page_num + 1, blocks=[], confidence_score=0.0,
                     strategy_used="layout_docling", cost_estimate=0.0,
                     processing_time=time.time() - start_time,
                     warnings=[f"Docling subprocess crashed (exit={proc.exitcode})"]
@@ -224,7 +224,7 @@ class LayoutExtractor(BaseExtractor):
             if result_queue.empty():
                 logger.warning(f"  Docling returned no results for page {page_num}")
                 return ExtractionResult(
-                    page_number=page_num, blocks=[], confidence_score=0.0,
+                    page_number=page_num + 1, blocks=[], confidence_score=0.0,
                     strategy_used="layout_docling", cost_estimate=0.0,
                     processing_time=time.time() - start_time,
                     warnings=["Docling subprocess returned no data"]
@@ -235,7 +235,7 @@ class LayoutExtractor(BaseExtractor):
             if status == "error":
                 logger.warning(f"  Docling failed on page {page_num}: {data}")
                 return ExtractionResult(
-                    page_number=page_num, blocks=[], confidence_score=0.0,
+                    page_number=page_num + 1, blocks=[], confidence_score=0.0,
                     strategy_used="layout_docling", cost_estimate=0.0,
                     processing_time=time.time() - start_time,
                     warnings=[f"Docling error: {data}"]
@@ -247,7 +247,7 @@ class LayoutExtractor(BaseExtractor):
             confidence = 0.90 if blocks else 0.0
             processing_time = time.time() - start_time
             return ExtractionResult(
-                page_number=page_num,
+                page_number=page_num + 1,
                 blocks=blocks,
                 confidence_score=confidence,
                 strategy_used="layout_docling",
@@ -258,7 +258,7 @@ class LayoutExtractor(BaseExtractor):
         except Exception as e:
             logger.warning(f"  Docling failed on page {page_num}: {e}")
             return ExtractionResult(
-                page_number=page_num,
+                page_number=page_num + 1,
                 blocks=[],
                 confidence_score=0.0,
                 strategy_used="layout_docling",

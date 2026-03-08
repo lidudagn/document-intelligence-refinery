@@ -1,0 +1,33 @@
+{
+  "document_id": "87102d9cda89c0e82fc517ee5252e00a1e05e4a6d6f6e85eaf92b5148930d045",
+  "document_name": "2013-E.C-Audit-finding-information.pdf",
+  "qa_pairs": [
+    {
+      "answer": "Information not found in the document with sufficient confidence.",
+      "query_text": "What is the overall summary or primary objective of this document?",
+      "citations": [],
+      "is_verifiable": false,
+      "confidence_level": 0.211,
+      "retrieval_method": "hybrid_search",
+      "evidence_bundle_hash": "4683dce20297494580d3681d52306bcb2ab549a27ae4ba0a045846393a2c928d"
+    },
+    {
+      "answer": "Information not found in the document with sufficient confidence.",
+      "query_text": "What are the key financial or numerical highlights mentioned?",
+      "citations": [],
+      "is_verifiable": false,
+      "confidence_level": 0.224,
+      "retrieval_method": "hybrid_search",
+      "evidence_bundle_hash": "ee2aa606b6f16a59dc4d56d555ac5775647ce4ee9cb9d4bfdd16f87a5e10b9e7"
+    },
+    {
+      "answer": "Information not found in the document with sufficient confidence.",
+      "query_text": "What are the main risks, challenges, or recommendations identified?",
+      "citations": [],
+      "is_verifiable": false,
+      "confidence_level": 0.158,
+      "retrieval_method": "hybrid_search",
+      "evidence_bundle_hash": "ed84911c4c8cf0b02c8808be3c2ee3d33af59340a6e443f855ac4c0c1dd10030"
+    }
+  ]
+}
