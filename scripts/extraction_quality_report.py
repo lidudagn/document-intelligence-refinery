@@ -33,13 +33,12 @@ def generate_report():
                 
         doc_table_count = 0
         
-        # Get overall doc confidence if present
-        profile = data.get("profile", {})
-        conf = profile.get("extraction_confidence", None)
-        if conf is not None:
-            confidences.append(float(conf))
-            
+        # Calculate average page confidence for the doc
         pages = data.get("pages", [])
+        if pages:
+            doc_conf = np.mean([p.get("page_confidence", 0.0) for p in pages])
+            confidences.append(doc_conf)
+            
         for page in pages:
             blocks = page.get("blocks", [])
             for block in blocks:
